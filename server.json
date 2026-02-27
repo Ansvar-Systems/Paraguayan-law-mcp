@@ -1,0 +1,38 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "eu.ansvar/paraguayan-law-mcp",
+  "description": "Paraguay legislation via MCP -- full-text search across statutes and provisions",
+  "repository": {
+    "url": "https://github.com/Ansvar-Systems/paraguayan-law-mcp",
+    "source": "github"
+  },
+  "homepage": "https://ansvar.eu",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "keywords": [
+    "paraguayan-law",
+    "paraguayan",
+    "legal",
+    "compliance",
+    "mcp"
+  ],
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@ansvar/paraguayan-law-mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    },
+    {
+      "registryType": "npm",
+      "identifier": "@ansvar/paraguayan-law-mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "streamable-http",
+        "url": "https://paraguayan-law-mcp.vercel.app/mcp"
+      }
+    }
+  ]
+}
