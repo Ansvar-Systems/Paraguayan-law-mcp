@@ -90,25 +90,22 @@ function parseArgs(): { limit: number | null; skipFetch: boolean; force: boolean
 
 /**
  * Convert a census entry to an ActIndexEntry for the parser.
- * Extracts AKN year/number from the identifier field.
  */
 function censusToActEntry(law: CensusLawEntry): ActIndexEntry {
-  // identifier format: "act/YEAR/NUMBER"
-  const parts = law.identifier.split('/');
-  const aknYear = parts[1] ?? '';
-  const aknNumber = parts[2] ?? '';
+  // Extract a short name from the identifier (e.g. "Ley N° 7614/2025")
+  const shortName = law.identifier.length > 30
+    ? law.identifier.substring(0, 27) + '...'
+    : law.identifier || law.title.substring(0, 30);
 
   return {
     id: law.id,
     title: law.title,
     titleEn: law.title,
-    shortName: law.title.length > 30 ? law.title.substring(0, 27) + '...' : law.title,
+    shortName,
     status: law.status === 'in_force' ? 'in_force' : law.status === 'amended' ? 'amended' : 'repealed',
     issuedDate: '',
     inForceDate: '',
     url: law.url,
-    aknYear,
-    aknNumber,
   };
 }
 

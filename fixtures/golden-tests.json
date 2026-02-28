@@ -2,6 +2,116 @@
   "$schema": "./golden-tests.schema.json",
   "version": "1.0",
   "mcp_name": "Paraguay Law MCP",
-  "description": "Golden contract tests for the Paraguay Law MCP -- add tests after first ingestion",
-  "tests": []
+  "description": "Golden contract tests for the Paraguay Law MCP -- 600 laws, 5,433 provisions from bacn.gov.py",
+  "tests": [
+    {
+      "id": "PY-001",
+      "category": "search",
+      "description": "Search for 'constitución' returns results",
+      "tool": "search_legislation",
+      "input": {
+        "query": "constitución",
+        "limit": 5
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "PY-002",
+      "category": "provision",
+      "description": "Get provision art1 from Ley 7614/2025",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "py-ley-12900",
+        "provision_ref": "art1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["saneamiento", "juicios ejecutivos"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "PY-003",
+      "category": "search",
+      "description": "Search for 'datos personales' returns relevant provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "datos personales",
+        "limit": 10
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "PY-004",
+      "category": "currency",
+      "description": "Check currency of Ley 7614/2025",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "py-ley-12900"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["in_force"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "PY-005",
+      "category": "stance",
+      "description": "Build legal stance on 'protección de datos'",
+      "tool": "build_legal_stance",
+      "input": {
+        "query": "protección de datos",
+        "limit": 5
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "PY-006",
+      "category": "sources",
+      "description": "List sources returns metadata",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["bacn.gov.py"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "PY-007",
+      "category": "validation",
+      "description": "Validate citation for Ley 7614/2025",
+      "tool": "validate_citation",
+      "input": {
+        "citation": "Artículo 1, Ley 7614/2025"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "PY-008",
+      "category": "edge_case",
+      "description": "Handle nonexistent document gracefully",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "nonexistent-doc-12345"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
 }
