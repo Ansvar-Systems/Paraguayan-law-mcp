@@ -1,0 +1,196 @@
+{
+  "id": "py-ley-9000",
+  "type": "statute",
+  "title": "Ley Nº 194 / Servicio Militar Obligatorio",
+  "title_en": "Ley Nº 194 / Servicio Militar Obligatorio",
+  "short_name": "Ley N° 194",
+  "status": "in_force",
+  "issued_date": "1916-02-19",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9000/ley-n-194-servicio-militar-obligatorio",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "chapter": "TITULO I",
+      "section": "2",
+      "title": "Artículo 2. Este servicio durará veinte y ocho años en el modo siguiente:",
+      "content": "1° Desde los diez y ocho años hasta los veinte años de edad en el ejército permanente o armada\n 2° Desde los veinte años hasta los cuarenta y cinco años de edad en la reserva."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "TITULO I",
+      "section": "3",
+      "title": "Artículo 3. La reserva se dividirá en tres categorías de servicio:",
+      "content": "1° Desde los veinte hasta los veinte y nueve años, en la reserva del ejército permanente.\n 2° Desde los veinte y nueve hasta los treinta y nueve en la guardia nacional.\n 3° Desde los treinta y nueve hasta los cuarenta y cinco en la guardia territorial.\n Los servicios a que se refieren los arts. 2° y 3° podrán por causa justificadas adelantarse o aplazarse y el tiempo a que se refieren se contará desde la fecha fijada para el ingreso al ejército permanente o armada."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "TITULO I",
+      "section": "5",
+      "title": "Artículo 5. Ningún ciudadano podrá ser nombrado para empleo o cargo público fiscal o municipal, remunerado o no, si no ha cumplido con las prescripciones de esta ley.",
+      "content": "Los empleados públicos que estando obligados a cumplir con las prescripciones de esta ley no lo hicieren, cesarán de sus empleos sin perjuicio del cumplimiento de las penas que esta ley impone a los infractores. No podrán inscribirse en los Registros del servicio fluvial, de cualquier naturaleza sean, los individuos menores de veinte años que no acrediten debidamente haber cumplido con las prescripciones de la presente ley."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "TITULO I",
+      "section": "6",
+      "title": "Artículo 6. Los oficiales de guerra, mayores, empleados militar del ejército y armada nacionales y los de la reserva cuando se encuentren en servicio activo, podrán ejercer el derecho de sufragio en la forma que acuerda la Ordenanza General del Ejército, pero sin inmiscuirse en trabajos políticos de ningún género.",
+      "content": "TITULO II \n ENROLAMIENTO"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "TITULO II",
+      "section": "8",
+      "title": "Artículo 8. Cada parroquia de la capital y cada partido de la campaña, se considerarán como circunscripciones de enrolamiento, cuyos centros serán los respectivos Juzgados de Paz.",
+      "content": "Art.9° En cada Juzgado de Paz funcionará una junta de inscripción. En la Capital se compondrá del juez de paz de la respectiva parroquia como presidente, una persona designada por el Superior Tribunal de Justicia y un oficial del ejército retirado o en servicio activo, designado por el Ministerio de Guerra Marina. En la campaña, la junta se compondrá del juez de paz respectivo, también como presidente, del delegado, o una persona designada por él y un oficial nombrado por el jefe de la zona a cuya jurisdicción pertenezcan los departamentos. Cada inscripto recibirá su libreta de enrolamiento con la firma de los miembros de la junta y en casa de que el interesado la pidiera, se le dará otra y pagará una multa de diez pesos curso legal o cuatro días de trabajo obligatorio, en el municipio respectivo."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "TITULO II",
+      "section": "10",
+      "title": "Artículo 10. Los ciudadanos al enrolarse presentarán los documentos comprobatorios de su edad.",
+      "content": "A los efectos de la comprobación de la edad, las oficinas respectivas expedirán gratuitamente en papel común a cada interesado y por una sola vez, la partida de nacimiento."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "TITULO II",
+      "section": "11",
+      "title": "Artículo 11. En los meses designados por el P. E. para la inscripción concurrirán a inscribirse en los juzgados de sus respectivas circunscripciones, todos los ciudadanos que en dicha época tengan diez y siete años y los no inscripto menores de cuarenta y cinco años.",
+      "content": "La junta por ninguna causa dejará de inscribir al presentado. En caso de que el ciudadano en la época de su inscripción se encontrase temporalmente en otra jurisdicción se inscribirá en ésta y la junta la comunicará a la del lugar de la residencia de dicho ciudadano."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "TITULO II",
+      "section": "13",
+      "title": "Artículo 13. Los ciudadanos inscriptos de las clases que deben sortearse, no podrán ausentarse de sus circunscripciones desde un mes antes de verificarse el sorteo de su clase respectiva hasta un mes después.",
+      "content": "En caso de hacerlo por motivos de fuerza mayor, avisaran previamente al juzgado donde se inscribieron, comunicando el motivo y el lugar donde se ausentarán, debiendo presentarse a la misma autoridad en su nueva residencia. El juzgado dará a su vez aviso a la comandancia de la zona respectiva."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "TITULO II",
+      "section": "18",
+      "title": "Artículo 18. Ningún error u omisión en el enrolamiento podrá eximir de la obligación del servicio.",
+      "content": "TITULO III \n SORTEO Y SERVICIO MILITAR"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "TITULO III",
+      "section": "19",
+      "title": "Artículo 19. El llamamiento al servicio se hará por decreto del P. E. de conformidad al efectivo fijado por el Presupuesto General de los Gastos.",
+      "content": "Cuando el contingente fijado es inferior al número de los inscriptos de diez y ocho a veinte años, se sorteará entre estos hasta completar dicho número; si el número de los inscriptos de diez y ocho a veinte años es igual o menor se llamará íntegramente sin sorteo; pero en el segundo caso se sorteará además entre los de veinte a veinte y tres años hasta completar el numero fijado por el Presupuesto General de Gastos."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "TITULO III",
+      "section": "22",
+      "title": "Artículo 22. Desde treinta días antes y hasta quince días después del señalado para una elección no podrán ser llamados al servicio militar los ciudadanos de la localidad en que aquella haya de verificarse.",
+      "content": "Esta disposición no regirá en tiempo de guerra."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "TITULO III",
+      "section": "23",
+      "title": "Artículo 23. Queda facultado el P. E:",
+      "content": "1° A retener hasta por tres meses el contingente del servicio activo después de cumplido el término legal, sin perjuicio del acuartelamiento del nuevo contingente en los plazos que corresponda en virtud de esta ley.\n 2° Cuando el número de inscriptos exceda al contingente fijado por la ley de presupuesto y con el fin de instruir a la totalidad o al mayor número podrá reducir a un año el tiempo de servicio fijado por esta ley para todos o una parte del contingente acuartelado; en estos casos el licenciamiento como el nuevo llamamiento se hará por sorteo.\n 3° A llamar al servicio activo por un plazo que no excederá de seis meses cada año un contingente de la reserva que no hubiese servido en el ejército, armada o policías, ya sea antes o después de la vigencia de la presente ley.\n 4° Con el mismo fin de instrucción podrá convocar cada dos años hasta por noventa días a los ciudadanos de la guardia nacional que no hubiesen pasado por las filas y cada tres años por un período de sesenta días a los de la guardia territorial que no hubiesen servido.\n Los ciudadanos que virtud de los incisos 3 y 4 del presente artículo, fueren llamados quedarán en las mismas condiciones que el contingente del servicio permanente."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "TITULO III",
+      "section": "24",
+      "title": "Artículo 24. Los ciudadanos que hubiesen servido en el ejército o armadas nacionales y policías desde la vigencia de la presente ley obtendrán un certificado en su misma libreta de inscripción y en la que se hará constar:",
+      "content": "1° Clase a que pertenece\n 2° Cuerpo en que sirvió\n 3° Fecha de incorporación y licenciamiento\n 4° Conducta, servicios y ascensos"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "TITULO III",
+      "section": "25",
+      "title": "Artículo 25. Los sub-oficiales y cabos que hayan servido sin interrupción diez años y observado ese tiempo buena conducta serán preferidos para ocupar los empleos fiscales, de las policías, aduanas, resguardo, correos, telégrafos, municipalidades, etc. previo examen, después de tres meses de prueba o en su defecto recibirán cinco mil pesos en efectivo de una sola vez.",
+      "content": "Para los efectos de la jubilación se contará con el tiempo servido en el ejército."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "TITULO III",
+      "section": "26",
+      "title": "Artículo 26. Ningún ciudadano podrá inscribirse en los Registros Electorales ni ejercer el derecho del sufragio, sin estar previamente inscripto en los Registros Militares.",
+      "content": "TITULO IV \n EXCEPCIONES"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "TITULO IV",
+      "section": "27",
+      "title": "Artículo 27. Tendrá derecho a excepción definitiva:",
+      "content": "1° El ciudadano que tenga enfermedad incurable o defecto físico que lo haga inútil para el servicio y no pueda ser empleado en los servicios auxiliares del ejército, armada o policías.\n 2° El hijo único de un militar muerto en acción de guerra\n 3° Los miembros del clero regular y secular que hubiesen recibido órdenes sagradas."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "TITULO IV",
+      "section": "28",
+      "title": "Artículo 28. Serán eximidos temporalmente:",
+      "content": "1° El ciudadano que compruebe ser sostén de su madre, padre, abuelos, hermanos impedidos o huérfanos.\n 2° Los estudiantes del clero regular y secular.\n 3° Los que se hallan cumpliendo condena judicial.\n 4° Los que adolezcan de enfermedades que le impidan por el momento hacer sus servicios."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "TITULO IV",
+      "section": "29",
+      "title": "Artículo 29. No podrán ser compelidos a hacer el servicio que impone esta ley mientras que permanezcan en sus funciones:",
+      "content": "1° El Presidente y Vice- Presidente de la República, los miembros del Congreso Nacional, Ministros de Estados, Agentes Diplomáticos y Consulares y los que desempeñen alguna comisión especial del Gobierno.\n 2° Los miembros de la Magistratura Judicial, de las Municipalidades y de las Policías de Seguridad.\n 3° Los Delegados Departamentales y Jefes Políticos.\n 4° El personal directivo y docente de establecimientos de instrucción pública.\n 5° Los Jefes de las oficinas públicas.\n 6° Los empleados de correos y telégrafos de la República.\n 7° Los que se hallan terminando sus cursos en los establecimientos de instrucción militar o moral y los que se hayan servido por lo menos de un año en el ejército de armada y dos años en las policías.\n TITULO V \n TASA MILITAR"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "TITULO V",
+      "section": "30",
+      "title": "Artículo 30. Todo ciudadano desde la edad de diez y ocho años hasta los cuarenta y cinco legalmente exceptuado del servicio militar está obligado al pago anual de un impuesto especial que se llama Tasa Militar, en la siguiente forma:",
+      "content": "1° por la excepción a la incorporación $ 20 c/l.\n 2° Por la renovación o excepción en cada mes de los años subsiguientes hasta veinte y nueve años $ 15.-c/l.\n 3° Por la renovación o excepción de cada uno de los años subsiguientes y hasta los cuarenta años $ 10.-c/l.\n 4° Por la renovación o excepción de cada uno de los años subsiguientes y hasta los cuarenta y cinco años $ 5 c/l."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "TITULO V",
+      "section": "32",
+      "title": "Artículo 32. Se exceptúan del pago de este impuesto:",
+      "content": "1° A los pobres de solemnidad.\n 2° A los inutilizados en los actos de servicio.\n 3° A los sacerdotes y seminaristas.\n Los fondos que se recauden en virtud de este título, como los que provengan de multas impuestas por esta ley, se emplearan exclusivamente en la defensa nacional.\n TITULO IV \n DE LAS RESPONSABILIDADES"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "TITULO IV",
+      "section": "34",
+      "title": "Artículo 34. Son infractores:",
+      "content": "1° Los que no se presenten a inscribirse en la forma que establece esta ley.\n 2° Los que no se presenten a hacer sus servicios estando obligado a ello.\n 3° Los que no cumplan con las prescripciones de los artículos 11 y 13 de la presente ley."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "TITULO IV",
+      "section": "35",
+      "title": "Artículo 35. Los infractores al artículo 34 comprendidos entre las edades de diez y ocho a veinte y seis años serán penados con un año de servicio continuado en el ejército o armada, el cual cumplirán después de terminas el que les correspondiese. Antes de cumplir esta pena no podrá tampoco obtener títulos profesionales, ejercer cargos públicos, profesiones liberales ni el derecho de sufragio.",
+      "content": "A los infractores mayores de veinte y seis años si no le correspondiese hacer sus servicios, se les aplicará la pena establecida en la segunda parte del presente artículo y además una multa de cincuenta pesos de curso legal o diez días de arresto."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "TITULO IV",
+      "section": "43",
+      "title": "Artículo 43. La acción se prescribe:",
+      "content": "1° Respecto a los que no se presentan a inscribirse a hacer su servicio estando obligado a ello, por haber cumplido el infractor cuarenta y seis años.\n 2° Respecto a la falta consignada en el artículo 37 después de transcurridos dos años."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "TITULO IV",
+      "section": "44",
+      "title": "Artículo 44. Los que cometan las infracciones a que se refieren los artículos 34 y 36 serán considerados como delincuentes infraganti a los efectos de su aprehensión.",
+      "content": "TITULO VII \n DISPOSICIONES ESPECIALES EN CASO DE GUERRA"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "TITULO VII",
+      "section": "46",
+      "title": "Artículo 46. Podrán ser llamados a formar parte del ejército activo todos los contingentes de la reserva, durante el período que las necesidades militares lo exijan.",
+      "content": "Podrá igualmente llamarse al servicio a los ciudadanos desde los diez y siete años cumplidos y menores de cincuenta años.\n Podrá así mismo llamarse a los que en conformidad a las disposiciones de esta ley, tienen derecho a eximirse del servicio en tiempo de paz, menos los físicamente inhábiles.\n TITULO VIII \n DISPOSICIONES TRANSITORIAS"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "TITULO VIII",
+      "section": "52",
+      "title": "Artículo 52. Comuníquese al P. E.",
+      "content": "Dada en la sala de sesiones del H. Congreso Legislativo, a los quince días del mes de febrero de mil novecientos diez y seis"
+    }
+  ],
+  "definitions": []
+}

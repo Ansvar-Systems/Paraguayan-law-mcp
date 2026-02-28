@@ -1,0 +1,20 @@
+{
+  "id": "py-ley-2563",
+  "type": "statute",
+  "title": "Ley Nº 338 / APRUEBA Y RATIFICA LA CONVENCIÓN ÚNICA SOBRE ESTUPEFACIENTES.",
+  "title_en": "Ley Nº 338 / APRUEBA Y RATIFICA LA CONVENCIÓN ÚNICA SOBRE ESTUPEFACIENTES.",
+  "short_name": "Ley N° 338",
+  "status": "in_force",
+  "issued_date": "1971-12-17",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2563/ley-n-338-aprueba-y-ratifica-la-convencion-unica-sobre-estupefacientes",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL A LOS DIEZ DÍAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS SETENTA Y UNO."
+    }
+  ],
+  "definitions": []
+}

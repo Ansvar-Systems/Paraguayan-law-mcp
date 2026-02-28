@@ -1,0 +1,65 @@
+{
+  "id": "py-ley-4433",
+  "type": "statute",
+  "title": "Ley Nº 5444 / FOMENTO DE CONSUMO DE ALCOHOL ABSOLUTO Y ALCOHOL CARBURANTE",
+  "title_en": "Ley Nº 5444 / FOMENTO DE CONSUMO DE ALCOHOL ABSOLUTO Y ALCOHOL CARBURANTE",
+  "short_name": "Ley N° 5444",
+  "status": "in_force",
+  "issued_date": "2015-07-13",
+  "in_force_date": "2015-07-14",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4433/ley-n-5444-fomento-de-consumo-de-alcohol-absoluto-y-alcohol-carburante",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Definiciones. A los efectos de la presente ley y sus reglamentaciones, se entenderá por:",
+      "content": "a) Alcohol absoluto: Alcohol etílico o etanol anhidro completamente desprovisto de agua. \n b) Alcohol carburante: Compuesto orgánico líquido, obtenido a partir de la biomasa.\n c) Combustible tipo Flex: mezcla de alcohol absoluto 85% (ochenta y cinco por ciento) y de nafta 15% (quince por ciento) no inferior a 85 (ochenta y cinco) octanos o aquella proporción que establezca la reglamentación que rija sobre la materia.\n d) Vehículos Flex Fuel: son aquellos que pueden utilizar indistintamente etanol hidratado o E85 (mezcla de 85% (ochenta y cinco por ciento) de etanol anhidro y 15% (quince por ciento) de nafta no inferior a 85 (ochenta y cinco) octanos), ya sea originalmente de fábrica o en virtud de una modificación del vehículo, incluyendo las motocicletas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Son autoridades de aplicación de la presente ley, las siguientes entidades que entenderán en el ámbito de sus respectivas competencias:",
+      "content": "1. El Ministerio de Industria y Comercio (MIC); y,\n 2. El Ministerio de Agricultura y Ganadería (MAG)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Las distribuidoras o emblemas de combustibles deberán garantizar cobertura nacional de servicios que aseguren la disponibilidad y acceso a bocas de expendio de combustible tipo “Flex” (85% (ochenta y cinco por ciento) de alcohol absoluto y 15% (quince por ciento) de nafta no inferior a 85 (ochenta y cinco) octanos o aquella proporción que establezca la reglamentación que rija sobre la materia) o de alcohol carburante.",
+      "content": "Las distribuidoras o emblemas de combustibles deberán disponer de al menos dos bocas de expendio por cada diez Estaciones de Servicios habilitadas.\n El Ministerio de Industria y Comercio (MIC) reglamentará estas disposiciones, estableciendo exigencias proporcionales y graduales al crecimiento del parque automotor FLEX Fuel en el territorio nacional."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Las gasolinas de menos de 97 (noventa y siete) octanos deberán mezclarse en el máximo porcentaje posible con etanol anhidro, en volumen y en función a estudios técnicos realizados por el Ministerio de Industria y Comercio (MIC).",
+      "content": "Los porcentajes de utilización serán definidos por resolución del Ministerio de Industria y Comercio (MIC), en virtud a la oferta en el mercado de alcohol, utilizando primeramente el alcohol derivado de la caña de azúcar producido en el mercado interno nacional, y concluido el consumo del mismo se podrá utilizar el alcohol proveniente de otras materias primas."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los veintinueve días del mes de abril del año dos mil quince, y por la Honorable Cámara de Senadores, a los cuatro días del mes de junio del año dos mil quince, queda sancionado, de conformidad con lo dispuesto en el artículo 207, numeral 1 de la Constitución Nacional."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alcohol absoluto",
+      "definition": "Alcohol etílico o etanol anhidro completamente desprovisto de agua",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Alcohol carburante",
+      "definition": "Compuesto orgánico líquido, obtenido a partir de la biomasa",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Combustible tipo Flex",
+      "definition": "mezcla de alcohol absoluto 85% (ochenta y cinco por ciento) y de nafta 15% (quince por ciento) no inferior a 85 (ochenta y cinco) octanos o aquella proporción que establezca la reglamentación que rija sobre la materia",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vehículos Flex Fuel",
+      "definition": "son aquellos que pueden utilizar indistintamente etanol hidratado o E85 (mezcla de 85% (ochenta y cinco por ciento) de etanol anhidro y 15% (quince por ciento) de nafta no inferior a 85 (ochenta y cinco) octanos), ya sea originalmente de fábrica o en virtud de una modificación del vehículo, incluyendo las motocicletas",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-9394",
+  "type": "statute",
+  "title": "Ley Nº 6620 / DISPONE LA IMPLEMENTACIÓN GRADUAL DEL PRESUPUESTO POR RESULTADOS",
+  "title_en": "Ley Nº 6620 / DISPONE LA IMPLEMENTACIÓN GRADUAL DEL PRESUPUESTO POR RESULTADOS",
+  "short_name": "Ley N° 6620",
+  "status": "in_force",
+  "issued_date": "2020-10-02",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9394/ley-n-6620-dispone-la-implementacion-gradual-del-presupuesto-por-resultados",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Dispóngase la implementación gradual del Presupuesto por Resultados en los Organismos y Entidades del Estado (OEE), establecidos en el artículo 3° de la Ley Nº 1535/1999 “DE ADMINISTRACIÓN FINANCIERA DEL ESTADO” y que conforman el Presupuesto General de la Nación.",
+      "content": "Se faculta al Ministerio de Hacienda a seleccionar y determinar los Organismos y Entidades del Estado (OEE), y/o programas que serán incorporados al Presupuesto por Resultados, conforme a los criterios que serán establecidos por disposición legal del Ministerio de Hacienda."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. El Ministerio de Hacienda, a través de la Dirección General de Presupuesto, establecerá criterios y parámetros necesarios que servirán como base para el seguimiento, evaluación y medición del desempeño en el proceso de aplicación del Presupuesto por Resultados.",
+      "content": "Así también conforme a los resultados de seguimiento, evaluación y medición del desempeño de los programas presupuestarios, el Ministerio de Hacienda podrá establecer disposiciones administrativas, procedimentales y de coordinación, para el mejoramiento del desempeño."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Las disposiciones de esta ley se aplicarán a partir del Ejercicio Fiscal que determine el Ministerio de Hacienda, conforme al grado de avance de las adecuaciones tecnológicas, procedimientos e instrumentos requeridos para la implementación efectiva del Presupuesto por Resultados.",
+      "content": "El nuevo Sistema de Presupuesto, deberá ser taxativamente dispuesto en el Decreto “Por el cual se Establecen los Lineamientos Generales para los Procesos de Programación, Formulación y presentación de los Anteproyectos de Presupuestos Institucionales, como Marco de Referencia para la Elaboración del Proyecto de Presupuesto General de la Nación con visión de mediano plazo”, desde el Ejercicio Fiscal que determine el Ministerio de Hacienda. \n El Ministerio de Hacienda establecerá los planes de capacitación y difusión que estime necesarios realizar con los Organismos y Entidades del Estado (OEE), a fin de coordinar los trabajos de formulación del nuevo Sistema de Presupuestación por Resultados."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los veinticuatro días del mes de junio del año dos mil veinte, y por la Honorable Cámara de Senadores, a los diecisiete días del mes de setiembre del año dos mil veinte, queda sancionado, de conformidad con lo dispuesto en el artículo 206 de la Constitución."
+    }
+  ],
+  "definitions": []
+}

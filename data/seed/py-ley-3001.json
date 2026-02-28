@@ -1,0 +1,122 @@
+{
+  "id": "py-ley-3001",
+  "type": "statute",
+  "title": "Ley Nº 374 / DE ORGANIZACION Y ADMINISTRACION DEL TESORO PUBLICO",
+  "title_en": "Ley Nº 374 / DE ORGANIZACION Y ADMINISTRACION DEL TESORO PUBLICO",
+  "short_name": "Ley N° 374",
+  "status": "in_force",
+  "issued_date": "1956-08-25",
+  "in_force_date": "1956-08-25",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3001/ley-n-374-de-organizacion-y-administracion-del-tesoro-publico",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. El Tesoro Público es el conjunto de las Tesorerías de recaudación e inversión de dineros o valores provenientes del Presupuesto General de la Nación, empréstitos, operaciones de crédito y cualquier ley especial que autorice renta del Estado, según la clasificación siguiente:",
+      "content": "a) Tesorerías Fiscales como cuentas de recaudación subordinadas a las oficinas de rentas del Estado; \n b) \"Tesorería General\" como centralización de todos los ingresos y egresos de fondos o valores provenientes del Presupuesto General de Renta o leyes especiales; \n c) Cuentas fiscales administrativas en los bancos depositarios como cuentas de inversión subordinadas a la de \"Tesorería General\"."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. El producto de todos los impuestos, tasas e ingresos especiales deberán depositarse en la respectiva cuenta de renta por su importe íntegro, sin admitir deducción alguna, bajo ningún concepto, estándoles prohibido a los Directores de Oficinas recaudadoras de rentas extraer fondos o girar contra las cuentas de recaudación.",
+      "content": "Los Bancos depositarios son responsables de los pagos que se hicieren en contravención a este artículo."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. El funcionario que deposite a su orden personal los valores o fondos del Estado en vez de hacerlo a la orden del Tesoro Nacional o cuentas de rentas, incurrirá en faltas graves y será penado con la destitución, debiendo pasarse los antecedentes a la Justicia del Crimen.",
+      "content": "Los valores en custodia deberán ser depositados en los lugares autorizados para el efecto, estándoles prohibido tenerlos sobre sí ni en otro sitio ajeno a la oficina autorizada."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. - La recaudación de los impuestos, tasas y otros ingresos que corresponden al Fisco, se hará por intermedio de las oficinas determinadas por el Poder Ejecutivo en la forma y tiempo que determinen las reglamentaciones respectivas.",
+      "content": "DIRECCION DEL TESORO"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Artículo 17. - La Dirección del Tesoro llevará la contabilidad de las Tesorerías Fiscales y del movimiento de los fondos del Tesoro Nacional.",
+      "content": "DE LOS EGRESOS DE FONDOS DEL TESORO NACIONAL"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Artículo 18. - Todos los gastos autorizados por el Presupuesto General o leyes especiales, previamente verificados por la Contraloría Financiera, serán abonados por la Dirección del Tesoro mediante una \"Orden de Pago\" que será acompañada a los expedientes de gastos y a las planillas de sueldos del personal de la Administración Pública y que contendrá los siguientes requisitos:",
+      "content": "a) Número de Orden; \n b) Nombre de la Oficina beneficiada con el pago; \n c) Nombre del acreedor; \n d) La cantidad escrita con número y letra; \n e) El concepto del pago; \n f) La imputación presupuestaria o la cuenta especial contra la cual se girará; \n g) La fecha \n h) El ejercicio fiscal, y \n i) El mes a que corresponda."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Artículo 22. - El cheque del Tesoro a que se refiere el artículo anterior, contendrá para su validez, los siguientes requisitos:",
+      "content": "a) Fecha de su libramiento; \n b) Oficina a cuyo favor esté extendido el cheque; \n c) Numeración correlativa; \n d) Cantidad de números y letras; \n e) En un ángulo inferior izquierdo: la cantidad en número.\n El cheque del Tesoro contendrá además, la firma manuscrita del Director del Tesoro o de la persona que haga sus veces y del funcionario encargado de su libramiento."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Artículo 23. - Los cheques del Tesoro se liberarán únicamente a la orden de las Reparticiones Públicas para el solo fin de su acreditamiento en las respectivas cuentas administrativas abiertas con intervención de la Dirección del Tesoro.",
+      "content": "Dichos cheques no serán librados a nombre de persona alguna, física o jurídica, funcionario público o particular, siendo prohibida su negociación y tendrán el carácter de cheques cruzados en \"general\"."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Artículo 25. - La Dirección del Tesoro podrá expedir cheques del Tesoro directamente a favor de los bancos oficiales cuando se trate de regularizar egresos fiscales por retenciones para el servicio de la Deuda Pública autorizados por convenios especiales, previo los trámites legales del Contralor de los egresos públicos.",
+      "content": "Para el efecto, deberá cruzar el libramiento con la expresión \"DE CONTABILIDAD\"."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Artículo 27. Queda prohibido a los Bancos depositarios de fondos públicos, disponer el pago directo en sus ventanillas de los cheques del Tesoro. Tampoco podrán efectuarse con los mismos, pagos de impuestos y tasas.",
+      "content": "Los funcionarios que lo consientan serán responsables del pago indebido."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Artículo 31. - En los casos previstos por el Art. 76 de la Ley 35/22, establecido para los casos de calamidad pública, el Ministerio de Hacienda podrá ordenar por escrito a la Dirección del Tesoro, la expedición de cheques del Tesoro a favor de la respectiva cuenta administrativa.",
+      "content": "En este caso, la orden deberá ser suscrita por el Ministro de Hacienda y contendrá además, la firma del Contralor Financiero y del Controlador de Gastos del Ministerio respectivo.\n El Director del Tesoro comunicará de inmediato esta libranza para comenzar los trámites ulteriores de regularización e imputación presupuestaria."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Artículo 32. - Para cada Año Fiscal los Ministerios, oficinas descentralizadas y demás Reparticiones Públicas enviarán al Ministerio de Hacienda la nómina de los Habilitados Pagadores de las oficinas de su dependencia, para su confirmación. El Ministerio de Hacienda pasará la lista completa a informe de la Contraloría Financiera, la que se expedirá sobre el estado de cuenta de cada uno de ellos.",
+      "content": "El resultado de este informe se pasará a conocimiento del Ministerio del cual depende para los fines de su confirmación o cesantía.\n El Ministerio de Hacienda podrá oponerse a la confirmación si los cuentadantes adeudan rendiciones de cuentas, de acuerdo con los reglamentos respectivos."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Artículo 33. - La Dirección del Tesoro podrá extender parcialmente cheques del Tesoro por cada Orden de Pago o por la totalidad de ellas, siempre que pertenezcan a una sola repartición, y comunicará diariamente en planillas especiales a la Contraloría Financiera (Dpto. de Rendición de Cuentas) los cheques expedidos, a los fines del cargo directo en la cuenta de los Habilitados Pagadores.",
+      "content": "Dicha planilla contendrá:\n a) Fecha de pago; \n b) Nombre del Habilitado Pagador; \n c) Repartición; \n d) Imputación presupuestaria o cuenta especial; \n e) No. de la Orden de Pago; \n f) Importe pagado; \n g) Ejercicio y mes; \n Podrán además, contener otros datos necesarios para individualizar mejor al responsable y la naturaleza del gasto."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Artículo 36. - Todos los gastos fiscales del Ministerio de Hacienda y del Servicio de la Deuda Pública estarán sometidos a las mismas formalidades legales estipuladas para los demás Ministerios y sus dependencias.",
+      "content": "Los servicios descentralizados con autonomía de gestión, también estarán sometidos a este contralor."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Artículo 39. - Todas las notas de Órdenes de pago expedidas de acuerdo con las previsiones de esta Ley, serán entregadas a la Dirección del Tesoro, la que comunicará periódicamente al Ministerio de Hacienda las órdenes pendientes de pago.",
+      "content": "Prohíbese a los Habilitados Pagadores o Gestores, retenerlas en su poder después de ser intervenidas por la Contraloría Financiera."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Artículo 40. - Los Bancos Oficiales depositarios de los fondos públicos, remitirán a la Dirección del Tesoro, mensualmente o cuantas veces les sean solicitados, por la misma, un estado analítico del movimiento de los ingresos y egresos del Tesoro Nacional.",
+      "content": "Del mismo modo, las Tesorerías Fiscales de recaudación, suministrarán a la Dirección del Tesoro, todos los datos que les fueren solicitados y permitirán la revisión de los libros por los funcionarios de dicha dirección, relacionadas con las rentas del Presupuesto General y las leyes especiales."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Artículo 42. - Los Habilitados Pagadores llevarán al día un sistema de contabilidad que refleje claramente el movimiento de los fondos retirados de la Dirección del Tesoro y las inversiones realizadas contra cada rubro del Presupuesto General.",
+      "content": "El incumplimiento de esta disposición legal será causa de cesantía o no confirmación en el cargo del responsable."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Artículo 45. - Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones de la Honorable Cámara de Representantes a los veinte días del mes de Agosto del año mil novecientos cincuenta y seis."
+    }
+  ],
+  "definitions": []
+}

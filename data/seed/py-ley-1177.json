@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-1177",
+  "type": "statute",
+  "title": "Ley Nº 4982 / CREA EL PROGRAMA NACIONAL DE PREVENCIÓN, VIGILANCIA Y CONTROL DE INFECCIONES HOSPITALARIAS.",
+  "title_en": "Ley Nº 4982 / CREA EL PROGRAMA NACIONAL DE PREVENCIÓN, VIGILANCIA Y CONTROL DE INFECCIONES HOSPITALARIAS.",
+  "short_name": "Ley N° 4982",
+  "status": "in_force",
+  "issued_date": "2013-07-12",
+  "in_force_date": "2013-07-19",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/1177/ley-n-4982-crea-el-programa-nacional-de-prevencion-vigilancia-y-control-de-infecciones-hospitalarias",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Creación del Programa Nacional de Prevención, Vigilancia y Control de Infecciones Hospitalarias. Créase el Programa Nacional de Prevención, Vigilancia y Control de Infecciones Hospitalarias con el objeto de:",
+      "content": "1. Centralizar la información estadística sobre Infecciones Hospitalarias (IH) que remitan los establecimientos sanitarios públicos y privados del país.\n 2. Diseñar políticas y programas de prevención, vigilancia y control de la Infección Hospitalaria (IH).\n 3. Implementar actividades de difusión, capacitación de recursos humanos, provisión de equipamiento e infraestructura.\n 4. Implementar todas las acciones necesarias para cumplir con el objeto de esta ley."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Atribuciones. Corresponde al Ministerio de Salud Pública y Bienestar Social, como Autoridad de Aplicación del Programa de Prevención, Vigilancia y Control de Infecciones Hospitalarias:",
+      "content": "1. Habilitar el Registro Nacional de Infecciones Hospitalarias;\n 2. Desarrollar el marco técnico normativo mediante un protocolo de procedimientos de prevención y control de infecciones hospitalarias para:\n a) establecer mecanismos para la detección de brotes epidémicos en los establecimientos sanitarios; y,\n b) proporcionar información oportuna sobre incidencia y prevalencia de las infecciones, su asociación a procedimientos invasivos o no invasivos, sus agentes etiológicos más frecuentes, y patrones de resistencias de microorganismos, que permitan la toma de decisiones eficaces en su prevención y control;\n 3. Implementar o apoyar la capacitación en bioseguridad de los recursos humanos involucrados;\n 4. Implementar normas de bioseguridad, con énfasis en las zonas de mayor riesgo;\n 5. Impulsar la conformación de equipos multidisciplinarios de prevención, vigilancia y control de infecciones hospitalarias;\n 6. Brindar asesoramiento técnico en todos los niveles;\n 7. Conformar un sistema de auditoría externa del Programa de Prevención, Vigilancia y Control de Infecciones Hospitalarias; y,\n 8. Conformar un Sistema de Vigilancia Epidemiológica de Infecciones Hospitalarias a fin de conocer el comportamiento de las mismas, su potencial epidémico y sus factores de riesgo."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Sanciones. Los actos u omisiones que impliquen el no cumplimiento de las normas de esta ley, serán sancionados por la Autoridad de Aplicación, de acuerdo con las reglamentaciones que se dicten en su consecuencia, según la gravedad y/o reincidencia de la infracción, con:",
+      "content": "a) Apercibimiento.\n b) Multa.\n c) Clausura temporaria, parcial o total del establecimiento."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los trece días del mes de marzo del año dos mil trece, y por la Honorable Cámara de Senadores, a los trece días del mes de junio del año dos mil trece, quedando sancionado el mismo, de conformidad con lo dispuesto en el artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

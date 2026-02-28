@@ -1,0 +1,56 @@
+{
+  "id": "py-ley-2343",
+  "type": "statute",
+  "title": "Ley Nº 284 / ESTABLECE EL PAGO DE TASAS EN EL PODER JUDICIAL Y EL DESTINO DE LAS MISMAS",
+  "title_en": "Ley Nº 284 / ESTABLECE EL PAGO DE TASAS EN EL PODER JUDICIAL Y EL DESTINO DE LAS MISMAS",
+  "short_name": "Ley N° 284",
+  "status": "in_force",
+  "issued_date": "1971-10-02",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2343/ley-n-284-establece-el-pago-de-tasas-en-el-poder-judicial-y-el-destino-de-las-mismas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Estarán sujetas a las tasas que se establecen en esta Ley, las actuaciones ante el Poder Judicial según la importancia del juicio:",
+      "content": "a) Los juicios en que se demanden sumas de dinero o bienes susceptibles de apreciación pecuniaria desde Gs 30.000: 0.15% \n b) Los juicios de concesionaria de acreedores y de quiebras: Gs. 2.000 \n c) Las pequeñas quiebras: Gs. 500 \n d) Los juicios de divorcio: Gs. 1.000 \n e) En los juicios de desalojo, el monto correspondiente se calculará de acuerdo con el Art. 19 de la Ley Nº 110; \n f) En los juicios de mensura , deslinde y amojonamiento se abonará el equivalente al 0.10% sobre el valor fiscal de la parte del inmueble afectado por dichas diligencias:\n g) Las acciones no suceptibles de apreciación pecuniaria: Gs. 500 \n h) Las actuaciones de venias supletorias, información sumaria de testigo y otras actuaciones similares: Gs. 100 \n i) Las inscripciones en el Registro Público de Comercio y de rubricación de libros de Comercio: Gs. 500 \n j) La querella criminal o la intervención de un querellante particular en cualquier estado del juicio: Gs. 1.000"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Estarán exonerados del pago de las tasas creadas por esta Ley :",
+      "content": "a) Los juicios promovidos por el Estado, las Municipalidades y los entes descentralizados; \n b) Los juicios del fuero Laboral; \n c) Los amparados por carta de pobreza; \n d) Los juicios de alimentos y litis expensas; \n e) Las acciones de amparo e inconstitucionalidad; \n f) Las peticiones de habeas corpus; \n g) Los juicios promovidos por ex-combatientes de la guerra del Chaco hasta la suma de Gs. 500.000. Igualmente estarán exentos del pago de las tasas previstas en el Art. 4°. hasta el mismo monto fijado; \n h) La defensa en el fuero criminal; \n i) Los juicios sobre expropiación y sobre interdictos; \n j) Los juicios sobre constitución de bien de la familia; \n k) Las actuaciones ante los juzgados de la Paz; y \n l) La inscripción de constitución , modificación de derechos reales sobre tractores y maquinarias destinados a la explotación agropecuaria."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. En toda inscripción de constitución o transmisión de derechos reales sobre inmuebles, buques y automotores en el Registro General de la Propiedad se abonará el equivalente al 0.25% del monto de la operación realizada, salvo en las adjudicaciones hechas en los juicios sucesorios y disolución de comunidad de bienes y en los casos de cancelación de hipotecas.",
+      "content": "Dicho monto en los casos de transferencia de dominio de inmuebles, no podrá ser inferior al de la tasación Fiscal que corresponda en proporción a la parte transferida y tratándose de automotores, los valores básicos se determinarán de acuerdo con las disposiciones que rigen la percepción del impuesto a las ventas de automotores."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. El pago de las tasas se hará en estampillas judiciales adheridas al primer escrito presentado al Tribunal, en cada uno de los juicios mencionados en al Articulo 1°, sin cuyo requisito no se dará trámites alguno a las actuaciones, salvo en los casos de juicios sucesorios en los que el pago se realizará en el momento de la adjudicación del Haber Hereditario.",
+      "content": "Las tasas previstas en el Art. 4º. serán percibidas por la Dirección de Impuestos Internos en comprobantes de pago que serán fiscalizados por el Poder Judicial y la Contraloría Financiera.\n Ninguna inscripción, de las previstas en el Art. 4º. podrá hacer el Registro General de la Propiedad sin la presentación de dicho comprobante de pago ."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Las tasas creadas por esta Ley integrarán los costos del juicio y serán soportadas, en definitiva, por las partes, en la misma proporción en que dichas costas sean impuestas.",
+      "content": "Las tasas previstas en el Art. 4º. serán soportadas proporcionalmente por las partes, sin perjuicio de las responsabilidades solidarias de las mismas ante el fisco."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. - Formarán parte de los recursos del Poder Judicial a los efectos de esta Ley:",
+      "content": "a) El producido de la transferencia de los bienes asignados para asiento del Poder Judicial en los casos en que se estimare conveniente la venta de los mismos por la Corte Suprema de Justicia, de conformidad con la Ley orgánica administrativa.\n b) Las finanzas depositadas y perdidas en los juicios criminales."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. - Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la sala de sesiones del Congreso Nacional, a los veinticuatro días de setiembre del año un mil novecientos setenta y uno."
+    }
+  ],
+  "definitions": []
+}

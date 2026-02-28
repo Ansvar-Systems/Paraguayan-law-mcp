@@ -1,0 +1,238 @@
+{
+  "id": "py-ley-9277",
+  "type": "statute",
+  "title": "Ley Nº 6542 / DE FACTORAJE, FACTURA CAMBIARIA Y SISTEMA ELECTRÓNICO DE OPERACIONES GARANTIZADAS",
+  "title_en": "Ley Nº 6542 / DE FACTORAJE, FACTURA CAMBIARIA Y SISTEMA ELECTRÓNICO DE OPERACIONES GARANTIZADAS",
+  "short_name": "Ley N° 6542",
+  "status": "in_force",
+  "issued_date": "2020-06-16",
+  "in_force_date": "2020-06-17",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9277/ley-n-6542-de-factoraje-factura-cambiaria-y-sistema-electronico-de-operaciones-garantizadas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Capítulo I",
+      "section": "1",
+      "title": "Artículo 1. Objeto.",
+      "content": "El objeto de la presente Ley es regular: \n a) El contrato de factoraje. \n b) La factura cambiaria. \n c) El Sistema Electrónico de Operaciones Garantizadas, en adelante, SEOG. \n Capítulo II \n Del Contrato de Factoraje"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Capítulo II",
+      "section": "2",
+      "title": "Artículo 2. Del contrato de factoraje.",
+      "content": "El contrato de factoraje es el negocio jurídico por el cual una persona, denominada cedente, cede total o parcialmente, en venta o en administración, a otra persona, denominada factor o cesionario, los derechos de crédito pecuniarios provenientes de su actividad comercial o de prestación de servicios, a cambio de una retribución, ya sea, en la forma de descuento proporcional sobre las sumas que le anticipe el factor, de una comisión o porcentaje sobre el importe de los créditos cedidos, o cualquier otra prestación acordada entre las partes. \n El contrato de factoraje puede tener por objeto cualquier crédito pecuniario, siempre que no tenga un carácter estrictamente personal y que su transferencia no esté prohibida por la Ley. \n El Banco Central del Paraguay (BCP) regulará el costo y las tasas del contrato de las herramientas Jurídicas señaladas en esta Ley. \n El factoraje puede ser con o sin recurso."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Capítulo II",
+      "section": "3",
+      "title": "Artículo 3. Operaciones de Factoraje.",
+      "content": "Por el contrato de factoraje, entre otras operaciones, el factor podrá: \n a) Anticipar recursos del derecho de crédito objeto de cesión al cedente. \n b) Recibir en cesión un crédito que tenga por objeto una obligación de pagar una suma de dinero en un plazo determinado, con o sin descuento. \n c) Administrar una cartera de derechos de crédito. \n d) Notificar por aviso al deudor de los derechos de crédito objeto del contrato, la cesión o descuento del derecho de crédito, en la forma establecida en la Ley. \n e) Cobrar en nombre propio o en nombre del cedente, los créditos cedidos. \n f) Proteger o gestionar la protección al cedente contra el impago del deudor de crédito. \n g) Realizar operaciones con los créditos que constituyen el objeto del contrato de factoraje. \n h) Brindar al cedente servicios adicionales a la provisión de recursos líquidos, a cambio de una retribución global o a ser pactada por cada servicio adicional, que pueden consistir en la investigación e información comercial, servicios contables, estudio de mercado, asesoría integral y otros de naturaleza similar."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Capítulo II",
+      "section": "4",
+      "title": "Artículo 4. Cesión de derechos de crédito por factoraje .",
+      "content": "La cesión de los créditos, objeto del contrato de factoraje, puede ser en venta o en administración. \n Será en venta cuando el cedente transmite la titularidad de los derechos de crédito de los que es titular al cesionario o factor, a cambio de una suma que puede o no contener un descuento. \n Será en administración cuando el cedente transmite la administración de los derechos de crédito al cesionario o factor, pero conserva la titularidad, a cambio de una suma de dinero, un porcentaje sobre los montos cobrados o cualquier otra contraprestación de naturaleza similar. \n Se pueden ceder derechos de créditos presentes o futuros, determinados o determinables."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Capítulo II",
+      "section": "5",
+      "title": "Artículo 5. Responsabilidad del cedente-vendedor.",
+      "content": "El cedente responde al momento de la cesión, por la existencia del crédito cedido. \n El cedente responde por el cobro del crédito cedido, salvo pacto en contrario. \n Si lo cedido fuere un crédito futuro, cuya existencia dependiere de la industria o actividad del cedente, este está obligado a adoptar todas las medidas necesarias para el nacimiento del crédito. \n Capítulo III \n Forma de los contratos"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Capítulo III",
+      "section": "6",
+      "title": "Artículo 6. Forma del contrato.",
+      "content": "El contrato de factoraje podrá ser otorgado por instrumento privado."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Capítulo III",
+      "section": "7",
+      "title": "Artículo 7. Prueba del contrato de factoraje.",
+      "content": "A los efectos de la prueba de los contratos de factoraje, serán admisibles todos los medios de prueba establecidos en las Leyes procesales ."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Capítulo III",
+      "section": "8",
+      "title": "Artículo 8. Obligación de informar.",
+      "content": "Es obligación del cedente, poner en conocimiento del factor toda la información necesaria para que pueda ejercer los derechos del crédito cedido."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Capítulo III",
+      "section": "9",
+      "title": "Artículo 9. Notificación al deudor cedido y oponibilidad a terceros .",
+      "content": "La notificación realizada por el cesionario al deudor cedido, se tendrá por satisfecha cuando por un medio acorde con las reglas de la buena fe, se le ponga en conocimiento de la cesión realizada, la identificación del crédito cedido y de los elementos esenciales de la cesión, que le permitan conocer la identidad del nuevo acreedor, así como las instrucciones para el pago. \n A tal efecto, la notificación del aviso al deudor cedido deberá hacerse, bajo pena de nulidad, por disposición judicial, por medio de notario, por telegrama colacionado u otro medio, como el correo certificado o correo con acuse de recibo, a falta de cualquier forma pactada por las partes en el contrato. \n Una vez recibida la notificación de la cesión por el deudor cedido, solo el factor podrá enviarle instrucciones de pago. \n El deudor cedido, debidamente notificado, debe realizar el pago a favor del acreedor cesionario notificado o de la persona indicada en la instrucción de pago recibida, aun cuando entre cedente y cedido se hubiere pactado la no cesión del crédito, sin perjuicio de la responsabilidad de la parte incumplidora por los daños y perjuicios que deriven del incumplimiento. \n Los contratos de factoraje deberán ser inscriptos en el sistema electrónico de operaciones garantizadas para su oponibilidad frente a terceros."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Capítulo III",
+      "section": "10",
+      "title": "Artículo 10. Créditos en libros.",
+      "content": "Los créditos abiertos en los libros de comerciantes podrán ser objeto de factoraje, siempre que se satisfagan los siguientes requisitos: \n a) Que tanto cedente como deudor cedido sean comerciantes. \n b) Que los créditos cedidos sean exigibles a plazo determinado. \n c) Que haya prueba escrita de la existencia del crédito, para lo que bastará la certificación contable correspondiente."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Capítulo III",
+      "section": "11",
+      "title": "Artículo 11. Derecho a examinar los libros.",
+      "content": "El cesionario o factor de créditos en libros tendrá derecho de examinar los libros y correspondencia del cedente, en cuanto se refiere a las operaciones relacionadas con los créditos objeto de factoraje. El cedente será considerado, para todos los efectos de Ley, como mandatario del cesionario de créditos en libros, en cuanto se refiere al cobro de los créditos cedidos, y tendrá las obligaciones y las responsabilidades que al mismo corresponden . \n Capítulo IV \n De la Factura Cambiaria"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Capítulo IV",
+      "section": "12",
+      "title": "Artículo 12. De la Factura Cambiaria .",
+      "content": "La factura cambiaria es el título de crédito emitido a la orden, a cargo del adquirente de un bien o servicio, quien está obligado a pagar al legítimo tenedor la suma de dinero consignada en el título, al vencimiento del mismo. \n La factura cambiaria se emite por el vendedor de bienes o prestador de servicios, cuando dicha venta o dichos servicios sean pagaderos a plazo determinado. \n La factura cambiaria deberá contener los requisitos establecidos en la presente Ley y los que se requieren por disposición reglamentaria de la autoridad tributaria. \n La factura cambiaria es un título de crédito a la orden, si cumple con los requisitos establecidos en el artículo siguiente. \n Tendrá fuerza ejecutiva contra el deudor aceptante y los endosantes, sin protesto, por el capital y sus accesorios. La acción cambiaria que confiere es directa o de regreso. \n Para la puesta en circulación de la factura electrónica como título valor, el Ministerio de Hacienda se encargará de su reglamentación."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Capítulo IV",
+      "section": "13",
+      "title": "Artículo 13. Fuerza Ejecutiva.",
+      "content": "Para que la Factura Cambiaria tenga fuerza ejecutiva, la firma del deudor aceptante o los endosantes, en su caso, deberá ser reconocida judicialmente o estar certificada por escribano público con intervención del obligado y registrada en el libro respectivo. \n Cuando la recepción del documento o la aceptación haya sido hecha por el principal, uno de sus órganos con autorización de uso de firma social o una persona formalmente instituida para actuar en representación del principal, será suficiente el reconocimiento de la firma de quien recibió el documento o formuló la aceptación, según el caso. \n Si la firma fuere negada, el juez, a pedido de parte, previo dictamen de uno o tres peritos, designados de oficio, según el monto del juicio, declarará si la firma es auténtica. Si lo fuere, se procederá ejecutivamente y se impondrá al ejecutado una multa a favor de la otra parte equivalente al 30% (treinta por ciento) del monto de la deuda."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Capítulo IV",
+      "section": "14",
+      "title": "Artículo 14. Requisitos.",
+      "content": "La emisión de facturas cambiarias tendrá los siguientes requisitos mínimos: \n a) La denominación \"factura cambiaria\" inserta en el texto del título. \n b) Lugar y fecha de emisión. \n c) Fecha de vencimiento de la obligación de pago expresada como día fijo. \n d) Concepto de la emisión. \n e) Monto debido, expresado en números, letras y tipo de moneda. \n f) Nombre o denominación social y Registro Único del Contribuyente (RUC) del emisor. \n g) Nombre o denominación social, Registro Único del Contribuyente (RUC) o Cédula de Identidad Civil, del deudor o persona a cuyo cargo se emite. \n h) Domicilio del deudor y lugar de pago. \n Tendrá además aquellos requisitos que señalan las disposiciones reglamentarias que emita la autoridad tributaria."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Capítulo IV",
+      "section": "15",
+      "title": "Artículo 15. Monto debido.",
+      "content": "El monto debido deberá desglosarse en: monto por venta o servicios bruto, cantidad en concepto de Impuesto al Valor Agregado (IVA), cualquier otro monto que por Ley o convenio deba figurar. En el texto de la factura cambiaria deberá quedar establecido en forma clara el monto total neto a pagar. \n En caso de pago en cuotas, el emisor podrá optar por: \n a) Detallar el número, monto y vencimiento de cada una de las cuotas; o, \n b) Emitir tantos ejemplares como cuotas, haciendo constar, en cada uno de ellos, el número total de cuotas y el número de cuota correspondiente, con su monto y vencimiento. Estos ejemplares podrán circular como títulos a la orden independientes, previa aceptación formulada en cada uno de ellos."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Capítulo IV",
+      "section": "16",
+      "title": "Artículo 16. Emisión, copia y aceptación.",
+      "content": "El vendedor de bienes o prestador de servicios, llamado emisor, libra una factura cambiaria a cargo de un comprador o beneficiario del servicio, llamado deudor. La factura cambiaria que se emite incorpora un derecho de crédito sobre la totalidad o sobre la parte insoluta de la compraventa o prestación de servicios. \n El emisor presentará la factura cambiaria original al deudor, quien la acepta para su pago. Esta aceptación del título de crédito deberá constar en la propia factura cambiaria, por medio de la palabra ACEPTO y la firma puesta por el deudor si es persona física. Si se trata de persona jurídica o una Empresa Individual de Responsabilidad Limitada, la aceptación y firma deberá ser hecha por el principal, uno de sus órganos con autorización de uso de firma social o una persona formalmente instituida para actuar en representación del principal. \n Una vez aceptada, la factura cambiaria original deberá ser devuelta al emisor y el deudor se quedará con una copia. Aceptada la factura cambiaria, el emisor puede transmitirlo en la forma que señala esta Ley. \n Si el emisor entrega la factura cambiaria al deudor y, en el plazo de 10 (diez) días, este no manifiesta si la acepta o no, el emisor de la factura tendrá, al vencimiento del plazo fijado en la factura, acción ejecutiva contra el obligado en virtud de la deuda que tiene por la relación contractual. \n En este caso, será título ejecutivo la constancia de la recepción de la factura firmada por el principal, uno de sus órganos con autorización de uso de firma social o una persona formalmente instituida para actuar en representación del principal, en la que consten todos los datos de la factura. \n Antes de la devolución de la factura debidamente aceptada por parte del deudor, la cesión del crédito se regirá por las reglas de la cesión ordinaria. \n El ejercicio de la acción de la relación que dio causa a la emisión de la factura cambiaria subsiste no obstante la emisión o la transmisión de la factura cambiaria y estará regido por lo dispuesto por el Artículo 1360 del Código Civil."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Capítulo IV",
+      "section": "17",
+      "title": "Artículo 17. Falta de aceptación.",
+      "content": "El deudor estará obligado a aceptar la factura cambiaria, excepto en los siguientes casos: \n a) Daño en las mercaderías, cuando no estuviesen expedidas o entregadas por su cuenta y riesgo. \n b) Vicios, defectos y diferencias en la calidad o en la cantidad debidamente comprobados. \n c) Divergencias en los plazos o en los precios estipulados. \n d) No correspondencia con los servicios o la obra efectivamente contratados. \n e) La omisión de algunos de los requisitos establecidos por esta Ley y la reglamentación pertinente. \n El deudor deberá hacer constar la falta de aceptación en el plazo que establece el artículo anterior."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Capítulo IV",
+      "section": "18",
+      "title": "Artículo 18. Factura cambiaria y factura contado .",
+      "content": "Los contribuyentes tendrán talonarios por los que podrán emitir facturas contado y facturas a crédito o cambiarias. Cuando la transacción se paga en el momento de recibir el bien o servicio, se emitirá una factura contado. Cuando la transacción se pagara a plazo, se emitirá una factura a crédito o cambiaria. Se podrá emitir ambas facturas desde un mismo talonario, marcando la casilla que corresponda cuando sea una venta al contado o una venta a crédito. Ambas requerirán las autorizaciones correspondientes de la autoridad tributaria. \n Cuando un contribuyente emita una factura cambiaria para documentar una venta de bienes o la prestación de servicios, no podrá emitir una factura contado respecto de la misma venta o del mismo servicio, bajo pena de nulidad y de responder por todos los daños y perjuicios, mediatos e inmediatos, que dicha acción implicara. \n Con la emisión de la factura cambiaria no se admite ninguna otra especie de título de crédito para documentar la obligación a favor del vendedor o prestador de servicios, por el importe de lo facturado."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Capítulo IV",
+      "section": "19",
+      "title": "Artículo 19. Del Endoso.",
+      "content": "Una vez producida la aceptación, la factura cambiaria original podrá ser transmitida por endoso a la orden, con expresa identificación del endosatario, la aclaración de la firma, número de Cédula de Identidad Civil, si es persona física, o Registro Único del Contribuyente (RUC), si es persona jurídica. \n La cesión de una obligación contenida en una factura cambiaria, antes de producida la aceptación, solo tendrá los efectos de la cesión ordinaria de la relación causal subyacente a la emisión del título. \n Todos los que hayan endosado una factura cambiaria están solidariamente obligados con el deudor principal hacia el portador, salvo cláusula en contrario insertada al momento de realizar el endoso. \n A la factura cambiaria le serán aplicables las normas de los títulos de crédito del Código Civil, en cuanto no sean contrarias a lo dispuesto en la presente Ley. \n En el caso de las facturas electrónicas, el Ministerio de Hacienda reglamentará la forma del registro y el endoso de las mismas. \n Capítulo V \n Del Sistema Electrónico de Operaciones de Factoraje"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Capítulo V",
+      "section": "20",
+      "title": "Artículo 20. Creación del Sistema Electrónico de Operaciones Garantizadas (SEOG).",
+      "content": "1. Se crea el Sistema Electrónico de Operaciones Garantizadas, en adelante Sistema Electrónico de Operaciones Garantizadas (SEOG), como una base de datos electrónica de acceso remoto en la que se inscriben avisos a través de formularios electrónicos, de conformidad con esta Ley. Dichos avisos son para informar sobre las cesiones de crédito ordinarias no contenidas en títulos de créditos, realizadas en virtud de un contrato de factoraje. \n 2. El Banco Central del Paraguay (BCP), será la entidad administradora del Sistema Electrónico de Operaciones Garantizadas (SEOG) y aprobará un reglamento en el que se regulará todo lo concerniente a su organización, funcionamiento, procedimientos, tasas registrales y todo lo que fuere necesario para su operación. La entidad administradora del registro podrá organizar este sistema en la forma que sea más apropiada, de acuerdo a su organización interna. \n 3. El Banco Central del Paraguay (BCP) queda plenamente facultado para ser administrador y organizar la base de datos por la que operará el Sistema Electrónico de Operaciones Garantizadas (SEOG), como parte de sus atribuciones, así como para elaborar manuales de uso, hacer los cobros por inscripciones, guardar la información y realizar las actividades necesarias para su buen funcionamiento, de conformidad con esta Ley y su reglamento."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Capítulo V",
+      "section": "21",
+      "title": "Artículo 21. Características.",
+      "content": "El Sistema Electrónico de Operaciones Garantizadas (SEOG) operará con las siguientes características: \n 1. La base de datos se alimenta por medio de avisos contenidos en los formularios electrónicos, a los que acceden los usuarios para incorporar la información que se va a publicitar. \n 2. Una vez que el usuario puede acceder al Sistema Electrónico de Operaciones Garantizadas (SEOG), por haber cumplido los requisitos que establezca el reglamento, no habrá calificación de ninguna naturaleza. El usuario estará sujeto a las responsabilidades que correspondan según la naturaleza de los hechos, como consecuencia de los datos incorporados al Sistema Electrónico de Operaciones Garantizadas (SEOG). \n 3. La inscripción de una cesión de crédito, con ocasión de un contrato de factoraje en el Sistema Electrónico de Operaciones Garantizadas (SEOG), confiere a la cesión inscripta efectos frente a terceros. \n 4. El Sistema Electrónico de Operaciones Garantizadas (SEOG) permitirá que los usuarios incorporen información a la base de datos a través de los formularios electrónicos; y permitirá hacer búsqueda de información que tiene dicha base de datos. Estas búsquedas serán remotas y permitirán ver, en la forma que señale el reglamento, la información que consta en la base de datos del Sistema Electrónico de Operaciones Garantizadas (SEOG) . El reglamento establecerá los criterios de búsqueda del Sistema Electrónico de Operaciones Garantizadas (SEOG). \n 5. Es un sistema totalmente electrónico y la información que contendrán los formularios se establecerá en el reglamento respectivo. \n 6. Es un sistema organizado bajo folio personal en atención a la persona que sea el deudor cedido, con base en el documento de identidad o el Registro Único del Contribuyente (RUC) de la persona."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Capítulo V",
+      "section": "22",
+      "title": "Artículo 22. Usuarios y Autorización.",
+      "content": "1. El acceso para consultas al Sistema Electrónico de Operaciones Garantizadas (SEOG) será libre y gratuito, de conformidad a la reglamentación dispuesta por el Banco Central del Paraguay (BCP). \n 2. Solamente las personas físicas o jurídicas que tengan la calidad de usuario podrán acceder al sistema y completar formularios electrónicos de las cesiones de crédito realizadas con ocasión de un contrato de factoraje. \n 3. El factor cesionario o un tercero, en tanto tengan reconocida la calidad de Usuario por parte del Sistema Electrónico de Operaciones Garantizadas (SEOG), podrá incorporar formularios electrónicos por el que informe de la cesión de derechos de crédito hecha a su favor o a favor del factor. \n 4. Solamente el usuario que hace la inscripción inicial puede incorporar modificaciones a través de los formularios electrónicos de modificación que tenga el Sistema Electrónico de Operaciones Garantizadas (SEOG), o por orden judicial. \n 5. Para la inscripción en el Sistema Electrónico de Operaciones Garantizadas (SEOG) no será necesaria la autorización del deudor, por ser un sistema electrónico sin calificación. \n 6. Se incorporará a la base de datos la información por medio de formularios electrónicos relativos a cesiones de crédito realizadas en ejecución de contratos de factoraje. El usuario que realice el registro es responsable por cualquier daño que pudiere provocar con su actuación culposa o dolosa. El usuario debe usar el Sistema Electrónico de Operaciones Garantizadas (SEOG) de conformidad con el reglamento y con el contrato que como usuario firme con el administrador del Sistema Electrónico de Operaciones Garantizadas (SEOG). \n 7. El Sistema Electrónico de Operaciones Garantizadas (SEOG) deberá contar con un sistema de seguridad que salvaguarde la información que se incorpora. \n 8. El Sistema Electrónico de Operaciones Garantizadas (SEOG) podrá emitir certificación de la información que aparece en la base de datos, en la forma que establece esta Ley y el reglamento. Estas certificaciones deben tener un mecanismo de validación que acredite su autenticidad y vigencia, pero no será necesaria la firma y sello en las mismas para que se tengan por válidas."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Capítulo V",
+      "section": "23",
+      "title": "Artículo 23. Condiciones para acceder al Sistema Electrónico de Operaciones Garantizadas (SEOG).",
+      "content": "Cualquier usuario podrá incorporar un formulario, siempre y cuando: \n a) Acceda por medio de la clave. \n b) Haya pagado las tasas establecidas. \n c) Complete las casillas que el sistema determine como obligatorias. \n La operatividad del Sistema Electrónico de Operaciones Garantizadas (SEOG) será por medio de un sistema especialmente diseñado para ello, por lo que la incorporación de avisos por medio de formularios electrónicos, así como las comunicaciones, certificaciones y todas las funciones que tenga el registro se ejecutarán a través de este sistema, con base en lo que señala la Ley y el reglamento."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Capítulo V",
+      "section": "24",
+      "title": "Artículo 24. Sistema informativo.",
+      "content": "Por ser un sistema de información de operaciones a través de avisos, el registro no tiene efectos constitutivos ni convalidatorios sobre los actos jurídicos inscriptos. \n El administrador del Sistema Electrónico de Operaciones Garantizadas (SEOG) no es responsable de la información que incorporan los usuarios, ni por los daños y/o perjuicios que se causen con ocasión de la información que se incorpore por medio de los formularios electrónicos. \n Se incorporarán a la base de datos los avisos de cesiones de derechos de crédito en ejecución de un contrato de factoraje, sus modificaciones, cancelaciones y reclamaciones judiciales."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Capítulo V",
+      "section": "25",
+      "title": "Artículo 25. Información que deberá consignarse en los formularios iniciales.",
+      "content": "En todo formulario electrónico por el que se inicia el proceso de incorporación de una inscripción nueva, deberá consignarse, en los espacios previstos al efecto: \n a) El nombre y apellido o razón social, número de Cédula de Identidad Civil o Registro Único del Contribuyente (RUC), domicilio y correo electrónico del deudor cedido. \n b) El nombre y apellido o razón social, número de Cédula de Identidad Civil o Registro Único del Contribuyente (RUC), domicilio y correo electrónico del factor o cesionario. \n c) Una descripción de los derechos de crédito objeto de cesión en venta o en administración. \n d) El plazo de vigencia de la inscripción en el Sistema Electrónico de Operaciones Garantizadas (SEOG). \n e) El monto de los créditos objeto de la cesión y una descripción de los mismos. \n Los demás formularios contendrán la información que señale el reglamento."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Capítulo V",
+      "section": "26",
+      "title": "Artículo 26. Momento a partir del cual surtirá efecto la inscripción de un formulario.",
+      "content": "1. La inscripción de un formulario inicial, de modificación o de cancelación, surtirá efecto a partir de la fecha, minuto y segundo en que la información se incorpore a la base de datos del Sistema Electrónico de Operaciones Garantizadas (SEOG), de modo tal que puedan acceder a ella las personas que consulten dicho sistema. \n 2. El sistema deberá incorporar sin demora, a la base de datos de acceso público y gratuito, la información contenida en los formularios. \n 3. El sistema deberá dejar constancia de la fecha y hora exacta en que la información contenida en un formulario se incorpore a la base de datos, de modo tal que pueda ser conocida por las personas que consulten el sistema, a través de búsquedas."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Capítulo V",
+      "section": "27",
+      "title": "Artículo 27. Plazo de vigencia de la inscripción de un formulario.",
+      "content": "1. El plazo de vigencia de la inscripción de un formulario inicial será el que indique el usuario de la inscripción en el espacio previsto al efecto en el formulario. \n 2. De no establecerse un plazo de vigencia de la inscripción de un formulario inicial, su plazo de vigencia será de 5 (cinco) años. \n 3. El plazo de vigencia de la inscripción de un formulario inicial podrá prorrogarse mediante la inscripción, antes del vencimiento de dicho plazo, de un formulario de modificación en el que se indique, en el espacio previsto, un nuevo plazo de vigencia. \n 4. El plazo de vigencia de la inscripción de un formulario inicial podrá prorrogarse más de una vez."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Capítulo V",
+      "section": "28",
+      "title": "Artículo 28. Sistema de notificaciones de las inscripciones.",
+      "content": "El Sistema Electrónico de Operaciones Garantizadas (SEOG) permitirá que se generen notificaciones a usuarios, cedentes, cesionarios y deudores de forma electrónica, a la dirección de correo electrónico que sea consignada en el formulario inscrito."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Capítulo V",
+      "section": "29",
+      "title": "Artículo 29. Errores.",
+      "content": "Los errores que se cometan al consignar los datos en un formulario inicial o de modificación, no privarán de eficacia a la inscripción de ese formulario, si es posible encontrar la información contenida en el Sistema Electrónico de Operaciones Garantizadas (SEOG) utilizando otros criterios de búsqueda."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Capítulo V",
+      "section": "30",
+      "title": "Artículo 30. Modificación de datos con posterioridad a la inscripción.",
+      "content": "Se puede modificar por medio del formulario electrónico respectivo la información incorporada a la base de datos. En caso que el usuario no quiera hacer una modificación, se seguirá el procedimiento que establezca el reglamento, sin perjuicio de las acciones judiciales que correspondan."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Capítulo V",
+      "section": "31",
+      "title": "Artículo 31. Tasas.",
+      "content": "1. Podrán cobrarse tasas por los servicios prestados por el Sistema Electrónico de Operaciones Garantizadas (SEOG). El reglamento indicará los servicios por los cuales se cobrarán tasas registrales y establecerá el arancel de las mismas. \n 2. El Banco Central del Paraguay (BCP) podrá modificar periódicamente el arancel de tasas registrales. \n 3. El arancel de tasas registrales no podrá ser superior a lo requerido para cubrir los gastos del registro y gastos administrativos. \n 4. El Sistema Electrónico de Operaciones Garantizadas (SEOG) deberá publicar el arancel de tasas registrales en su página electrónica. \n 5. El Sistema Electrónico de Operaciones Garantizadas (SEOG) podrá celebrar acuerdos con cualquier persona física o jurídica para facilitar el trámite de inscripción, incluido el pago de las tasas registrales. \n Capítulo VI \n Disposiciones Finales y Transitorias"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Capítulo VI",
+      "section": "33",
+      "title": "Artículo 33. - Comuníquese al Poder Ejecutivo..",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a siete días del mes de mayo del año dos mil veinte , quedando sancionado el mismo, por la Honorable Cámara de Diputados, a trece días del mes de mayo del año dos mil veinte , de conformidad a lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-198",
+  "type": "statute",
+  "title": "Ley Nº 190 / ESTABLECE UN RÉGIMEN SUCESORIO ESPECIAL PARA LA TRANSMISIÓN DE LOS DERECHOS A LA PENSIÓN, JUBILACIÓN O HABER DE RETIRO ACORDADOS A LOS MUTILADOS Y LISIADOS DE LA GUERRA DEL CHACO, Y DE BIENES DE MENOR CUANTÍA DE LOS MISMOS",
+  "title_en": "Ley Nº 190 / ESTABLECE UN RÉGIMEN SUCESORIO ESPECIAL PARA LA TRANSMISIÓN DE LOS DERECHOS A LA PENSIÓN, JUBILACIÓN O HABER DE RETIRO ACORDADOS A LOS MUTILADOS Y LISIADOS DE LA GUERRA DEL CHACO, Y DE BIENES DE MENOR CUANTÍA DE LOS MISMOS",
+  "short_name": "Ley N° 190",
+  "status": "in_force",
+  "issued_date": "1970-06-15",
+  "in_force_date": "1970-06-15",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/198/ley-n-190-establece-un-regimen-sucesorio-especial-para-la-transmision-de-los-derechos-a-la-pension-jubilacion-o-haber-de-retiro-acordados-a-los-mutilados-y-lisiados-de-la-guerra-del-chaco-y-de-bienes-de-menor-cuantia-de-los-mismos",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. - Los juicios sucesorios de mutilados y lisiados de la guerra del Chaco se iniciaran ante el Juzgado de Paz del último domicilio del causante, mediante presentación escrita, en papel común y sin necesidad de patrocinio de abogado, acompañándose los siguientes recaudos:",
+      "content": "1) Certificado de defunción del causante expedido por el Registro del Estado Civil de las Personas;\n2) Carnet que acredite la calidad del causante como mutilado y lisiado de la guerra del Chaco;\n3) Documentos que acrediten la calidad de herederos.\nSi hubieren bienes inmuebles titulados a nombre del causante se justificara su existencia mediante la presentación de los títulos de propiedad o de un certificado expedido por el Registro General de la Propiedad, y la avaluación fiscal de los mismos, mediante un certificado expedido por la Dirección de Impuesto Inmobiliario."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Vencido el término de diez días, el Juez de Paz correrá vista de todas las actuaciones al agente fiscal de la jurisdicción para que se pronuncie sobre la calidad hereditaria sobre la avaluación de los bienes inventariados.",
+      "content": "Devuelto el expediente, dictará sentencia ajustándose al orden sucesorio fijado en el Código Civil para la transmisión del patrimonio hereditario, sin distinción de hijos legítimos e ilegítimos en lo relativo a la pensión, jubilación o haber de retiro acordado al causante en virtud de la Ley N° 1087."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. - La sentencia dictada por el Juzgado de Paz será apelable dentro de los ocho días. Interpuesto el recurso, se elevaran sin mas tramite los autos al Juzgado de Primera Instancia en lo Civil de la jurisdicción. Dictada la providencia del Juzgado por la que se aboca al caso, las partes dispondrán de tres días para presentar memorial, y oído el agente fiscal se llamara autos para sentencia.",
+      "content": "Todos los términos son perentorios y las actuaciones ante el Juzgado de Primera Instancia en lo Civil se harán bajo patrocinio de abogado."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A NUEVE DE JUNIO DEL AÑO UN MIL NOVECIENTOS SETENTA."
+    }
+  ],
+  "definitions": []
+}

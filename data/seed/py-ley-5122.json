@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-5122",
+  "type": "statute",
+  "title": "Ley Nº 5618 / CREA CUATRO NUEVOS REGISTROS DE CONTRATOS CIVILES Y COMERCIALES EN EL DEPARTAMENTO ALTO PARANÁ",
+  "title_en": "Ley Nº 5618 / CREA CUATRO NUEVOS REGISTROS DE CONTRATOS CIVILES Y COMERCIALES EN EL DEPARTAMENTO ALTO PARANÁ",
+  "short_name": "Ley N° 5618",
+  "status": "in_force",
+  "issued_date": "2016-06-10",
+  "in_force_date": "2016-06-20",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/5122/ley-n-5618-crea-cuatro-nuevos-registros-de-contratos-civiles-y-comerciales-en-el-departamento-alto-parana",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Créanse cuatro, nuevos Registros de Contratos Civiles y Comerciales, en el Departamento Alto Paraná, específicamente para los siguientes distritos:",
+      "content": "- Dos Registros de Contratos Civiles y Comerciales para el Distrito de Ciudad del Este.\n - Dos Registros de Contratos Civiles y Comerciales para el Distrito de Presidente Franco."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los nueve días del mes de diciembre del año dos mil quince, y por la Honorable Cámara de Senadores, a los diecinueve días del mes de mayo del año dos mil dieciséis, queda sancionado, de conformidad con lo dispuesto en el artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

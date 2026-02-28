@@ -1,0 +1,62 @@
+{
+  "id": "py-ley-3758",
+  "type": "statute",
+  "title": "Ley Nº 4390 / DECISION DEL MERCOSUR – CMC – DEC N° 06/09, QUE APRUEBA EL REGLAMENTO DEL FONDO DE AGRICULTURA FAMILIAR DEL MERCOSUR",
+  "title_en": "Ley Nº 4390 / DECISION DEL MERCOSUR – CMC – DEC N° 06/09, QUE APRUEBA EL REGLAMENTO DEL FONDO DE AGRICULTURA FAMILIAR DEL MERCOSUR",
+  "short_name": "Ley N° 4390",
+  "status": "in_force",
+  "issued_date": "2011-08-25",
+  "in_force_date": "2011-08-26",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3758/ley-n-4390-decision-del-mercosur-cmc-dec-n-0609-que-aprueba-el-reglamento-del-fondo-de-agricultura-familiar-del-mercosur",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Aprúebase, la Decisión MERCOSUR – CMC – DEC N° 06/09, que aprueba el “Reglamento del Fondo de Agricultura Familiar del MERCOSUR”, suscrito en ocasión de la XXXVII Reunión del Consejo del Mercado Común del Mercosur, realizada en la ciudad de Asunción, el 24 de julio de 2009; y cuyo texto es como sigue:",
+      "content": "“MERCOSUR/CMC/DEC N° 06/09\n REGLAMENTO DEL FONDO DE AGRICULTURA FAMILIAR DEL MERCOSUR\n VISTO: EI Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones N°s 18/04, 28/04 y 45/08 del Consejo del Mercado Común y las Resoluciones N°s 11/04 y 25/07 del Grupo Mercado Común. \n CONSIDERANDO: \n Que la Resolución GMC N° 11/04 fijó como objetivos de la Reunión Especializada sobre Agricultura Familiar en el MERCOSUR (REAF) el fortalecimiento de las políticas públicas para el sector, y la promoción y facilitación de la comercialización de los productos originarios de la agricultura familiar. \n Que es necesario apoyar los trabajos que viene desarrollando la REAF, con la finalidad de cumplir con dichos objetivos. \n Que con esta finalidad por Decisión CMC N° 45/08 se creó el Fondo de Agricultura Familiar del MERCOSUR (FAF MERCOSUR), para financiar programas y proyectos de estímulo a la agricultura familiar y permitir una amplia participación de los actores sociales en actividades vinculadas al tema. \n EL CONSEJO DEL MERCADO COMUN\n DECIDE:"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPITULO II",
+      "section": "3",
+      "title": "Artículo 3. EI FAF MERCOSUR estará constituido por las contribuciones de los Estados Partes y por la renta financiera generada por el propio Fondo. Las instancias nacionales responsables por los aportes a este Fondo son:",
+      "content": "Argentina: Ministerio de Producción - Subsecretaría de Desarrollo Rural y Agricultura Familiar.\n Brasil: Ministerio do Desenvolvimiento Agrario.\n Paraguay: Ministerio de Agricultura y Ganadería.\n Uruguay: Ministerio de Economía y Finanzas. \n Podrán también integrar el Fondo las contribuciones voluntarias de los Estados Partes, de terceros países, de organismos y otras entidades, toda vez que sean aprobados por el Grupo Mercado Común (GMC), a propuesta de REAF."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPITULO V",
+      "section": "2",
+      "title": "Artículo 2. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el proyecto de Ley por la Honorable Cámara de Senadores, a veintiocho días del mes de abril del año dos mil once, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a veintisiete días del mes de julio del año dos mil once, de conformidad a lo dispuesto en el Artículo 204 de la Constitución Nacional."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPITULO II",
+      "section": "4",
+      "title": "Artículo 4. La contribución ordinaria de cada Estado Parte para constituir el FAF MERCOSUR será determinada conforme a los siguientes criterios:",
+      "content": "Una contribución fija anual por Estado Parte de US$ 15.000 (Dólares de los Estados Unidos de América quince mil). \n Una contribución anual de US$ 300.000 (Dólares de los Estados Unidos de América trescientos mil). \n Que será integrada conforme a los siguientes porcentajes: \n Argentina: 27% \n Brasil: 70%\n Paraguay: 1 % \n Uruguay: 2 %"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPITULO II",
+      "section": "6",
+      "title": "Artículo 6. La primera contribución anual de los Estados Partes para la constitución del FAF MERCOSUR deberá realizarse en un plazo de hasta 180 (ciento ochenta) días posteriores a la firma del acuerdo de administración indicado en el Art. 8°.",
+      "content": "rt. 7°.- En caso de incumplimiento de la contribución anual ordinaria de algún Estado Parte en el plazo estipulado, en el ejercicio siguiente al mismo se impondrá el pago de un adicional del 5 % (cinco por ciento) sobre dicho valor. \n CAPITULO III\n Administración del Fondo"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPITULO III",
+      "section": "9",
+      "title": "Artículo 9. EI organismo administrador del Fondo actuará conforme los criterios establecidos en el “Contrato de Administración del Fondo de la Agricultura Familiar del MERCOSUR”, el que será negociado por la REAF y elevado al GMC para su suscripción.",
+      "content": "CAPITULO IV\n Uso del Fondo"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPITULO IV",
+      "section": "11",
+      "title": "Artículo 11. La REAF deberá presentar al GMC, al final de cada año un informe sobre el uso de los recursos del FAF MERCOSUR.",
+      "content": "CAPITULO V\n Disposiciones Generales"
+    }
+  ],
+  "definitions": []
+}

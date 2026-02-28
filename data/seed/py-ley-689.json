@@ -1,0 +1,50 @@
+{
+  "id": "py-ley-689",
+  "type": "statute",
+  "title": "Ley Nº 45 / ESTABLECE EL DIVORCIO VINCULAR DEL MATRIMONIO",
+  "title_en": "Ley Nº 45 / ESTABLECE EL DIVORCIO VINCULAR DEL MATRIMONIO",
+  "short_name": "Ley N° 45",
+  "status": "in_force",
+  "issued_date": "1991-10-01",
+  "in_force_date": "1991-10-01",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/689/ley-n-45-establece-el-divorcio-vincular-del-matrimonio",
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Son causales de divorcio:",
+      "content": "a) El atentado de uno de los cónyuges contra la vida del otro;\n \nb) La conducta inmoral de uno de los cónyuges o su incitación al otro a cometer adulterio, prostitución u otros vicios o delitos;\n \nc) La sevicia, los malos tratos y las injurias graves;\n \nd) El estado habitual de embriaguez o el uso reiterado de drogas estupefacientes cuando hicieren insoportable la vida conyugal, así como el juego de azar cuando amenace la ruina familiar;\n \ne) La enfermedad mental permanente y grave, declarada judicialmente;\n \nf) El abandono voluntario y malicioso del hogar por cualquiera de los cónyuges;\n \nIncurre también en abandono el cónyuge que faltáse a los deberes de asistencia para con el otro o con sus hijos, o que, condenado a prestar alimentos, se halláse en mora por más de cuatro meses consecutivos, sin causa justificada;\ng) El adulterio; y\n \nh) La separación de hecho por más de un año, sin voluntad de unirse de cualquiera de los cónyuges."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Transcurridos tres años de matrimonio, los cónyuges podrán solicitar conjuntamente al juez su divorcio vincular.",
+      "content": "Los menores emancipados por el matrimonio, solo después de cumplida la mayoridad de ambos podrán plantear la acción.\n \nAntes de dar trámite al juicio de divorcio por presentación conjunta, el juez escuchará separadamente a las partes procurando su reconciliación y fijando un plazo de 30 a 60 días dentro del cual convocará a las partes a una audiencia para que se ratifiquen o no en su voluntad de divorciarse. En caso negativo se archivará el expediente y de lo contrario se dará el trámite correspondiente al juicio.\n \nDeberá observarse lo dispuesto en el artículo 11 de esta ley.\n \nEl divorcio por mutuo consentimiento se reputará en sus efectos como decretado por culpa de ambos cónyuges, pero el juez podrá admitir la culpa de uno solo de los cónyuges si existe convención en este sentido."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Los cónyuges que antes de la vigencia de la presente ley hayan obtenido sentencia que declaró la separación de cuerpos podrán presentarse al juzgado de Primera Instancia en lo Civil y Comercial de Turno, solicitando que se declare el divorcio con el alcance del artículo 1° de esta ley.",
+      "content": "El mismo derecho tendrá uno de los cónyuges cuando hubiere transcurrido más de dos años de la sentencia firme."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Habiendo hijos menores, promovida la demanda de divorcio o antes, en caso de urgencia, los cónyuges o cualquiera de ellos, deberán solicitar ante el juzgado en lo Tutelar del Menor, se dicte resolución provisoria sobre:",
+      "content": "a) Designación de las personas a quien o quienes serán confiados los hijos del matrimonio;\nb) El modo de subvenir las necesidades de los hijos;\n \nc) La cantidad que se debe pasar a título de alimentos a los hijos; \n d) El régimen provisorio de visitas; y\n e) Atribución del hogar conyugal. En caso de controversia será determinado por el juez."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. En caso de vivienda única, propiedad de la sociedad conyugal, el cónyuge que detentare la tenencia de los hijos mientras sean menores de edad, podrá oponerse a su liquidación y partición, quedando a salvo los derechos de terceros anteriores al inicio de la demanda de divorcio.",
+      "content": "El juez ordenará su inscripción en el registro respectivo.\n \nEste derecho cesa a la mayoría de edad de los hijos."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Artículo 24. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la H. Cámara de Diputados a veinte días del mes de agosto del año un mil novecientos noventa y uno y por la H. Cámara de Senadores, sancionándose la Ley, a diez y nueve días del mes de setiembre del año un mil novecientos noventa y uno."
+    }
+  ],
+  "definitions": []
+}

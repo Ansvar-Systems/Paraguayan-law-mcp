@@ -1,0 +1,44 @@
+{
+  "id": "py-ley-1600",
+  "type": "statute",
+  "title": "Ley Nº 1436 / APRUEBA EL ACUERDO ENTRE EL GOBIERNO DE LA REPÚBLICA DEL PARAGUAY Y EL GOBIERNO DE LA REPÚBLICA CHECA",
+  "title_en": "Ley Nº 1436 / APRUEBA EL ACUERDO ENTRE EL GOBIERNO DE LA REPÚBLICA DEL PARAGUAY Y EL GOBIERNO DE LA REPÚBLICA CHECA",
+  "short_name": "Ley N° 1436",
+  "status": "in_force",
+  "issued_date": "1999-06-21",
+  "in_force_date": "1999-06-22",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/1600/ley-n-1436-aprueba-el-acuerdo-entre-el-gobierno-de-la-republica-del-paraguay-y-el-gobierno-de-la-republica-checa",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Apruébase el Acuerdo entre el Gobierno de la República del Paraguay y el Gobierno de la República Checa sobre la supresión de visas para los portadores de pasaportes diplomáticos y oficiales de la República del Paraguay y para los portadores de pasaportes diplomáticos y de servicio de la República Checa, suscrito en Asunción el 21 de octubre de 1998, cuyo texto es como sigue:",
+      "content": "ACUERDO\n ENTRE\n EL GOBIERNO DE LA REPÚBLICA DEL PARAGUAY\n Y\n EL GOBIERNO DE LA REPÚBLICA CHECA\n SOBRE LA SUPRESIÓN DE VISAS PARA LOS PORTADORES\n DE PASAPORTES DIPLOMÁTICOS Y OFICIALES\n DE LA REPÚBLICA DEL PARAGUAY\n Y\n PARA LOS PORTADORES DE PASAPORTES DIPLOMÁTICOS Y DE SERVICIO\n DE LA REPÚBLICA CHECA\n El Gobierno de la República del Paraguay, y\n El Gobierno de la República Checa\n (en adelante “Partes Contratantes”),\n EN EL DESEO de fortalecer las relaciones de amistad entre ambos Estados,\n HAN acordado lo siguiente:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. 1. Los ciudadanos de la República del Paraguay, portadores de pasaportes diplomáticos y oficiales, miembros de la Misión Diplomática o de la Oficina Consular de la República del Paraguay en el territorio de la República Checa podrán permanecer en el territorio de la República Checa durante el período de su misión sin visado.",
+      "content": "Los familiares de estas referidas personas que comparten con ellas el mismo hogar y son ciudadanos de la República del Paraguay, portadores de pasaportes diplomáticos y oficiales, podrán durante el período de la misión de aquellos permanecer en el territorio de la República Checa sin visado.\n 2. Los ciudadanos de la República Checa, portadores de pasaportes diplomáticos y de servicio, miembros de la Misión Diplomática o de la Oficina Consular de la República Checa en el territorio de la República del Paraguay, podrán permanecer en el territorio de la República del Paraguay durante el período de su misión sin visado.\n Los familiares de estas referidas personas que comparten con ellas el mismo hogar y son ciudadanos de la República Checa, portadores de pasaportes diplomáticos y de servicio, podrán durante el período de la misión de aquellos permanecer en el territorio de la República del Paraguay sin visado."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. 1. Cada Parte Contratante puede suspender temporalmente la aplicación del presente Acuerdo, total o parcialmente, por razones de seguridad, de orden público o de salud.",
+      "content": "2. La adopción así como el levantamiento de estas medidas serán comunicadas sin demora a la otra Parte Contratante por la vía diplomática y entrarán en vigor en el día de la recepción de esta comunicación."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. 1. Las Partes Contratantes intercambiarán por la vía diplomática los modelos de pasaportes mencionados en el Artículo 1, en la misma oportunidad en que ambas Partes Contratantes se notifiquen que las condiciones internas para la puesta en vigor del presente Acuerdo han sido cumplidas.",
+      "content": "2. En el caso de la modificación de pasaportes vigentes, las Partes Contratantes intercambiarán los modelos actualizados incluyendo los datos de su utilidad por la vía diplomática a más tardar treinta días antes de su puesta en práctica."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. El presente Acuerdo tendrá una duración indefinida. Cada una de las partes Contratantes podrá denunciar el presente Acuerdo, por escrito por la vía diplomática. El presente Acuerdo perderá su vigencia transcurridos noventa días desde la fecha de la entrega de la notificación a la otra Parte Contratante.",
+      "content": "Suscrito en Asunción, a los 21 días del mes de octubre de 1998, en dos ejemplares originales cada uno en los idiomas español y checo, teniendo las dos versiones la misma validez.\n Fdo.: Por el Gobierno de la República del Paraguay, Dido Florentín Bogado, Ministro de Relaciones Exteriores.\n Fdo.: Firmado por el Gobierno de la República Checa, Jan Kopecky, Embajador."
+    }
+  ],
+  "definitions": []
+}

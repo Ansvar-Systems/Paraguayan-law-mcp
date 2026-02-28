@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-11679",
+  "type": "statute",
+  "title": "Ley Nº 7104 / DECLARA EMERGENCIA NACIONAL EN MATERIA DE CONSUMO DE SUSTANCIAS PSICOACTIVAS, EN TODO EL TERRITORIO DE LA REPÚBLICA DEL PARAGUAY",
+  "title_en": "Ley Nº 7104 / DECLARA EMERGENCIA NACIONAL EN MATERIA DE CONSUMO DE SUSTANCIAS PSICOACTIVAS, EN TODO EL TERRITORIO DE LA REPÚBLICA DEL PARAGUAY",
+  "short_name": "Ley N° 7104",
+  "status": "in_force",
+  "issued_date": "2023-06-06",
+  "in_force_date": "2023-06-09",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/11679/ley-n-7104-declara-emergencia-nacional-en-materia-de-consumo-de-sustancias-psicoactivas-en-todo-el-territorio-de-la-republica-del-paraguay",
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Todos los Organismos o Entidades Públicas, Entes Autónomos, Autárquicos y a Entidades de la Administración Pública Descentralizada, deberán colaborar con el Ministerio de Salud Pública y Bienestar Social, el Ministerio de Educación y Ciencias y la Secretaría Nacional Antidrogas, en la implementación de los planes de acción que se lleven a cabo conforme lo establecido en el Artículo 3° de la presente Ley.",
+      "content": "El Servicio Nacional de Promoción Profesional, dependiente del Ministerio de Trabajo, Empleo y Seguridad Social, prestará cooperación conforme a la finalidad y las atribuciones que les son asignadas legalmente, en coordinación con los órganos de ejecución de la presente Ley."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. El Ministerio de Salud Pública y Bienestar Social deberá gestionar ante la Secretaría Nacional de Administración de Bienes Incautados y Comisados y el Ministerio de Hacienda, los recursos disponibles para el fortalecimiento del Centro Nacional de Prevención y Control de Adicciones, previstos en la Ley Nº 5876/2017 “DE ADMINISTRACIÓN DE BIENES INCAUTADOS Y COMISADOS” y su modificatoria .",
+      "content": "Así también, el Consejo evaluador de proyectos, creado por la Ley mencionada en el párrafo anterior, deberá priorizar, durante la vigencia de la declaración de emergencia, el financiamiento de los programas y proyectos para el cumplimiento de los objetivos previstos en la presente Ley."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veinte días del mes de abril del año dos mil veintitrés , quedando sancionado el mismo por la Honorable Cámara de Diputados, a los diecisiete días del mes de mayo del año dos mil veintitrés , de conformidad con lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

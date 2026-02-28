@@ -1,0 +1,44 @@
+{
+  "id": "py-ley-4786",
+  "type": "statute",
+  "title": "Ley Nº 5578 / USO OBLIGATORIO DE DESFIBRILADOR EXTERNO AUTOMÁTICO (DEA) EN LUGARES DE ACCESO PÚBLICO Y PRIVADO DE CONCURRENCIA MASIVA",
+  "title_en": "Ley Nº 5578 / USO OBLIGATORIO DE DESFIBRILADOR EXTERNO AUTOMÁTICO (DEA) EN LUGARES DE ACCESO PÚBLICO Y PRIVADO DE CONCURRENCIA MASIVA",
+  "short_name": "Ley N° 5578",
+  "status": "in_force",
+  "issued_date": "2016-04-13",
+  "in_force_date": "2016-04-18",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4786/ley-n-5578-uso-obligatorio-de-desfibrilador-externo-automatico-dea-en-lugares-de-acceso-publico-y-privado-de-concurrencia-masiva",
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. La Autoridad de Aplicación.",
+      "content": "La Autoridad de Aplicación de la presente ley será el Ministerio de Salud Pública y Bienestar Social (MSPyBS), la cual en el ámbito de su competencia deberá: \n a) Determinar los parámetros de concurrencia masiva y de alto riesgo en los términos de la presente ley.\n b) Establecer un cronograma para la progresiva implementación en los ámbitos alcanzados por la ley, comenzando por los de mayor concurrencia.\n c) Determinar la capacitación exigida en los términos del artículo 3.° de la presente ley, así como el contenido, duración y certificación de la capacitación técnica.\n d) Determinar qué Dependencia del Ministerio de Salud Pública y Bienestar Social (MSPyBS), ejercerá el control y registro de los Agentes de Auxilio.\n e) Determinar la frecuencia del mantenimiento de los Desfibrilador Externo Automático (DEA), a los efectos de garantizar su seguridad y eficacia. \n f) Identificar las situaciones susceptibles de uso del Desfibrilador Externo Automático (DEA). \n g) Realizar la promoción y difusión de la presente ley.\n h) Suscribir convenios con aquellas instituciones que realicen capacitación al personal y miembros de la comunidad, de acuerdo con los parámetros exigidos.\n i) Establecer cualquier otra disposición que colabore con la mejor implementación de la presente ley."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Son sujetos de la presente ley, las personas físicas o jurídicas, públicas y privadas, que cumplan con las exigencias de la correspondiente reglamentación. Especialmente, los que se detallan a continuación:",
+      "content": "a) Las instituciones educativas en todos sus niveles de enseñanzas.\n b) Los establecimientos de salud.\n c) Los organismos de la administración pública y privada como ministerios y empresas.\n d) Los lugares donde se desarrollan espectáculos o actividades deportivas.\n e) Los cines, teatros, salas de conferencias, clubes y centros culturales con una capacidad superior a las cien personas.\n f) Los casinos, hipódromos, bingos, hoteles y distintos lugares de esparcimiento.\n g) Los shoppings o centros comerciales.\n h) Los countries y barrios cerrados.\n i) Las terminales de transporte (aéreo, fluvial y terrestre).\n Exceptúase de la presente aplicación a las Micro, Pequeñas y Medianas Empresas (MIPYMES)."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Responsabilidad de los Agentes de Auxilio.",
+      "content": "Los Agentes de Auxilio serán las personas designadas, capacitadas y acreditadas como tales por cada establecimiento, para utilizar el Desfibrilador Externo Automático (DEA), en casos de ser necesaria la asistencia a una persona que presentara los síntomas indicados en la reglamentación. \n Los actos, en virtud de los cuales los Agentes de Auxilio prestarán asistencia, no generarán responsabilidad alguna por sus prácticas o manipulaciones, cuando las mismas fueran realizadas en cumplimiento de las normas técnicas vigentes al efecto."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. El incumplimiento de las obligaciones contenidas en la presente ley será sancionado con la imposición de las siguientes medidas:",
+      "content": "a) Apercibimiento.\n b) Multa equivalente a veinte jornales mínimos. Los montos recaudados por este concepto constituirán un fondo para la Autoridad de Aplicación. \n c) Suspensión del establecimiento de concurrencia masiva.\n d) Clausura."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a un día del mes de octubre del año dos mil quince, y por la Honorable Cámara de Senadores, a los diez días del mes de marzo del año dos mil dieciséis, queda sancionado, de conformidad con lo dispuesto en el artículo 207, numeral 1 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

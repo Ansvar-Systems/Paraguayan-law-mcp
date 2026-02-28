@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-3231",
+  "type": "statute",
+  "title": "Ley Nº 1124 / CONCEDE Y AUMENTA PENSIÓN GRACIABLE A VARIAS PERSONAS.",
+  "title_en": "Ley Nº 1124 / CONCEDE Y AUMENTA PENSIÓN GRACIABLE A VARIAS PERSONAS.",
+  "short_name": "Ley N° 1124",
+  "status": "in_force",
+  "issued_date": "1985-08-05",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3231/ley-n-1124-concede-y-aumenta-pension-graciable-a-varias-personas",
+  "provisions": [
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Auméntase la pensión graciable a G. 45.000.- (GUARANIES CUARENTA Y CINCO MIL), mensuales, a las Herederas del extinto Cap. Rva. Emigdio Ojeda Rojas, distribuida en la siguiente forma:",
+      "content": "A la Sra. Hortencia Gabaglio Vda. de Ojeda ... G. 25.000.-\n A la Srta. Blanca Alicia Ojeda Rojas ... G. 20.000.-"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Artículo 27. - Comuníquese al Poder Ejecutivo. - Saldívar. - Cháves. - Galeano. - Ocampos Arbo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS VEINTE Y CINCO DIAS DEL MES DE JULIO DEL AÑO UN MIL NOVECIENTOS OCHENTA Y CINCO."
+    }
+  ],
+  "definitions": []
+}

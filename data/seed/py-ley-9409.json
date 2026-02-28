@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-9409",
+  "type": "statute",
+  "title": "Ley Nº 6624 / MODIFICA EL ARTÍCULO 30 DE LA LEY N° 1334/1998 “DE DEFENSA DEL CONSUMIDOR Y DEL USUARIO”.",
+  "title_en": "Ley Nº 6624 / MODIFICA EL ARTÍCULO 30 DE LA LEY N° 1334/1998 “DE DEFENSA DEL CONSUMIDOR Y DEL USUARIO”.",
+  "short_name": "Ley N° 6624",
+  "status": "in_force",
+  "issued_date": "2020-10-15",
+  "in_force_date": "2020-11-04",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9409/ley-n-6624-modifica-el-articulo-30-de-la-ley-n-13341998-de-defensa-del-consumidor-y-del-usuario",
+  "provisions": [
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Artículo 30. En toda venta o prestación de servicio a crédito, el consumidor tiene derecho a pagar anticipadamente parcial o totalmente lo adeudado. En ambos casos, se procederá a la consiguiente reducción proporcional de los intereses; la reducción proporcional de los intereses consistirá en no considerar los intereses no devengados, en estos casos tampoco podrá ser obstaculizado, limitado, o condicionado al pago de penalización alguna, cualquiera fuere su denominación.",
+      "content": "A los efectos de hacer efectiva la cancelación de la obligación, los intereses a pagarse serán los intereses fraccionarios devengados al momento de la cancelación o anticipo de cuotas parciales o pago de la obligación y sin ningún otro cargo adicional ni penalización. La tasa nominal, en términos anuales o por períodos anuales, deben ser expresados explícitamente en el contrato. \n Hecha la comunicación, por parte del consumidor, de su intención de cancelar anticipadamente la operación de crédito, el proveedor deberá expedir, inmediatamente una liquidación clara, detallada y transparente de la deuda tomando en cuenta la fecha de cancelación. \n El incumplimiento del presente artículo, será considerado como violación a lo que establece la presente ley y sus reglamentaciones. ”"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a un día del mes de julio del año dos mil veinte, y por la Honorable Cámara de Senadores, a un día del mes de octubre del año dos mil veinte, queda sancionado, de conformidad con lo dispuesto en el artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

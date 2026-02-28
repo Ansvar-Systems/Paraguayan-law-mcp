@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-11615",
+  "type": "statute",
+  "title": "Ley Nº 518 / AMPLIA EL CONSEJO DE PRIVATIZACIÓN",
+  "title_en": "Ley Nº 518 / AMPLIA EL CONSEJO DE PRIVATIZACIÓN",
+  "short_name": "Ley N° 518",
+  "status": "in_force",
+  "issued_date": "1994-12-27",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/11615/ley-n-518-amplia-el-consejo-de-privatizacion",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Los trabajadores de las Empresas del Estado Sujetas a Privatización podrán designar dos representantes para integrar el Consejo de Privatización establecido en la Ley Nº 126/91.",
+      "content": "Los representantes de los trabajadores serán electos en votación directa y secreta. \n La convocatoria y contralor de las elecciones estarán a cargo del Sindicato o del Sindicato que tuviera mayor número de afiliados si hubiere más de uno. \n Si no hubiere sindicato, la convocatoria y contralor serán efectuados por el Ministerio de Justicia y Trabajo. \n En las elecciones participarán la totalidad de los trabajadores de la empresa, aun cuando no estuvieren afiliados al sindicato. \n Los representantes así electos, solamente integrarán el Consejo de Privatización para el tratamiento de los asuntos vinculados a la privatización de la respectiva empresa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la H. Cámara de Senadores el veintisiete de octubre del año un mil novecientos noventa y cuatro y por la H. Cámara de Diputados, sancionándose la Ley, el siete de diciembre del año un mil novecientos noventa y cuatro."
+    }
+  ],
+  "definitions": []
+}

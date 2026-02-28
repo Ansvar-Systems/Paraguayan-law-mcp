@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-2946",
+  "type": "statute",
+  "title": "Ley Nº 1081 / CREA LA COMISION NACIONAL DE ENERGIA ATOMICA",
+  "title_en": "Ley Nº 1081 / CREA LA COMISION NACIONAL DE ENERGIA ATOMICA",
+  "short_name": "Ley N° 1081",
+  "status": "in_force",
+  "issued_date": "1965-08-30",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2946/ley-n-1081-crea-la-comision-nacional-de-energia-atomica",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. A la Comisión Nacional de Energía Atómica le compete:",
+      "content": "a) Estudiar los aspectos económicos, financieros y políticos del aprovechamiento industrial de la energía atómica.\n b) Asesorar al Poder Ejecutivo sobre los asuntos relacionados con la energía atómica, sus aplicaciones y las previsiones necesarias para la protección contra los peligros atómicos.\n c) Concertar acuerdos con entidades públicas o privadas para la realización de los planes que concurran a los fines de la Comisión.\n d) Establecer relaciones directas con otras instituciones extranjeras que tengan objetivos afines.\n e) Proponer la designación de delegados, representantes u observadores a conferencias, reuniones y congresos internacionales.\n f) Proponer la designación de comisiones asesoras, permanentes o temporarias integradas por funcionarios públicos u otras personas de reconocida competencia en cuestiones vinculadas con las finalidades de la Comisión.\n g) Dictar reglamentos para:\n 1. la explotación de materiales nucleares\n 2. la importación de materiales nucleares\n 3. la instalación de plantas industriales de energía atómica o cualquier otro establecimiento en que se utilice materiales radio activos.\n 4. el controlar permanente de las actividades relacionadas con sustancias radio activas.\n Estos reglamentos deben ser aprobados por el Poder Ejecutivo.\n h) Preparar el presupuesto de gastos anual de la Comisión y elevarlo al Ministerio de Relaciones Exteriores.\n i) Controlar en toda la República la producción, existencia, comercialización y uso de materiales esenciales vinculados con la utilización de la energía atómica, con arreglo a las leyes que rigen la materia.\n j) Formar el personal científico y técnico.\n k) Proponer al Poder Ejecutivo la nómina de elementos que deban ser declarados materiales nucleares."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Comuníquese al Poder Ejecutivo",
+      "content": "Dada en la sala de sesiones de la Honorable Cámara de Representantes de la Nación, a veintiseis de agosto del año un mil novecientos sesenta y cinco."
+    }
+  ],
+  "definitions": []
+}

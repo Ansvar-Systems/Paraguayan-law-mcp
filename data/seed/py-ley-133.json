@@ -1,0 +1,20 @@
+{
+  "id": "py-ley-133",
+  "type": "statute",
+  "title": "Ley Nº 15 / CREA EL MINISTERIO DE JUSTICIA Y TRABAJO",
+  "title_en": "Ley Nº 15 / CREA EL MINISTERIO DE JUSTICIA Y TRABAJO",
+  "short_name": "Ley N° 15",
+  "status": "in_force",
+  "issued_date": "1948-08-13",
+  "in_force_date": "1948-08-13",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/133/ley-n-15-crea-el-ministerio-de-justicia-y-trabajo",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. - Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la sala de Sesiones de la H. Cámara de Representantes de la Nación Paraguaya a los once días del mes de agosto del año mil novecientos cuarenta y ocho."
+    }
+  ],
+  "definitions": []
+}

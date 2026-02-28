@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-10597",
+  "type": "statute",
+  "title": "Ley Nº 855 / CONCEDE PENSIÓN VITALICIA A LOS EX-PRESIDENTES DE LA REPÚBLICA.",
+  "title_en": "Ley Nº 855 / CONCEDE PENSIÓN VITALICIA A LOS EX-PRESIDENTES DE LA REPÚBLICA.",
+  "short_name": "Ley N° 855",
+  "status": "in_force",
+  "issued_date": "1981-09-01",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/10597/ley-n-855-concede-pension-vitalicia-a-los-ex-presidentes-de-la-republica",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Los Ex-Presidentes de la República gozarán de una pensión mensual vitalicia igual al sueldo establecido en el Presupuesto General de la Nación para el cargo de Presidente de la República.",
+      "content": "Las pensiones acordadas serán actualizadas anualmente de acuerdo a la asignación prevista para el referido cargo en el Presupuesto General de la Nación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones del Congreso Nacional, a los veinte días del mes de Agosto del año un mil novecientos ochenta y uno."
+    }
+  ],
+  "definitions": []
+}

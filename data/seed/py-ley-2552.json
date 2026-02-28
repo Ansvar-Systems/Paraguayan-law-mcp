@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-2552",
+  "type": "statute",
+  "title": "Ley Nº 662 / DE LA PARCELACIÓN PROPORCIONAL DE PROPIEDADES MAYORES",
+  "title_en": "Ley Nº 662 / DE LA PARCELACIÓN PROPORCIONAL DE PROPIEDADES MAYORES",
+  "short_name": "Ley N° 662",
+  "status": "in_force",
+  "issued_date": "1960-08-26",
+  "in_force_date": "1960-08-27",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2552/ley-n-662-de-la-parcelacion-proporcional-de-propiedades-mayores",
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. - A pedido de los propietarios ante el Instituto de Reforma Agraria, el Poder Ejecutivo podrá decretar la suspensión total o parcial de los efectos de esta ley, respecto de aquellas propiedades que por su aislamiento de todo centro de población, por la carencia de comunicaciones o por interesados con derecho a la adquisición de lotes, se irrogaren, gastos inútiles.",
+      "content": "Dicha suspensión será levantada total o parcialmente a medida que el cumplimiento de los fines de esta ley, lo vaya exigiendo, sea conforme a planes de colonización del Instituto de Reforma Agraria, por propietarios o cuando hubiere interés."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. - Serán exigidos del pago de impuesto inmobiliario los compradores de lotes adquiridos de conformidad con esta ley, a favor de los cuales se hubiesen operado la transferencia de dominio mientras dure el pago de las cuotas anuales establecidas en los respectivos contratos. En cada caso el Instituto de Reforma Agraria expedirá un certificado para que se reconozca la eximición.",
+      "content": "Los propietarios quedarán igualmente exentos del pago del impuesto mencionado por las parcelas afectadas a compromisos de venta."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Artículo 17. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la sala de sesiones de la Honorable Cámara de Representantes de la Nación, a veintitrés de agosto del año un mil novecientos sesenta."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-11303",
+  "type": "statute",
+  "title": "Ley Nº 825 / DE PROTECCION DE NO FUMADORES",
+  "title_en": "Ley Nº 825 / DE PROTECCION DE NO FUMADORES",
+  "short_name": "Ley N° 825",
+  "status": "in_force",
+  "issued_date": "1996-01-11",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/11303/ley-n-825-de-proteccion-de-no-fumadores",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. o.- Prohíbese el consumo de tabaco o sus derivados en los lugares que a continuación se enuncian, salvo en aquellos sitios especialmente habilitados para el efecto:",
+      "content": "a) Coliseos cerrados, salas de cine, teatros, bibliotecas, museos y cualquier otro recinto cerrado destinado a actividades públicas;\n b) Las unidades del transporte público de pasajeros, tanto terrestre como aéreo, ferroviario, marítimo y fluvial;\n c) Los espacios cerrados de los centros de enseñanza, como son aulas y salones de conferencias;\n d) Las áreas cerradas de hospitales, sanatorios, centros de salud, puestos de socorro y similares;\n e) Las áreas de atención al público y espacios destinados a reuniones en oficinas estatales;\n f) Dentro de instalaciones cerradas que sirven de expendio al detalle de alimentos, abastos, supermercados y afines;\n g) En los restaurantes, bares o similares se establecerán áreas o zonas separadas para los no fumadores; y,\n h) Los ambientes cerrados de trabajo, como minas, fábricas y talleres."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. o.- En las áreas y sitios descritos en el artículo 1o. deberán fijarse en lugares visibles el texto \"Prohibido Fumar\" o el símbolo que exprese la prohibición del consumo de tabaco o sus derivados, en carteles de un tamaño no menor a 30 cm. de largo por 14 cm. de ancho.",
+      "content": "DE LAS SANCIONES"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el dieciséis de noviembre del año un mil novecientos noventa y cinco y por la Honorable Cámara de Diputados, sancionándose la Ley, el catorce de diciembre del año un mil novecientos noventa y cinco."
+    }
+  ],
+  "definitions": []
+}

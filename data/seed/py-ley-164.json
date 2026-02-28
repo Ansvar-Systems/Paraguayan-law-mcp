@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-164",
+  "type": "statute",
+  "title": "Ley Nº 24 / MODIFICA EL PRESUPUESTO GENERAL DE GASTOS VIGENTE",
+  "title_en": "Ley Nº 24 / MODIFICA EL PRESUPUESTO GENERAL DE GASTOS VIGENTE",
+  "short_name": "Ley N° 24",
+  "status": "in_force",
+  "issued_date": "1948-09-01",
+  "in_force_date": "1948-09-01",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/164/ley-n-24-modifica-el-presupuesto-general-de-gastos-vigente",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. - Amplíase el crédito previsto en el Anexo I, Obras Públicas-Grupo 6.00- del Presupuesto General vigente, Decreto-Ley N° 25.738, del 30 de Marzo de 1.948, en la forma que se expresa a continuación:",
+      "content": "3ª. Clase - OBRAS PÚBLICAS.-\nGRUPO 6.00 - Inmuebles y construcciones.-\n Rubro 6.01 - Adquisición de propiedades para asiento de oficinas públicas, campos y establecimientos en general. Adquisición edificio para el Ministerio de interior, Justicia y Trabajo (de u.s.v. G. 500.000) .................................... G. 500.000.-\n 6.03 - Refección de edificios, puertos, puentes y caminos.-\nPart. 4 - Para refecciones en el Cabildo Nacional \n (de u. s. v. G. 250.000.-) ............................................................... G. 250.000.-\n Part. 5 - Para refecciones en el Palacio de Gobierno y Casa Presidencial (de u. s. v. G. 300.000.-) ............................................................................ G. 300.000.-"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. - Comuníquese al P. E.-",
+      "content": "Dada en la Sala de Sesiones de la Cámara de Representantes a los veinte y siete días del mes de Agosto del Año Mil Novecientos Cuarenta y Ocho.-"
+    }
+  ],
+  "definitions": []
+}

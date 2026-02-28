@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-4634",
+  "type": "statute",
+  "title": "Ley Nº 5208 / ESTABLECE PLAZOS PARA LA DESIGNACION, NOMBRAMIENTO O PRESTACION DE ACUERDOS PARA EL EJERCICIO DE CARGOS PUBLICOS",
+  "title_en": "Ley Nº 5208 / ESTABLECE PLAZOS PARA LA DESIGNACION, NOMBRAMIENTO O PRESTACION DE ACUERDOS PARA EL EJERCICIO DE CARGOS PUBLICOS",
+  "short_name": "Ley N° 5208",
+  "status": "in_force",
+  "issued_date": "2014-06-27",
+  "in_force_date": "2014-07-04",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4634/ley-n-5208-establece-plazos-para-la-designacion-nombramiento-o-prestacion-de-acuerdos-para-el-ejercicio-de-cargos-publicos",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Designación. La Corte Suprema de Justicia deberá designar al miembro del Poder Judicial, Justicia Electoral, Ministerio Público, Sindicatura General de Quiebras y del Ministerio de la Defensa Pública, respectivamente, dentro del plazo de 30 (treinta) días hábiles, contados a partir de la fecha de recepción de la terna propuesta por el Consejo de la Magistratura.",
+      "content": "La Cámara de Diputados deberá designar al Defensor del Pueblo, Contralor y Subcontralor General de la República, respectivamente, dentro del plazo señalado en el párrafo anterior, contados a partir de la recepción de la terna propuesta por la Cámara de Senadores."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Acuerdo constitucional. La Cámara de Senadores deberá prestar o no el acuerdo, dentro del plazo de 30 (treinta) días hábiles, contados a partir de la fecha de la recepción de la comunicación del Presidente de la República, sobre el nombramiento del Fiscal General del Estado, y la designación o proposición de los candidatos a Ministros, Embajadores, Ministros Plenipotenciarios en el exterior, Presidente y Directores del Banco Central del Paraguay, Directores paraguayos de Entidades Binacionales, y los ascensos militares y policiales o cualquier otro cargo.",
+      "content": "El Presidente de la República deberá prestar o no el acuerdo dentro del plazo señalado en el párrafo anterior, contado a partir de la recepción de la comunicación de la Cámara de Senadores sobre la designación de los Ministros de la Corte Suprema de Justicia y Miembros del Tribunal Superior de Justicia Electoral, respectivamente."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a doce días del mes de diciembre del año dos mil trece, quedando sancionado el mismo por la Honorable Cámara de Diputados, a cuatro días del mes de junio del año dos mil catorce, de conformidad con lo dispuesto en el Artículo 211 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

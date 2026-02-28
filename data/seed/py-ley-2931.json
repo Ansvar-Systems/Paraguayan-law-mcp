@@ -1,0 +1,50 @@
+{
+  "id": "py-ley-2931",
+  "type": "statute",
+  "title": "Ley Nº 178 / MODIFICA EL ARTICULO 2o. DE LA LEY No. 144 DEL 12 DE ABRIL DE 1993; Y CONCEDE Y AUMENTA PENSION GRACIABLE A VARIAS PERSONAS",
+  "title_en": "Ley Nº 178 / MODIFICA EL ARTICULO 2o. DE LA LEY No. 144 DEL 12 DE ABRIL DE 1993; Y CONCEDE Y AUMENTA PENSION GRACIABLE A VARIAS PERSONAS",
+  "short_name": "Ley N° 178",
+  "status": "in_force",
+  "issued_date": "1993-06-07",
+  "in_force_date": "1993-06-29",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2931/ley-n-178-modifica-el-articulo-2o-de-la-ley-no-144-del-12-de-abril-de-1993-y-concede-y-aumenta-pension-graciable-a-varias-personas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Modifícase el Artículo 2o. de la Ley No. 144 del 26 de abril de 1993, que queda redactado como sigue:",
+      "content": "\"Art. 2°.- Concédese pensión graciable de G. 400.000 (CUATROCIENTOS MIL GUARANIES) mensuales, a la Señora ELSA ANGELICA MORALES VDA. DE GONZALEZ, esposa del ex-diputado nacional Antonio González Prieto, fallecido en ejercicio de sus funciones\"."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Artículo 51. Deróganse las siguientes disposiciones legales:",
+      "content": "Decreto-Ley No. 57 del 31 de marzo de 1986."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Artículo 31. de la Ley No. 1.205/86.",
+      "content": "Decreto No. 63 del 31 de marzo de 1986."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. o. de la Ley 1.319/88.",
+      "content": "Decreto No. 29.401/81."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. o. de la Ley No. 1.362/88.",
+      "content": "Decreto No. 2.213/89."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Artículo 52. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la H. Cámara de Diputados a los trece días del mes de mayo del año un mil novecientos noventa y tres, y por la H. Cámara de Senadores, sancionándose la Ley, a los siete días del mes de junio del año un mil novecientos noventa y tres."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-8442",
+  "type": "statute",
+  "title": "Ley Nº 4711 / SANCIONA EL DESACATO DE UNA ORDEN JUDICIAL",
+  "title_en": "Ley Nº 4711 / SANCIONA EL DESACATO DE UNA ORDEN JUDICIAL",
+  "short_name": "Ley N° 4711",
+  "status": "in_force",
+  "issued_date": "2012-12-13",
+  "in_force_date": "2012-12-18",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/8442/ley-n-4711-sanciona-el-desacato-de-una-orden-judicial",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. DESACATO DE ORDEN JUDICIAL. El que incumpliere una orden escrita dictada en legal forma por una autoridad judicial competente, será castigado con pena privativa de libertad de seis meses a dos años o multa.",
+      "content": "Si el autor cometiere el hecho, mediando apercibimiento escrito y previo de la autoridad judicial correspondiente o fuere un funcionario público, en los términos del Artículo 14, numeral 14 del Código Penal, la pena podrá ser elevada hasta cinco años. \n En los casos del párrafo anterior o cuando el mismo facilitare o posibilitare la comisión de otros hechos punibles, la pena privativa de la libertad también será de hasta cinco años y no será sustituible por la multa. \n La autoridad judicial cuya resolución hubiera sido incumplida informará el hecho al fiscal penal de turno, para que este impulse el procedimiento respectivo bajo el presupuesto de la flagrancia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a doce días del mes de abril del año dos mil doce, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a nueve días del mes de agosto del año dos mil doce, de conformidad a lo dispuesto en el Artículo 211 de la Constitución Nacional. Objetado totalmente por Decreto del Poder Ejecutivo Nº 9609 del 4 de setiembre de 2012. Rechazada la objeción total por la Cámara de Senadores el veinte de setiembre de dos mil doce y por la Honorable Cámara de Diputados el veintiuno de noviembre de dos mil doce, de conformidad a lo establecido en el Artículo 209 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

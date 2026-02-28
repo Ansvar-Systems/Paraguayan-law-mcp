@@ -1,0 +1,147 @@
+{
+  "id": "py-ley-3414",
+  "type": "statute",
+  "title": "Ley Nº 3361 / DE RESIDUOS GENERADOS EN LOS ESTABLECIMIENTOS DE SALUD Y AFINES",
+  "title_en": "Ley Nº 3361 / DE RESIDUOS GENERADOS EN LOS ESTABLECIMIENTOS DE SALUD Y AFINES",
+  "short_name": "Ley N° 3361",
+  "status": "in_force",
+  "issued_date": "2007-11-19",
+  "in_force_date": "2007-11-21",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3414/ley-n-3361-de-residuos-generados-en-los-establecimientos-de-salud-y-afines",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPITULO I",
+      "section": "2",
+      "title": "Artículo 2. Principios básicos. El manejo de los residuos generados en los establecimientos de salud y afines, se regirá siempre por los principios básicos de bioseguridad, manejo integral, minimización, cultura del aseo, precaución y prevención.",
+      "content": "Se desarrollarán acciones de educación y capacitación para una gestión de residuos sólidos eficiente, eficaz y sostenible."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPITULO I",
+      "section": "6",
+      "title": "Artículo 6. Residuos excluidos. Quedan excluidas de la presente Ley, las siguientes categorías de residuos generados en los establecimientos de salud y afines:",
+      "content": "a) residuos urbanos;\n b) residuos radiactivos."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPITULO I",
+      "section": "8",
+      "title": "Artículo 8. Obligatoriedad y prohibición. Es obligatorio el manejo integral de los residuos generados en los establecimientos de salud y afines en todo el territorio nacional.",
+      "content": "Queda prohibida la disposición final, sin tratamiento previo, de residuos generados en los establecimientos de salud y afines, salvo lo previsto para los residuos anatómicos."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPITULO I",
+      "section": "10",
+      "title": "Artículo 10. Disminución de riesgos. Los generadores, transportistas y operadores de sistemas de tratamiento y disposición final de residuos deben disminuir los riesgos de las tareas para el personal, que manipule estos residuos.",
+      "content": "CAPITULO II \n DE LA AUTORIDAD DE APLICACION"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPITULO II",
+      "section": "12",
+      "title": "Artículo 12. Fiscalización. La Autoridad de Aplicación está facultada para hacer cumplir la presente Ley, los reglamentos, las resoluciones y demás disposiciones que de ella deriven.",
+      "content": "Para el fiel cumplimiento de esta Ley, sus reglamentaciones y las decisiones administrativas que se tomen en el marco de las mismas, podrá efectuar inspecciones, vigilancia y disponer medidas precautorias, de seguridad, correctivas o de sanción. Podrá igualmente solicitar la intervención de los agentes fiscales o del orden público para el cumplimiento de su cometido.\n CAPITULO III \n DEL REGISTRO Y HABILITACION"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPITULO III",
+      "section": "15",
+      "title": "Artículo 15. Inhabilitación. Toda persona jurídica que hubiera sido sancionada con inhabilitación para el ejercicio de los servicios definidos en este Capítulo, no podrá desarrollar tanto ella como sus directivos, a título individual, ni formando parte de otras sociedades, actividades reguladas por esta Ley durante el término que dure la inhabilitación, sin perjuicio de las sanciones penales que correspondieran.",
+      "content": "CAPITULO IV \n DE LOS GENERADORES"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPITULO IV",
+      "section": "17",
+      "title": "Artículo 17. Responsabilidad. El generador será responsable del manejo integral de los residuos desde su generación hasta su disposición final. En caso de que el generador tercerice el servicio de manejo de residuos, sólo podrá hacerlo a partir de la recolección, transporte, tratamiento y disposición final de los mismos, en cuyo caso, la parte tercerizada conllevará la transferencia de la responsabilidad a la persona física o jurídica contratada.",
+      "content": "La municipalidad en su jurisdicción o distrito, será responsable de la recolección externa, transporte, tratamiento y disposición final de los residuos cuando los generadores se vean imposibilitados de realizar dicha actividad por sí mismos o a través de terceros."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPITULO IV",
+      "section": "18",
+      "title": "Artículo 18. Clasificación de los establecimientos generadores. Los establecimientos de salud y afines se clasifican en:",
+      "content": "Nivel I: consultorios médicos, odontológicos y similares, dispensarios, farmacias y distribuidores, clínicas veterinarias, laboratorios clínicos que realicen de uno hasta cincuenta análisis al día, y establecimientos de salud de una a cinco camas. Locales de acupuntura, tatuajes y similares.\n Nivel II: establecimientos de salud que tengan de seis a cincuenta camas, institutos radiológicos, laboratorios clínicos de cincuenta a cien análisis al día y bancos de sangre. Representación de medicamentos farmacéuticos y biológicos.\n Nivel III: hospitales que tengan más de cincuenta camas, laboratorios de producción farmacéutica, laboratorios clínicos con más de cien análisis al día, centros antirrábicos y centros de enseñanza e investigación.\n CAPITULO V \n DEL MANEJO INTEGRAL"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "CAPITULO V",
+      "section": "24",
+      "title": "Artículo 24. Planilla de generación de residuos. Todo generador de residuos deberá contar con una planilla que registre el movimiento diario de ingreso y salida de los residuos del área de almacenamiento temporal.",
+      "content": "CAPITULO VI \n TRANSPORTE"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPITULO VI",
+      "section": "27",
+      "title": "Artículo 27. Trasbordo de residuos. Cuando por accidentes en la vía pública, desperfectos mecánicos u otros imprevistos sea necesario el trasbordo de residuos generados en establecimientos de salud y afines de una unidad transportadora a otra, ésta debe ser de similares características. Queda bajo responsabilidad del transportista la inmediata notificación a la Autoridad de Aplicación, así como la limpieza y desinfección del área afectada por derrames que pudieran ocasionarse. La empresa debe estar preparada para la aplicación inmediata del plan de contingencia para la disminución del riesgo.",
+      "content": "CAPITULO VII \n ESTACIONES DE TRANSFERENCIA"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPITULO VII",
+      "section": "28",
+      "title": "Artículo 28. Estaciones de transferencia. Es el lugar destinado a almacenar los residuos generados en establecimientos de salud y afines por un período determinado; pero fuera del mismo, cuando ello fuere necesario para hacer más eficiente el servicio del transporte de dichos residuos.",
+      "content": "Las estaciones de transferencia deberán contar con la habilitación por parte de la Autoridad de Aplicación.\n Sólo se podrán almacenar en las estaciones de transferencia, residuos generados dentro del territorio nacional.\n CAPITULO VIII \n DEL TRATAMIENTO Y DISPOSICION FINAL"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "CAPITULO VIII",
+      "section": "30",
+      "title": "Artículo 30. Opciones de tratamiento. El generador podrá optar para el tratamiento de sus residuos con las siguientes alternativas:",
+      "content": "1. Tratamiento in situ por el generador. \n 2. Tercerizado a través de operadores públicos o privados."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "CAPITULO VIII",
+      "section": "36",
+      "title": "Artículo 36. Disposición final. Los residuos generados en establecimientos de salud y afines, una vez tratados, son equiparables a los residuos sólidos urbanos, y su disposición final se realizará en el sitio habilitado para el efecto.",
+      "content": "CAPITULO IX \n DEL MANIFIESTO"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPITULO IX",
+      "section": "38",
+      "title": "Artículo 38. Contenido del manifiesto. Sin perjuicio de otras disposiciones que determine la Autoridad de Aplicación, el manifiesto deberá ser numerado y en triplicado y contendrá cuanto menos:",
+      "content": "1. Datos identificatorios del generador, el transportista y el operador del sistema de tratamiento de residuos. \n 2. Nombre, dirección y número de inscripción en el registro respectivo.\n 3. Denominación de los residuos generados a ser transportados, acorde con lo declarado en el Registro.\n 4. Cantidad en unidades de peso de los residuos generados y a ser transportados.\n 5. Identificación y matrícula del vehículo transportador.\n 6. Firmas del generador, del transportista y del responsable de la planta de tratamiento.\n 7. Fecha y hora de retiro de los residuos del establecimiento de salud.\n CAPITULO X \n DE LAS INFRACCIONES Y LAS SANCIONES"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "CAPITULO X",
+      "section": "39",
+      "title": "Artículo 39. Incumplimiento. Las sanciones que establece la presente Ley son las siguientes:",
+      "content": "a) apercibimiento; \n b) multa de hasta cien jornales mínimos legales, establecidos para actividades diversas no especificadas en la República;\n c) suspensión de la actividad, de treinta a ciento ochenta días, según la gravedad;\n d) inhabilitación temporal o definitiva para la actividad.\n Las sanciones mencionadas precedentemente serán aplicadas por el Ministerio de Salud Pública y Bienestar Social, conforme al ámbito de aplicación y, atendiendo a las circunstancias de cada caso."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "CAPITULO X",
+      "section": "48",
+      "title": "Artículo 48. De los ingresos. Los fondos provenientes de las multas aplicadas serán percibidos por la Autoridad de Aplicación, e ingresarán en una cuenta especial habilitada para el efecto en el Banco Central del Paraguay. Estos fondos serán utilizados exclusivamente para la fiscalización e implementación de esta Ley.",
+      "content": "CAPITULO XI \n AREA DE RESERVA"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "CAPITULO XI",
+      "section": "49",
+      "title": "Artículo 49. Area de reserva. A partir de la sanción y promulgación de la presente Ley, los municipios están obligados a destinar un espacio físico dentro del ejido de su jurisdicción para el tratamiento y disposición final de los residuos generados por los establecimientos de salud y afines asentados en su distrito, cuyas dimensiones y características dependerán del volumen y del tipo del proyecto a ser implementado.",
+      "content": "CAPITULO XII \n DISPOSICIONES COMPLEMENTARIAS Y TRANSITORIAS"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "CAPITULO XII",
+      "section": "53",
+      "title": "Artículo 53. Definiciones.",
+      "content": "1. Bioseguridad. La bioseguridad comprende un conjunto de medidas preventivas básicas, con el objetivo de proteger la salud humana y ambiental frente a diferentes riesgos producidos por bacterias, virus, parásitos, hongos, agentes físicos, mecánicos y químicos.\n 2. Disposición final. Acción de depositar o confinar permanentemente residuos en sitios e instalaciones, cuyas características permitan prevenir su liberación al ambiente y las consecuentes afecciones a la población.\n 3. Habilitación. Es el permiso que se otorga por el Ministerio de Salud Pública y Bienestar Social para el ejercicio de la actividad, del manejo integral de los residuos generados en los establecimientos de salud y afines.\n 4. Medicamentos biológicos. Es la sustancia de origen biológico producida para la prevención de enfermedades.\n 5. Minimización. Es un procedimiento tendiente a reducir la cantidad de residuos generados, ya sea por la aplicación de medidas de orden en el manejo de los residuos o en la disminución de la utilización de insumos.\n 6. Residuos anatómicos. Son todos aquellos órganos y partes del cuerpo humano o animal que se remueven durante las necropsias, la cirugía o algún otro tipo de intervención, muestras de patologías. \n Los cadáveres de pequeñas especies animales provenientes de clínicas veterinarias, centros antirrábicos o los utilizados en los centros de investigación.\n 7. Residuos comunes. Son aquellos residuos generados en un establecimiento de salud provenientes de tareas de administración o limpieza en general, talleres, de la preparación de los alimentos, embalajes, yesos, envases de suero y cenizas.\n 8. Residuos no anatómicos. Equipos, material y objetos utilizados durante la atención a humanos o animales. Los equipos y dispositivos desechables utilizados para la exploración y toma de muestras biológicas, productos derivados de la sangre; incluyendo plasma, suero y paquete globular, los materiales con sangre o sus derivados, así como los recipientes que los contienen o contuvieron.\n Los cultivos y cepas almacenadas de agentes infecciosos generados en los procedimientos de diagnóstico e investigación, así como los generados en la producción de medicamentos biológicos. Los instrumentos y aparatos para transferir, inocular y mezclar cultivos. Las muestras de análisis de tejidos y fluidos corporales resultantes del análisis, excepto orina y excremento negativos. Los medicamentos biológicos y los envases que los contuvieron que no sean de vidrio. \n 9. Residuos peligrosos. Son compuestos químicos como: reactivos y sustancias de laboratorios, medicamentos vencidos, reactivos vencidos, envases que contuvieron sustancias químicas, placas radiográficas, líquido fijador, termómetros rotos y amalgamas. \n 10. Residuos punzocortantes. Son aquellos objetos cortantes o punzantes que han estado en contacto con humanos o animales o sus muestras biológicas, durante el diagnóstico y tratamiento, incluyendo navajas, lancetas, bisturís, jeringas con agujas irremovibles, agujas hipodérmicas, agujas de sutura, puntas de equipos de venoclisis, y catéteres con agujas, pipetas Pasteur, cajas de Petri, cristalería entera o rota, porta y cubre objetos, tubos de ensayo y similares, contaminados.\n 11. Separación en origen. Consiste en separar los residuos de establecimientos de salud y afines, desde el momento de su generación, en recipientes específicos para su manejo integral. \n 12. Tercerización. Cuando el generador destina a un tercero la tarea total o parcial del manejo integral de los residuos generados en el establecimiento.\n 13. Tratamiento in situ. Es el tratamiento de los residuos dentro del predio del establecimiento y realizado por el generador."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "CAPITULO XII",
+      "section": "55",
+      "title": "Artículo 55. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a diecinueve días del mes de julio del año dos mil siete, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a diecisiete días del mes de octubre del año dos mil siete, de conformidad a lo dispuesto en el Artículo 207 numeral 2), de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-652",
+  "type": "statute",
+  "title": "Ley Nº 1821 / ESTABLECE LA UTILIZACIÓN OBLIGATORIA DE TACÓMETRO PARA CIERTOS AUTOMOTORES",
+  "title_en": "Ley Nº 1821 / ESTABLECE LA UTILIZACIÓN OBLIGATORIA DE TACÓMETRO PARA CIERTOS AUTOMOTORES",
+  "short_name": "Ley N° 1821",
+  "status": "in_force",
+  "issued_date": "2001-11-07",
+  "in_force_date": "2001-11-08",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/652/ley-n-1821-establece-la-utilizacion-obligatoria-de-tacometro-para-ciertos-automotores",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Dispónese la utilización obligatoria de tacómetros para registro de velocidades superiores a la máxima permitida de ochenta kilómetros por hora, para los siguientes automotores:",
+      "content": "a) camiones de transporte de carga de diez o más toneladas;\nb) vehículos que transporten sustancias explosivas o inflamables;\nc) vehículos de transporte público de pasajeros con capacidad para veinte o más pasajeros; y,\nd) camiones con acoplado."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a cuatro días del mes de octubre del año dos mil uno, quedando sancionado el mismo por la Honorable Cámara de Diputados, a treinta días del mes de octubre del año dos mil uno, de conformidad a lo dispuesto en el Artículo 207, numeral 1) de la Constitución Nacional.\n \n \n \n \n Archivos adjuntos Antecedente \n Antecedente de la Ley Nº 00000001821 \n \n \n \n \n \n- Acápite: Que establece el control de velocidades para camiones de cargas, cisternas y de pasajeros en las rutas del país\n \n \n \n \n \n \n- Fecha de sanción: 30/10/01\n \n \n \n \n \n \n- Camara: Diputados\n \n \n \n \n \n \n- Presentado por: Diputados Paul Sarubbi y Eduardo González\n \n \n \n \n \n \n- Codigo de Expediente: Pp143-01"
+    }
+  ],
+  "definitions": []
+}

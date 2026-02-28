@@ -1,0 +1,68 @@
+{
+  "id": "py-ley-12768",
+  "type": "statute",
+  "title": "Ley Nº 7500/2025 / POR LA QUE SE REGULA LA IMPORTACIÓN, COMERCIALIZACIÓN, POSESIÓN Y USO DE INHIBIDORES DE SEÑALES DE FRECUENCIA Y COMUNICACIÓN.",
+  "title_en": "Ley Nº 7500/2025 / POR LA QUE SE REGULA LA IMPORTACIÓN, COMERCIALIZACIÓN, POSESIÓN Y USO DE INHIBIDORES DE SEÑALES DE FRECUENCIA Y COMUNICACIÓN.",
+  "short_name": "Ley N° 7500/2025",
+  "status": "in_force",
+  "issued_date": "2025-07-17",
+  "in_force_date": "2025-07-28",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/12768/ley-n-75002025-por-la-que-se-regula-la-importacion-comercializacion-posesion-y-uso-de-inhibidores-de-senales-de-frecuencia-y-comunicacion",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Objeto.",
+      "content": "La presente ley tiene por objeto regular la importación, la comercialización, la posesión y el uso de inhibidores de señales de frecuencia y comunicación, de conformidad a los términos expuestos en la presente ley."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Definición.",
+      "content": "A los efectos de la presente ley se entenderá como inhibidores de señales de frecuencia y comunicación, a los dispositivos electrónicos capaces de generar intencionalmente interferencias perjudiciales a servicios de radio comunicaciones en bandas de frecuencia específicas del espectro radioeléctrico, comprendido desde 8,3 (ocho coma tres) KHz a 3.000 (tres mil) GHz, con el objeto de bloquear o degradar la transmisión y/o recepción de señales radioeléctricas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Sujetos de aplicación.",
+      "content": "La utilización de inhibidores de señales de frecuencia y comunicación queda estrictamente limitada a los Organismos y Entidades del Estado encargados del orden público, la seguridad interna y el resguardo de penitenciarías nacionales. \n La instalación y operación de inhibidores de señales de frecuencia y comunicación, deberá contar previamente con la aprobación de la Comisión Nacional de Telecomunicaciones."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Autoridad de aplicación.",
+      "content": "El Ministerio del Interior regulará el ámbito administrativo de control, la Comisión Nacional de Telecomunicaciones regulará el ámbito técnico de reglamentación y control específico, y la Dirección Nacional de Ingresos Tributarios regulará el control sobre la importación de dichos bienes, cada uno dentro del ámbito de sus competencias."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Requisitos.",
+      "content": "A los efectos de la importación y/o comercialización de inhibidores de señales de frecuencia y comunicación, se deberá: \n a) Registrar y obtener la autorización del Ministerio del Interior; y, \n b) Obtener el certificado de registro del equipo otorgado por la Comisión Nacional de Telecomunicaciones."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Prohibiciones.",
+      "content": "Queda prohibida la importación, la comercialización, la posesión y la utilización de inhibidores de señales de frecuencia y comunicación sin contar con la autorización de los organismos de control respectivos, señalados en la presente ley."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Sanción.",
+      "content": "El que importara, comercializara, poseyera y/o utilizara inhibidores de señales de frecuencia y comunicación sin contar con la autorización del organismo de control respectivo, será sancionado con pena privativa de libertad de hasta 3 (tres) años o multa, esto sin perjuicio de las acciones civiles y/o administrativas que pudieran corresponder. \n La importación y/o comercialización indebida de inhibidores de señales de frecuencia y comunicación, será sancionada por la Dirección Nacional de Ingresos Tributarios con pena de multa de hasta 2.000 (dos mil) jornales mínimos diarios para actividades diversas no especificadas."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Vigencia.",
+      "content": "La presente ley entrará en vigencia luego de los 120 (ciento veinte) días de su promulgación."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el proyecto de ley por la Honorable Cámara de Senadores, a los diecinueve días del mes de marzo del año dos mil veinticinco , quedando sancionado el mismo por la Honorable Cámara de Diputados, a diecisiete días del mes de junio del año dos mil veinticinco , de conformidad con lo dispuesto en el artículo 207 numeral 1) de la Constitución."
+    }
+  ],
+  "definitions": []
+}

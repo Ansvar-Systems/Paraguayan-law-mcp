@@ -1,0 +1,77 @@
+{
+  "id": "py-ley-1229",
+  "type": "statute",
+  "title": "Ley Nº 4679 / TRÁMITES ADMINISTRATIVOS.",
+  "title_en": "Ley Nº 4679 / TRÁMITES ADMINISTRATIVOS.",
+  "short_name": "Ley N° 4679",
+  "status": "in_force",
+  "issued_date": "2012-08-17",
+  "in_force_date": "2012-08-21",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/1229/ley-n-4679-tramites-administrativos",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPÍTULO I",
+      "section": "2",
+      "title": "Artículo 2. El Reglamento de Trámites Administrativos (RTA) deberá especificar todo el proceso de cada trámite, etapa por etapa, desde su presentación en Mesa de Entrada hasta su conclusión, con precisión del nombre de la sección, departamento, jefatura o unidad encargada y de la tarea asignada a cada una de ellas.",
+      "content": "Indicará asimismo:\n a) la forma de presentación de la solicitud en caso que existiera un formato especial o formulario para el trámite respectivo. El modelo deberá estar a disposición de los interesados.\n b) Los documentos que deberán acompañarse con la solicitud. \n c) La autoridad, sea director, jefe, encargado o funcionario responsable de cada trámite.\n d) El plazo máximo para que el funcionario responsable de cada etapa o proceso ejecute las acciones o tome las providencias o dicte las resoluciones que le son asignadas."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPÍTULO I",
+      "section": "5",
+      "title": "Artículo 5. El Reglamento de Trámites Administrativos (RTA) fijará plazos razonables para cada una de las etapas del proceso.",
+      "content": "CAPÍTULO II \n DE LA DEMORA INJUSTIFICADA"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO II",
+      "section": "7",
+      "title": "Artículo 7. Incorpórase al Artículo 66 de la Ley N° 1.626/00 “DE LA FUNCIÓN PÚBLICA”, el inciso e), el cual queda redactado como sigue:",
+      "content": "“e) no resolver una solicitud dentro del plazo previsto en la Ley de Trámites Administrativo y su reglamentación respectiva, incluido el período adicional establecido a partir del urgimiento.”"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPÍTULO II",
+      "section": "8",
+      "title": "Artículo 8. Incorpórase al Artículo 68 de la Ley N° 1.626/00 “DE LA FUNCIÓN PÚBLICA”, el inciso m), el cual queda redactado como sigue:",
+      "content": "“m) no resolver una solicitud dentro del plazo previsto en la Ley de Trámites Administrativos y su reglamentación respectiva, incluido el período adicional establecido a partir del urgimiento.”"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPÍTULO II",
+      "section": "9",
+      "title": "Artículo 9. Incorpórase al Artículo 69 de la Ley N° 1.626/00 “DE LA FUNCIÓN PÚBLICA” el siguiente párrafo final.",
+      "content": "“La falta establecida en el inciso m) del artículo anterior, será sancionado con la destitución en caso que se cometiera la misma dos veces en el mismo año calendario.”"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPÍTULO II",
+      "section": "10",
+      "title": "Artículo 10. Luego de vencido el plazo con posterioridad al urgimiento, el solicitante podrá solicitar la apertura del sumario administrativo mediante petición dirigida directamente a la Secretaría de la Función Pública, la que estará obligada a iniciarlo dentro del perentorio plazo de treinta días, siempre que de las constancias presentadas por el solicitante o del informe de la máxima autoridad jerárquica del funcionario surjan indicios de la posible comisión de la infracción denunciada.",
+      "content": "CAPÍTULO III \n DE LA PERENCIÓN DE LA INSTANCIA ADMINISTRATIVA"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPÍTULO III",
+      "section": "17",
+      "title": "Artículo 17. Las disposiciones del presente Capítulo no se aplicarán a aquellos procedimientos establecidos en leyes especiales que regulen la perención de instancia administrativa.",
+      "content": "CAPÍTULO IV \n GESTION, TRÁMITES ELECTRÓNICOS Y DISPOSICIONES TRANSITORIAS"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPÍTULO IV",
+      "section": "19",
+      "title": "Artículo 19. Reglamentación de uso de medios electrónicos. La utilización de recursos tecnológicos para la gestión pública, se conducirá conforme a la legislación específica que se sancione para regularlos o la reglamentación que en su defecto dicte el Poder Ejecutivo.",
+      "content": "DISPOSICIONES TRANSITORIAS"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "CAPÍTULO IV",
+      "section": "21",
+      "title": "Artículo 21. - Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los quince días del mes de marzo del año dos mil doce, y por la Honorable Cámara de Senadores, a los cinco días del mes de julio del año dos mil doce, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 211 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-894",
+  "type": "statute",
+  "title": "Ley Nº 1331 / MODIFICA LA LEY No. 85 DE FECHA 16 DE DICIEMBRE DE 1991",
+  "title_en": "Ley Nº 1331 / MODIFICA LA LEY No. 85 DE FECHA 16 DE DICIEMBRE DE 1991",
+  "short_name": "Ley N° 1331",
+  "status": "in_force",
+  "issued_date": "1998-09-30",
+  "in_force_date": "1998-10-05",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/894/ley-n-1331-modifica-la-ley-no-85-de-fecha-16-de-diciembre-de-1991",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. o.- Modifícase el numeral 1 del inciso b) del Artículo 1o. de la Ley No. 85 del 16 de diciembre de 1991, que queda redactado de la siguiente forma:",
+      "content": "1. Fíjase la tasa de salida internacional vía aérea por cada pasajero con destino internacional en la suma de US$ 6,00 (seis dólares americanos) o su equivalente en guaraníes, al cambio del día."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. o.- Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veintitrés días del mes de julio del año un mil novecientos noventa y ocho, y por la Honorable Cámara de Diputados, a un día del mes de setiembre del año un mil novecientos noventa y ocho, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

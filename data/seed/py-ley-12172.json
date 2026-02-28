@@ -1,0 +1,44 @@
+{
+  "id": "py-ley-12172",
+  "type": "statute",
+  "title": "Ley Nº 7221 / QUE INSTITUYE EL SISTEMA DE IDENTIFICACIÓN ANIMAL DEL PARAGUAY",
+  "title_en": "Ley Nº 7221 / QUE INSTITUYE EL SISTEMA DE IDENTIFICACIÓN ANIMAL DEL PARAGUAY",
+  "short_name": "Ley N° 7221",
+  "status": "in_force",
+  "issued_date": "2023-12-21",
+  "in_force_date": "2023-12-21",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/12172/ley-n-7221-que-instituye-el-sistema-de-identificacion-animal-del-paraguay",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Créase el Sistema de Identificación Animal del Paraguay, cuya finalidad es identificar y registrar animales de diversas especies dentro del país, que entrará en vigencia a partir de la promulgación de la presente ley.",
+      "content": "La identificación se implementará inicialmente al ganado bovino, pudiendo abarcar a otras especies con potencial productivo, como ovinos, caprinos, equinos, entre otras.\n \n El Servicio Nacional de Calidad y Salud Animal será el organismo de aplicación de la presente ley, quedando a su cargo la elaboración de la reglamentación de la misma."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. La identificación, a los efectos de la presente ley, es el acto por el cual se individualiza a un animal con respecto de otro o de otros, con el fin de construir la trazabilidad del mismo durante todo el proceso productivo, a fin de asegurar la sanidad animal, inocuidad alimentaria, bienestar animal y ambiental.",
+      "content": "A los efectos de la presente ley, la trazabilidad es una herramienta o conjunto de procesos que permiten identificar los animales o sus productos a lo largo de la cadena de producción y comercialización."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. La Comisión Interinstitucional para la Erradicación de la Fiebre Aftosa tendrá además las siguientes funciones:",
+      "content": "a) Administrar los recursos del fondo del Sistema de Identificación de Animales del Paraguay.\n \n b) Participar conjuntamente con el Servicio Nacional de Calidad y Salud Animal, de las licitaciones públicas o compras directas de los insumos para el Sistema de Identificación Animal del Paraguay.\n \n c) Aprobar a propuesta del Servicio Nacional de Calidad y Salud Animal la delegación de funciones operativas del Sistema de Identificación Animal del Paraguay.\n \n d) Participar en la reglamentación de las disposiciones de la presente ley.\n \n e) Participar de la elaboración del presupuesto anual destinado al Sistema de Identificación Animal del Paraguay."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Es responsabilidad del propietario o tenedor de los animales identificados, comunicar a la autoridad competente la pérdida, sustracción, mal funcionamiento o deterioro de los dispositivos de identificación individual, en el tiempo y forma que establezca la reglamentación.",
+      "content": "El retiro o reemplazo de los dispositivos por parte de personas no autorizadas y sin comunicación previa a la autoridad de aplicación, así como la adulteración y/o clonación de los dispositivos y/o la información contenida en ellos, serán sancionadas conforme a las reglas del capítulo VII, De las Infracciones y Sanciones, de la Ley Nº 2426/2004 “QUE CREA EL SERVICIO NACIONAL DE CALIDAD Y SALUD ANIMAL (SENACSA)” y su respectiva reglamentación."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los veinticinco días del mes de octubre del año dos mil veintitrés, quedando sancionado el mismo por la Honorable Cámara de Diputados, a quince días del mes de noviembre del año dos mil veintitrés, de conformidad con lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-980",
+  "type": "statute",
+  "title": "Ley Nº 677 / SOBRE PROPIEDAD POR PISOS Y POR DEPARTAMENTOS.",
+  "title_en": "Ley Nº 677 / SOBRE PROPIEDAD POR PISOS Y POR DEPARTAMENTOS.",
+  "short_name": "Ley N° 677",
+  "status": "in_force",
+  "issued_date": "1960-09-21",
+  "in_force_date": "1960-09-21",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/980/ley-n-677-sobre-propiedad-por-pisos-y-por-departamentos",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Cada propietario será titular del dominio exclusivo de su piso o departamento y copropietario de las cosas de uso común y de aquellas necesarias para su seguridad. Se consideran comunes:",
+      "content": "a) El terreno, cimiento, muros maestros, techos, patios solares, azoteas, pórticos, galerías y vestíbulos comunes, escaleras, puertas de entradas, jardines;\n b) Instalaciones de servicios centrales como ascensores, montacargas, calefacción y refrigeración, aguas corrientes, gas, hornos incineradores de residuos, central telefónica;\n c) Dependencia del portero y de la administración; y\n d) Los tabiques y muros divisorios de los distintos departamentos.\n La presente enumeración no es limitativa, debiendo en cada caso determinarse el carácter común por convención de partes."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Queda prohibido a cada propietario, inquilino y ocupante de los pisos o departamentos:",
+      "content": "a) Hacer modificaciones que puedan poner en peligro la seguridad del edificio y de los servicios comunes;\n b) Cambiar o modificar la estructura arquitectónica externa;\n c) Destinarlos a usos contrarios a la moral y buenas costumbres o a fines distintos a los previstos en el reglamento de co-propiedad y administración.\n d) Perturbar la tranquilidad de los ocupantes y vecinos con ruidos molestos y depositar mercaderías peligrosas para el edificio.\n e) Elevar nuevos pisos o realizar construcciones sin el consentimiento de los propietarios de los otros pisos o departamentos."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. El reglamento deberá disponer obligatoriamente los siguientes puntos:",
+      "content": "a) El nombramiento de un apoderado o representante de los propietarios que pueden ser uno de ellos o un extraño, que tendrá facultad de administrar los bienes de uso común y recaudar los fondos para tal fin;\n b) Fijar la remuneración del apoderado o representante, duración de sus funciones, forma de remoción, facultades para actuar ante organismos administrativos y judiciales y designación de un substituto;\n c) Proporción y base para la contribución de los propietarios para el pago de los gastos o expensas comunes;\n d) Designación y despido del personal de servicio;\n e) El procedimiento de convocatoria a reunión de propietarios, forma de elegir su presidente, quien para sesionar deberá contar con mayoría necesaria para modificar el reglamento, y determinación de los casos que requieren una mayoría especial;\n f) Ubicación y enumeración de los pisos, de los departamentos, y de las cosas comunes, así como el uso de las mismas;\n g) Determinación del valor que se atribuye a cada piso o departamento con inclusión de sus partes accesorias;\n Otras facultades que se otorguen al apoderado o administrador de los propietarios."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Artículo 23. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la sala de sesiones de la Honorable Cámara de Representantes de la Nación, a quince de setiembre del año un mil novecientos sesenta."
+    }
+  ],
+  "definitions": []
+}

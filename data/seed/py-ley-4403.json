@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-4403",
+  "type": "statute",
+  "title": "Ley Nº 537 / DECLARA OBLIGATORIA LA INCLUSIÓN DEL SEGURO DEL INSTITUTO DE PREVISIÓN SOCIAL, A TODOS LOS MAESTROS Y CATEDRÁTICOS DEL MAGISTERIO PRIMARIO Y NORMAL DE LA REPÚBLICA",
+  "title_en": "Ley Nº 537 / DECLARA OBLIGATORIA LA INCLUSIÓN DEL SEGURO DEL INSTITUTO DE PREVISIÓN SOCIAL, A TODOS LOS MAESTROS Y CATEDRÁTICOS DEL MAGISTERIO PRIMARIO Y NORMAL DE LA REPÚBLICA",
+  "short_name": "Ley N° 537",
+  "status": "in_force",
+  "issued_date": "1958-09-19",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4403/ley-n-537-declara-obligatoria-la-inclusion-del-seguro-del-instituto-de-prevision-social-a-todos-los-maestros-y-catedraticos-del-magisterio-primario-y-normal-de-la-republica",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. En caso de enfermedad o accidente en general, el Seguro proporcionará a los miembros del Magisterio los siguientes beneficios:",
+      "content": "a) Atención médico-quirúrgica, medicamentos y hospitalización dentro de los límites que establecen las disposiciones reglamentarias del Instituto de Previsión Social. La atención por una misma enfermedad durará hasta veinte y seis semanas, que sólo serán prorrogadas atendiendo a las necesidades de recuperación de los enfermos.\n b) Atención dental, consistente en extracciones, obturaciones con amalgama y apertura de focos sépticos.\n c) Las aseguradas recibirán durante el embarazo, parto y puerperio, los mismos beneficios establecidos en la letra a) de este artículo y provisión de leche para el hijo que no pueda amamantar por incapacidad constatada por el médico, como máximo durante los ocho meses siguientes al parto. Cuando el asegurado sea varón casado, su esposa tendrá derecho a acogerse a los mismos beneficios, establecidos en este inciso, durante el embarazo, parto y puerperio.\n d) La presente Ley acuerda a los asegurados como beneficios, los establecidos precedentemente, sin que los enfermos y las parturientas tengan derecho a percibir subsidio en dinero."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la sala de Sesiones de la Honorable Cámara de Representantes a doce de septiembre del año un mil novecientos cincuenta y ocho."
+    }
+  ],
+  "definitions": []
+}

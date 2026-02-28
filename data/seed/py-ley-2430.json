@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-2430",
+  "type": "statute",
+  "title": "Ley Nº 846 / AMPLIA LAS FUNCIONES DEL BANCO NACIONAL DE FOMENTO Y MODIFICA SU CARTA ORGANICA APROBADO POR EL DECRETO-LEY N° 281 DEL 14 DE MARZO DE 1961",
+  "title_en": "Ley Nº 846 / AMPLIA LAS FUNCIONES DEL BANCO NACIONAL DE FOMENTO Y MODIFICA SU CARTA ORGANICA APROBADO POR EL DECRETO-LEY N° 281 DEL 14 DE MARZO DE 1961",
+  "short_name": "Ley N° 846",
+  "status": "in_force",
+  "issued_date": "1962-09-18",
+  "in_force_date": "1962-09-18",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2430/ley-n-846-amplia-las-funciones-del-banco-nacional-de-fomento-y-modifica-su-carta-organica-aprobado-por-el-decreto-ley-n-281-del-14-de-marzo-de-1961",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Modifícase la Carta Orgánica del Banco Nacional de Fomento, sustituyendo en inciso c) del artículo 3° del Decreto – Ley N° 281 del 14 de marzo de 1961, aprobado por la Ley N° 751 del 11 de setiembre de 1961 por el siguiente texto:",
+      "content": "Inciso c) Operaciones de crédito agropecuario:\n 1.- Conceder préstamos en dinero o en especie, de montos limitados, a corto y mediano plazo, destinados a fines productivos de los agricultores, granjeros, tamberos, fructicultores, silvicultores, horticultores y a los pequeños industriales;\n 2.- Realizar en condiciones de libre concurrencia operaciones de compra e importación de implementos, herramientas, máquinas, semillas, fertilizantes e inseciticidas, exclusivamente a los fines del apartado anterior."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones de la Honorable Cámara de Representantes de la Nación, a catorce de Setiembre del año mil novecientos sesenta y dos."
+    }
+  ],
+  "definitions": []
+}

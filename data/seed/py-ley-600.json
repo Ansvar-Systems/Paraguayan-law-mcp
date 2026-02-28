@@ -1,0 +1,42 @@
+{
+  "id": "py-ley-600",
+  "type": "statute",
+  "title": "Ley Nº 4143 / DE ASISTENCIA AL PACIENTE OSTOMIZADO",
+  "title_en": "Ley Nº 4143 / DE ASISTENCIA AL PACIENTE OSTOMIZADO",
+  "short_name": "Ley N° 4143",
+  "status": "in_force",
+  "issued_date": "2010-11-08",
+  "in_force_date": "2010-11-09",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/600/ley-n-4143-de-asistencia-al-paciente-ostomizado",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPITULO I",
+      "section": "2",
+      "title": "Artículo 2. El Ministerio de Salud Pública y Bienestar Social será la autoridad de aplicación de la presente Ley y el responsable de la planificación y ejecución de la asistencia de los pacientes ostomizados en sus servicios dependientes y demás establecimientos de los subsectores públicos y de la seguridad social.",
+      "content": "CAPITULO II \n FINANCIAMIENTO Y ASISTENCIA"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPITULO II",
+      "section": "10",
+      "title": "Artículo 10. Aféctase la mercadería individualizada en el artículo anterior al régimen aduanero de importación directa a consumo previsto en la Sección II, Capítulo I, Título VI de la Ley Nº 2422/04 “CODIGO ADUANERO”, debiendo la autoridad aduanera disponer la liberación de las mercaderías en los plazos y condiciones previstas para este régimen aduanero, sin la exigencia de la presentación de las liberaciones correspondientes de la Subsecretaría de Estado de Tributación (SSET), Dirección Nacional de Aeronáutica Civil (DINAC), Ministerio de Relaciones Exteriores (RREE), Dirección Nacional de Aduanas (DNA), pero no así de la autorización emitida por la Dirección Nacional de Vigilancia Sanitaria (DINAVISA). La presentación de esta autorización será exigida por el Sistema SOFIA – SIS – de la Dirección Nacional de Aduanas (DNA) en el momento de la oficialización o presentación del despacho en la Administración Aduanera correspondiente.",
+      "content": "CAPITULO III \n ACTIVIDAD CIENTIFICA Y CAPACITACION"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPITULO III",
+      "section": "12",
+      "title": "Artículo 12. El Ministerio de Educación y Cultura implementará en los currículos educativos de los establecimientos educacionales bajo su dependencia y las guías de atención del paciente ostomizado.",
+      "content": "CAPITULO IV \n DISPOSICIONES GENERALES Y TRANSITORIAS"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPITULO IV",
+      "section": "15",
+      "title": "Artículo 15. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a nueve días del mes de setiembre del año dos mil diez, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a catorce días del mes de octubre del año dos mil diez, de conformidad a lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

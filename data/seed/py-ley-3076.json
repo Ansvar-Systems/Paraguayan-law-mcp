@@ -1,0 +1,49 @@
+{
+  "id": "py-ley-3076",
+  "type": "statute",
+  "title": "Ley Nº 5400 / DE VIGILANCIA Y PROTECCIÓN DEL ESPACIO AÉREO PARAGUAYO",
+  "title_en": "Ley Nº 5400 / DE VIGILANCIA Y PROTECCIÓN DEL ESPACIO AÉREO PARAGUAYO",
+  "short_name": "Ley N° 5400",
+  "status": "in_force",
+  "issued_date": "2015-02-10",
+  "in_force_date": "2015-02-11",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3076/ley-n-5400-de-vigilancia-y-proteccion-del-espacio-aereo-paraguayo",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPÍTULO I",
+      "section": "2",
+      "title": "Artículo 2. Para los fines establecidos en el artículo anterior, se definen las cuatro tareas básicas aplicadas para el proceso de vigilancia y protección, que siguen normalmente una secuencia ordenada cualesquiera sean los medios del enemigo o propios, y ellos son:",
+      "content": "1) Detección: Es la acción de explorar sistemáticamente el espacio aéreo o un área determinada, con medios electrónicos, visuales o de cualquier otro tipo, con el objeto de determinar la existencia de medios aéreos y sus movimientos.\n 2) Identificación: Es la acción para determinar el dominio, la procedencia y el destino del vector detectado.\n 3) Interceptación: Es la acción de guiar los medios aéreos de defensa aérea para ponerlos en contacto con los medios aéreos detectados y no identificados, a fin de identificarlos y ponerlos bajo el control del Centro de Vigilancia Aérea.\n 4) Interdicción: Es la acción de intervenir la trayectoria de vuelo del vector no identificado, obligándolo a aterrizar en un aeródromo predeterminado mediante señales convencionales."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPÍTULO I",
+      "section": "3",
+      "title": "Artículo 3. La Fuerza Aérea Paraguaya queda facultada a obligar a cualquier aeronave pública o privada, nacional o extranjera, a aterrizar mediante el uso de medidas disuasorias en los siguientes casos:",
+      "content": "a) A solicitud de la autoridad de la Aeronáutica Civil, cuando ésta haya agotado todas las normativas de circulación aérea;\n b) Si fuese sorprendido, arrojando elementos dentro del territorio nacional en infracción a la normativa vigente en la materia;\n c) Si invade el Espacio Aéreo Paraguayo, sin permiso de sobrevuelo o autorización del Control de Tráfico Aéreo;\n d) Si se requiriese la verificación de las documentaciones de la aeronave y la tripulación, manifiestos de cargas y pasajeros; \n e) Si se requiriese la averiguación de posibles ilícitos o se dirige a áreas prohibidas, restringidas y/o puntos considerados vitales por la Defensa Aérea, no acatando las instrucciones del órgano de control."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPÍTULO I",
+      "section": "4",
+      "title": "Artículo 4. Toda aeronave que se dirija hacia un área prohibida, restringida y/o puntos vitales, no respetando las normas reguladoras de vuelo ni las instrucciones de la Autoridad Aeronáutica Militar, será considerada como aeronave hostil.",
+      "content": "CAPÍTULO II"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO II",
+      "section": "7",
+      "title": "Artículo 7. Para dar cumplimiento a lo establecido en los artículos que anteceden, los pilotos de las aeronaves interceptadoras, deberán observar los siguientes pasos básicos:",
+      "content": "a) Acercamiento en vuelo controlado a la aeronave interceptada por detrás y lateralmente;\n b) Verificación visual del tipo de aeronave y matrícula y su comunicación al Centro de Control Área;\n c) Verificándose o no la autorización del vuelo, el piloto de la aeronave interceptadora se adelantará levemente por el lateral, intentando establecer contacto, vía señales convencionales y/o por frecuencia de radio, conforme a las leyes y normas internacionales de circulación aérea;\n d) Si el piloto de la aeronave interceptada no responde a las señales, no toma contacto radio ni acata las instrucciones dadas por el piloto de la aeronave interceptadora, será obligado a aterrizar en un aeródromo especialmente seleccionado para la verificación correspondiente;\n e) Agotados todos los medios legales para la identificación y eventual aterrizaje de la aeronave infractora, o en el caso de que la aeronave cambie de rumbo en actitud de evasión, el piloto de la aeronave interceptadora podrá recurrir a disparos de advertencia con municiones trazadoras, hacia el frente y ligeramente arriba de la aeronave interceptada, a fin de disuadirla, en cumplimiento a las normativas legales referente a la circulación aérea;\n f) En caso de que la aeronave infractora cruce los límites territoriales, el piloto interceptor, comunicará al Centro de Vigilancia Aérea, especificando rumbo, coordenadas, altitud y horario de cruce."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPÍTULO II",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los dieciocho días del mes de diciembre del año dos mil catorce, y por la Honorable Cámara de Senadores, a los tres días del mes de febrero del año dos mil quince, queda sancionado, de conformidad con lo dispuesto en el artículo 207, numeral 1 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

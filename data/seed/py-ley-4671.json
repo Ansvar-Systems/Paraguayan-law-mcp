@@ -1,0 +1,62 @@
+{
+  "id": "py-ley-4671",
+  "type": "statute",
+  "title": "Ley Nº 5098 / DE RESPONSABILIDAD FISCAL",
+  "title_en": "Ley Nº 5098 / DE RESPONSABILIDAD FISCAL",
+  "short_name": "Ley N° 5098",
+  "status": "in_force",
+  "issued_date": "2013-10-29",
+  "in_force_date": "2013-10-31",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4671/ley-n-5098-de-responsabilidad-fiscal",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Ambito de aplicación. Las disposiciones de la presente Ley se aplicarán a los Organismos y Entidades del Estado (OEE), mencionados en el Artículo 3° de la Ley N° 1535/99 \"DE ADMINISTRACION FINANCIERA DEL ESTADO\".",
+      "content": "Capítulo Unico \n Disposiciones Generales"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Capítulo Unico",
+      "section": "4",
+      "title": "Artículo 4. Responsabilidad. Los tres Poderes del Estado, sus dependencias y reparticiones serán responsables por el cumplimiento de los principios y reglas establecidas en la presente Ley.",
+      "content": "La Contraloría General de la República en cumplimiento con lo dispuesto en los Artículos 281 y 283 de la Constitución Nacional velará por el cumplimiento de las disposiciones de la presente Ley."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Capítulo Unico",
+      "section": "6",
+      "title": "Artículo 6. Plurianualidad. La elaboración de los presupuestos anuales en el sector público se enmarcará en un escenario de programación plurianual compatible con el principio de legalidad por el que se rige la aprobación y la ejecución presupuestaria, mediante la utilización de los recursos disponibles con el objeto de promover el crecimiento ordenado y sostenido de la economía, orientado a una gestión pública por resultados.",
+      "content": "Capítulo I \n De la Reglas"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Capítulo I",
+      "section": "7",
+      "title": "Artículo 7. Reglas macrofiscales para la elaboración y aprobación del Presupuesto General de la Nación.",
+      "content": "Las Leyes anuales del Presupuesto General de la Nación, se sujetarán a las siguientes reglas:\n 1. El déficit fiscal anual de la Administración Central, incluidas las transferencias, no será mayor que el 1,5% (uno coma cinco por ciento) del Producto Interno Bruto (PIB) estimado para dicho año fiscal. \n 2. El incremento anual del gasto corriente primario del Sector Público no podrá exceder a la tasa de inflación interanual más el 4% (cuatro por ciento). El gasto corriente primario se define como gasto corriente total excluido el pago de intereses. \n 3. No se podrán incorporar incrementos salariales, excepto cuando se produzca un aumento en el salario vital mínimo y móvil vigente. El aumento será como máximo en la misma proporción y se incorporará en el Presupuesto del siguiente Ejercicio Fiscal."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Capítulo I",
+      "section": "9",
+      "title": "Artículo 9. De la ejecución en años electorales. En años de elecciones generales y municipales, el gasto corriente primario de la Administración Central entre los meses de enero y julio no será mayor al 60% (sesenta por ciento) del Presupuesto aprobado para ese año, excluyendo al Poder Judicial de esta restricción.",
+      "content": "Capítulo II \n De la Programación Fiscal"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Capítulo II",
+      "section": "10",
+      "title": "Artículo 10. Programación fiscal plurianual. La Programación Fiscal Plurianual consolidada de mediano plazo 3 (tres) años será presentada al Congreso de la Nación conjuntamente con el Proyecto de Ley de Presupuesto Anual, diferenciada entre Administración Central y Descentralizada y contendrá lo siguiente:",
+      "content": "a. Las variables macroeconómicas estimadas a lo largo del período, incluirán las siguientes variables: Producto Interno Bruto (PIB) nominal, inflación esperada, crecimiento del Producto Interno Bruto (PIB) real, tipo de cambio, nivel de importaciones.\n b. Todos los gastos corrientes y de capital discriminados por fuente de financiamiento.\n c. El resultado fiscal de la Administración Central no podrá superar en el mediano plazo un déficit promedio del 1% (uno por ciento) del Producto Interno Bruto (PIB).\n d. Las transferencias realizadas a través de la Dirección General del Tesoro Público, dependiente de la Subsecretaría de Estado de Administración Financiera del Ministerio de Hacienda, a los Organismos y Entidades del Estado (OEE), Municipalidades y entidades sin fines de lucro.\n e. Todos los indicadores de gestión presupuestal y de resultado de los programas de mayor impacto, estarán agrupados por funciones o sectores. \n f. Un análisis de la sostenibilidad de la deuda pública.\n Capítulo III \n Disposiciones Finales"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Capítulo III",
+      "section": "15",
+      "title": "Artículo 15. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veintiséis días del mes de setiembre del año dos mil trece, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a veintidós días del mes de octubre del año dos mil trece, de conformidad a lo dispuesto en el Artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

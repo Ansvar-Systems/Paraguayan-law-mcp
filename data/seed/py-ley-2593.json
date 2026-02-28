@@ -1,0 +1,20 @@
+{
+  "id": "py-ley-2593",
+  "type": "statute",
+  "title": "Ley Nº 745 / APRUEBA CON MODIFICACION EL DECRETO-LEY Nº 293 DEL 29 DE MARZO DE 1961, POR EL CUAL SE REAJUSTAN DISPOSICIONES RELATIVAS A LAS JUBILACIONES Y PENSIONES",
+  "title_en": "Ley Nº 745 / APRUEBA CON MODIFICACION EL DECRETO-LEY Nº 293 DEL 29 DE MARZO DE 1961, POR EL CUAL SE REAJUSTAN DISPOSICIONES RELATIVAS A LAS JUBILACIONES Y PENSIONES",
+  "short_name": "Ley N° 745",
+  "status": "in_force",
+  "issued_date": "1951-08-31",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2593/ley-n-745-aprueba-con-modificacion-el-decreto-ley-n-293-del-29-de-marzo-de-1961-por-el-cual-se-reajustan-disposiciones-relativas-a-las-jubilaciones-y-pensiones",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. No son computables a los efectos de las jubilaciones y pensiones, el tiempo de servicio durante el cual los funcionarios y empleados no hubiesen ingresado a la Caja de Jubilaciones y Pensiones, puntual y mensualmente los aportes jubilatorios correspondientes.",
+      "content": "Todas las personas que por disposiciones legales pudieran computar el tiempo de servicio, haciendo sus respectivos aportes para la Caja de Jubilaciones, podrán regularizar antes del 31 de marzo de 1962."
+    }
+  ],
+  "definitions": []
+}

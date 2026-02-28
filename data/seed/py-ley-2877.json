@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-2877",
+  "type": "statute",
+  "title": "Ley Nº 4188 / MODIFICA LA LEY N° 3956/09 GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS EN LA REPUBLICA DEL PARAGUAY",
+  "title_en": "Ley Nº 4188 / MODIFICA LA LEY N° 3956/09 GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS EN LA REPUBLICA DEL PARAGUAY",
+  "short_name": "Ley N° 4188",
+  "status": "in_force",
+  "issued_date": "2010-11-19",
+  "in_force_date": "2010-11-22",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2877/ley-n-4188-modifica-la-ley-n-395609-gestion-integral-de-los-residuos-solidos-en-la-republica-del-paraguay",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Modifícase el Artículo 44 de la Ley N° 3956/09 “GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS EN LA REPUBLICA DEL PARAGUAY”, que queda redactado de la siguiente manera:",
+      "content": "“Art. 44.- La Secretaría del Ambiente, como Autoridad de Aplicación, deberá reglamentar la presente Ley en un plazo de seis meses a partir de su promulgación.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a cinco días del mes de agosto del año dos mil diez, quedando sancionado el mismo por la Honorable Cámara de Diputados, a un día del mes de noviembre del año dos mil diez, de conformidad con lo dispuesto en el Articulo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

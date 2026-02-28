@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-2518",
+  "type": "statute",
+  "title": "Ley Nº 417 / ESTABLECEN NUEVAS NORMAS PARA EL PAGO DE AGUINALDOS A LOS TRABAJADORES PRIVADOS DE LA REPUBLICA.",
+  "title_en": "Ley Nº 417 / ESTABLECEN NUEVAS NORMAS PARA EL PAGO DE AGUINALDOS A LOS TRABAJADORES PRIVADOS DE LA REPUBLICA.",
+  "short_name": "Ley N° 417",
+  "status": "in_force",
+  "issued_date": "1957-05-29",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2518/ley-n-417-establecen-nuevas-normas-para-el-pago-de-aguinaldos-a-los-trabajadores-privados-de-la-republica",
+  "provisions": [
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. El aguinaldo deberá ser liquidado y abonado el último día de trabajo, en los siguientes casos:",
+      "content": "a) cuando el trabajador se retire voluntariamente o sea despedido\n b) cuando se interrumpe el trabajo por terminación de zafra; y\n c) cuando por cualquier otro motivo cese la relación de trabajo entre el empleador y el trabajador."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Artículo 17. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones de la Honorable Cámara de Representantes a los veinticuatro días del mes de mayo del año un mil novecientos cincuenta y siete."
+    }
+  ],
+  "definitions": []
+}

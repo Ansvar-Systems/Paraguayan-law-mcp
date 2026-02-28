@@ -1,0 +1,54 @@
+{
+  "id": "py-ley-4845",
+  "type": "statute",
+  "title": "Ley Nº 2169 / ESTABLECE LA MAYORIA DE EDAD",
+  "title_en": "Ley Nº 2169 / ESTABLECE LA MAYORIA DE EDAD",
+  "short_name": "Ley N° 2169",
+  "status": "in_force",
+  "issued_date": "2003-07-15",
+  "in_force_date": "2003-07-18",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4845/ley-n-2169-establece-la-mayoria-de-edad",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Modificase el Artículo 36 de la Ley N° 1183/85 “Código Civil”, el cual queda redactado de la siguiente manera:",
+      "content": "“Art. 36.- La capacidad de hecho consiste en la aptitud legal de ejercer uno por sí mismo o por si solo sus derechos. Este Código reputa plenamente capaz a todo ser humano que haya cumplido dieciocho años de edad y no haya sido declarado incapaz judicialmente”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Modifícase el Artículo 1° de la Ley N° 1702/01 , el cual queda redactado de la siguiente manera:",
+      "content": "“Art. 1°.- A los efectos de la interpretación y aplicación de la normas relativas a la niñez y a la adolescencia, establecese el alcance de los siguientes términos:\n a) Niño: toda persona humana desde la concepción hasta los trece años de edad;\n b) Adolescente: toda persona humana desde los catorce años hasta los diecisiete años de edad; y,\n c) Mayor de edad: toda persona humana desde los dieciocho años de edad”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Modifícase el Artículo 2° de la Ley N° 1680/01 “Código de la Niñez y la Adolescencia” el cual queda redactado de la siguiente manera:",
+      "content": "“Art. 2°.- En caso de duda sobre la edad de una persona, se presumirá cuanto sigue:\n a) entre niño y adolescente, la condición de niño; y,\n b) entre adolescente y mayor de edad, la condición de adolescente”."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los veintisiete días del mes de marzo del año dos mil tres, quedando sancionado el mismo, por la Honorable Cámara de Diputados a los veintiséis días del mes de junio del año dos mil tres, de conformidad a lo dispuesto en el Artículo 207, numeral 1) de la Constitución Nacional.\n \n \n \n \n Archivos adjuntos Antecedente \n Antecedente de la Ley Nº 00000002169 \n \n \n \n \n \n- Acápite: Que modifica el código civil, el código de la niñez y la adolescencia y otras leyes complementarias relativas a la mayoría de edad\n \n \n \n \n \n \n- Fecha de sanción: 26/06/03\n \n \n \n \n \n \n- Camara: Diputados\n \n \n \n \n \n \n- Presentado por: Diputados Oscar González Daher y Edgar Miguel Ramírez Cabrera\n \n \n \n \n \n \n- Codigo de Expediente: Pp106-03"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Niño",
+      "definition": "toda persona humana desde la concepción hasta los trece años de edad",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Adolescente",
+      "definition": "toda persona humana desde los catorce años hasta los diecisiete años de edad; y,",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Mayor de edad",
+      "definition": "toda persona humana desde los dieciocho años de edad”",
+      "source_provision": "art3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "py-ley-9503",
+  "type": "statute",
+  "title": "Ley Nº 6686 / SANCIONA LA VENTA Y RECARGA DE MEDIOS DE PAGOS ELECTRÓNICOS DEL SISTEMA NACIONAL DE BILLETAJE ELECTRÓNICO A PRECIOS SUPERIORES A LOS FIJADOS OFICIALMENTE",
+  "title_en": "Ley Nº 6686 / SANCIONA LA VENTA Y RECARGA DE MEDIOS DE PAGOS ELECTRÓNICOS DEL SISTEMA NACIONAL DE BILLETAJE ELECTRÓNICO A PRECIOS SUPERIORES A LOS FIJADOS OFICIALMENTE",
+  "short_name": "Ley N° 6686",
+  "status": "in_force",
+  "issued_date": "2021-01-07",
+  "in_force_date": "2021-01-19",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9503/ley-n-6686-sanciona-la-venta-y-recarga-de-medios-de-pagos-electronicos-del-sistema-nacional-de-billetaje-electronico-a-precios-superiores-a-los-fijados-oficialmente",
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Prohibiciones. En lo que respecta al Sistema Nacional de Billetaje Electrónico, quedan prohibidas las siguientes conductas:",
+      "content": "a) Ofrecer y/o vender los medios de pago electrónico, por un precio mayor al fijado para los consumidores finales por las respectivas Empresas Prestadoras del Servicio emisoras de los mismos. \n b) Ofrecer y/o realizar recargas de los medios de pago electrónico, por un monto nominal inferior al valor monetario de la recarga a realizar o realizada."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Denuncias. Quien tuviera conocimiento de la comisión de infracciones cometidas a las prohibiciones establecidas en el Artículo 4° de esta Ley, deberá comunicarlas o denunciarlas a la Secretaría de Defensa del Consumidor y el Usuario (SEDECO), en forma física; a través de su página web institucional o; de una aplicación digital habilitada al efecto, individualizando al supuesto infractor con los datos que hubieran podido relevarse; el sitio en donde ocurrió el ilícito; el precio ofertado; las fotos que hubieran podido obtenerse y otras circunstancias o elementos que pudieran individualizar al infractor y acreditar el acto cometido.",
+      "content": "La Secretaría de Defensa del Consumidor y el Usuario (SEDECO), deberá iniciar el proceso de investigación correspondiente en el plazo de 10 (diez) días hábiles de recibida la comunicación de la transgresión. \n El Ministerio de Tecnologías de la Información y Comunicación (MITIC), asistirá a la Secretaría de Defensa del Consumidor y el Usuario (SEDECO), en la elaboración de los sistemas y mecanismos tecnológicos y digitales que fueran necesarios para habilitar los canales de comunicación o denuncias, previstos en el presente artículo dentro de los 60 (sesenta) días hábiles de la entrada en vigencia de esta Ley."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Sanciones. Las personas físicas o jurídicas que cometieran alguna de las conductas prohibidas en el Artículo 4° de esta Ley, serán sancionadas administrativamente por la Autoridad de Aplicación con multas entre 10 (diez) y 100 (cien) jornales mínimos para actividades diversas no especificadas. El Poder Ejecutivo reglamentará el procedimiento administrativo; establecerá atenuantes, agravantes, tales como la reincidencia y el daño potencial o efectivo generado y; una escala proporcional de multas aplicables conforme al caso.",
+      "content": "La Secretaría de Defensa del Consumidor y el Usuario (SEDECO), creará un registro de acceso público virtual de sujetos infractores de esta Ley, que hubieran sido sancionados administrativamente, el cual deberá ser actualizado mensualmente y en el cual figurarán los datos de identidad de los infractores por un plazo de 3 (tres) años, computados a partir del día en que hubiera quedado firme la sanción."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Retención de los medios electrónicos de pago. La Autoridad de Aplicación, de oficio o a instancia de parte, podrá incautar y retener los medios de pago electrónico que se ofrezcan trasgrediendo la prohibición establecida en el Artículo 4° inciso a), de esta Ley.",
+      "content": "Para el efecto, podrá solicitar el auxilio de la fuerza pública. \n Si fuese necesario el allanamiento de recintos privados, podrá solicitar el mandamiento al Juez de Primera Instancia en lo Civil y Comercial de la circunscripción que correspondiera. \n Los infractores podrán recuperar los medios electrónicos de pago incautados y retenidos, presentando ante la Autoridad de Aplicación el comprobante de compra de los mismos, previo pago de la multa que se le imponga por la infracción cometida."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los diecinueve días del mes de noviembre del año dos mil veinte , quedando sancionado el mismo por la Honorable Cámara de Diputados, a los dieciséis días del mes de diciembre del año dos mil veinte , de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

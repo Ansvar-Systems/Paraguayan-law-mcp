@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-10171",
+  "type": "statute",
+  "title": "Ley Nº 6890 / DECLARA ESTADO DE EMERGENCIA EN TODO EL TERRITORIO DE LA REPÚBLICA DEL PARAGUAY, Y AMPLÍA LA VIGENCIA DE LAS LEYES Nº 6707/2021 “QUE DECLARA BIEN PÚBLICO LA INVESTIGACIÓN, DESARROLLO, FABRICACIÓN Y ADQUISICIÓN PARA LA DISTRIBUCIÓN GRATUITA A LA POBLACIÓN DE LAS VACUNAS CONTRA EL COVID-19” Y SU MODIFICATORIA LEY N° 6727/2021; Y LA LEY Nº 6742/2021 “QUE CREA EL FONDO NACIONAL DE COBERTURA A PACIENTES HOSPITALIZADOS CON COVID-19” Y SU MODIFICATORIA LEY N° 6848/2021 Y FACÚLTASE AL INSTITUTO DE PREVISIÓN SOCIAL (IPS), AL PAGO DE COMPENSACIONES ECONÓMICAS A TRABAJADORES FORMALES SUSPENDIDOS POR AISLAMIENTO PREVENTIVO.",
+  "title_en": "Ley Nº 6890 / DECLARA ESTADO DE EMERGENCIA EN TODO EL TERRITORIO DE LA REPÚBLICA DEL PARAGUAY, Y AMPLÍA LA VIGENCIA DE LAS LEYES Nº 6707/2021 “QUE DECLARA BIEN PÚBLICO LA INVESTIGACIÓN, DESARROLLO, FABRICACIÓN Y ADQUISICIÓN PARA LA DISTRIBUCIÓN GRATUITA A LA POBLACIÓN DE LAS VACUNAS CONTRA EL COVID-19” Y SU MODIFICATORIA LEY N° 6727/2021; Y LA LEY Nº 6742/2021 “QUE CREA EL FONDO NACIONAL DE COBERTURA A PACIENTES HOSPITALIZADOS CON COVID-19” Y SU MODIFICATORIA LEY N° 6848/2021 Y FACÚLTASE AL INSTITUTO DE PREVISIÓN SOCIAL (IPS), AL PAGO DE COMPENSACIONES ECONÓMICAS A TRABAJADORES FORMALES SUSPENDIDOS POR AISLAMIENTO PREVENTIVO.",
+  "short_name": "Ley N° 6890",
+  "status": "in_force",
+  "issued_date": "2022-01-26",
+  "in_force_date": "2022-01-26",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/10171/ley-n-6890-declara-estado-de-emergencia-en-todo-el-territorio-de-la-republica-del-paraguay-y-amplia-la-vigencia-de-las-leyes-n-67072021-que-declara-bien-publico-la-investigacion-desarrollo-fabricacion-y-adquisicion-para-la-distribucion-gratuita-a-la-poblacion-de-las-vacunas-contra-el-covid-19-y-su-modificatoria-ley-n-67272021-y-la-ley-n-67422021-que-crea-el-fondo-nacional-de-cobertura-a-pacientes-hospitalizados-con-covid-19-y-su-modificatoria-ley-n-68482021-y-facultase-al-instituto-de-prevision-social-ips-al-pago-de-compensaciones-economicas-a-trabajadores-formales-suspendidos-por-aislamiento-preventivo",
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. El Poder Ejecutivo y los Organismos y Entidades del Estado (OEE), que ejecuten los fondos previstos en la presente ley presentarán cada sesenta días, desde la promulgación de la misma, sus rendiciones de cuentas con un informe al Congreso y a la Contraloría General de la República (CGR), con toda la documentación de respaldo. Las rendiciones de cuentas finales serán presentadas dentro de los sesenta días de concluida la emergencia. Para el efecto, la Contraloría General de la República (CGR), reglamentará el procedimiento de rendición correspondiente. Esas rendiciones de cuentas serán puestas a disposición de la ciudadanía a través del portal de internet de la Contraloría General de la República (CGR), sin ningún tipo de limitación.",
+      "content": "Durante la vigencia de la presente ley, instrúyase al Ministerio de Tecnologías de la Información y Comunicación (MITIC), a poner a disposición de todos los Organismos y Entidades del Estado (OEE), un portal que permita acceder a toda la información relevante, en formato de datos abiertos, sobre la ejecución presupuestaria correspondiente de los mismos dentro del presente período de emergencia. Esta información deberá ser de acceso a la ciudadanía, sin restricciones de ningún tipo, a través de los medios virtuales correspondientes."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los veinticuatro días del mes de enero del año dos mil veintidós, y por la Honorable Cámara de Senadores, a los veintiséis días del mes de enero del año dos mil veintidós, queda sancionado, de conformidad con lo dispuesto en el artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

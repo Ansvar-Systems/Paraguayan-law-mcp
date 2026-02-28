@@ -1,0 +1,63 @@
+{
+  "id": "py-ley-9615",
+  "type": "statute",
+  "title": "Ley Nº 6749 / DE PEDAGOGÍA HOSPITALARIA",
+  "title_en": "Ley Nº 6749 / DE PEDAGOGÍA HOSPITALARIA",
+  "short_name": "Ley N° 6749",
+  "status": "in_force",
+  "issued_date": "2021-07-09",
+  "in_force_date": "2021-07-14",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9615/ley-n-6749-de-pedagogia-hospitalaria",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "CAPÍTULO I",
+      "section": "1",
+      "title": "Artículo 1. Objeto y Finalidad.",
+      "content": "La presente Ley tiene por objeto garantizar el derecho a la educación de los niños, niñas y jóvenes hospitalizados o en situación de enfermedad, mediante el establecimiento de una pedagogía hospitalaria."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO I",
+      "section": "7",
+      "title": "Artículo 7. Los niños, niñas y jóvenes serán escolarizados en el curso y nivel educativo correspondiente. La propuesta curricular deberá considerar, para cada uno de ellos, una programación ajustada a las características individuales de cada alumno, teniendo en cuenta las necesidades educativas especiales y las condiciones de salud, así como los contenidos curriculares que deban desarrollarse en su curso de origen, debiendo establecerse, entre otros aspectos, las condiciones en las que el estudiante recibirá el apoyo pedagógico, las actividades académicas, recreativas, y otras que les posibiliten la continuidad de sus estudios en el nivel y curso que les corresponda al obtener el alta médica.",
+      "content": "La atención educativa se otorgará en forma individual y/o grupal."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPÍTULO I",
+      "section": "9",
+      "title": "Artículo 9. Las modalidades de atención educativa en un establecimiento educacional hospitalario o aula hospitalaria son:",
+      "content": "a) Aula Hospitalaria: el acto educativo es impartido en una sala de clases del recinto hospitalario. \n b) Sala de Hospitalización: el acto educativo es impartido en la sala cama del recinto hospitalario. \n c) Atención Domiciliaria: el acto educativo es impartido en el domicilio del paciente alumno."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPÍTULO I",
+      "section": "10",
+      "title": "Artículo 10. Los recintos hospitalarios y/o centros especializados de salud, públicos o privados, destinados a la rehabilitación y/o atención de niños, niñas y jóvenes que presenten patologías o condiciones médico-funcionales que requieran permanecer internados, deberán prever y adecuar, dentro de su infraestructura edilicia, un recinto escolar que tendrá como único propósito favorecer la continuidad de los estudios o la escolarización de la enseñanza preescolar, básica, media o educación especial, de los respectivos procesos escolares de estos alumnos.",
+      "content": "El sistema educativo respetará la confidencialidad respecto a los diagnósticos médicos."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPÍTULO I",
+      "section": "15",
+      "title": "Artículo 15. Dedicación horaria del profesorado en la atención domiciliaria.",
+      "content": "a) Preescolar, o básica, o educación especial: mínimo de 4 (cuatro) horas pedagógicas semanales, pudiendo ampliarse conforme a las condiciones del paciente, a más de 4 (cuatro) horas pedagógicas complementarias, las que serán asumidas por la familia, tutores, etc. \n b) Educación media: mínimo de 6 (seis) horas pedagógicas semanales, pudiendo extenderse conforme a las condiciones del paciente, a más de 6 (seis) horas pedagógicas complementarias, las que serán asumidas por la familia, tutores, etc. \n c) La certificación de los estudios será responsabilidad del establecimiento educacional donde el alumno finalice el año lectivo."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPÍTULO I",
+      "section": "17",
+      "title": "Artículo 17. De la evaluación y certificación.",
+      "content": "La evaluación del proceso enseñanza-aprendizaje, se regirá de acuerdo a las normativas vigentes en el sistema educativo, tomando en cuenta los criterios flexibles que se establecen, dadas las características de la educación brindada. \n La calificación y certificación que se otorgue al alumno, corresponderá al nivel educativo que cursa. Para este efecto, se extenderá el mismo formato de certificado que utilizan los establecimientos de educación regular."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "CAPÍTULO I",
+      "section": "22",
+      "title": "Artículo 22. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los tres días del mes de diciembre del año dos mil veinte, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a los veintiséis días del mes de mayo del año dos mil veintiuno, de conformidad a lo dispuesto en el Artículo 211 de la Constitución Nacion al."
+    }
+  ],
+  "definitions": []
+}

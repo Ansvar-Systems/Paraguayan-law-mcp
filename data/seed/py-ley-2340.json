@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-2340",
+  "type": "statute",
+  "title": "Ley Nº 1340 / MODIFICA EL ARTICULO 75 DE LA LEY Nº 476 “CÓDIGO DE NAVEGACIÓN FLUVIAL Y MARÍTIMA”",
+  "title_en": "Ley Nº 1340 / MODIFICA EL ARTICULO 75 DE LA LEY Nº 476 “CÓDIGO DE NAVEGACIÓN FLUVIAL Y MARÍTIMA”",
+  "short_name": "Ley N° 1340",
+  "status": "in_force",
+  "issued_date": "1968-02-19",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2340/ley-n-1340-modifica-el-articulo-75-de-la-ley-n-476-codigo-de-navegacion-fluvial-y-maritima",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Modificase el Articulo 75 de la Ley Nº 476 “Código de Navegación Fluvial y Marítima”, el cual queda redactado así:",
+      "content": "“El practicaje en aguas jurisdiccionales de la república es obligatorio para todas las embarcaciones con propulsión propia, de más de 220 toneladas de arqueo total. Así mismo, las embarcaciones con propia menores de 250 toneladas de arqueo total que remolques en convoy chatas gabarras y otros, embarcarán el o los prácticos correspondientes para su navegación, cuando la suma de los tonelajes de arqueo total de los componentes del convoy sobrepasen las 440 toneladas de arqueo total”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la sala de sesiones de la Honorable Cámara de Representantes de la Nación, a catorce de febrero del año un mil novecientos sesenta y ocho."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-10856",
+  "type": "statute",
+  "title": "Ley Nº 904 / REGLAMENTA EL ARTICULO 210 DE LA CONSTITUCION NACIONAL",
+  "title_en": "Ley Nº 904 / REGLAMENTA EL ARTICULO 210 DE LA CONSTITUCION NACIONAL",
+  "short_name": "Ley N° 904",
+  "status": "in_force",
+  "issued_date": "1996-07-16",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/10856/ley-n-904-reglamenta-el-articulo-210-de-la-constitucion-nacional",
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Si un proyecto de ley con tratamiento de urgencia, aprobado por la Cámara de origen, fuera parcialmente modificado por la otra, el trámite previsto en los incisos 1), 2) y 3) del artículo 207 de la Constitución Nacional se realizará en cada Cámara dentro del plazo perentorio de quince días, a partir de su recepción.",
+      "content": "Transcurrido dicho plazo sin que el proyecto de ley fuera objeto de resolución y remitido a la otra Cámara o al Poder Ejecutivo, se lo tendrá por aprobado en los términos propuestos por el Poder Ejecutivo."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el dieciseis de mayo del año un mil novecientos noventa y seis y por la Honorable Cámara de Diputados, sancionándose la Ley de conformidad al artículo 207 numeral 2) de la Constitución Nacional, el trece de junio del año un mil novecientos noventa y seis."
+    }
+  ],
+  "definitions": []
+}

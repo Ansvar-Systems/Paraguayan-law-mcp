@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-11499",
+  "type": "statute",
+  "title": "Ley Nº 700 / REGLAMENTA EL ARTICULO 105 DE LA CONSTITUCION NACIONAL QUE DISPONE LA PROHIBICION DE DOBLE REMUNERACION",
+  "title_en": "Ley Nº 700 / REGLAMENTA EL ARTICULO 105 DE LA CONSTITUCION NACIONAL QUE DISPONE LA PROHIBICION DE DOBLE REMUNERACION",
+  "short_name": "Ley N° 700",
+  "status": "in_force",
+  "issued_date": "1996-01-04",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/11499/ley-n-700-reglamenta-el-articulo-105-de-la-constitucion-nacional-que-dispone-la-prohibicion-de-doble-remuneracion",
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Los funcionarios o empleados públicos que perciban más de un sueldo o remuneración simultánea serán declarados cesantes con causa justificada en todos sus cargos públicos e inhábiles para la función pública por el plazo de dos años.",
+      "content": "La cesantía así dispuesta no conlleva la pérdida de la antigüedad ni de los aportes jubilatorios realizados por el afectado."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la H. Cámara de Diputados, a trece días del mes de junio del año un mil novecientos noventa y cinco, y por la H. Cámara de Senadores, sancionándose la Ley, de conformidad con lo dispuesto en el Artículo 207, numeral 3) de la Constitución Nacional, a catorce días del mes de setiembre, del año un mil novecientos noventa y cinco."
+    }
+  ],
+  "definitions": []
+}

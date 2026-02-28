@@ -1,0 +1,20 @@
+{
+  "id": "py-ley-978",
+  "type": "statute",
+  "title": "Ley Nº 218 / APRUEBA EL DECRETO LEY N° 18 DEL 27 DE ENERO DE 1954",
+  "title_en": "Ley Nº 218 / APRUEBA EL DECRETO LEY N° 18 DEL 27 DE ENERO DE 1954",
+  "short_name": "Ley N° 218",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/978/ley-n-218-aprueba-el-decreto-ley-n-18-del-27-de-enero-de-1954",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones de la Honorable Cámara de Representantes a los veinte y cinco dias del mes de junio del año un mil novecientos cincuenta y cuatro."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-280",
+  "type": "statute",
+  "title": "Ley Nº 63 / CREA LA POLICIA CAMINERA Y MODIFICA VARIOS ARTICULOS DEL DECRETO LEY N° 22.094",
+  "title_en": "Ley Nº 63 / CREA LA POLICIA CAMINERA Y MODIFICA VARIOS ARTICULOS DEL DECRETO LEY N° 22.094",
+  "short_name": "Ley N° 63",
+  "status": "in_force",
+  "issued_date": "1948-12-31",
+  "in_force_date": "1948-12-31",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/280/ley-n-63-crea-la-policia-caminera-y-modifica-varios-articulos-del-decreto-ley-n-22094",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. - Corresponde a la Policía Caminera hacer cumplir las disposiciones establecidas en el Decreto Ley Nº 22.094, del 17 de septiembre de 1.947, de Reglamentación General de Tránsito Caminero y las disposiciones complementarias relativas al Tránsito en general en la",
+      "content": "red vial de caminos mejorados.-"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Modificanse los Arts. 195, 196 Capítulo XIX, 213, 216, y 217 Capítulo XXI, del Decreto Ley Nº 22.094, del 17 de setiembre de 1947, en la siguiente forma:",
+      "content": "\"Art. 195.- Que a cargo de la Policía Caminera establecer las clases y tipos de Chapas-Patentes para vehículos en general.-"
+    },
+    {
+      "provision_ref": "art216",
+      "section": "216",
+      "title": "Artículo 216. Quedan obligados a denunciar a los infractores:",
+      "content": "a) El personal técnico de la Dirección General de Obras Publicas.\n b) Los Inspectores de la Policía Caminera.\n c) Los Sobrestantes, Capataces camineros, y el personal de la vigilancia de Caminos y Puentes.\n d) Los inspectores Municipales de la Policía de Tránsito.\n e) Los funcionarios Policial de la República.-"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Comuníquese al Poder Ejecutivo.-",
+      "content": "Dada en la Sala de Sesiones de la Honorable Cámara de Representantes a los veinte y nueve días del mes de diciembre del año Mil Novecientos Cuarenta y Ocho."
+    }
+  ],
+  "definitions": []
+}

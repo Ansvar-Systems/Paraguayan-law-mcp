@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-9192",
+  "type": "statute",
+  "title": "Ley Nº 6511 / ESTABLECE DISPOSICIONES GENERALES SOBRE EL OTORGAMIENTO DE VIÁTICOS EN LA ADMINISTRACIÓN PÚBLICA.",
+  "title_en": "Ley Nº 6511 / ESTABLECE DISPOSICIONES GENERALES SOBRE EL OTORGAMIENTO DE VIÁTICOS EN LA ADMINISTRACIÓN PÚBLICA.",
+  "short_name": "Ley N° 6511",
+  "status": "in_force",
+  "issued_date": "2020-04-15",
+  "in_force_date": "2020-04-17",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9192/ley-n-6511-establece-disposiciones-generales-sobre-el-otorgamiento-de-viaticos-en-la-administracion-publica",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. A los efectos de esta ley se entenderá por viático, al monto de dinero que se concede a los funcionarios y empleados públicos, incluyendo a los de elección popular; de los Organismos y Entidades del Estado (OEE), Poder Legislativo, Poder Ejecutivo y Poder Judicial, sus reparticiones y dependencias; Banca Central del Estado, Gobiernos Departamentales, entes autónomos y autárquicos; entidades públicas de seguridad social, empresas públicas, empresas mixtas y entidades financieras oficiales; Universidades Nacionales, Consejo de la Magistratura, Ministerio Público, Justicia Electoral, Jurado de Enjuiciamiento de Magistrados, Defensoría del Pueblo, Contraloría General de la República. Así como también, a los Gobiernos Municipales, personas contratadas sin relación de dependencia, comisionados o trasladados, al personal de las fuerzas públicas, al personal con funciones policiales y especiales de seguridad en comisión de servicio o de seguridad en bancos oficiales y entidades públicas, para atender los gastos personales que les ocasione el desempeño de una comisión oficial de servicio, en lugares alejados de su asiento ordinario de trabajo, de acuerdo a lo establecido en el Clasificador Presupuestario.",
+      "content": "Se podrá extender a: \n a) las personas que sin ser funcionarios públicos, formen parte de las comisiones oficiales, por la necesidad de contar con su concurso para el correcto cumplimiento de la comisión; y, \n b) las víctimas y testigos de los juicios orales."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Los sujetos obligados al cumplimiento del artículo 1° de la presente ley, son personalmente responsables de la correcta utilización de los recursos asignados y de la violación de las normas o procedimientos. Estas serán consideradas faltas graves a los efectos de la Ley N° 1626/2000 “DE LA FUNCIÓN PÚBLICA”, sean cometidas por funcionarios sujetos y no sujetos a la misma.",
+      "content": "El equivalente al monto no rendido o liquidado en forma indebida, más un monto del 10% (diez por ciento), será aplicado en concepto de multa, y deducidos de las asignaciones mensuales del funcionario responsable."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los dos días del mes de octubre del año dos mil diecinueve, y por la Honorable Cámara de Senadores, a los once días del mes de marzo del año dos mil veinte, queda sancionado, de conformidad con lo dispuesto en el artículo 204 de la Constitución."
+    }
+  ],
+  "definitions": []
+}

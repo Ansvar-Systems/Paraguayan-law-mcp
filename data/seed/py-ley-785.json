@@ -1,0 +1,63 @@
+{
+  "id": "py-ley-785",
+  "type": "statute",
+  "title": "Ley Nº 117 / DE INVERSIONES",
+  "title_en": "Ley Nº 117 / DE INVERSIONES",
+  "short_name": "Ley N° 117",
+  "status": "in_force",
+  "issued_date": "1992-01-07",
+  "in_force_date": "1992-01-07",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/785/ley-n-117-de-inversiones",
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPITULO I",
+      "section": "4",
+      "title": "Artículo 4. La inversión privada no requiere autorización previa ni registro adicional a los establecidos en la Ley.",
+      "content": "CAPITULO II \n DE LAS GARANTIAS"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPITULO II",
+      "section": "8",
+      "title": "Artículo 8. Se garantiza un régimen de libre comercio que comprenderá:",
+      "content": "a) la libertad de producción y comercialización de bienes y servicios en general, así como la libre fijación de precios, a excepción de aquellos bienes y servicios cuya producción y comercialización estén regulados por la Ley; y,\nb) la libertad de importación y exportación de bienes y servicios con excepción de aquellos prohibidos por la Ley."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPITULO II",
+      "section": "9",
+      "title": "Artículo 9. Los inversionistas nacionales y extranjeros, así como las entidades del Estado, incluyendo los entes autárquicos y las demás entidades de derecho público que contrataren con el inversor extranjero, podrán acordar someter sus diferencias a tribunales arbitrales nacionales o internacionales, de conformidad con las normas legales nacionales e internacionales pertinentes.",
+      "content": "CAPITULO III \n DE LAS OBLIGACIONES"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPITULO III",
+      "section": "12",
+      "title": "Artículo 12. Las actividades de producción, de comercialización interna, de exportación e importación, así como intermediación financiera, no podrán obtener privilegios proteccionistas del Estado.",
+      "content": "CAPITULO IV \n DE LOS CREDITOS"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPITULO IV",
+      "section": "13",
+      "title": "Artículo 13. - El Estado no avalará ni garantizará contratos de créditos externos o internos suscritos por personas naturales o jurídicas de derecho privado, nacionales o extranjeras.",
+      "content": "CAPITULO V \n DE LOS CONTRATOS DE RIESGO COMPARTIDO"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPITULO V",
+      "section": "17",
+      "title": "Artículo 17. El Contrato de Riesgo Compartido no establece personalidad jurídica. Los derechos y obligaciones de Riesgo Compartido se rigen por lo acordado en el respectivo contrato.",
+      "content": "CAPITULO VI \n DE LA AUTORIDAD COMPETENTE"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPITULO VI",
+      "section": "19",
+      "title": "Artículo 19. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la H. Cámara de Diputados a seis días del mes de diciembre del año un mil novecientos noventa y uno y por la H. Cámara de Senadores, sancionándose la Ley, a diez y ocho días del mes de diciembre del año un mil novecientos noventa y uno."
+    }
+  ],
+  "definitions": []
+}

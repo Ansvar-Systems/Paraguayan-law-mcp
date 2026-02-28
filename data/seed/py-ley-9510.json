@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-9510",
+  "type": "statute",
+  "title": "Ley Nº 6707 / DECLARA BIEN PÚBLICO LA INVESTIGACIÓN, DESARROLLO, FABRICACIÓN Y ADQUISICIÓN PARA LA DISTRIBUCIÓN GRATUITA A LA POBLACIÓN DE LAS VACUNAS CONTRA EL COVID-19.",
+  "title_en": "Ley Nº 6707 / DECLARA BIEN PÚBLICO LA INVESTIGACIÓN, DESARROLLO, FABRICACIÓN Y ADQUISICIÓN PARA LA DISTRIBUCIÓN GRATUITA A LA POBLACIÓN DE LAS VACUNAS CONTRA EL COVID-19.",
+  "short_name": "Ley N° 6707",
+  "status": "in_force",
+  "issued_date": "2021-01-14",
+  "in_force_date": "2021-01-14",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9510/ley-n-6707-declara-bien-publico-la-investigacion-desarrollo-fabricacion-y-adquisicion-para-la-distribucion-gratuita-a-la-poblacion-de-las-vacunas-contra-el-covid-19",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Facúltase al Poder Ejecutivo, a través del Ministerio de Salud Pública y Bienestar Social (MSPYBS), a incluir en los contratos que celebre y en la documentación complementaria para la adquisición de vacunas destinadas contra el COVID-19, cláusulas que establezcan la prórroga de jurisdicción a favor de los tribunales arbitrales y judiciales con sede en el extranjero y la aplicación de leyes extranjeras con relación a tal adquisición. En ningún caso la prórroga de jurisdicción podrá extenderse a los terceros, sean personas físicas o jurídicas, residentes en el territorio de la República, quienes en todos los casos conservan su derecho de acudir a los tribunales por cuestiones que se susciten o deriven de la aplicación de estos contratos.",
+      "content": "La prórroga de jurisdicción no implicará en ningún caso la suspensión de la vigencia de los Artículos 1898 de la Ley N˚ 1.183/1985 “CÓDIGO CIVIL”, modificado por la Ley N° 2559/2005 y 716 de la Ley Nº 1.337/1988 \"CÓDIGO PROCESAL CIVIL\", modificado por la Ley N° 1.493/2000 ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. En todos los casos serán obligatorios el cumplimiento de los requisitos que se detallan a continuación:",
+      "content": "- Designar al Procurador General de la República o a un adjunto designado a participar en los procesos de negociación a fin de precautelar los intereses genuinos de la Patria. \n \n- Una vez concluida la ejecución del contrato, todos los documentos de referencia se remitirán a la Contraloría General de la República, para su estudio y dictamen correspondiente. \n \n- Remitir los antecedentes a las Comisiones de Salud de ambas Cámaras del Congreso."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los once días del mes de enero del año dos mil veintiuno, y por la Honorable Cámara de Diputados, a los trece días del mes de enero del año dos mil veintiuno, queda sancionado, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

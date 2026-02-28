@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-11103",
+  "type": "statute",
+  "title": "Ley Nº 419 / CREA EL REGIMEN LEGAL PARA LA CONSTRUCCION Y FUNCIONAMIENTO DE PUERTOS PRIVADOS",
+  "title_en": "Ley Nº 419 / CREA EL REGIMEN LEGAL PARA LA CONSTRUCCION Y FUNCIONAMIENTO DE PUERTOS PRIVADOS",
+  "short_name": "Ley N° 419",
+  "status": "in_force",
+  "issued_date": "1994-09-08",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/11103/ley-n-419-crea-el-regimen-legal-para-la-construccion-y-funcionamiento-de-puertos-privados",
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Los puertos que se construyan y habiliten conforme a esta Ley, deberán brindar instalaciones y equipamientos adecuados a los usuarios que correspondan, como ser:",
+      "content": "a) Muelles para embarcaciones; \n b) Servicios de grúas y básculas; \n c) Depósitos para mercaderías varias; \n d) Playas para contenedores; \n e) Playa de estacionamiento para vehículos de transporte terrestre: camiones y vagones de ferrocarril, en el caso de poder conectarse con este medio de transporte; \n f) Silos y demás instalaciones para carga y descarga de granos; \n g) Tanques o depósitos para combustibles y lubricantes; \n h) Cámaras frigoríficas; \n i) Edificios para oficinas, aduana, servicios de comunicaciones, correos, migraciones, prefectura naval y laboratorios de control de calidad; \n j) Talleres de reparación de embarcaciones; y, \n k) Servicios bancarios, restaurantes, agua potable, electricidad y prevenciones contra incendios."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el veintiocho de junio del año un mil novecientos noventa y cuatro y por la Honorable Cámara de Diputados, sancionándose la Ley el primero de setiembre del año un mil novecientos noventa y cuatro."
+    }
+  ],
+  "definitions": []
+}

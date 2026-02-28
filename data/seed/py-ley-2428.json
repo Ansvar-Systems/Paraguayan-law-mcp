@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-2428",
+  "type": "statute",
+  "title": "Ley Nº 214 / AMPLIA LA LEY N° 1.257 DEL 13 DE JUNIO DE 1932, QUE REGLAMENTA LA VENTA DE TIERRAS LOTEADAS",
+  "title_en": "Ley Nº 214 / AMPLIA LA LEY N° 1.257 DEL 13 DE JUNIO DE 1932, QUE REGLAMENTA LA VENTA DE TIERRAS LOTEADAS",
+  "short_name": "Ley N° 214",
+  "status": "in_force",
+  "issued_date": "1970-12-26",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2428/ley-n-214-amplia-la-ley-n-1257-del-13-de-junio-de-1932-que-reglamenta-la-venta-de-tierras-loteadas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. A los efectos de vender lotes de tierra a plazos, luego de haber cumplido los requisitos previstos en la Ley N° 1.257 , del 13 de junio de 1932, el interesado inscribirá el loteamiento en el Registro General de la Propiedad.",
+      "content": "La inscripción consistirá en una nota marginal puesta en el registro de la Finca respectiva."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Todo contrato o boleto de compraventa de lotes a plazo deberá contener los siguientes datos:",
+      "content": "a) Nombre y apellido o denominación de la sociedad en su caso y firma de cada uno de los contratantes;\n b) Individualización exacta del lote objeto del contrato con indicación del lugar, designación de la manzana, expresión de la superficie, linderos y número de la cuenta corriente catastral;\n c) El precio, plazo para el pago y monto de cada una de las cuotas periódicas convenidas;\n d) Número de Finca, distrito, sección, fecha, tomo y folio en que se encuentra inscripto el inmueble en el Registro General de Propiedad."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Si cualquiera de los contratantes fuese representado por mandatario, se expresará en el contrato o boleto de compraventa la fecha del poder y el lugar de su otorgamiento. Si una de las partes no supiese firmar, lo suscribirá a su nombre otra persona con mención del número de su cédula de Identidad, domicilio, estado, profesión y nacionalidad.",
+      "content": "Firmarán también dos testigos y será certificado el acto por un Escribano Público mediante su firma y sello en los tres ejemplares del Contrato de Compraventa de lotes a plazo."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS DIEZ Y SIETE DIAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS SETENTA."
+    }
+  ],
+  "definitions": []
+}

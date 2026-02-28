@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-10798",
+  "type": "statute",
+  "title": "Ley Nº 872 / APRUEBA EL ACUERDO SOBRE PRESTACION DE SERVICIOS MEDICOS A TRABAJADORES DE LA ENTIDAD BINACIONAL YACYRETA DEL 30 DE JULO DE 1980",
+  "title_en": "Ley Nº 872 / APRUEBA EL ACUERDO SOBRE PRESTACION DE SERVICIOS MEDICOS A TRABAJADORES DE LA ENTIDAD BINACIONAL YACYRETA DEL 30 DE JULO DE 1980",
+  "short_name": "Ley N° 872",
+  "status": "in_force",
+  "issued_date": "1996-08-22",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/10798/ley-n-872-aprueba-el-acuerdo-sobre-prestacion-de-servicios-medicos-a-trabajadores-de-la-entidad-binacional-yacyreta-del-30-de-julo-de-1980",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Para la aplicación del presente Acuerdo se instituyen como Organismos de Enlace, en el Paraguay el Instituto de Previsión Social y, en la Argentina a la Secretaría de Estado de Salud Pública.",
+      "content": "Parágrafo primero: Los Organismos de Enlance determinarán de común acuerdo el alcance de los servicios y se informarán recíprocamente sobre las medidas adoptadas para la aplicación y desarrollo de este Acuerdo, asi como de las modificaciones de las legislaciones respectivas en materia de seguridad social.\n Parágrafo segundo: A los Organismos de Enlance o a las Instituciones encargadas de la prestación de los servicios corresponde, además, el registro de los gastos derivados de los servicios prestados a los trabajdores y a su familia, vinculados a la seguridad social de la otra Parte Contratante, a los efectos de su reembolso conforme a las disposiciones de este Acuerdo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el catorce de diciembre del año un mil novecientos noventa y cinco y por la Honorable Cámara de Diputados, sancionándose la Ley, el veintiocho de mayo del año un mil novecientos noventa y seis, de conformidad al Artículo 206 de la Constitución Nacional"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Este Acuerdo entrará en vigor en la fecha de su firma y estará en vigencia hasta que las Altas Partes Contratantes adopten, a la respecto, de común acuerdo, las decisiones que estimen convenientes.",
+      "content": "Hecho en la Ciudad de Buenos Aires a los treinta días del mes de julio del año un mil novecientos ochenta en dos ejemplares de un mismo tenor y a un solo efecto.\n FDO.: Por el Gobierno de la República del Paraguay,\n FDO.: Por el Gobierno de la República Argentina,"
+    }
+  ],
+  "definitions": []
+}

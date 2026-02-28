@@ -1,0 +1,434 @@
+{
+  "id": "py-ley-5143",
+  "type": "statute",
+  "title": "Ley Nº 843 / CODIGO PENAL MILITAR",
+  "title_en": "Ley Nº 843 / CODIGO PENAL MILITAR",
+  "short_name": "Ley N° 843",
+  "status": "in_force",
+  "issued_date": "1980-12-19",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/5143/ley-n-843-codigo-penal-militar",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPITULO I",
+      "section": "3",
+      "title": "Artículo 3. Las disposiciones del presente Código se aplicarán a los delitos y a las faltas cometidas por el personal de las FF.AA. de la Nación, ya sea en tiempo de paz, como en tiempo de guerra, aún encontrándose sus miembros en el extranjero.",
+      "content": "CAPITULO II \n De los Hechos Punibles"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPITULO II",
+      "section": "16",
+      "title": "Artículo 16. Cuando una o varias personas concurren a la ejecución de un delito, son autores principales:",
+      "content": "a) los que hayan dado orden para cometer el delito ;\n b) los que con dádiva, promesa, amenaza, abuso de autoridad o de fuerza, o de cualquier otro modo hayan inducido a alguien a cometerlo; y,\n c) los que por obra concurren inmediatamente la ejecución del delito, o que en el acto en que se ejecuta, presten ayuda eficaz para consumarlo."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPITULO II",
+      "section": "17",
+      "title": "Artículo 17. Son cómplices:",
+      "content": "a) los que instigaren o dieren las instrucciones sobre el modo, medios u ocasión de cometer delito;\n b) los que hayan proporcionado las armas, los instrumentos o cualquier otro medio directamente necesario para la consumación del delito, sabiendo el uso a que se destinaban; y, \n c) los que sin prestar un inmediato concurso a la ejecución del delito, hayan de alguna manera ayudado o auxiliado directa o indirectamente, y a sabiendas, a los agentes principales o cómplices del delito en los hechos que lo hayan consumado."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPITULO II",
+      "section": "19",
+      "title": "Artículo 19. Son encubridores, los que sin ser autores de un delito intervienen a sabiendas en el después de haberse perpetrado, de alguno de los modos siguientes:",
+      "content": "a) aprovechando los efectos del delito o auxiliando a los autores o cómplices para que se aprovechen de ellos;\n b) destruyendo u ocultando el cuerpo del delito, sus vestigios, sus comprobantes o los instrumentos con que se haya cometido a fin de impedir su descubrimiento ;\n c) ocultando a los autores o cómplices, o facilitándoles la fuga;\n d) dejar de comunicar a la autoridad militar, los datos o noticias que se tuviere acerca de la comisión del delito o paradero de los responsables de éstos; y, \n e) omitir la denuncia de la perpetración de un delito, o que habiéndola recibido, no tomar las medidas o providencias que requiere cada caso."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "CAPITULO II",
+      "section": "34",
+      "title": "Artículo 34. Si se tratare de varias infracciones de las cuales una de ellas mereciere la pena de muerte, se aplicará ésta última.",
+      "content": "CAPITULO III \n De las penas y sus principios generales"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "CAPITULO III",
+      "section": "36",
+      "title": "Artículo 36. No se reputarán penas:",
+      "content": "a). la detención y prisión preventiva de los procesados si fueren absueltos;\n b). la disponibilidad decretada por las autoridades militares en uso de sus atribuciones legales, o por el juez durante el proceso o para instruirlos; y,\n c). las demás correcciones que los superiores impongan a sus subordinados en uso de sus atribuciones disciplinarias."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "CAPITULO III",
+      "section": "40",
+      "title": "Artículo 40. Nadie puede ser castigado más de una vez por la misma acción u omisión ilícita, excepto:",
+      "content": "a) Cuando habiéndose castigado el hecho sólo como falta, se descubren más tarde circunstancias capaces de hacerlos considerar como delito, y,\n b) Cuando después de pronunciada condenación, se descubre el hecho y fue acompañado de otra infracción, que si hubiese sido conocida, habría acarreado sobre el acusado penas más graves."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "CAPITULO III",
+      "section": "44",
+      "title": "Artículo 44. Siempre que los Jueces impongan una pena que lleve consigo otras se hará mención de cada una de ellas en la sentencia.",
+      "content": "CAPITULO IV \n Los efectos, duración, graduación y aplicación de las penas"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "CAPITULO IV",
+      "section": "47",
+      "title": "Artículo 47. Los corporales son los siguientes:",
+      "content": "a) muerte por fusilamiento;\n b) prisión militar; y, \n c) arresto."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "CAPITULO IV",
+      "section": "48",
+      "title": "Artículo 48. Las privativas de honores son:",
+      "content": "a) la degradación; y, \n b) la separación del servicio."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "CAPITULO IV",
+      "section": "61",
+      "title": "Artículo 61. A la sentencia que condena a un militar a la pena de muerte o la de prisión militar se le dará la publicidad de ley.",
+      "content": "CAPITULO V \n De la atenuación y la agravación de las penas."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "CAPITULO V",
+      "section": "62",
+      "title": "Artículo 62. De las consignadas especialmente en éste Código, serán consideradas como circunstancias atenuantes, las siguientes:",
+      "content": "a) la provocación, amenaza u ofensa directa o indirecta por parte de la víctima;\n b) haberse encontrado en estado de irritación o furor sin culpa propia, que le haya hecho perder la conciencia de sus actos;\n c) haber corrido la mitad del tiempo necesario para la prescripción;\n d) haber durado el proceso más de un año,\n e) el arrepentimiento eficaz del delincuente inmediatamente después de cometido el delito, impidiendo en todo o en parte las consecuencias del mismo;\n f) cuando el agente ha sido impelido a la ejecución del acto por una necesidad apremiante;\n g) cuando su inteligencia haya sido ofuscada por una pasión violenta;\n h) cuando hubiese ejecutado la acción en completo estado de embriaguez. Para que la embriaguez se considere circunstancia atenuante, deberán reunirse conjuntamente los siguientes requisitos excepcionales:\n 1) que el delincuente no haya tomado parte antes de ella, en el proyecto de cometer el delito; \n 2) que la embriaguez no haya sido provocada por el delincuente como medio para la perpetración del delito; y, \n 3) que el delincuente no tenga la costumbre de cometer delitos o faltas mientras se halle en ese estado.\n La embriaguez voluntaria y la farmacodependencia constituyen por sí solas de parte de los militares, faltas que deben ser reprimidas con penas disciplinarias. Si la embriaguez fuese total e involuntaria será causa eximente de pena;\n i) cuando la voluntad del agente haya sido determinada por consejos o sugestiones de personas que ejerzan sobre su espíritu una influencia directa;\n j) cuando el agente procede por intimación o amenaza;\n k) cuando el culpable se ha limitado voluntariamente a causar menor daño del que podría producir;\n l) cuando la cooperación prestada en los actos de complicidad fuere de poca importancia;\n m) cuando el mismo se ha entregado a la justicia;\n n) cuando el culpable, por su buena conducta anterior o por servicios distinguidos, se hubiere hecho acreedor de la consideración y aprecio de sus superiores;\n ñ) cuando se le tratare con rigor no autorizado por las leyes militares; y, \n o) cuando hubiere terminado el tiempo de su servicio militar y no se hubiese expedido la baja correspondiente."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "CAPITULO V",
+      "section": "63",
+      "title": "Artículo 63. Serán consideradas como circunstancias agravantes a más las ya especificadas, las siguientes:",
+      "content": "a) cometer el delito contra las personas, con alevosía, es decir a traición y sin peligro para el agresor; o con ensañamiento;\n b) cometer el delito con perfidia, que consiste en engaño, o sirviéndose de las relaciones de parentesco, gratitud o amistad;\n c) cometerlo mediante precio o promesa de gratificación;\n d) obrar con premeditación, que consiste en el proyecto formado de antemano de atentar contra un individuo;\n e) emplear astucia, fraude o disfraz;\n f) prevalerse del carácter público que tenga el culpable;\n g) cometer el delito con abuso de confianza;\n h) abusar el delincuente de la superioridad de sus fuerzas o de las armas, en términos que el ofendido no pudiere defenderse con probabilidad de repeler la ofensa;\n i) emplear medios o hacer que concurran circunstancias que añaden la ignorancia a los efectos propios del hecho;\n j) cometer el delito con ocasión de incendio, naufragio, tumulto o conmoción popular u otra calamidad o desgracia;\n k) ejecutarlo con auxilio de gente armada, o de personas que aseguren la impunidad;\n l) ejecutarlo en la oscuridad o en despoblado;\n m) ejecutarlo con ofensa de la autoridad pública, o sea en el lugar en que ejerza sus funciones;\n n) cometer el delito en el lugar destinado al ejercicio de un culto cualquiera permitido en la República;\n ñ) cometer el delito en la persona de un magistrado o autoridad, sin que haya mediado provocación; y, \n O) ejecutarlo por medio de fractura o escalamiento de lugar cerrado.\n CAPITULO VI \n De la extinción de los delitos y de las penas"
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "CAPITULO VI",
+      "section": "64",
+      "title": "Artículo 64. Los delitos y las penas se extinguen:",
+      "content": "a) por el cumplimiento de la condena;\n b) por la muerte del reo;\n c) por indulto o amnistía; y, \n d) por prescripción."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "CAPITULO VI",
+      "section": "65",
+      "title": "Artículo 65. Las penas impuestas por sentencia ejecutoriada prescriben:",
+      "content": "a) la pena de muerte a los treinta años; y\n b) las demás, por un tiempo igual al máximum de la pena impuesta."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "CAPITULO VI",
+      "section": "68",
+      "title": "Artículo 68. La acción penal para los delitos sujetos a la jurisdicción militar, se prescribe:",
+      "content": "a) a los dos años, cuando es de prisión hasta tres años;\n b) en un tiempo igual al término medio del castigo fijado por la ley, en los demás delito que tengan previstos penas mayores o distintas a las anteriores; y, \n c) a los quince años en los delitos que merezcan pena de muerte."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "CAPITULO VI",
+      "section": "70",
+      "title": "Artículo 70. La reincidencia o sea la nueva perpetración de un delito igual o distinto al anterior, interrumpe siempre la prescripción, la cual comenzará a correr desde el último delito.",
+      "content": "CAPITULO VII \n De la libertad condicional"
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "CAPITULO VII",
+      "section": "76",
+      "title": "Artículo 76. En relación al régimen penitenciario, se observará lo que determine éste Código, y los reglamentos destinados al gobierno del establecimiento penitenciario donde deba cumplirse, tocante al régimen interno, esto es; a las relaciones de los penados entre sí y con otras personas, naturaleza, tiempo, duración y demás modalidades del trabajo, de las visitas, asistencia, de los premios y castigos disciplinarios, alimentación y otras circunstancias.",
+      "content": "TITULO II \n DELITOS CONTRA LA SEGURIDAD DE LA REPUBLICA \n CAPITULO I \n Delito de traición a la Patria"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "CAPITULO I",
+      "section": "78",
+      "title": "Artículo 78. Constituyen delito de traición los hechos siguientes:",
+      "content": "a) el atentado contra la seguridad del Estado e independencia de la República;\n b) inducir a un gobierno extranjero a declarar la guerra al Paraguay, concertarse con aquella con el mismo fin siendo cometidos estos hechos por paraguayos;\n c) tomar las armas contra el Paraguay, bajo banderas enemigas, sea cual fuere el pretexto;\n d) proporcionar al enemigo auxilios de tropas o armas para su entrada en él, o el progreso de sus operaciones, la toma de posición, puesto militar, buques o aeronaves del Estado o almacenes de víveres o materiales bélicos;\n e) suministrar a países extranjeros en cualquier tiempo y forma memorias, estadísticas, datos o informes sobre la constitución, organización, movilización, recurso de guerra o armamentos de la República, revelar el Plan de Operación, expedición o negociación relativa a la guerra; poner a su conocimiento el santo y seña, las órdenes o secretos militares que se le hubiesen confiado; los planos, cartas o descripciones de fortificaciones arsenales, fábricas militares, puertos, canales, caminos secretos, buques de guerra o de escuela y proporcionar datos sus disposiciones; las señales secretas, los Códigos que las constituyen o las claves que se usan o pueden usarse con los mismos, posición de las minas, campo minados y otras defensas, sus estaciones de control, paso libre entre ellas, situación de baterías y estaciones de observación, u otras referencias y noticias que puedan favorecer de algún modo al enemigo y perjudicar a la defensa Nacional.\n f) inducir a las tropas paraguayas que se hallen al servicio de la República para que pasen a las filas enemigas o deserten de sus banderas estando la República en guerra;\n g) el abandono malicioso por convivencia con el enemigo;\n h) servir de guía, o baqueano al enemigo en operaciones militares contra la Nación y sus aliados, o de guía o baqueano de tropas, embarcaciones o aeronaves siendo especialista o nó en la conducción de éstos, y de otros materiales de guerra y desviarlas intencionalmente del camino o ruta que debiera seguir con objeto de favorecer al enemigo;\n i) servir de espía al enemigo;\n j) realizar actos de sabotaje o terrorismo en cualquiera de sus formas que afecten la seguridad de la República y sus aliados; entorpecer la marcha y desplazamiento de las fuerza Nacionales en el centro de operaciones, dificultando la llegada de contingentes, materiales bélicos o auxilios a su destino; y,\n k) urdir conspiraciones con el objeto de atentar contra la seguridad de la República, para que un Comandante de una Unidad de Combate, de Unidades de Apoyo al Combate o de Unidad de Apoyo de Servicio de Combate, se presten a dicho movimiento, a plegarse, rendirse, capitular o retirarse."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "CAPITULO I",
+      "section": "82",
+      "title": "Artículo 82. El militar implicado en el delito de traición a la Patria, que lo revele antes de comenzar su ejecución y a tiempo de evitar sus consecuencias, siempre que la Autoridad Militar no lo tenga por conocida, quedará exento de pena.",
+      "content": "CAPITULO II \n Delitos contra el Derecho Internacional"
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "CAPITULO II",
+      "section": "87",
+      "title": "Artículo 87. Cuando en la comisión de un delito, el militar infringiere normas del derecho internacional será pasible de la pena mayor que corresponda.",
+      "content": "CAPITULO III \n Delitos contra el Orden y Seguridad de las FF.AA. de la Nación"
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "CAPITULO III",
+      "section": "88",
+      "title": "Artículo 88. Cometen delitos contra el orden y la seguridad militar, los militares que perpetraren los hechos siguientes:",
+      "content": "a) los que intentaren por medio de la violencia subvertir el orden y la disciplina militar, alzándose a mano armada contra los poderes del estado;\n b) los que intentaren con promesas o dádivas de cualquier especie sobornar a uno o más miembros de las FF.AA. de la Nación, o instaren a éstos rebelarse en alzamiento público contra el Gobierno y sus autoridades;\n c) los que asaltaren a mano armada cuarteles, buques de guerra o buques escuelas al servicio de la armada nacional, aeronaves de guerra o aeronaves escuelas al servicio de la Aeronáutica Militar, o cualquier institución de las FF.AA. de la Nación con idéntico fin o provocar la guerra civil;\n d) los que atentaren contra la vida del Presidente de la República, del Ministro de Defensa Nacional, Sub-Secretario de Estado de Defensa, Comandante en Jefe, Comandantes de Unidades de Combate, Comandantes de Unidades de Apoyo de Combate de las FF.AA. de la Nación; y\n e) los que secuestren al Presidente de la República y de cualquier modo le privaren de su libertad con el objeto de obtener su renuncia u otro acto contrario a su libre voluntad, para facilitar la insurrección de carácter militar."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "CAPITULO III",
+      "section": "89",
+      "title": "Artículo 89. Los delitos mencionados en el Artículo anterior serán castigados con las penas siguientes:",
+      "content": "a) los previstos en los inc. a) y b) serán castigados con pena de cinco a diez años de prisión militar;\n b) el previsto en el inc. c) con pena de cinco a quince años de prisión militar;\n c) el previsto en el inciso d), con la pena de quince a veinticinco años de prisión militar; y \n d) el previsto en el inciso e), con la pena de diez a veinte años de prisión militar."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "CAPITULO III",
+      "section": "92",
+      "title": "Artículo 92. Son circunstancias agravantes en estos delitos:",
+      "content": "a) ser promotor o Jefe principal;\n b) obtener el militar insurrecto, durante la perpetración del delito una jerarquía o grado que no le corresponde;\n c) tener mando de tropa al tiempo de la perpetración del delito o haber obtenido este mando durante la consumación del mismo;\n d) ser comandante de Guardia, Oficial de Guardia u Oficial de ronda al tiempo de la perpetración del delito y al haberse plegado al movimiento subversivo. Si el movimiento no llegare a estallar, la simple promesa constituye suficiente agravante; y,\n e) el derramamiento de sangre de los defensores del Orden.\n CAPITULO IV \n De los delitos contra la seguridad del Estado."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "CAPITULO IV",
+      "section": "98",
+      "title": "Artículo 98. En caso de producirse la rebelión o sublevación, sus responsables serán castigados en la forma siguiente:",
+      "content": "a) los jefes o promotores del movimiento y el de mayor graduación o el más antiguo si hubiere varios del mismo grado, con la pena de veinticinco años; y, \n b) los demás Oficiales y no militares con la pena de veinte años de prisión."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "CAPITULO IV",
+      "section": "99",
+      "title": "Artículo 99. Quedan exentos de responsabilidad por los delitos contemplados en este Capítulo IV, los Cabos y Soldados que actuaren bajo el mandato de sus superiores directos.",
+      "content": "CAPITULO V \n Delitos en la Administración Militar \n Art.100.- Todo militar que teniendo a su cargo la fabricación, provisión o custodia de materiales o mercadería para uso de las Fuerzas Armadas, los falsifique, altere, o de cualquier modo disminuya la cantidad, el peso y la calidad de los mismos, será sancionado con uno a tres años de prisión.\n Art.101.- Los propietarios que en estado de guerra, se nieguen a proporcionar materiales, confecciones, víveres, combustibles, maquinarias y otros elementos necesarios para el sostenimiento de los servicios y las tropas, serán sancionados con prisión de un año, sin perjuicio de ser obligados a la entrega requerida.\n CAPITULO VI \n De los delitos contra el Servicio \n Art.102.- El militar que usando barco, aeronave o vehículos de las Fuerzas Armadas o prevalido de su condición de militar, transporte drogas peligrosas o substancias sicotrópicas será condenado a prisión de cuatro a diez años.\n Art.103.- Será sancionado con prisión de uno a dos años el militar que en barcos, aeronaves o vehículos de las Fuerzas Armadas o aprovechando su condición, introduzca o lleve fuera del país mercaderías prohibidas o eluda derechos aduaneros con fines de comercio ilegal.\n Art.104.- El militar que teniendo un mando cualquiera, prolongase las hostilidades después de haber recibido la orden de su Comandante, de una tregua o de armisticio, será castigado con veinte años de prisión.\n Art.105.- El Comandante de una Unidad de Combate, Unidad de Apoyo al Combate, Unidades de Apoyo al Servicio al Combate, que en peligro de ser atacado por el enemigo, hubiese omitido por negligencia poner sus respectivas Unidades en estado de resistir al enemigo según las reglas del Arte Militar, y que tal negligencia contribuya a su rendición o pérdida, quedará sujeto a la pena de muerte.\n Art.106.- Se le aplicará la misma pena al Comandante que en el teatro de operaciooes hubiese cedido su posición al enemigo con grave daño a la Unidad a su mando o parte de ésta, sin antes haber hecho cuanto exige el deber y el honor.\n Art.107.- Si concurren circunstancias atenuantes en los casos previstos en los dos artículos precedentes, la pena será de veinte a veinticinco años de prisión militar.\n Art.108.- El comandante que sin motivo legítimo abandonase el mando, en presencia del enemigo, comprometiendo la seguridad de la Unidad a su mando o parte de ella, será castigado con la pena de muerte.\n Art.109.- El comandante que, fuera de un caso de necesidad, atacare al enemigo contra la orden expresa de su Superior sufrirá la pena de muerte.\n Art.110.- Estará igualmente sujeto a la pena de muerte el Comandante en Jefe del teatro de Operaciones, o de cualquier parte de él, que en una capitulación separa su propia suerte de la de los oficiales o la de los soldados.\n Art.111.- El militar que durante el combate y sin orden del Comandante, incitando a la tropa a rendirse o a cesar el fuego, será castigado con la pena de muerte.\n Art.112.- El militar que en presencia del enemigo provoque el desbande de su tropa o abandone el puesto sio hacer la defensa posible, quedará sujeto a la pena de muerte. Sufrirá la misma pena el militar con orden de marchar contra el enemigo haya rehusado obedecer. Si varios militares han tomado parte en los hechos relacionados sólo serán con dicha pena los agentes principales. Sin embargo, a los SS.AA.SS. Y SS., Sub-Oficiales, Sargentos y Cabos, que fueren culpables de este delito se les aplicarán a más de la pena de muerte las penas privativas de honores. Las disposiciones de este artículo son aplicables no solamente en tiempo de guerra, sino también en el caso de expediciones u operaciones militares.\n Art.113.- El centinela o centinelas que frente al enemigo, faltando a su consigna o por el abandono del lugar donde fue colocado, se dejare sorprender ocasionando la toma del \n Cuartel o Puesto Militar donde se halle, será castigado con la pena de muerte.\n Art.114.- El centinela que al avistar la aproximación del enemigo abandonare su puesto sin orden, o se pusiere en fuga, sufrirá también la pena de muerte.\n Art.115.- El centinela que hubiere dejádose revelar por otro sin Orden de su Jefe de Relevo, incurrirá en la pena de prisión militar que no baje de cinco años.\n Art.116.- Al centinela que fuere encontrado dormido en tiempo de paz, se castigará con sanción disciplinaria, y en tiempo de guerra y frente al enemigo, con la pena de muerte.\n Art.117.- El centinela que en el teatro de operaciones dejare de avistar o escuchar la aproximación de tropa, o cualquiera otra circunstancia digna de atención, respecto a la seguridad de la guardia, incurrirá en la pena de tres años de prisión.\n Art.118.- El militar que en tiempo de guerra, pero no al frente del enemigo haya abandonado su puesto o violando la consigna dada se lo encuentre dormido, incurrirá en la pena que no baje de un año de prisión militar, y no exceda de tres años. Si el culpable es Comandante de un Puesto avanzado, la pena no bajará de dos años ni pasará cinco años de prisión militar.\n Art.119.- En tiempo de paz los delitos previstos en el artículo anterior se castigarán con sanción disciplinaria de arresto hasta de tres meses. Si el culpable fuese el Comandante del Destacamento, o Unidad, le será aplicado el máximum de dicha sanción.\n Art.120.- El militar que en el teatro de operaciooes, sin impedimento legítimo dejare de concurrir a su puesto en caso de alarma o cuando se tocare llamada, será posible de un año de prisión militar, extensible a dos.\n Art.121.- El militar que se haya introducido sin autorización en los lugares donde haya sido puesto salvaguardias, será castigado con prisión militar de un año, salvo penas mayores en caso de violencia contra los guardias.\n Art.122.- El militar que en cualquier puesto de Guardia fuese encontrado ebrio, o se presentare en ese estado a tomar su servicio de Guardia, será castigado con la sanción disciplinaria máxima del arresto leve. El arresto grave será aplicado si el culpable es Oficial.\n Art.123.- El militar que de cualquier modo haya favorecido la fuga de un detenido sujeto a la jurisdicción militar, será castigado con prisión militar extensible hasta cinco años, habida consideración a la condena que sufriere el fugitivo. Si el fugitivo fuese prisionero de guerra, la pena será de prisión militar de dos años. Cuando la fuga haya ocurrido por negligencia, la pena no excederá de dos años.\n Art.124.- El Oficial que encargado de la escolta de un convoy, lo abandonara voluntariamente, será castigado:\n a) si es tiempo de guerra, y si por el abandono del convoy éste haya caído en poder del enemigo o destruido, con la pena de muerte; si no hubiese caído en poder del enemigo, ésta será disminuido en dos o tres grados; y, \n b) si es tiempo de paz, se castigará con prisión militar que no baje de un año, extensible hasta dos años.\n Art.125.- Si el Oficial encargado de la escolta del convoy se encontrase separado del todo o parte de él, por causa de su negligencia, será castigado en tiempo de guerra con la pena de prisión militar de veinte a veinticinco años y en tiempo de paz con uno a dos años de prisión militar.\n Art.126.- El Comandante de una Unidad, que no haya cumplido la orden que se le ha confiado, si la inejecución fue voluntaria, será castigado en tiempo de guerra con la pena de muerte; en tiempo de paz con la separación del servicio.\n Art.127.- El Oficial encargado de una expedición, que separándose de las Instrucciones y Ordenes recibidas, la haga fracasar, o haya ejecutado mal la misión que se le ha confiado, sufrirá la pena de prisión militar que no exceda de dos años.\n Art.128.- El militar que en tiempo de guerra, encargado de llevar una orden escrita, haya roto voluntariamente el sello o no la haya entregado a la persona o a las personas a quienes iba dirigida, o que encontrándose en peligro de caer prisionero no la destruyese, será castigado con la pena de muerte, si por su culpa ha comprometido la seguridad del Estado y de las FF.AA. de la Nación.\n Art.129.- En tiempo de paz, el militar que encargado de llevar una orden u otro despacho cualquiera, haya roto el sello, incurrirá en la pena de prisión militar que no exceda de dos años.\n Art.130.- El militar que arreste o detuviere arbitrariamente con violencia o por engaño doloso a los ayudantes militares, Oficiales de Estado Mayor, Soldados o Mensajeros enviados con Ordenes o despachos para el servicio Militar, será castigado con la pena de prisión militar que no exceda de cinco años, sin perjuicio de la pena mayor según las circunstancias.\n CAPITULO VII \n De la Desobediencia, Revuelta, Motín o Insubordinación. \n Art.131.- Comete delito de desobediencia el militar que, sin rehusar de un modo expreso el cumplimiento de una orden de servicio, deje de ejecutarla. Todo militar está obligado a obedecer, salvo fuerza mayor, una orden relativa al servicio que, en uso de sus atribuciones legítimas, le fuere impartida por un Superior. El derecho de reclamar de los actos de un Superior que conceden las leyes o reglamentos, no dispensa de la obediencia ni suspende el cumplimiento de una orden de servicio.\n Art.132.- La desobediencia se castiga con arrestos leves, o graves. Si ella tiene lugar en asuntos del servicio delante de, tropas formadas, podrá extenderse la pena hasta tres meses, tratándose de individuos de tropa y la prisión militar por un año, si el desobediente fuere Oficial. Si la desobediencia se comete en tiempo de guerra, en caso de incendio, de epidemia o de otro peligro, la pena será la de prisión militar que no exceda de tres años.\n Si la negación de obediencia tuviese lugar al frente del enemigo y en los momentos críticos de una operación, el culpable será condenado a muerte.\n Art.133.- La revuelta consiste en la negativa de cuatro o más militares armados a obedecer a la primera intimación de sus superiores, o en tomar las armas sin autorización y obrar contra las órdenes de su Comandante. Los agentes principales serán castigados con la pena de muerte, en tiempo de guerra, y sus cómplices quedarán sujetos a la pena de prisión militar que no exceda de veinte años; y con la pena de prisión militar de diez años en tiempo de paz, y sus cómplices estarán sujetos a pena hasta cinco años.\n Art.134.- Con las mismas penas, disminuida de uno a tres grados, serán castigados los militares que en numero de ocho o más entregándose a excesos de violencias, rehusaren entrar a la Orden o al mando de un superior, sin perjuicio de las penas mayores en que hubieren incurrido por los excesos o violencias que hubieren cometido.\n Art.135.- Se consideran culpables de motín los militares que fuera de los casos previstos en el Art.134, en numero de cuatro o más rehusaren ejecutar una orden, o se obstinaren en hacer una demanda, o una queja, sea verbalmente o por escrito; serán castigados los agentes principales con prisión militar que no baje de dos años. Para el amotinado que cediere a la primera intimación, la pena será de prisión militar de un año.\n Art.136.- Cualquier militar que encontrándose presente en un motín o revuelta, no hiciere todo lo que de él depende para impedirlo, será castigado con prisión militar de un año. Tratándose de un oficial, la pena será de prisión militar de un año pudiéndose extenderse a dos años.\n Art.137.- El militar de que cualquier modo violase una consigna en presencia del enemigo, será castigado con prisión militar que no exceda de cinco años. Si tal consigna tuviese por objeto la seguridad de las fuerzas del teatro de operaciones o de una parte de él, la del parque de artillería o de los depósitos logísticos, la pena será de muerte. Los casos previstos en éste artículo siempre que no sean en presencia del enemigo, aunque sea en tiempo de guerra, serán castigados con prisión militar que no exceda de tres años.\n Art.138.- Comete insubordinación el militar que se resiste en forma ostensible a cumplir una orden de servicio que le fuere impartida por el superior, o usare la violencia o amenaza contra él. Si el hecho se produjere frente al enemigo, la pena será de muerte. La pena será de prisión hasta de cinco años si se produjere en formación o acto del servicio o con ocasión de él.\n Art.139.- No estando en tiempo de guerra, la insubordinación cometida por Oficiales, se castigará con la pena de prisión militar por cinco años; y siendo cometida por individuos de tropa con uno a tres años de la misma pena.\n Art.140.- El Oficial que arroje con desprecio sus divisas o insignias militares en presencia de sus superiores o inferiores, será castigado con la pena de tres años de prisión militar; y si es Sargento o Cabo, con la pena de prisión militar por un año.\n Art.141.- El Oficial culpable de vías de hecho contra un Superior en grado o en el mando, será castigado con prisión militar que no baje de tres años, y con prisión militar de uno a dos años si el superior es Sargento o Cabo.\n Sin embargo, si el Sargento o Cabo es Comandante de un puesto o de una escolta o patrulla, dicha pena no podrá ser menor de dos años. Cuando las vías de hecho contra los Sargentos o Cabos fueren cometidas con premeditación serán castigadas con prisión militar que no baje de cinco años.\n Si las vías de hecho contra un superior fueren cometidas con el fin de matarle, será aplicada la pena de prisión que no baje de siete años, aunque haya sido solamente homicidio frustrado o intentado. El homicidio cometido en riña o por provocación, será castigado con la pena establecida en el Art.140.\n Art.142.- El militar que por carta suscripta u otro escrito cualquiera enviado a un superior le impusiere, con amenazas de un mal determinado o indefinido, hacer o no hacer cualquier acto dependiente de sus atribuciones, incurrirá en la pena de dos años de prisión militar.\n Art.143.- No habrá insubordinación cuando los hechos hayan sido impuestos por la necesidad inmediata de legítima defensa de sí mismo, en un acto de ataque violento.\n Art.144.- Toda provocación de parte del ofendido, sea este superior o nó, será una circunstancia atenuante para el ofensor, y en su virtud la pena será disminuida de uno a tres grados.\n CAPITULO VIII \n De la Deserción \n Art.145.- La deserción de tropa en tiempo de paz se considera consumada en los casos siguientes:\n a) cuando el individuo de tropa haya faltado consecutivamente a tres listas de revista; y,\n b) cuando se excediere en más de cinco días en goce de una licencia temporal.\n Art.146.- En tiempo de guerra se considera consumada la deserción:\n a) cuando el individuo de tropa falte consecutivamente a tres listas ordinarias de las previstas por los reglamentos;\n b) cuando sea detenido sin el correspondiente pase fuera de las ultimas avanzadas; y,\n c) cuando no se presenta dentro de las veinticuatro horas después de terminarse su licencia. \n Art.147.- No incurrirán en el delito de deserción en tiempo de paz:\n a) los que no hayan sido impuestos de las leyes penales, siendo individuos de tropa;\n b) los que hubiesen cumplido su tiempo de servicio, y solicitando su retiro, les fuera negado por sus superiores respectivos; y, \n c) cuando los obligados a entrar de facción, estando realmente enfermos, sin habérseles permitido ir al hospital o enfermería a curarse.\n Art.148.- Son circunstancias atenuantes en el delito de deserción, a más que quedan consignadas en este Código las siguientes:\n a) las comprendidas en el artículo anterior, en tiempo de guerra;\n b) los maltratos o abusos de autoridad cometidos contra el acusado por sus superiores, siempre que habiendo puesto la queja, no se le hubiere hecho justicia, o no hubiere habido a quién quejarse; y,\n c) el habérsele negado la licencia para ir a visitar a sus padres, mujer o hijos gravemente enfermos, presos o en cualquiera otra desgracia, siempre que se comprueben tales hechos y que, cuando se le negó la licencia, no hubiesen estado las tropas al frente del enemigo.\n Art.149.- Además de las circunstancias agravantes consignadas en el presente Código, lo serán en el delito de deserción las siguientes:\n a) proximidad de fuerzas enemigas;\n b) importancia del puesto abandonado;\n c) hallarse de facción el desertor;\n d) llevarse armas o municiones;\n e) fractura de puertas o escalamiento de muros;\n f) salir huyendo delante de la tropa a que pertenece;\n g) si al verificar la fuga emplearse violencia o intimidación; y\n h) encontrarle en dirección al enemigo.\n Art.150.- El delito de deserción cometido por primera vez y en tiempo de paz, será castigado disciplinariamente. Cometido por segunda vez en tiempo de paz, se castigará con un año de prisión militar.\n Art.151.- En tiempo de guerra se castigará con la pena de muerte al que desertare abandonando el puesto de centinela, avanzada cuerpo de guardia, retén o cualquier otro puesto estando de fagina. La misma pena se impondrá cuando la deserción se efectúa tumultuariamente, por más de diez individuos; pero en este caso aunque todos serán condenados a muerte, sólo se ejecutará uno de cada diez, sorteándolos; los demás sufrirán la pena de ocho años de prisión militar. Cuando la deserción tumultuaria fuere menos de diez individuos la pena será de ocho años de prisión militar. En los demás casos de deserción, se castigarán a los culpables, con uno o dos años de prisión militar.\n Art.152.- Los Oficiales cometen deserción en tiempo de paz:\n a) cuando se hayan ausentado sin autorización por cinco días del cuerpo, destacamento o establecimiento militar a que pertenecen; y, \n b) cuando excedieron por más de tres días en el goce de una licencia temporal.\n Art.153.- Los Oficiales cometen deserción en tiempo de guerra, en los mismos casos que los individuos de tropa según al Art. 146.\n Art.154.- La deserción de los Oficiales en tiempo de paz se castigarán con la pena de un año de prisión militar.\n Art.155.- La deserción de Oficiales en tiempo de guerra se castigará con la pena de muerte si abandonaren puesto de avanzada, cuerpo de guardia, retén o cualquier otro lugar estando de facción; o si acaudillase la deserción de tropa en cualquier número que sea.\n Art.156.- El militar, que en tiempo de guerra cometa el delito de deserción y siendo cómplice, será castigado con la pena de diez años de prisión militar; pero si la exitativa tiene por objeto que el desertor pasare al enemigo, la pena será la que señala este Código para el delito de traición.\n Art.157.- Cualquier persona, aunque extraña al Ejército, que haya concurrido de cualquier modo a la deserción de un militar, en tiempo de guerra, será sometida a las penas señaladas en el presente Código para tal delito.\n Art.158.- El militar que desertase sustrayendo dinero del cual era responsable hacía el Cuerpo o hacía el Estado, o hacía su superior en razón de sus funciones especiales, incurrirá en la pena de un año de prisión militar si la suma sustraída no pasa de mil guaraníes; pero si fuere mayor de ésta cantidad, la pena que se aplicara será la correspondiente al capítulo de sustracción de éste Código.\n Art.159.- Si la deserción coosiderada en el artículo precedente fuese acompañada de una o más circunstancias agravantes previstas en éste capítulo, la pena de prisión militar no será nunca menos de dos años, pudiendo según los casos extenderse hasta cuatro años.\n CAPITULO IX \n Del Soborno y la Exacción"
+    },
+    {
+      "provision_ref": "art160",
+      "chapter": "CAPITULO IX",
+      "section": "160",
+      "title": "Artículo 160. El que promete dádivas, artificios o cualquier otro medio de persuasión, haya instigado o tratado de inducir a militares a cometer un delito previsto en el presente Código, incurrirá en delito de soborno.",
+      "content": "Art.161.- El sobornador será castigado como reo de tentativa, cuando el soborno no haya tenido efecto por falta de aceptación; en caso de aceptación, el culpable será considerado como mandante y castigado según las circunstancias en los términos de los artículos 8°, 9° y 10°\n Art.162.- Cuando el soborno, consumado, haya tenido por objeto el delito de deserción, se aplicará al culpable la pena de la deserción.\n Art.163.- Comete delito de exacción el militar que en ejercicio de sus funciones y sin estar facultado, imponga a los particulares contribuciones forzosas en dinero, víveres u otras especies para beneficio propio o de terceras personas y será sancionado con uno a cuatro años de prisión.\n CAPITULO X \n Del Abuso de Autoridad \n Art.164.- Comete abuso de autoridad el militar que dicte órdenes contrarias a las leyes, reglamentos y ordenanzas militares vigentes, y el que se extralimite en sus deberes propios del cargo, jerarquía o antigüedad que desempeña, y será castigado con prisión de hasta dos años.\n Art.165.- El militar que se exceda arbitrariamente en el ejercicio de sus funciones perjudicando a un inferior, o que lo maltrate prevalido de su autoridad, será reprimido con sanción disciplinaria siempre que del hecho no resulte un delito más grave, en cuyo caso, se aplicará la pena que a éste corresponda. Si el acto se produjere estando el inferior en formación con armas la pena será encuadrada dentro de la escala de la prisión, según los casos.\n Art.166.- El militar que, fuera de los casos de legítima defensa de sí mismo o de otros, de reducir a las filas a los fugitivos o bien en la necesidad de contener un motín, rebelión, rendición, insubordinación, cobardía, revuelta, saqueo o devastación, usare de vías de hecho contra su inferior o contra un prisionero de guerra, sufrirá la pena de prisión militar que no baje de dos años. Cuando las vías de hecho importen los delitos previstos en los artículos 256, 257, 258, y 259, se aplicarán respectivamente al culpable las penas establecidas en dichos artículos; cuando las vías de hecho no hubieren causado lesiones o éstas fueren curables en el espacio de ocho días, el culpable no será sujeto a pena de prisión militar.\n Art.167.- Todo militar que valiéndose de la autoridad que inviste ejerza influencia o haga presión sobre los Jueces o Tribunales para que en los sumarios se viole la ley en beneficio o perjuicio de un procesado será reprimido con prisión de hasta tres años.\n CAPITULO XI \n De los Actos de Violencia cometidos en ejecución de una Orden o Consigna. \n Art.168.- Al militar, que en la ejecución de una orden o de una consigna cometiere sin necesidad o autorización, contra cualquiera persona vías de hecho que importen los delitos previstos en los artículos 255, 256, y 257, del presente Código, se le aplicarán las penas establecidas por dichos artículos. Si las vías de hecho no hubiesen causado lesiones podrá aplicarse castigo disciplinario.\n Art.169.- El militar llamado a impedir o reprimir un desorden público hiciere uso de sus armas sin ser obligado por la necesidad, u ordenare a sus subalternos hacer uso de las suyas, sin que procedan tres intimaciones, será castigado con la pena de uno a dos años de prisión militar. Pero si resultare homicidio o lesiones de las previstas en el Artículo 256, la pena será la establecida para los autores en el artículo correspondiente.\n CAPITULO XII \n De las Lesiones \n Art.170.- Se impondrá arresto de hasta tres meses al que causare a otro, en el cuerpo o en la salud, un daño que afecta a la integridad física de la persona y siempre que sean curados dentro de cinco días.\n Art.171.- Se impondrá prisión de uno a cuatro años, si la lesión produjere una debilitación permanente de la salud, de un sentido, de un órgano, de un miembro, o dificultad permanente de la palabra o si hubiere puesto en peligro la vida del ofendido, le hubiere inutilizado para el trabajo o el servicio por más de un mes o le hubiere causado una deformación permanente del rostro.\n CAPITULO XIII \n De la Mutilación Voluntaria \n Art.172.- El militar que por mutilación voluntaria se haya inutilizado para no continuar en el servicio militar, será castigado con la pena disciplinaria máxima, en tiempo de paz; pero siendo en tiempo de guerra, se le aplicará la pena de dos años de prisión militar.\n CAPITULO XIV \n De los Delitos de Injurias y Calumnias \n Art.173.- Comete delito de injuria el militar que deshonra, desacredita, insulta o menosprecia a otro militar por medio de palabras, escritos o acciones.\n Art.174.- Son injurias graves:\n a) la imputación de un vicio o falta de moralidad que pueda perjudicar considerablemente la fama, el crédito o los intereses del agraviado;\n b) las palabras, dichos o acciones que envuelvan gran falta de respeto a los superiores o a sus padres y descendientes; y,\n c) las palabras, dichos o acciones que en concepto público se tengan por afrentosas en razón de su naturaleza, ocasión o circunstancia.\n Art.175.- Son injurias leves aquellas en que no concurran ninguno de los requisitos del precedente artículo.\n Art.176.- El militar que injuria a otro públicamente o por escrito, sea de un modo directo, sea empleando alegorías o pinturas, o de cualquier otra manera, sufrirá arresto de tres meses.\n Art.177.- Cuando la injuria se infiera públicamente y de palabra se aplicará la pena de arresto de uno a tres meses. Si la injuria fuere hecha a un superior se graduará según las circunstancias y la calidad del ofensor y ofendido.\n Art.178.- Las injurias leves serán castigadas con penas disciplinarias.\n Art.179.- El que ultrajare a otro escupiéndole públicamente a la cara o sometiéndolo a cualquier otro acto ignominioso, será castigado con prisión militar de un año.\n Art.180.- La falsa imputación de un delito común, o de delitos cometidos por un militar en el ejercicio de sus funciones, constituye el delito de calumnia.\n Art.181.- El que comete delito de calumnia será castigado con prisión militar de un año. Si comprobare la imputación, quedará libre de pena. En los casos de acusación o denuncia calumniosa hecha en juicio, la pena será prisión militar de uno a dos años. Si la imputación fuere hecha de un inferior a un superior, la pena será el doble.\n Art.182.- El culpable de injuria o calumnia queda excento de pena:\n a) si le perdona el ofendido;\n b) si media provocación en las injurias verbales y en las escritas; y,\n c) si consiente en hacer una retractación pública.\n CAPITULO XV \n De la Falsedad \n Art.183.- El militar que a sabiendas falsificare de cualquier modo, acarreando daño al servicio o a la administración militar o a persona perteneciente al ejército, la calidad de los casos concernientes al mismo, o alterarse de la propia manera, comunicaciones, boletos, pasaportes, licencia absolutas para el servicio militar, actos de procesamiento criminal, documentos, registros, libros, cuentas o estados, listas de revista o de situación, será castigado con prisión militar que no exceda de cinco años. La misma pena será aplicada a quienes en cosas dependientes de su mismo oficio o para las cuales tenga encargo especial, hubieren a sabiendas extendido certificaciones, declaraciones, o documentos cualesquiera el daño anteriormente indicado, o hubiesen cometido igual falsedad en alguno de los papeles enumerados en el primer inciso de éste artículo.\n Art.184.- En caso de que los culpables fueren los responsables de la inversión de fondos de la Unidad, Intendente - Girador y el daño excediere de quinientos mil Guaraníes, la pena podrá extenderse a siete años de prisióo militar.\n Art.185.- Cualquier médico-militar que abusando de sus atribuciones expida un certificado sobre enfermedad que no existe o agravando la que existe, será castigado con prisión militar por un año. Cuando haya obrado así por dádiva o promesa, la pena de prisión militar será hasta de dos años.\n Art.186.- El militar que hubiere falsificado sellos, o cualquiera otra marca de las que se acostumbra poner en los actos o títulos relativos al servicio militar; sobre las armas, ganados, efectos o vestuarios militares, y que puede acarrear el daño previsto en los artículos 183 y 184, quedará sujeto a las penas respectivamente establecidas en dichos artículos.\n Art.187.- El militar que haya procurado los verdaderos sellos o marcas que tengan algunos destinos indicados en el artículo precedente, y haya hecho de ellos una aplicación fraudulenta con perjuicio de las FF.AA. de la Nación, o de las personas pertenecientes a las mismas, sufrirá la pena de dos a cinco años de prisión militar.\n CAPITULO XVI \n De la Malversación \n Art.188.- Es culpable de los delitos de malversación:\n a) el militar que trafique, enajene o sustraiga en provecho propio o ajeno, recursos propios de la Unidad, víveres, forrajes, armas, municiooes, o materiales de guerra de cuya administración, custodia o distribución está en cargo:\n b) el que por conveniencia con los proveedores, distribuye cosas deterioradas, inútiles o corroídas, o con intención de hacer lucro, las acepta de ellos con el mismo objeto, por cuenta del Estado y para el servicio;\n c) el que en las negociaciones con los proveedores, favorece maliciosamente a alguno de ellos en perjuicio del Estado;\n d) el que en la presentación de cuentas, defraudare con documentos falsos; y\n e) todo el personal de las FF.AA. de la Nación que dé en prenda o venda municiones, armas, vestidos o forrajes de los que le están confiados en razón de su empleo.\n Art.189.- El delito de malversación será castigado con las penas siguientes:\n a) si el valor de las cosas malversadas no excediere de diez mil guaraníes, con un año de prisión militar ;\n b) si excediere de diez miel guaraníes y no pasare de quinientos mil guaraníes, con cinco años de prisión militar ;\n c) si excediere de quinientos mil guaraníes, con diez años de prisión militar; y\n d) en el caso del inciso d) del Art.188, el culpable será castigado con pena mayor.\n Art.190.- En el caso del inciso b) del Art.188, si a consecuencia de la distribución de provisiones deterioradas, inútiles o corrompidas, resultare muerte, al culpable se le impondrá la pena capital en caso de guerra y con diez años de prisión militar en tiempo de paz.\n CAPITULO XVII \n Defraudación \n Art.191.- El que reciba emolumentos para beneficios propio o ajeno, haberes u otras finalidades supuestas, o presente cuentas inexactas por gastos, sufrirá la sanción de dos a cuatro años de prisión militar."
+    },
+    {
+      "provision_ref": "art196",
+      "chapter": "CAPITULO XVII",
+      "section": "196",
+      "title": "Artículo 196. Los abastecedores que hagan uso de pesas y medidas falsas, o que suministren víveres averiados o adulterados y los militares que lo autoricen o consientan, serán sancionados con prisión de cuatro a ocho años. Si ha consecuencia de dichos suministros se produjese epidemia o muerte la pena será de quince a treinta años de prisión.",
+      "content": "CAPITULO XVIII \n Del Cohecho y Prevaricato"
+    },
+    {
+      "provision_ref": "art204",
+      "chapter": "CAPITULO XVIII",
+      "section": "204",
+      "title": "Artículo 204. Cometen prevaricato los que formando parte del Tribunal Militar o desempeñando cualquiera otra función de justicia militar:",
+      "content": "a) dictaren maliciosamente sentencia o resolución injusta, o violaren las leyes de procedimiento;\n b) citaren hechos o resoluciones falsas;\n c) fundaren sus fallos en leyes supuestas o derogadas;\n d) se negaren maliciosamente a administrar justicia después de ser requerido por las partes y del vencimiento de los términos señalados por las leyes; y\n e) se negaren maliciosamente a juzgar bajo pretexto de obscuridad, insuficiencia o silencio de la Ley.\n Los que cometan cualquiera de esos hechos, serán penados con destitución o inhabilitación absoluta y perpetua para ocupar cargos judiciales."
+    },
+    {
+      "provision_ref": "art205",
+      "chapter": "CAPITULO XVIII",
+      "section": "205",
+      "title": "Artículo 205. Cometen también prevaricato:",
+      "content": "a) los que desempeñando las funciones fiscales, faltaren maliciosamente a sus deberes en favor o en contra de los procesados; y\n b) los que ejerciendo el cargo de defensores, maliciosamente perjudicaren al procesado o descubrieran sus revelaciones."
+    },
+    {
+      "provision_ref": "art206",
+      "chapter": "CAPITULO XVIII",
+      "section": "206",
+      "title": "Artículo 206. Serán pasibles de prisión de uno a tres años:",
+      "content": "a) los que insulten o ultrajen a un funcionario judicial, por razón de su cargo o en el local del Juzgado; y\n b) los que impidan u obstaculicen el funcionamiento de un Tribunal Militar."
+    },
+    {
+      "provision_ref": "art208",
+      "chapter": "CAPITULO XVIII",
+      "section": "208",
+      "title": "Artículo 208. El que ejerza influencia o haga presión sobre funcionarios de Justicia Militar para que en los juicios se viole la ley en beneficio o en perjuicio de un acusado, será penado con prisión militar de dos a cuatro años.",
+      "content": "CAPITULO XIX \n Transgresiones en materia de Servicio de la Administración Militar"
+    },
+    {
+      "provision_ref": "art211",
+      "chapter": "CAPITULO XIX",
+      "section": "211",
+      "title": "Artículo 211. Sufrirá la misma pena cualquier Oficial del cuerpo de sanidad militar que, dentro de las veinticuatro horas no pusiese a conocimiento de la autoridad militar de que depende, las lesiones u otras ofensas corporales para las cuales haya prestado los servicios de su profesión.",
+      "content": "CAPITULO XX \n De la venta, empeño u ocultación de efectos militares"
+    },
+    {
+      "provision_ref": "art213",
+      "chapter": "CAPITULO XX",
+      "section": "213",
+      "title": "Artículo 213. El militar que hubiese dispuesto por cualquiera de modos enunciados del armamento, municiones de guerra u otros efectos pertenecientes al Estado o a las FF.AA. de la Nación, o que hubiese reincidido en él, sobre dicho delito, será castigado con prisión militar que no exceda de seis años. El máximum de la prisión militar se aplicará siempre que los objetos de los que se haya dispuesto sean armas o municiones de guerra.",
+      "content": "CAPITULO XXI \n Del robo, hurto y estafa"
+    },
+    {
+      "provision_ref": "art220",
+      "chapter": "CAPITULO XXI",
+      "section": "220",
+      "title": "Artículo 220. Incurre en delito de abigeato el militar que:",
+      "content": "a) robo, hurto o de cualquier otro modo, se apropie de ganado vacuno, caballar, mular, asnal, caprino o lanar, perteneciente a las Fuerzas Armadas de la Nación conduciéndolo a propiedad distinta a la que se encontraba, usándolo o estándolo para su beneficio o el de terceros;\n b) marque o señale ganado de las FF.AA. con o raptores distintos a los de éstas; y\n c) contramarque, borre o modifique las marcas y señales propias de las FF.AA.\n Los que cometen cualquiera de éstos hechos serán castigados con la pena de dos a cuatro años de prisión militar."
+    },
+    {
+      "provision_ref": "art224",
+      "chapter": "CAPITULO XXI",
+      "section": "224",
+      "title": "Artículo 224. Si el valor de los hurtos o estafas, previstos en el presente capítulo no pasa de un mil guaraníes, será castigado el culpable sin forma de juicio con pena disciplinaria.",
+      "content": "CAPITULO XXII \n Del incendio y el deterioro de edificios, obras y objetos militares."
+    },
+    {
+      "provision_ref": "art230",
+      "chapter": "CAPITULO XXII",
+      "section": "230",
+      "title": "Artículo 230. Cuando los hechos mencionados en los artículos precedentes hayan ocurrido por imprudencia, negligencia o por falta de cumplimiento de los reglamentos militares u órdenes recibidas de sus superiores, la pena será graduada según las circunstancias indicadas dentro de los límites de uno a seis años de prisión militar.",
+      "content": "CAPITULO XXIII \n Irreverencia a los Símbolos Nacionales, Uniformes, Distinciones \n y Ordenes Militares"
+    },
+    {
+      "provision_ref": "art235",
+      "chapter": "CAPITULO XXIII",
+      "section": "235",
+      "title": "Artículo 235. El militar que acepte pensiones, condecoraciones u honores de potencia extranjera, sin autorización del gobierno, será pasible de la pena de separación.",
+      "content": "CAPITULO XXIV \n De la cobardía"
+    },
+    {
+      "provision_ref": "art237",
+      "chapter": "CAPITULO XXIV",
+      "section": "237",
+      "title": "Artículo 237. El Comandante de una Fuerza que en acción de guerra abandonare su puesto sin orden expresa, antes de haber perdido entre muertos y heridos la tercera parte de sus tropas, o sin que las fuerzas enemigas amenazaren positivamente cortarle o flanquearle, será condenado a la pena de ocho a diez años de prisión militar si fuera oficial, y de tres a seis años de la misma pena, siendo sargento o cabo. Pero si la retirada o abandono del puesto no fuere de manifiesta cobardía, se le castigará con la pena de separación del servicio.",
+      "content": "CAPITULO XXV \n Delitos contra el centinela"
+    },
+    {
+      "provision_ref": "art238",
+      "chapter": "CAPITULO XXV",
+      "section": "238",
+      "title": "Artículo 238. Se comete delito contra el centinela:",
+      "content": "a) cuando se le insulta o amenaza de palabra;\n b) cuando se le amenaza con arma blanca o de fuego, piedra, palo o con otro objeto capaz de dañar;\n c) cuando sin armas se emplea violencia contra el centinela o se injuria de otra; y\n d) cuando se emplea violencia a mano armada."
+    },
+    {
+      "provision_ref": "art239",
+      "chapter": "CAPITULO XXV",
+      "section": "239",
+      "title": "Artículo 239. En tiempo de paz el delito contra el centinela se castigará:",
+      "content": "En el caso del inciso a) del artículo anterior con pena de un año de prisión militar;\n En el caso del inciso b) con uno a dos años de prisión militar; \n En caso del inciso c) con dos a cuatro años de prisión prisión militar; y\n En el caso del inciso d) con cuatro años de prisión militar."
+    },
+    {
+      "provision_ref": "art240",
+      "chapter": "CAPITULO XXV",
+      "section": "240",
+      "title": "Artículo 240. En tiempo de guerra los delitos contra los centinelas comprendidos en los incisos a) y b) del art. 238, se castigará con la pena de cinco años de prisión militar, extensible a ocho años; y los comprendidos en los incisos c) y d) con la pena de muerte.",
+      "content": "CAPITULO XXVI \n Delitos contra el Servicio Militar Obligatorio"
+    },
+    {
+      "provision_ref": "art246",
+      "chapter": "CAPITULO XXVI",
+      "section": "246",
+      "title": "Artículo 246. El que sin autoridad legal o causa legítima, disponga el licenciamiento de conscriptos fuera de los términos señalados por el P. E. será castigado con un año de prisión militar en tiempo de paz, y con tres años en estado de guerra.",
+      "content": "CAPITULO XXVII \n Disposiciones relativas a las personas extrañas al Ejército"
+    },
+    {
+      "provision_ref": "art251",
+      "chapter": "CAPITULO XXVII",
+      "section": "251",
+      "title": "Artículo 251. Cuando personas extrañas a las FF.AA. de la Nación, compartieran con militares en los delitos previstos en los artículos 133, 137 y 238 inciso d) o en el delito de insubordinación, según el Artículo 138, quedarán sujetas al mínimum de las penas prescriptas en el presente Código.",
+      "content": "CAPITULO XXVIII \n Del homicidio y delas lesiones"
+    },
+    {
+      "provision_ref": "art252",
+      "chapter": "CAPITULO XXVIII",
+      "section": "252",
+      "title": "Artículo 252. El homicidio, o sea el que se somete sin premeditación ni reflexión, se castiga con prisión militar de seis a doce años, pero el autor del homicidio será, sin embargo, castigado de sólo con tres años de la pena en los casos siguientes:",
+      "content": "a) cuando la víctima hubiera provocado el acto con ofensas e injurias graves; y \n b) cuando el autor del homicidio lo hubiese ejecutado en un arrebato de cólera o de indignación, cuya causa no le sea imputable."
+    },
+    {
+      "provision_ref": "art258",
+      "chapter": "CAPITULO XXVIII",
+      "section": "258",
+      "title": "Artículo 258. Cuando en una riña en que tienen parte más de dos personas resultare uno o más muertos, se observarán las reglas siguientes:",
+      "content": "a) solo el que hubiere causado la herida mortal, será considerado como homicida ;\n b) si la muerte fuera causada a consecuencia de varias heridas inferidas por distintos delincuentes, serán castigados como homicidas todos los autores de esas heridas; y\n c) si las heridas causadas por diversos copartícipes, fuesen mortales, no intrínsecamente sino por su número o reunión se procurará en lo posible graduar el tiempo de condena a la gravedad e importancia de las heridas inferidas para cada uno de ellos. Pero si no fuera posible determinar el principal o principales autores, la pena se impondrá a todos por igual de tres a seis años de prisión militar."
+    },
+    {
+      "provision_ref": "art262",
+      "chapter": "CAPITULO XXVIII",
+      "section": "262",
+      "title": "Artículo 262. En los delitos previstos y penado en el presente capítulo cometidos por imprudencia, impericia o negligencia la pena será de dos años de prisión militar.",
+      "content": "CAPITULO XXIX \n De la Falsa Alarma"
+    },
+    {
+      "provision_ref": "art263",
+      "chapter": "CAPITULO XXIX",
+      "section": "263",
+      "title": "Artículo 263. El que ocasiona con falsa alarma, confusión o desorden en la tropa, nave, fortaleza o población ocupada militarmente será castigado con la pena de prisión militar de seis a doce años, si de tal hecho resultare un perjuicio grave para las Fuerzas Armadas. Si el hecho ha ocasionado algún perjuicio leve a las FF.AA. la pena será de dos a seis años de prisión. En todos los demás casos la pena será de uno a dos años de prisión militar.",
+      "content": "CAPITULO XXX \n De los delitos de la Marina y la Aeronáutica"
+    },
+    {
+      "provision_ref": "art273",
+      "chapter": "CAPITULO XXX",
+      "section": "273",
+      "title": "Artículo 273. El personal militar de la marina o aeronáutica encargado de la construcción, reparación o inspección de un buque, aeronave, u otro equipo militar, y de cuya negligencia resultare algún daño, sufrirá la pena de prisión militar de tres años, sin perjuicio de su responsabilidad emergente del mismo.",
+      "content": "LIBRO SEGUNDO \n DISPOSICIONES RELATIVAS AL TIEMPO DE GUERRA \n CAPITULO I \n Del estado de guerra y sus efectos"
+    },
+    {
+      "provision_ref": "art281",
+      "chapter": "CAPITULO I",
+      "section": "281",
+      "title": "Artículo 281. El comandante en Jefe del teatro de operaciones, o el Comandante de un Cuerpo de Ejército o de un Batallón de Frontera o Base Aérea o Naval o Puesto Militar asediado, que no esté en comunicación con el Comandante en Jefe del teatro de operación podrá publicar mandos militares que tendrán fuerza de ley en el perímetro de su mando.",
+      "content": "CAPITULO II \n Del incendio, devastación y de los delitos contra la autoridad pública"
+    },
+    {
+      "provision_ref": "art286",
+      "chapter": "CAPITULO II",
+      "section": "286",
+      "title": "Artículo 286. La rebelión contra la justicia se castigará con prisión militar que no baje de un año, extensible a dos años. Si la rebelión fuese cometida en unión de diez o más personas, dicha pena no bajará de un año, pudiendo aplicarse penas mayores según las circunstancias del hecho, o por otros delitos especiales.",
+      "content": "CAPITULO III \n Del estupro, del rapto y de otros actos deshonestos"
+    },
+    {
+      "provision_ref": "art288",
+      "chapter": "CAPITULO III",
+      "section": "288",
+      "title": "Artículo 288. El estupro se considera violento:",
+      "content": "a) cuando la víctima estuprada no ha cumplido aún la edad de doce años; y\n b) cuando la víctima estuprada se encontrase por alteración mental o por otra causa accidental, fuera de sentido, o se le haya privado artificialmente de él.\n Se aplicará la pena de muerte al culpable cuando haya ocasionado la muerte de la víctima. También en éste caso se observará lo dispuesto por el Art. 256."
+    },
+    {
+      "provision_ref": "art290",
+      "chapter": "CAPITULO III",
+      "section": "290",
+      "title": "Artículo 290. El rapto violento de las personas menores de catorce años, será castigado con prisión militar que no exceda de siete años.",
+      "content": "CAPITULO IV \n Del saltamiento, de la rapiña, del saqueo, de las imposiciones arbitrarias y del pillaje."
+    },
+    {
+      "provision_ref": "art296",
+      "chapter": "CAPITULO IV",
+      "section": "296",
+      "title": "Artículo 296. El Oficial que pudiendo, no haya impedido el pillaje será castigado con la pena de prisión militar de un año. Cuando el haya tomado participación la pena será de prisión militar de un año, extensible a dos. Si el delito de pillaje es acompañado de circunstancias agravantes, será castigado con penas mayores.",
+      "content": "CAPITULO V \n De los Prisioneros de Guerra"
+    },
+    {
+      "provision_ref": "art298",
+      "chapter": "CAPITULO V",
+      "section": "298",
+      "title": "Artículo 298. A la misma pena quedarán sujetos los Oficiales prisioneros de guerra que, contra la palabra dada se les volvierá a tomar con las armas en la mano.",
+      "content": "CAPITULO VI \n De las faltas contra la disciplina"
+    },
+    {
+      "provision_ref": "art299",
+      "chapter": "CAPITULO VI",
+      "section": "299",
+      "title": "Artículo 299. - A más de las ya expresadas en éste Código se reputan faltas contra la disciplina tanto en tiempo de paz como de guerra:",
+      "content": "a) la infracción a los reglamentos establecidos en los Cuarteles o Unidades, o de las órdenes del superior;\n b) las palabras de descontentos pronunciadas en presencia de un superior, o la negligencia al cumplir una orden suya, siempre que no sean actos de formal desobediencia dignos de otra pena mayor que las de disciplina:\n c) Las murmuraciones acerca del orden en que se hagan los ascensos, de la falta y escasez de sueldo, de exceso de fatiga, de la incomodidad de los cuarteles, de la mala calidad del rancho o del vestuario, y en general, cualquiera queja que pueda producir descontento o debilitar la subordinación;\n d) la embriaguez por poco que turbo el orden;\n e) las faltas contra la decencia y la moral;\n f) las riñas en el interior del cuartel, toda vez que de ellas no resulten lesiones de ninguna clase;\n g) las faltas de puntualidad en acudir al toque de generala, a las listas y ejercicios o revistas, cuando la ley no señala mayor pena estas faltas ;\n h) el suponer de los superiores, si esta falta no produce consecuencias graves;\n i) el distraerse el centinela en tiempo de paz, trabajando, sentándose, fumando o el dejar su arma o dispararle sin causar daño, por otro motivo que el defender su puesto;\n j) el reunirse los superiores con los subalternos en lugares indignos del decoro de su empleo para bromas, diversiones o actos inmorales; y\n k) Ocultar el nombre, patria o estado civil en el momento de filiación. Las faltas contra la disciplina se reputan más graves cuando se cometen en actos del servicio."
+    },
+    {
+      "provision_ref": "art300",
+      "chapter": "CAPITULO VI",
+      "section": "300",
+      "title": "Artículo 300. La aplicación de las penas de disciplina corresponde a los Comandantes. Los Oficiales y Clases que le estén subordinados, se limitarán a ordenar el simple arresto del culpable hasta que los Comandantes señalen las penas correspondientes.",
+      "content": "CAPITULO ADICIONAL COMPLEMENTARIO \n De las penas disciplinarias a los Oficiales, clase y soldados."
+    },
+    {
+      "provision_ref": "art301",
+      "chapter": "CAPITULO ADICIONAL COMPLEMENTARIO",
+      "section": "301",
+      "title": "Artículo 301. Las penas disciplinarias que deberán aplicarse a los militares son las siguientes:",
+      "content": "A los Oficiales:\n 1° Arresto hasta por treinta días.\n 2° Arresto en el Cuartel hasta por noventa días.\n A los Sub-Oficiales, Sargentos y Cabos:\n 1° Arresto en la cuadra hasta por quince días,\n 2° Arresto en el cuartel hasta por treinta días,\n 3° Arresto en el calabozo hasta por sesenta días.\n 4° Degradación de los Sub-Oficiales, Sargentos, y Cabos, con noventa días de arresto.\n A los soldados:\n 1° Arresto en la cuadra de uno a diez días, con destino a la policía militar de la Unidad.\n 2° Arresto en el cuartel hasta por quince días.\n 3° Arresto en el calabozo hasta treinta días."
+    },
+    {
+      "provision_ref": "art302",
+      "chapter": "CAPITULO ADICIONAL COMPLEMENTARIO",
+      "section": "302",
+      "title": "Artículo 302. En tiempo de guerra las penas disciplinarias serán:",
+      "content": "a) Para la clase de tropa, arresto con vigilante en la misma compañía, por número de días que merezca la falta.\n b) para Sub-Oficiales, sargentos y cabos arresto con vigilante en la guardia del cuerpo.\n c) para los Oficiales, arresto por la primera vez en la Guardia de la Unidad, y en los casos de reincidencia, arresto en la Guardia de otra Unidad."
+    },
+    {
+      "provision_ref": "art305",
+      "chapter": "CAPITULO ADICIONAL COMPLEMENTARIO",
+      "section": "305",
+      "title": "Artículo 305. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL A LOS DIEZ Y OCHO DIAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "py-ley-781",
+  "type": "statute",
+  "title": "Ley Nº 24 / DEL FOMENTO DEL LIBRO",
+  "title_en": "Ley Nº 24 / DEL FOMENTO DEL LIBRO",
+  "short_name": "Ley N° 24",
+  "status": "in_force",
+  "issued_date": "1991-09-13",
+  "in_force_date": "1991-09-13",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/781/ley-n-24-del-fomento-del-libro",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Esta Ley tiene por objeto promover la difusión y comunicación del conocimiento de la ciencia, la técnica y el saber en general, para bien de la sociedad y dentro de las políticas educacionales y culturales del país.",
+      "content": "En concordancia con ella, se fomentará:\na) la difusión del libro conforme los niveles de formación cultural y comprensión de las regiones del país, atendiendo a la realidad plurilingüe de la población;\nb) el hábito de la lectura y una toma de conciencia de la función insustituible que cumple el libro y otras formas de comunicación del pensamiento, como transmisor de cultura;\nc) el desarrollo de la producción literaria y científica y la actividad editorial en general, con ediciones de bajo costo que puedan tener circulación popular;\nd) la circulación del libro y otros medios difusores de cultura, dentro del país y su exportación a entidades culturales y bibliotecas de otros países; y\ne) la fundación de entidades culturales y editoriales que se propongan ediciones económicas de libros, folletos y material formativo en general, de iniciación, formación y divulgación cultural."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. A los efectos de la aplicación de esta Ley, considérase \"Libro\" a toda unidad gráfica impresa, en uno o varios volúmenes o fascículos. Comprenderá también al material complementario o accesorio de carácter electrónico, sonoro, computacional o de cualquier variedad, que sirvan imprescindiblemente para completar el sistema de lectura o aprendizaje, y que no pueda comercializarse separadamente del principal.",
+      "content": "Se consideran también libros a todas las revistas, fascículos, folletos y catálogos que tengan fines culturales, científicos o literarios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. - En la aplicación de las disposiciones de esta Ley por las autoridades públicas, así como para la reglamentación que se dictare se entenderá como:",
+      "content": "a) libro paraguayo: el editado e impreso en el país, de autor nacional o extranjero, en cualquiera de los idiomas nacionales o extranjeros;\nb) Autor: la persona o personas que crean, realizan o compilan una obra publicada como \"Libro\" y aquellas que la Ley considera titulares del derecho de autor. Asimismo, quienes realizan producción científica en carácter de asesor o consultor para terceros, publicada o no;\nc) Editor: la persona natural o jurídica que elige y selecciona mediando contrato con el autor, uno o varios libros y realiza o encarga los procesos necesarios para su producción;\nd) Impresor: la persona responsable económica y legalmente de una empresa gráfica, que participa en todas o algunas de las etapas del proceso encaminado a producir libros;\ne) Distribuidor: la persona cuya actividad principal sea la comercialización de libros al por mayor; y\nf) Librero: la persona que se dedica exclusiva o principalmente a la venta de libros en establecimientos mercantiles legalmente habilitados y abiertos al público."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Las tarifas postales internas serán reducidas en un cincuenta por ciento de la ordinaria, cuando se trate de la circulación de libros, folletos y demás materiales de interés cultural.",
+      "content": "Los libros oficiales que sirven de textos escolares primarios circularán libres de tarifas postales."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. La Sub-Secretaría de Cultura, dependiente del Ministerio de Educación y Culto será la encargada de velar el cumplimiento de esta Ley.",
+      "content": "A dicho efecto organizará el Registro de Editores, donde se inscribirán las personas físicas o jurídicas dedicadas a la industria editorial y las necesidades de los insumos anuales de las mismas. La utilización para fines culturales de dichos insumos se hará en forma permanente y las actividades de control serán coordinadas con otras instituciones públicas con funciones de supervisión fiscal."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. La utilización con fines distintos a los especificados en esta Ley de los materiales e insumos importados con las exenciones fiscales previstas será comunicada a las autoridades pertinentes como la Dirección General de Aduanas y demás instituciones públicas involucradas, a los efectos de la percepción de los tributos correspondientes y el incumplimiento de las leyes impositivas.",
+      "content": "La calificación de \"evasión impositiva\" o derivación para fines no culturales de los insumos importados, hará cancelar la inscripción en el Registro de Editores."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Artículo 16. La Sub-Secretaría de Cultura del Ministerio de Educación y Culto promoverá los fines de la presente Ley, mediante las siguientes acciones:",
+      "content": "a) desarrollará una campaña nacional para involucrar el hábito de la lectura, a cuyo efecto fundará bibliotecas populares en coordinación con la comunidad o barrio respectivo, así como con las Municipalidades, Fundaciones y Entidades Culturales del sector privado;\nb) apoyará la creación y funcionamiento de fundaciones y entidades culturales del sector privado, creadas sin fines de lucro, y que se proponga similares objetivos de esta Ley; y\nc) Adquirirá mensualmente cien ejemplares de libros de cada edición nacional, para la formación de bibliotecas populares o colegiales en el interior del país."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Artículo 20. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la H.Cámara de Diputados a trece días del mes de junio del año un mil novecientos noventa y uno y por la H.Cámara de Senadores, sancionándose la Ley, a los veinte y un días del mes de agosto del año un mil novecientos noventa y uno."
+    }
+  ],
+  "definitions": []
+}

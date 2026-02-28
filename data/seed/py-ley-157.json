@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-157",
+  "type": "statute",
+  "title": "Ley Nº 1462 / ESTABLECE EL PROCEDIMIENTO PARA LO CONTENCIOSO ADMINISTRATIVO.",
+  "title_en": "Ley Nº 1462 / ESTABLECE EL PROCEDIMIENTO PARA LO CONTENCIOSO ADMINISTRATIVO.",
+  "short_name": "Ley N° 1462",
+  "status": "in_force",
+  "issued_date": "1935-07-18",
+  "in_force_date": "1935-07-18",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/157/ley-n-1462-establece-el-procedimiento-para-lo-contencioso-administrativo",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. – La demanda contencioso administrativa podrá deducirse por un particular o por una autoridad administrativa, contra las resoluciones administrativas que reúnen los requisitos siguientes:",
+      "content": "a) Que causen estado y no haya por consiguiente recurso administrativo contra ellas;\n b) Que la resolución de la administración proceda del uso de sus facultades regladas;\n c) Que no exista otro juicio pendiente sobre el mismo asunto; \nd) Que la resolución vulnere un derecho administrativo prestablecido a favor del demandante; y \ne) Que se halle abonada la cuentía del impuesto u otra liquidación de cuentas ordenada por el Tribunal de Cuentas"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. - Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones del H. Congreso legislativo, a los quince días del mes de Julio de mil novecientos treinta y cinco."
+    }
+  ],
+  "definitions": []
+}

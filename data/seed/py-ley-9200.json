@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-9200",
+  "type": "statute",
+  "title": "Ley Nº 498 / DECLARA DIA DE LA MUJER PARAGUAYA.",
+  "title_en": "Ley Nº 498 / DECLARA DIA DE LA MUJER PARAGUAYA.",
+  "short_name": "Ley N° 498",
+  "status": "in_force",
+  "issued_date": "1974-12-18",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9200/ley-n-498-declara-dia-de-la-mujer-paraguaya",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Las Municipalidades del país dispondrán, dentro de sus facultades, las medidas necesarias para rendir homenaje a la mujer paraguaya.",
+      "content": "Las instituciones educacionales y culturales realizarán en el Día de la Mujer Paraguaya actos alusivos al histórico y patriótico acontecimiento que conmemora."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. - Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS DIEZ DIAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS SETENTA Y CUATRO."
+    }
+  ],
+  "definitions": []
+}

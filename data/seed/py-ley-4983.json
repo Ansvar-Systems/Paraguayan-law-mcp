@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-4983",
+  "type": "statute",
+  "title": "Ley Nº 2310 / PROTECCION INFANTIL CONTRA LAS ENFERMEDADES INMUNO PREVENIBLES",
+  "title_en": "Ley Nº 2310 / PROTECCION INFANTIL CONTRA LAS ENFERMEDADES INMUNO PREVENIBLES",
+  "short_name": "Ley N° 2310",
+  "status": "in_force",
+  "issued_date": "2003-11-18",
+  "in_force_date": "2003-12-21",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4983/ley-n-2310-proteccion-infantil-contra-las-enfermedades-inmuno-prevenibles",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. El Poder Legislativo incluirá anualmente en el Presupuesto General de la Nación en una partida especial los recursos suficientes para financiar los gastos para cubrir el esquema completo de vacunación.",
+      "content": "La cobertura incluirá las siguientes vacunas dentro del esquema regular: Programa PAI regular: BCG (contra la tuberculosis); DPT (contra la difteria, el coqueluche y el tétanos); VOP (anti poliomielítica); Td (contra el tétanos y difteria); SPR (contra el sarampión, la papera y la rubéola); anti – Haemophillus influenzae tipo b; y anti – Hepatitis B."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. 1.- Todo infante tiene el derecho a recibir en forma gratuita y oportuna las vacunas que se mencionan en el Artículo 2° de esta Ley.",
+      "content": "2.- Los padres están obligados a garantizar la aplicación del esquema de vacunación completa a sus hijos.\n 3.- Toda mujer en edad fértil tiene el derecho de recibir en forma gratuita y oportuna la vacuna Td contra el tétanos y difteria."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. El Ministerio de Hacienda habilitará una cuenta especial a nombre del Ministerio de Salud Pública y Bienestar Social– Programa Ampliado de Inmunizaciones (PAI) y anualmente, a más tardar en el mes de marzo, transferirá a la misma la totalidad de los recursos destinados para el efecto en el presupuesto.",
+      "content": "Estos fondos provendrán de Fuente 10 y no podrán ser utilizados para fines distintos a los previstos en esta Ley ni podrán ser objeto de disminución o afectación bajo ningún concepto. Igualmente serán transferidas a esa cuenta todas las donaciones al Estado que se efectúen a tales efectos."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a veintiún días del mes de agosto del año dos mil tres, y por la Honorable Cámara de Senadores, a seis días del mes de noviembre del año dos mil tres, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

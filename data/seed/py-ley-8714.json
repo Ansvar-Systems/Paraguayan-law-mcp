@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-8714",
+  "type": "statute",
+  "title": "Ley Nº 42 / ESTABLECE UN DISTINTIVO PARA LOS MIEMBROS DEL CONGRESO NACIONAL",
+  "title_en": "Ley Nº 42 / ESTABLECE UN DISTINTIVO PARA LOS MIEMBROS DEL CONGRESO NACIONAL",
+  "short_name": "Ley N° 42",
+  "status": "in_force",
+  "issued_date": "1968-12-17",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/8714/ley-n-42-establece-un-distintivo-para-los-miembros-del-congreso-nacional",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Establécese para los miembros del Congreso Nacional, un DISTINTIVO, confeccionado íntegramente en oro macizo de 18 kilates con un peso neto de 12 gramos, con dos casquetes de esfera cóncavo-conexos, el uno anterior de 16 mm. de diámetro, y el otro posterior de 20 mm. de diámetro. Ambos casquetes estarán unidos por su parte cóncava, por una chapa trapezoidal de 1 mm. de espesor, cuya base menor será de 8 mm. y la mayor de 11 mm. y con una altura de manera que los bordes paralelos de los dos casquetes dejen entre si una abertura de 4 mm.",
+      "content": "En la superficie convexa del casquete de esfera menor, o anterior llevará el escudo de la República y en la parte inferior la denominación que corresponda de SENADOR o DIPUTADO. En la superficie convexa del casquete posterior o mayor, en una franja a la altura del diámetro horizontal, se inscribirá el nombre del Senador o Diputado al que pertenezca el distintivo; por encima de dicha denominación, y a modo de orla, la inscripción CONGRESO NACIONAL y en la parte inferior el período parlamentario todo en relieve."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL A LOS ONCE DIAS DEL MES DE DICIEMBRE DEL AÑO MIL NOVENCIENTOS SESENTA Y OCHO."
+    }
+  ],
+  "definitions": []
+}

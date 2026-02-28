@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-11100",
+  "type": "statute",
+  "title": "Ley Nº 359 / POR LA QUE SE MODIFICA LOS ARTÍCULOS 12, 47, 48, 74, 78 E INC. B) DEL ART. 92 DE LA LEY 14 ORGÁNICA DE PRESUPUESTO DE FECHA 2 DE OCTUBRE DE 1968.",
+  "title_en": "Ley Nº 359 / POR LA QUE SE MODIFICA LOS ARTÍCULOS 12, 47, 48, 74, 78 E INC. B) DEL ART. 92 DE LA LEY 14 ORGÁNICA DE PRESUPUESTO DE FECHA 2 DE OCTUBRE DE 1968.",
+  "short_name": "Ley N° 359",
+  "status": "in_force",
+  "issued_date": "1972-10-06",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/11100/ley-n-359-por-la-que-se-modifica-los-articulos-12-47-48-74-78-e-inc-b-del-art-92-de-la-ley-14-organica-de-presupuesto-de-fecha-2-de-octubre-de-1968",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Modifícase los artículos 12, 47, 48, 74, 78 e inc. b) del Art. 92 de la Ley Orgánica de Presupuesto de fecha 2 de Octubre de 1968, los cuales quedan redactados de la siguiente forma:",
+      "content": "«Art. 12.- El Presupuesto de la Administración Central y de las Entidades Descentralizadas constituirán el Presupuesto General de la Nación."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Artículo 47. El Poder Ejecutivo remitirá al Congreso Nacional a más tardar el 30 de septiembre de cada año, el Proyecto de Presupuesto General de la Nación, el que será presentado en forma comparativa con el vigente y formulado de acuerdo con esta Ley, acompañando lo siguiente:",
+      "content": "a) Mensaje del Poder Ejecutivo en el que se expondrá la Política Fiscal y Presupuestaria del Gobierno. \n b) El Proyecto de Ley del Presupuesto de la Administración Central; y \n c) El Proyecto de Ley de los Presupuestos de las Entidades Descentralizadas."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Artículo 78. La aprobación de los Presupuestos de las Entidades Descentralizadas tendrán el mismo trámite establecido en esta Ley para el Presupuesto de la Administración Central.",
+      "content": "Inc. b) del Art. 92.- Preparar el Presupuesto de Ingresos Corrientes y de Capital de la Administración Central y de las Entidades Descentralizadas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS VEINTE Y OCHO DIAS DEL MES DE SETIEMBRE DEL AÑO UN MIL NOVECIENTOS SETENTA Y DOS"
+    }
+  ],
+  "definitions": []
+}

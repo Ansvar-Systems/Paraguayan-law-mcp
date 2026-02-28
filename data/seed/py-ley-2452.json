@@ -1,0 +1,476 @@
+{
+  "id": "py-ley-2452",
+  "type": "statute",
+  "title": "Ley Nº 642 / TELECOMUNICACIONES",
+  "title_en": "Ley Nº 642 / TELECOMUNICACIONES",
+  "short_name": "Ley N° 642",
+  "status": "in_force",
+  "issued_date": "1995-12-29",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2452/ley-n-642-telecomunicaciones",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "TITULO PRELIMINAR",
+      "section": "1",
+      "title": "Artículo 1. La emisión y la propagación de las señales de comunicación electromagnéticas son del dominio público del Estado y su empleo se hará de conformidad a lo establecido por la Constitución Nacional, los tratados y demás instrumentos internacionales vigentes sobre la materia, la presente ley y sus disposiciones reglamentarias, con el fin de lograr una mejor calidad, confiabilidad, eficiencia y disponibilidad de las mismas.",
+      "content": "TITULO I \n NORMAS GENERALES DE APLICACION"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "TITULO I",
+      "section": "4",
+      "title": "Artículo 4. Toda persona física o jurídica tiene libre e igualitario derecho de acceso al uso y prestación de servicios de telecomunicaciones, con sujeción a la presente ley y demás disposiciones que regulan la materia.",
+      "content": "Para el pleno ejercicio de este derecho se promoverá la integración de los lugares más apartados de los centros urbanos."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "TITULO I",
+      "section": "5",
+      "title": "Artículo 5. La instalación, operación y explotación de los servicios de telecomunicaciones ubicados en el territorio nacional se realizarán conforme a las especificaciones técnicas que establezca la Comisión Nacional de Telecomunicaciones.",
+      "content": "TITULO II \n AUTORIDAD DE APLICACION DE LA LEY"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "TITULO II",
+      "section": "7",
+      "title": "Artículo 7. Ejercerá la dirección de la Comisión Nacional de Telecomunicaciones un Directorio compuesto por cinco Miembros: un Presidente y cuatro Directores, todos ellos designados por el Poder Ejecutivo. En caso de vacancia de la presidencia o de ausencia temporaria del Presidente sin delegación del cargo, los Directores designarán un Presidente interino. El Presidente, o quien haga sus veces, tendrá doble voto en caso de empate.",
+      "content": "El Poder Ejecutivo designará, asimismo, dos Directores Suplentes que reemplazarán a los Titulares en caso de impedimento por cualquier motivo.\n El Presidente y los Directores Titulares gozarán de las retribuciones previstas en el presupuesto anual de la Comisión Nacional de Telecomunicaciones. Los Directores Suplentes serán retribuidos por el tiempo efectivo que reemplacen a los Titulares de los cargos."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "TITULO II",
+      "section": "8",
+      "title": "Artículo 8. Los miembros del Directorio de la Comisión Nacional de Telecomunicaciones permanecerán en el ejercicio de sus funciones por cinco años, a excepción del Presidente cuyo mandato coincidirá con el del Presidente de la República.",
+      "content": "Para sesionar se requerirá la presencia de la mayoría absoluta de integrantes del Directorio. Las resoluciones se adoptarán por el voto coincidente de tres de sus miembros, como mínimo."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "TITULO II",
+      "section": "9",
+      "title": "Artículo 9. Para ser miembro del Directorio de la Comisión Nacional de Telecomunicaciones se requiere:",
+      "content": "1) Nacionalidad paraguaya;\n 2) Tener 25 (veinticinco) años cumplidos; y,\n 3) Solvencia moral e idoneidad en la materia.\n Los miembros Titulares del Directorio se desempeñarán en régimen de dedicación exclusiva."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "TITULO II",
+      "section": "10",
+      "title": "Artículo 10. No podrán ser designados, ni en su caso, ejercer el cargo de Miembros de la Comisión Nacional de Telecomunicaciones:",
+      "content": "a) Las personas suspendidas en el ejercicio de la ciudadanía;\n b) Las personas que sean entre sí parientes dentro del cuarto grado de consanguinidad y segundo de afinidad;\n c) Los inhibidos de bienes, los concursados y los fallidos;\n d) Los incapaces para ejercer el comercio y los declarados tales según las leyes;\n e) Los condenados por delitos, con penas privativas de libertad; y,\n f) Los condenados a inhabilitación para ejercer cargos públicos."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "TITULO II",
+      "section": "12",
+      "title": "Artículo 12. Los miembros de la Comisión Nacional de Telecomunicaciones cesarán en sus cargos por:",
+      "content": "a) Expiración del término de su designación;\n b) Renuncia presentada al Poder Ejecutivo; y,\n c) Destitución por Decreto del Poder Ejecutivo por faltas graves debidamente comprobadas, previo sumario administrativo."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "TITULO II",
+      "section": "15",
+      "title": "Artículo 15. La Comisión Nacional de Telecomunicaciones tendrá a su cargo la regulación administrativa y técnica y la planificación, programación, control, fiscalización y verificación de las telecomunicaciones conforme a la normativa aplicable y las políticas del Gobierno para el sector.",
+      "content": "La Comisión ejercerá sus funciones en forma exclusiva, sin que ellas puedan ser delegadas ni objeto de avocamiento por parte de otros organismos del Estado."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "TITULO II",
+      "section": "16",
+      "title": "Artículo 16. La Comisión Nacional de Telecomunicaciones ejercerá las siguientes funciones:",
+      "content": "a) Dictar los reglamentos en materia de telecomunicaciones;\n b) Aprobar las normas técnicas;\n c) Elaborar y aplicar el Plan Nacional de Telecomunicaciones y el Plan Nacional de Frecuencias con el objeto de regular el libre acceso al aprovechamiento del espectro radioeléctrico;\n d) Administrar el espectro radioeléctrico;\n e) Regular y fiscalizar las condiciones de elegibilidad para las concesiones y el otorgamiento y cesión de las licencias y autorizaciones;\n f) Aplicar las sanciones previstas en la ley y en los correspondientes contratos de concesión, licencias y autorizaciones;\n g) Estudiar y proponer al Poder Ejecutivo los regímenes tarifarios, tasas, derechos y aranceles de los servicios de telecomunicaciones y fiscalizar su aplicación;\n h) Proponer al Poder Ejecutivo el régimen de seguridad en los sistemas de telecomunicaciones en los casos en que se declare el estado de excepción, previsto en el artículo 288 de la Constitución;\n i) Adoptar reglas para establecer estándares técnicos y procedimientos para la aprobación de redes y equipos que aseguren que la interconexión, el uso de terminales y otros equipos no dañarán las redes;\n j) Establecer las bases a las que deberán ajustarse los contra&not;tos de interconexión, controlar su cumplimiento y oficiar de árbitro a petición de las partes, a fin de dirimir eventuales controversias;\n k) Prevenir conductas anticompetitivas y discriminatorias y las bajas o alzas artificiales de precios y tarifas;\n l) Controlar el cumplimiento de las condiciones que establezcan los prestadores de servicios de telecomunicaciones a sus usuarios;\n m) Percibir las tasas, derechos y aranceles en materia de telecomunicaciones, con los cuales financiará su operatoria, y supervisar su cumplimiento;\n n) Homologar los equipos y sistemas de telecomunicaciones que se instalen en el país;\n ñ) Llevar el Registro Nacional de Servicios de Telecomunicaciones, el que deberá ser público;\n o) Resolver en la instancia administrativa las acciones interpuestas por usuarios, prestadores de servicios de telecomunicaciones o terceros interesados;\n p) Elaborar y administrar su presupuesto conforme a las asignaciones fijadas en la presente ley y sus reglamentos;\n q) Crear y estructurar las dependencias necesarias dentro de la misma, establecer sus funciones y atribuciones y modificarlas. Ejercer la supervisión de las mismas;\n r) Administrar el Fondo de Servicios Universales, de acuerdo con las disposiciones de esta ley y sus normas reglamentarias;\n s) Asesorar al Poder Ejecutivo acerca del régimen de prestación de nuevos servicios que se introduzcan en el mercado. Los nuevos servicios se prestarán en régimen de exclusividad, sólo cuando ello sea técnica o económicamente imprescindible;\n t) Proponer al Poder Ejecutivo la actualización de la legislación en materia de telecomunicaciones;\n u) Fomentar la investigación y asistencia técnica para el progreso y perfeccionamiento de las telecomunicaciones, estimulando el crecimiento de la industria nacional en dicho rubro;\n v) Aprobar los reglamentos de las entidades que presten servicios de telecomunicaciones cuando ellas se adecuen a las normas establecidas en la presente ley y sus reglamentaciones;\n w) Cumplir y hacer cumplir la presente ley, su reglamentación y las demás disposiciones conexas;\n x) Determinar las normas de selección de corresponsales en el exterior para la prestación de servicios internacionales; e,\n y) Fijar la equivalencia del franco oro y de la unidad monetaria del Fondo Monetario Internacional en moneda paraguaya, para su utilización en los servicios internacionales que correspondan de conformidad con los tratados y convenios internacionales vigentes y las normas del Banco Central del Paraguay."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "TITULO II",
+      "section": "18",
+      "title": "Artículo 18. Los bienes importados directamente por la Comisión Nacional de Telecomunicaciones estarán libres de impuestos; y sólo podrán ser enajenados con autorización del Poder Ejecutivo, previa justificación de que ya no son adecuados para el cumplimiento de los fines de la entidad.",
+      "content": "TITULO III \n SERVICIOS DE TELECOMUNICACIONES \n CAPITULO I \n CLASIFICACION GENERAL"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPITULO I",
+      "section": "19",
+      "title": "Artículo 19. Las telecomunicaciones en la República del Paraguay se clasifican en:",
+      "content": "1) Servicios Básicos: \n 1.1.) Local; \n 1.2.) De Larga Distancia Nacional; y,\n 1.3.) De Larga Distancia Internacional.\n 2) Servicios de Difusión.\n 3) Otros Servicios.\n 1.1.) Servicios de Valor Agregado;\n 1.2.) Servicios Privados;\n 1.3.) Radioafición;\n 1.4.) Servicios de Radiodifusión de pequeña cobertura; y,\n 1.5.) Servicios Reservados al Estado.\n El Consejo Nacional de Telecomunicaciones podrá incluir dentro del marco de la clasificación general establecida aquellos servicios y modalidades no considerados expresamente en la ley y los que surjan en el futuro como consecuencia del avance tecnológico y científico."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPITULO I",
+      "section": "20",
+      "title": "Artículo 20. Los servicios básicos son servicios públicos que se prestan en régimen de concesión. Los servicios de difusión y los servicios de valor agregado se prestan en régimen de licencia. Los clasificados en esta ley como \"Otros Servicios\" se prestan en régimen de autorización.",
+      "content": "TITULO IV \n CAPITULO I \n DISPOSICIONES COMUNES A LOS SERVICIOS BASICOS"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "CAPITULO I",
+      "section": "26",
+      "title": "Artículo 26. Siempre que el retiro de apoyos o instalaciones en terrenos abiertos, construcciones o edificios privados sea indispensable por causa de demolición, ampliación o modificación, el propietario estará exento de pagar los gastos que se originen en consecuencia.",
+      "content": "En esta situación, se requerirá que la solicitud se curse con una anticipación de tres meses al retiro de las instalaciones que obstaculicen la realización de la obra.\n TITULO V \n CAPITULO I \n SERVICIOS DE DIFUSION"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPITULO I",
+      "section": "27",
+      "title": "Artículo 27. La emisión y la propagación de señales de comunicación radioeléctrica son de dominio público del Estado.",
+      "content": "Se asegurará, en igualdad de oportunidades, el libre acceso al aprovechamiento del espectro radioeléctrico, sin más límites que los impuestos por los convenios internacionales ratificados por la República del Paraguay, y las normas técnicas vigentes en la materia. \n La Comisión Nacional de Telecomunicaciones administrará el empleo de las señales de comunicación radioeléctrica."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPITULO I",
+      "section": "28",
+      "title": "Artículo 28. Son servicios de difusión los servicios de telecomunicaciones, que permiten la transmisión o emisión de comunicaciones en un solo sentido a varios puntos de recepción simultáneamente. Se consideran servicios de difusión, entre otros, los de radiodifusión sonora, televisión, cablecomunicación, teledistribución, radiodistribución y cabledistribución. Los mismos podrán ser explotados por personas físicas o jurídicas titulares de licencias conforme lo determine la reglamentación.",
+      "content": "Las disposiciones reglamentarias de la presente ley señalarán las modalidades de los servicios de difusión."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "CAPITULO I",
+      "section": "34",
+      "title": "Artículo 34. Los servicios de difusión se instalarán y operarán conforme al Plan Nacional de Frecuencias. Los licenciatarios determinarán el equipo técnico y las características edilicias de sus plantas. El Plan Nacional de Frecuencias recogerá, para su formación, las normas técnicas de los tratados internacionales ratificados por la República del Paraguay.",
+      "content": "En el Plan Nacional de Frecuencias, se reservará al Estado:\n a) Una frecuencia para la prestación de servicios de televisión con sus correspondientes estaciones repetidoras que cubran todos los departamentos del país; y,\n b) Una frecuencia para radiodifusión sonora en amplitud modulada (AM) de cobertura nacional; una frecuencia para radiodifusión sonora en frecuencia modulada (FM) en cada departamento y frecuencias en ondas cortas."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "CAPITULO I",
+      "section": "35",
+      "title": "Artículo 35. Créase el Consejo de Radiodifusión, órgano dependiente de la Comisión Nacional de Telecomunicaciones, que estará integrado por el Presidente de la Comisión Nacional de Telecomunicaciones, quien lo preside, y por cinco miembros titulares, que representarán a:",
+      "content": "1) Un representante de los licenciatarios de las radios de la capital.\n 2) Un representante de los licenciatarios de las radios del interior.\n 3) Un representante de los licenciatarios de estaciones de televisión.\n 4) Un representante de los trabajadores de radio y televisión organizados.\n 5) Un representante de los licenciatarios de la televisión por cable y teledirigida."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "CAPITULO I",
+      "section": "36",
+      "title": "Artículo 36. Los miembros del Consejo de Radiodifusión serán nombrados por el Poder Ejecutivo dentro de treinta días de ser nominados y recaerán en personas que propongan los sectores citados en el artículo anterior. En caso de que no existan nominados, el Poder Ejecutivo nombrará directamente a los miembros que integrarán este Consejo.",
+      "content": "El Poder Ejecutivo designará, al mismo tiempo, cinco miembros suplentes, en igual forma que los titulares."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "CAPITULO I",
+      "section": "37",
+      "title": "Artículo 37. Los Miembros del Consejo de Radiodifusión durarán cinco años en sus funciones pudiendo ser reelectos por un período más.",
+      "content": "En caso de vacancia por muerte, incapacidad, renuncia o remoción de uno o más miembros titulares, entrarán a reemplazar a los mismos los suplentes respectivos hasta completar el período del titular."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "CAPITULO I",
+      "section": "41",
+      "title": "Artículo 41. Para ser Miembro del Consejo de Radiodifusión se requiere:",
+      "content": "1) Nacionalidad paraguaya;\n 2) Tener 25 (veinticinco) años cumplidos; y,\n 3) Solvencia moral e idoneidad en la materia."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "CAPITULO I",
+      "section": "42",
+      "title": "Artículo 42. No podrán ser designados, ni en su caso, ejercer el cargo de Miembros del Consejo de Radiodifusión:",
+      "content": "a) Las personas suspendidas en el ejercicio de la ciudadanía;\n b) Las personas que sean entre sí parientes dentro del cuarto grado de consanguinidad y segundo de afinidad;\n c) Los inhibidos de bienes, los concursados y los fallidos;\n d) Los incapaces para ejercer el comercio y los declarados tales según las leyes;\n e) Los condenados por delitos, con penas privativas de libertad; y,\n f) Los condenados a inhabilitación para ejercer cargos públicos."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "CAPITULO I",
+      "section": "43",
+      "title": "Artículo 43. Los Miembros del Consejo de Radiodifusión cesarán en sus cargos por:",
+      "content": "a) Expiración del término de su designación;\n b) Renuncia presentada al Poder Ejecutivo; y,\n c) Faltas graves debidamente comprobadas, previo sumario administrativo."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "CAPITULO I",
+      "section": "44",
+      "title": "Artículo 44. Son funciones del Consejo de Radiodifusión:",
+      "content": "a) Asesorar y aconsejar a la Comisión Nacional de Telecomunicaciones respecto de todas las propuestas y proyectos de adjudicación de frecuencias; \n b) Participar en la elaboración, modificación o actualización del Reglamento de Radiodifusión; y,\n c) Evacuar las consultas que le formule la Comisión Nacional de Telecomunicaciones.\n Deben ser fundadas las Resoluciones de la Comisión Nacional de Telecomunicaciones que no hagan lugar a la adjudicación de frecuencias recomendada por el Consejo de Radiodifusión."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "CAPITULO I",
+      "section": "45",
+      "title": "Artículo 45. Las normas reglamentarias de la presente ley determinarán la forma y condiciones de funcionamiento del Consejo de Radiodifusión.",
+      "content": "TITULO VI \n OTROS SERVICIOS \n CAPITULO I \n SERVICIOS DE VALOR AGREGADO"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "CAPITULO I",
+      "section": "46",
+      "title": "Artículo 46. Se consideran servicios de valor agregado, aquellos que utilizando como soporte servicios básicos o de difusión, añaden alguna característica o facilidad al servicio que le sirve de base. Son servicios de valor agregado, entre otros, el facsímil, el videotex, el teletexto, la teleacción, el telemando, la telealarma, el almacenamiento y retransmisión de datos, el teleproceso y la telefonía móvil celular.",
+      "content": "Las disposiciones reglamentarias de esta ley determinarán los servicios de valor agregado y sus modalidades."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "CAPITULO I",
+      "section": "51",
+      "title": "Artículo 51. Los servicios de valor agregado que requieran de redes propias de telecomunicaciones, distintas a las de los servicios básicos, deben obtener expresa autorización de la Comisión Nacional de Telecomunicaciones.",
+      "content": "CAPITULO II \n SERVICIOS PRIVADOS"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "CAPITULO II",
+      "section": "52",
+      "title": "Artículo 52. Se consideran servicios privados de telecomunicaciones aquellos servicios establecidos por una persona física o jurídica para satisfacer sus propias necesidades de comunicación dentro del territorio nacional.",
+      "content": "A efectos de su clasificación como servicios privados se considerarán como una misma persona a los socios, filiales y subsidiarias de una misma persona jurídica que opere como un conjunto económico.\n Estos servicios no pueden ser brindados a terceros, salvo que se trate del suministro de servicios de valor agregado para el cumplimiento de su objeto social.\n CAPITULO III \n RADIOAFICION"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "CAPITULO III",
+      "section": "56",
+      "title": "Artículo 56. La Comisión Nacional de Telecomunicaciones determinará los requisitos para el otorgamiento de autorizaciones por categorías, su duración, instalación de equipos, funcionamiento de las estaciones y las condiciones en que proceda conceder autorizaciones a radioaficionados extranjeros en tránsito o con residencia temporaria en el país, conforme con las normas nacionales e internacionales en la materia.",
+      "content": "CAPITULO IV \n SERVICIOS DE RADIODIFUSION DE PEQUEÑA Y MEDIANA COBERTURA O RADIOS COMUNITARIAS"
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "CAPITULO IV",
+      "section": "59",
+      "title": "Artículo 59. Podrán ser prestadores de la radiodifusión alternativa, las organizaciones intermedias sin fines comerciales, legalmente constituidas en el país, que no sean subsidiarias o filiales de empresas nacionales o extranjeras.",
+      "content": "CAPITULO V \n SERVICIOS RESERVADOS AL ESTADO"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "CAPITULO V",
+      "section": "60",
+      "title": "Artículo 60. Los servicios de telecomunicaciones reservados al Estado, por gestión directa o por sus entes públicos, son los siguientes:",
+      "content": "- Servicios radioeléctricos de ayuda a la meteorología;\n - Servicios radioeléctricos de ayuda a la navegación aérea;\n - Servicios radioeléctricos de ayuda a la navegación fluvial y marítima;\n - Servicios radioeléctricos de navegación aero-espacial;\n - Servicios radioeléctricos de radio astronomía; \n - Servicios de socorro y seguridad de la vida humana en los ríos de la República y en alta mar;\n - Servicios de telecomunicaciones, información y auxilio en carretera; y,\n - Aquellos servicios que afecten la seguridad de la vida humana, o cuando por razones de interés público así lo establezca el Poder Ejecutivo.\n El Estado podrá otorgar en concesión la prestación temporaria de estos servicios a particulares en las condiciones que se determinen en las respectivas normas legales, reglamentarias y contractuales.\n TITULO VII \n EXCEPCIONES A LA PRESENTE LEY"
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "TITULO VII",
+      "section": "61",
+      "title": "Artículo 61. Quedan exceptuadas de la clasificación de servicios de la presente ley, las telecomunicaciones instaladas dentro de un mismo inmueble que no utilizan el espectro radioeléctrico y no tengan conexión con redes exteriores.",
+      "content": "TITULO VIII \n CONDICIONES DE OPERACION \n CAPITULO I \n CONCESI0NES, LICENCIAS Y AUTORIZACIONES"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "CAPITULO I",
+      "section": "66",
+      "title": "Artículo 66. Los derechos otorgados por el Estado en los artículos anteriores son intransferibles, salvo previa autorización de la Comisión Nacional de Telecomunicaciones. La inobservancia de esta condición produce la resolución de pleno derecho del contrato de concesión o la anulación automática de la autorización o licencia.",
+      "content": "El incumplimiento de las leyes y reglamentaciones vigentes en materia de telecomunicaciones será pasible de las sanciones previstas en la presente ley."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "CAPITULO I",
+      "section": "71",
+      "title": "Artículo 71. Las concesiones, licencias y autorizaciones otorgadas conforme a la presente ley se extinguen:",
+      "content": "a) Por el vencimiento del plazo de vigencia y renovación de las mismas;\n b) Por resolución o revocación por causas justificadas de acuerdo a la presente ley, previo sumario administrativo;\n c) Por incapacidad sobreviniente o inhabilitación judicial del titular de la concesión, licencia o autorización, o por quiebra, disolución social o renuncia del mismo;\n d) Por fallecimiento del titular de la concesión, licencia o autorización. En este caso los herederos tendrán preferencia para el otorgamiento de una concesión, licencia o autorización en condiciones similares a terceros interesados; y,\n e) Por todo hecho o acto que implique la pérdida o modificación de los requisitos legales, reglamentarios y técnicos que se tuvieron en cuenta al tiempo de otorgarlos.\n Declarada la extinción, el destino de los bienes afectados a la explotación o prestación del servicio será el determinado por la concesión, autorización o licencia. En todos los casos, el prestador deberá mantener la continuidad y regularidad del servicio en las mismas condiciones, hasta tanto la autoridad de aplicación disponga el cese efectivo y/o nombre un administrador interino."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "CAPITULO I",
+      "section": "73",
+      "title": "Artículo 73. Las concesiones, licencias y autorizaciones otorgadas de acuerdo a la presente ley tendrán un plazo máximo de:",
+      "content": "a) Veinte años para los servicios públicos de telecomunicaciones, renovables, según los términos establecidos en el contrato de concesión;\n b) Diez años para los servicios de difusión, renovables por igual período por única vez, conforme a los términos establecidos en la licencia; y,\n C) Cinco años para los demás servicios, renovables a solicitud del interesado.\n CAPITULO II \n NORMALIZACION Y HOMOLOGACION DE EQUIPOS Y APARATOS DE TELECOMUNICACIONES"
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "CAPITULO II",
+      "section": "74",
+      "title": "Artículo 74. Las instalaciones de telecomunicaciones están sujetas a la homologación, inspección y contralor que determine la Comisión Nacional de Telecomunicaciones, con el objeto de garantizar la integridad de la red de telecomunicaciones, del espectro de radio y la seguridad del usuario.",
+      "content": "Los titulares de concesiones, autorizaciones o licencias y usuarios de las mismas están obligados a facilitar esa función, en la forma y condiciones que establezca la Comisión Nacional de Telecomunicaciones."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "CAPITULO II",
+      "section": "75",
+      "title": "Artículo 75. La conexión total o parcial de equipos o aparatos de telecomunicaciones requerirá de homologación, salvo las excepciones que establezca la Comisión Nacional de Telecomunicaciones.",
+      "content": "La Comisión Nacional de Telecomunicaciones dictará las normas reglamentarias relativas a la homologación de equipos y aparatos de telecomunicaciones, y aprobará y publicará una lista de marcas y modelos homologados. La inclusión en esta lista supone el cumplimiento automático del requisito que exige este artículo. Esta lista será permanentemente actualizada de oficio o a petición de parte. La Comisión Nacional de Telecomunicaciones tendrá la obligación de pronunciarse sobre la homologación de equipos y aparatos en el plazo que fije la reglamentación de la presente ley, pero no superior a los noventa días.\n La Comisión Nacional de Telecomunicaciones propondrá al Poder Ejecutivo el monto de las tasas aplicables en el proceso de obtención de la homologación, con la finalidad de absorber los costos de las pruebas que deben realizarse en las tareas de verificación."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "CAPITULO II",
+      "section": "76",
+      "title": "Artículo 76. Se prohíbe la comercialización y operación de equipos y aparatos de telecomunicaciones que no hayan sido homologados, no se ajusten a las disposiciones de la presente ley o su reglamentación, o hayan sido alterados mecánica o electrónicamente después de su homologación, salvo las excepciones expresamente previstas en la ley y los reglamentos correspondientes.",
+      "content": "CAPITULO III \n INTERCONEXIONES"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "CAPITULO III",
+      "section": "78",
+      "title": "Artículo 78. Los acuerdos de interconexión deben constar por escrito y estar en armonía con los principios de neutralidad, no discriminación e igualdad de acceso. Su ejecución debe realizarse en los términos y condiciones que establezca la reglamentación; los mismos serán revisados por la Comisión Nacional de Telecomunicaciones, la cual podrá introducir las modificaciones necesarias conforme a la presente ley y sus disposiciones reglamentarias.",
+      "content": "La interconexión debe realizarse en términos, condiciones y tarifas iguales a las de ofrecimiento a subsidiarias y afiliadas para servicios similares. Cuando ella sea interna a la compañía o a través de una subsidiaria o afiliada, los métodos contables apropiados deben instrumentarse de modo a identificar el tipo y costo de la interconexión."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "CAPITULO III",
+      "section": "80",
+      "title": "Artículo 80. La forma, modo y condiciones de intercambio interno de telecomunicaciones entre las distintas empresas prestadoras de servicios públicos, se establecerán por acuerdo de partes, los cuales para su validez deberán ser presentados a la Comisión Nacional de Telecomunicaciones.",
+      "content": "TITULO IX \n REGIMEN DE PROTECCION A ABONADOS Y USUARIOS"
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "TITULO IX",
+      "section": "91",
+      "title": "Artículo 91. Es obligación de los titulares de la explotación de servicios públicos de telecomunicaciones, publicar y distribuir en forma gratuita las guías y nóminas de sus respectivos usuarios abonados, de conformidad con las normas reglamentarias correspondientes. Los usuarios tendrán derecho a la no inclusión de sus nombres en dichas guías y nóminas.",
+      "content": "TITULO X \n DEL REGIMEN TARIFARIO Y EL FONDO DE \n SERVICIOS UNIVERSALES \n CAPITULO I \n TARIFAS"
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "CAPITULO I",
+      "section": "92",
+      "title": "Artículo 92. La Comisión Nacional de Telecomunicaciones establecerá la estructura y niveles tarifarios, así como los criterios para su determinación y los procedimientos para su modificación, conforme a las disposiciones reglamentarias de la presente ley y los siguientes principios:",
+      "content": "a) Las tarifas de los servicios públicos se establecerán en base a un sistema de precios máximos;\n b) Las tarifas de los demás servicios estarán sujetas al control de razonabilidad de la Comisión Nacional de Telecomunicaciones;\n c) Las tasas y tarifas correspondientes a los servicios internacionales se regirán por las disposiciones que determine la Comisión Nacional de Telecomunicaciones, considerando los convenios en los que el país sea parte y los principios y recomendaciones internacionales;\n d) Los derechos y tasas para la utilización del espectro radioeléctrico se fijarán de acuerdo al régimen que establezca la Comisión Nacional de Telecomunicaciones, teniendo en cuenta la cantidad y clase de estaciones, la naturaleza de los servicios, el consumo de frecuencias, las características de las emisiones, requerimientos, horarios y demás factores que incidan en el uso racional del espectro radioeléctrico; y,\n e) En aquellas zonas en que no exista disponibilidad de servicios públicos de telecomunicaciones eficientes o imperen razones de interés público o social, de fomento y promoción regional, la Comisión Nacional de Telecomunicaciones determinará con carácter temporal la aplicación de tarifas y tasas diferenciales reducidas."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "CAPITULO I",
+      "section": "93",
+      "title": "Artículo 93. Las tarifas a fijarse por los prestadores de servicios de telecomunicaciones, se regirán por las siguientes pautas:",
+      "content": "a) Deberá publicarse en dos diarios de gran circulación en la jurisdicción donde operan, dentro de los treinta días de entrada en vigencia de las respectivas concesiones, licencias o autorizaciones, la estructura general de sus tarifas con los valores expresados en una unidad no monetaria y el valor monetario de dicha unidad;\n b) En lo sucesivo, deberán publicarse por los mismos medios indicados en el inciso precedente, el cambio de valor de la unidad utilizada y, en su caso, las modificaciones de la estructura antes de su aplicación;\n c) Remitir, contemporáneamente a la referida publicación, copia firmada de la misma a la Comisión Nacional de Telecomunicaciones;\n d) Tener un ejemplar actualizado de las tarifas a disposición de los usuarios;\n e) Las guías de abonados a ser suministradas a los usuarios, incluirán una síntesis de las tarifas en los aspectos que sean de mayor interés para dichos usuarios;\n f) Proporcionar a la Comisión Nacional de Telecomunicaciones toda la información contable y de costos, que la misma oportunamente requiera; y,\n g) Cumplir las demás condiciones que con respecto al régimen tarifario imponga la concesión, licencia o autorización respectiva."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "CAPITULO I",
+      "section": "96",
+      "title": "Artículo 96. Se prohíben las prácticas concertadas que produzcan o puedan producir el efecto de restringir, impedir o falsear la competencia.",
+      "content": "CAPITULO II \n FONDO DE DESARROLLO DE LAS TELECOMUNICACIONES"
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "CAPITULO II",
+      "section": "97",
+      "title": "Artículo 97. Créase el Fondo de Servicios Universales, que será administrado por la Comisión Nacional de Telecomunicaciones, con la finalidad de subsidiar a los prestadores de servicios públicos de telecomunicaciones en áreas que así lo justifiquen. La reglamentación de la presente ley establecerá los sujetos y condiciones de contribución a dicho Fondo y definirá dichas áreas.",
+      "content": "TITULO XI \n REGIMEN DE SANCIONES \n CAPITULO I \n DE LAS INFRACCIONES Y LAS SANCIONES"
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "CAPITULO I",
+      "section": "98",
+      "title": "Artículo 98. Los titulares de concesiones, licencias o autorizaciones y en general las personas físicas o jurídicas, sometidas a la supervisión de la Comisión Nacional de Telecomunicaciones, serán pasibles de las sanciones previstas en el presente capítulo, cuando infrinjan normas de la presente ley y sus disposiciones reglamentarias.",
+      "content": "El ejercicio de la potestad disciplinaria, a que se refiere este capítulo, corresponde a la Comisión Nacional de Telecomunicaciones.\n Las actuaciones judiciales que se lleven a cabo ante la eventual concurrencia de delitos o faltas sancionadas por el Código Penal, serán independientes de la actuación administrativa, como también lo serán las sanciones que en cada instancia se apliquen, las que pueden ser acumulativas."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "CAPITULO I",
+      "section": "100",
+      "title": "Artículo 100. A efectos de la clausura provisional y de la incautación provisional de equipos la Comisión Nacional de Telecomunicaciones oficiará al Juez de Primera Instancia en lo Civil y Comercial, para que por el solo mérito de dicho oficio y la transcripción de la resolución de la Comisión Nacional de Telecomunicaciones que autoriza la medida, disponga el diligenciamiento correspondiente, y el auxilio de la fuerza pública si fuese necesario.",
+      "content": "La prestación ilegal del servicio importará para quienes resulten responsables la inhabilitación por el término de cinco años duplicables en caso de reincidencia, contados desde la declaración de ilegalidad, para ser titulares, socios o miembros de órganos titulares de concesiones, licencias y autorizaciones de servicios de telecomunicaciones."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "CAPITULO I",
+      "section": "101",
+      "title": "Artículo 101. Los titulares de concesiones, licencias y autorizaciones, responsables de contravenciones a la presente ley y sus disposiciones reglamentarias, serán pasibles de las siguientes sanciones:",
+      "content": "a) Llamado de atención;\n b) Apercibimiento;\n c) Multa de 3 (tres) a 1.000 (un mil) salarios mínimos mensuales establecidos para trabajadores de actividades diversas no especificadas en la capital o hasta el ciento por ciento de la suma contravenida, de acuerdo a la gravedad de la infracción;\n d) Suspensión de la concesión, licencia o autorización;\n e) Cancelación de la concesión, licencia o autorización;\n f) Decomiso o incautación; y,\n g) Devolución de la tarifa y/o devolución a los usuarios. \n Las sanciones se aplicarán:\n a) Teniendo en cuenta las particulares características y gravedad de la falta; y,\n b) Previo sumario administrativo en el que se dará intervención al inculpado o inculpados, garantizando el derecho a la defensa.\n Las sanciones se aplicarán previo sumario administrativo en el que se dará intervención al inculpado o inculpados, garantizando el derecho a la defensa.\n La sanción prevista en el apartado e) solamente podrá adoptarse por unanimidad de votos de los miembros de la Comisión Nacional de Telecomunicaciones."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "CAPITULO I",
+      "section": "102",
+      "title": "Artículo 102. Se consideran faltas las infracciones a las normas de ordenación y disciplina. Se clasificarán en graves y leves.",
+      "content": "La tipificación de una acción u omisión como infracción de una determinada clase es absolutamente independiente de la concurrencia o no de circunstancias modificativas de la responsabilidad. La concurrencia de los mismos sólo es apreciable para la graduación de la sanción."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "CAPITULO I",
+      "section": "103",
+      "title": "Artículo 103. - Son infracciones leves aquellas acciones u omisiones que supongan el incumplimiento de normas legales o técnicas de obligada observancia que la presente ley no califique como infracciones graves.",
+      "content": "Son consideradas infracciones leves, en particular, las facturaciones mal efectuadas o mal aplicadas, y el no cumplimiento de las etapas de tramitación previstas en la reglamentación para atención de quejas de los usuarios."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "CAPITULO I",
+      "section": "104",
+      "title": "Artículo 104. Constituye infracción grave:",
+      "content": "a) La realización de actos sin previa autorización de la Comisión Nacional de Telecomunicaciones, en los casos que sea expresamente requerida, o con inobservancia de las condiciones básicas establecidas;\n b) La simulación o fraude que desvirtúe los términos y alcance de la concesión, licencia o autorización;\n c) No iniciar la prestación de servicios de telecomunicaciones regulares en el plazo y condiciones previstos en la ley, en la concesión, licencia o autorización;\n d) El incumplimiento de las limitaciones o prohibiciones temporales impuestas a titulares de concesiones, licencias o autorizaciones como sanción por infracciones graves o leves;\n e) Incumplir las normas técnicas en perjuicio directo o indirecto de los usuarios y de terceros;\n f) La reincidencia en infracciones de carácter leve;\n g) Ocultar información, o suministrar información falsa o distorsionada a la Comisión Nacional de Telecomunicaciones o a cualquiera de sus reparticiones;\n h) Las interrupciones totales o parciales del servicio; e,\n i) El incumplimiento en la presentación en tiempo y forma de los documentos e información que estipule la concesión, licencia o autorización y las disposiciones reglamentarias de la presente ley."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "CAPITULO I",
+      "section": "105",
+      "title": "Artículo 105. Además de las sanciones que corresponda imponer a los titulares de concesiones, licencias o autorizaciones, por la comisión de las infracciones mencionadas más arriba, se impondrán a cada uno de sus Directores, Gerentes y Administradores, en su caso, las siguientes sanciones:",
+      "content": "Por infracciones graves:\n a) Apercibimiento público;\n b) Multa, equivalente de 10 (diez) a 100 (cien) salarios mínimos mensuales, establecidos para trabajadores de actividades diversas no especificadas de la capital de la República; y,\n c) Remoción del cargo con inhabilitación, por un período de 3 (tres) a 10 (diez) años, para el ejercicio de cargos de director, gerente o administrador de entidades sometidas a la supervisión de la Comisión Nacional de Telecomunicaciones.\n Por infracciones leves:\n a) Apercibimiento privado; y,\n b) Multa, equivalente de 1 (uno) a 20 (veinte) salarios mínimos mensuales, establecidos para trabajadores de actividades diversas no especificadas de la capital de la República."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "CAPITULO I",
+      "section": "106",
+      "title": "Artículo 106. Las acciones derivadas de las infracciones graves prescriben a los tres años contados a partir de la fecha de la infracción.",
+      "content": "Las acciones derivadas de las infracciones leves prescriben al año de la fecha de la infracción.\n En caso de que la infracción consista en una actividad continuada, la fecha inicial del cómputo del plazo de prescripción será la de la última actuación.\n La prescripción se interrumpe por el inicio de sumario administrativo, y por las demás causas previstas en el Código Civil."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "CAPITULO I",
+      "section": "108",
+      "title": "Artículo 108. Para la imposición de sanciones se atenderá a los siguientes criterios:",
+      "content": "a) Naturaleza de la infracción;\n b) Gravedad del peligro o perjuicio causado;\n c) Beneficio obtenido como consecuencia de la infracción;\n d) Subsanación de la infracción por propia iniciativa; y,\n e) Conducta anterior del titular de la concesión, autorización o licencia, en relación con las normas de ordenación y disciplina, considerando sanciones firmes impuestas en los últimos cinco años."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "CAPITULO I",
+      "section": "109",
+      "title": "Artículo 109. - No serán pasibles de sanción:",
+      "content": "1) El incumplimiento derivado de caso fortuito o fuerza mayor.\n 2) Las deficiencias en las prestaciones, causadas por trabajos de ampliaciones y mejoras o por reparaciones de los sistemas e instalaciones afectados en cuanto se originen en los mismos, debiendo el concesionario o autorizado presentar la prueba pertinente de descargo.\n CAPITULO II \n INSTRUCCION DEL SUMARIO"
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "CAPITULO II",
+      "section": "115",
+      "title": "Artículo 115. Presentados los descargos, si procediese se abrirá un término de prueba de quince días, pudiendo el Juez sumariante ordenar de oficio o a petición de parte el cumplimiento de medidas de mejor proveer.",
+      "content": "El número de testigos no podrá exceder de cuatro por cada parte."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "CAPITULO II",
+      "section": "117",
+      "title": "Artículo 117. Presentado el alegato o vencido el plazo de su presentación, el juez instructor del sumario producirá su dictamen y elevará el sumario a la Comisión Nacional de Telecomunicaciones para que dicte resolución definitiva en el término de veinte días hábiles. Caso contrario el sumariado se considerará sobreseído.",
+      "content": "Las resoluciones deben contener, bajo pena de nulidad, las siguientes constancias:\n a) Lugar y fecha;\n b) Individualización del órgano que dicta la resolución y de los sumariados;\n c) Apreciación y valoración de los descargos y pruebas;\n d) Fundamentos de hecho y derecho de la resolución;\n e) Determinación de las infracciones y las sanciones aplicadas, en su caso;\n f) Orden de que se notifique el acto de determinación; y,\n g) Firma del funcionario competente."
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "CAPITULO II",
+      "section": "121",
+      "title": "Artículo 121. En los sumarios administrativos se observarán supletoriamente las disposiciones del Código Procesal Civil.",
+      "content": "CAPITULO III \n DE LAS ACCIONES JUDICIALES"
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "CAPITULO III",
+      "section": "123",
+      "title": "Artículo 123. Serán competentes en todos los asuntos judiciales en que fuese actor o demandado la Comisión Nacional de Telecomunicaciones, los tribunales de la Capital de la República, salvo que la Comisión acepte someterse a otras jurisdicciones, pudiendo constituir domicilios especiales al efecto de la recepción de notificaciones.",
+      "content": "TITULO XII \n COMPETENCIA DE LA CONTRALORIA GENERAL DE LA REPUBLICA"
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "TITULO XII",
+      "section": "124",
+      "title": "Artículo 124. La Contraloría General de la República ejercerá el control de la gestión administrativa y financiera de la Comisión Nacional de Telecomunicaciones en los términos que establece la ley.",
+      "content": "La fiscalización de la observancia por la Comisión Nacional de Telecomunicaciones de las prescripciones de la presente ley y demás disposiciones aplicables a la materia, estará a cargo de un síndico designado por la Contraloría General de la República.\n TITULO XIII \n REGIMEN LABORAL Y DE PREFERENCIAS"
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "TITULO XIII",
+      "section": "125",
+      "title": "Artículo 125. Durante el proceso de reforma del sector de telecomunicaciones, ejecutado según las disposiciones de la presente ley, los trabajadores afectados continuarán amparados por todas las garantías constitucionales, legales y del derecho del trabajo, manteniendo inalterados sus derechos y obligaciones en materia de seguridad social.",
+      "content": "Las disposiciones reglamentarias de la presente ley determinarán las constancias que deben presentarse oportunamente, para acreditar la condición de empleado del sector."
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "TITULO XIII",
+      "section": "126",
+      "title": "Artículo 126. La Comisión Nacional de Telecomunicaciones absorberá los empleados de la actual Administración Nacional de Telecomunicaciones (ANTELCO), necesarios para el cumplimiento de sus funciones en un marco de estabilidad y eficiencia, siempre que éstos cumplan con los requerimientos técnicos y administrativos que establezca la Comisión.",
+      "content": "TITULO XIV \n DISPOSICIONES ADICIONALES"
+    },
+    {
+      "provision_ref": "art129",
+      "chapter": "TITULO XIV",
+      "section": "129",
+      "title": "Artículo 129. La Comisión Nacional de Telecomunicaciones aprobará un glosario de términos en relación a la presente ley y a las telecomunicaciones en general, observando las definiciones establecidas por los organismos internacionales.",
+      "content": "TITULO XV \n DISPOSICIONES TRANSITORIAS"
+    },
+    {
+      "provision_ref": "art130",
+      "chapter": "TITULO XV",
+      "section": "130",
+      "title": "Artículo 130. La Administración Nacional de Telecomunicaciones (ANTELCO) se regirá por su Ley Orgánica en todo lo que no contradiga a la presente ley, y estará sometida al control y regulación de la Comisión Nacional de Telecomunicaciones.",
+      "content": "En el plazo de ciento ochenta días de hallarse en vigencia la presente ley, el Poder Ejecutivo presentará el proyecto de ley que establecerá las modificaciones necesarias y convenientes a la Ley Orgánica de la Administración Nacional de Telecomunicaciones (ANTELCO).\n Dentro de los noventa días de la designación de los miembros de la Comisión Nacional de Telecomunicaciones, ésta ordenará una auditoría de la Administración Nacional de Telecomunicaciones (ANTELCO) que identifique los activos y documentos a ser transferidos a dicha Comisión. \n El detalle de dichos activos y documentos será aprobado por la Comisión Nacional de Telecomunicaciones y sometido al Poder Ejecutivo para su consideración. La transferencia de activos a la Comisión Nacional de Telecomunicaciones será ordenada por decreto del Poder Ejecutivo."
+    },
+    {
+      "provision_ref": "art131",
+      "chapter": "TITULO XV",
+      "section": "131",
+      "title": "Artículo 131. Las licencias y autorizaciones concedidas a los operadores de servicios de radiodifusión quedarán vigentes hasta el año 2004. Sin embargo, si éstos en el plazo de trescientos sesenta días contados a partir de la promulgación de la presente Ley no se adecuan estrictamente a las normas técnicas y legales del servicio, se producirá la cancelación automática de dichas licencias o autorizaciones. Al vencimiento del plazo de vigencia arriba indicado, los operadores beneficiados con esta norma, interesados en obtener una nueva licencia o autorización, deberán someterse a lo dispuesto en el Título VIII, Capítulo I de la presente ley, así como a las normas reglamentarias dictadas por la Comisión Nacional de Telecomunicaciones, no siéndoles aplicable, por esta única vez, lo dispuesto en el Artículo 73, inciso b), respecto de la renovación de las mismas.",
+      "content": "Las licencias y autorizaciones para los demás servicios de telecomunicaciones quedarán vigentes por el plazo en que fueron otorgadas. \n Los operadores de dichos servicios deberán realizar ante la Comisión Nacional de Telecomunicaciones, los trámites necesarios para su inscripción en el Registro Nacional de Servicios de Telecomunicaciones y presentar nuevas solicitudes, en el plazo de trescientos sesenta días a partir de la promulgación de la presente ley. Vencido este plazo, en el caso de no hacerlo, quedará automáticamente cancelada la licencia o autorización."
+    },
+    {
+      "provision_ref": "art139",
+      "chapter": "TITULO XV",
+      "section": "139",
+      "title": "Artículo 139. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el veinticinco de mayo del año un mil novecientos noventa y cinco y por la Honorable Cámara de Diputados, sancionándose la Ley, el veintisiete de julio del año un mil novecientos noventa y cinco.\n \n \n \n \n Archivos adjuntos Antecedente \n Antecedente de la Ley Nº 00000000642 \n \n \n \n \n \n- Acápite: De Telecomunicaciones\n \n \n \n \n \n \n- Fecha de sanción: 27/07/95\n \n \n \n \n \n \n- Camara: Diputados\n \n \n \n \n \n \n- Presentado por: Ministerio de Obras Públicas y Comunicaciones\n \n \n \n \n \n \n- Codigo de Expediente: Pp104-95"
+    }
+  ],
+  "definitions": []
+}

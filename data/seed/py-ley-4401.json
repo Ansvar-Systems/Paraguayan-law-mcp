@@ -1,0 +1,518 @@
+{
+  "id": "py-ley-4401",
+  "type": "statute",
+  "title": "Ley Nº 4995/2013 / DE EDUCACION SUPERIOR.",
+  "title_en": "Ley Nº 4995/2013 / DE EDUCACION SUPERIOR.",
+  "short_name": "Ley N° 4995/2013",
+  "status": "in_force",
+  "issued_date": "2013-08-02",
+  "in_force_date": "2013-08-05",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4401/ley-n-49952013-de-educacion-superior",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "CAPITULO I",
+      "section": "1",
+      "title": "Artículo 1. El objeto de la presente Ley es regular la educación superior como parte del sistema educativo nacional, definir los tipos de instituciones que lo integran, establecer sus normativas y los mecanismos que aseguren la calidad y la pertinencia de los servicios que prestan las instituciones que lo conforman, incluyendo la investigación.",
+      "content": "SECCION II \n DE LA DEFINICION Y OBJETO DE LA EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPITULO I",
+      "section": "2",
+      "title": "Artículo 2. La educación superior es la que se desarrolla en el tercer nivel del sistema educativo nacional, con posterioridad a la educación media. Tiene por objeto la formación personal, académica y profesional de los estudiantes, así como la producción de conocimientos, el desarrollo del saber y del pensamiento en las diversas disciplinas y la extensión de la cultura y los servicios a la sociedad. La educación superior es un bien público y, por ende, es un factor fundamental para el desarrollo del país, en democracia y con equidad.",
+      "content": "SECCION III \n DE LAS INSTITUCIONES QUE INTEGRAN LA EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPITULO I",
+      "section": "3",
+      "title": "Artículo 3. Son instituciones de educación superior las universidades, los Institutos Superiores y los institutos de formación profesional del tercer nivel. Estos últimos comprenden los institutos de formación docente y los institutos técnicos profesionales.",
+      "content": "CAPITULO II \n DE LAS RESPONSABILIDADES \n \n SECCION I \n DE LAS RESPONSABILIDADES DEL ESTADO"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPITULO II",
+      "section": "4",
+      "title": "Artículo 4. Como bien público, la Educación Superior es responsabilidad del Estado, en cuanto a su organización, administración, dirección y gestión del sistema educativo nacional. El Estado reconoce y garantiza el derecho a la educación superior como un derecho humano fundamental para todos aquellos que quieran y estén en condiciones legales y académicas para cursarla.",
+      "content": "SECCION II \n DE LOS PRINCIPIOS DE LA EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPITULO II",
+      "section": "5",
+      "title": "Artículo 5. La educación superior se regirá por los siguientes principios y lo establecido en la Ley General de Educación y son:",
+      "content": "a. La identidad y cultura nacionales. \n b. El respeto a toda persona, su dignidad y sus derechos humanos. \n c. La libertad de opinión y el pluralismo cultural, ideológico, político y religioso. \n d. La democracia, el estado social de derecho y la solidaridad. \n e. El rigor científico y la responsabilidad ética en la búsqueda, construcción y transferencia del conocimiento. \n f. La creatividad, la criticidad, la integridad y la responsabilidad. \n g. La igualdad de oportunidades y de condiciones en el acceso a los beneficios de la educación superior. \n h. La rendición de cuentas al Estado. \n i. La cooperación y solidaridad entre los seres humanos, las organizaciones y las naciones. \n j. La actitud abierta a la innovación y a las exigencias de los cambios. \n k. La pertinencia y coherencia de los programas para el fortalecimiento del desarrollo nacional. \n l. El respeto a la interculturalidad, la multiculturalidad, el pluralismo étnico y lingüístico de la nación paraguaya. \n \n SECCION III \n DE LOS OBJETIVOS DE LA EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPITULO II",
+      "section": "6",
+      "title": "Artículo 6. Son objetivos de la educación superior:",
+      "content": "a. Formar profesionales y líderes competentes con pensamiento creativo y crítico, con ética y conciencia social. \n b. Ofrecer una formación científica, humanística y tecnológica del más alto nivel académico. \n c. Investigar y capacitar para la investigación y el pensamiento teórico a los estudiantes, contribuyendo al desarrollo científico, tecnológico y cultural de la sociedad. \n d. Extender los conocimientos, servicios y cultura a la sociedad. \n e. Contribuir a salvaguardar y consolidar los valores que sustentan una sociedad democrática, la protección del medio ambiente, la defensa de la soberanía nacional, el respeto a los derechos humanos y la búsqueda de una sociedad más libre, justa y equitativa. \n f. Establecer y fomentar relaciones e intercambios con instituciones de otras naciones y con organismos nacionales e internacionales. \n \n TITULO II \n DE LOS ORGANOS DE GESTION DE LA EDUCACION SUPERIOR y CERTIFICACIONES \n \n CAPITULO I \n DEL CONSEJO NACIONAL DE EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPITULO I",
+      "section": "7",
+      "title": "Artículo 7. El Consejo Nacional de Educación Superior es el órgano responsable de proponer y coordinar las políticas y programas para la educación superior.",
+      "content": "SECCION I \n DE LA CONFORMACION DEL CONSEJO NACIONAL DE EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPITULO I",
+      "section": "8",
+      "title": "Artículo 8. El Consejo Nacional de Educación Superior estará conformado por los siguientes miembros:",
+      "content": "a. El Ministro de Educación y Cultura o su representante. \n b. El Rector de la Universidad Nacional de Asunción. \n c. El Rector de la Universidad Católica. \n d. Un rector representante de la universidad pública. \n e. Un rector representante de la universidad privada. \n f. Un miembro del Consejo Nacional de Educación y Cultura. \n g. Un Director General representante de los Institutos Superiores del sector público. \n h. Un Director General representante de los Institutos Superiores del sector privado. \n i. Un catedrático por las universidades públicas. \n j. Un catedrático por las universidades privadas. \n k. Un representante del Consejo Nacional de Ciencia y Tecnología. \n l. Un representante estudiantil de las universidades públicas. \n m. Un representante estudiantil de las universidades privadas. \n En todos los casos, los integrantes contarán con sus respectivos suplentes. \n Las decisiones del Consejo Nacional de Educación Superior se toman por mayoría simple de votos, salvo disposición especial establecida en la presente Ley. En caso de empate, quien presida el Consejo Nacional de Educación Superior tendrá voto dirimente. \n \n SECCION II \n DE LAS FUNCIONES DEL CONSEJO NACIONAL DE EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPITULO I",
+      "section": "9",
+      "title": "Artículo 9. Son funciones del Consejo Nacional de Educación Superior:",
+      "content": "a. Velar por el cumplimiento de la garantía constitucional de la autonomía de las universidades. \n b. Proponer las políticas para el desarrollo y el funcionamiento de la educación superior, de acuerdo con los planes de desarrollo nacional. \n c. Dictaminar sobre la creación y clausura de universidades e Institutos Superiores. Los dictámenes de creación de universidades y de los Institutos Superiores tendrán carácter vinculante ante el Congreso Nacional; y deberán fundarse en el informe técnico proporcionado por la Agencia Nacional de Evaluación y Acreditación de la Educación Superior (ANEAES). \n d. Establecer criterios académicos y técnicos básicos que deberán reunir los currículos. \n e. Coordinar con el Ministerio de Educación y Cultura los programas que apunten a la articulación de la educación media con la educación superior. \n f. Ofrecer información pública sistemática sobre la calidad de las carreras e Instituciones de Educación Superior, sobre base de la información proporcionada por la Agencia Nacional de Evaluación y Acreditación de la Educación Superior. \n g. Intervenir las universidades e institutos superiores, con el acuerdo de 2 (dos) tercios de la totalidad de los miembros presentes, conforme a las causales establecidas en la Ley. \n h. Clausurar las filiales y carreras de las universidades e Institutos Superiores, por resolución de la mayoría absoluta de 2 (dos) tercios de sus miembros, previa comprobación, en debido proceso, de las causas alegadas y, por mayoría de las cuatro quintas partes del total de sus miembros, clausurar las universidades e Institutos Superiores, previo cumplimiento de los requisitos establecidos para la clausura de las filiales o carreras. \n i. Elaborar planes y propuestas acerca de las necesidades y fuentes de financiación de la educación superior. \n j. Administrar los fondos y bienes del Consejo Nacional de Educación Superior. \n k. Informar anualmente al Poder Ejecutivo y al Poder Legislativo sobre la situación de la educación superior en el Paraguay. \n l. Establecer los procedimientos de vinculación y articulación curricular de carreras y titulaciones de técnicos superiores para el acceso a las carreras de grado en Institutos Superiores y universidades, teniendo en cuenta las áreas de su formación académica. \n m. Reglamentar los procedimientos de movilidad horizontal de los estudiantes en carreras de grado y programas de postgrado. \n n. Establecer pautas sobre la nomenclatura de títulos de la educación superior. \n ñ. Elaborar el régimen de inhabilidades e incompatibilidades para el ejercicio de los cargos directivos de Instituciones de Educación Superior. \n o. Aplicar las sanciones respectivas en caso de incumplimiento de las exigencias previstas para la evaluación y acreditación de la educación superior, en función al informe de la Agencia Nacional de Evaluación y Acreditación de la Educación Superior (ANEAES). \n p. Dictar su reglamento de organización interna y funcionamiento, así como aquellas reglamentaciones que sean necesarias para el cumplimiento de las disposiciones de la presente Ley. \n \n SECCION III \n DEL PRESUPUESTO DEL CONSEJO NACIONAL DE EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPITULO I",
+      "section": "10",
+      "title": "Artículo 10. El Consejo Nacional de Educación Superior para cumplir con sus funciones y obligaciones establecidas en esta Ley, contará con una estructura administrativa y presupuesto propio, dentro del subsistema de educación superior. El Presidente del Consejo Nacional de Educación Superior nombrará a los funcionarios, los cuales serán remunerados según el presupuesto de la entidad.",
+      "content": "SECCION IV \n DEL CONSEJO EJECUTIVO"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPITULO I",
+      "section": "11",
+      "title": "Artículo 11. El Consejo Nacional de Educación Superior tendrá un Consejo Ejecutivo, que será el encargado de implementar las resoluciones emanadas de aquel e igualmente actuará como órgano de apoyo técnico, mediante la producción de estudios, análisis e información sobre la educación superior.",
+      "content": "Estará integrado por el Presidente, Vicepresidente y el Secretario del Consejo Nacional de Educación Superior, y durarán 3 (tres) años en sus funciones. Su estructura, funciones y atribuciones constarán en el reglamento que será aprobado por el Consejo Nacional de Educación Superior. \n \n SECCION V \n DE LA CONSTITUCION DEL CONSEJO NACIONAL DE EDUCACION SUPERIOR Y SU DURACION"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPITULO I",
+      "section": "12",
+      "title": "Artículo 12. El Consejo Nacional de Educación Superior quedará constituido una vez que hayan sido nominados por lo menos 2 (dos) tercios de sus miembros.",
+      "content": "El Ministro de Educación y Cultura, el Rector de la Universidad Nacional de Asunción y el Rector de la Universidad Católica serán miembros natos. Los representantes de las universidades públicas y privadas serán designados por sus pares. Los representantes del Consejo Nacional de Educación y Cultura y del Consejo Nacional de Ciencias y Tecnología, serán nombrados por sus respectivas instituciones. Los demás serán electos por sus pares en elecciones convocadas por el Presidente del Consejo Nacional de Educación Superior."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPITULO I",
+      "section": "13",
+      "title": "Artículo 13. Todos los miembros, a excepción de los representantes estudiantiles, durarán 3 (tres) años en sus funciones y podrán ser reelectos o designados por una sola vez, en forma consecutiva y alternadamente, en forma indefinida. Esta disposición no regirá para los miembros natos.",
+      "content": "Los representantes estudiantiles no podrán ser reelectos. \n \n SECCION VI \n DE LOS REQUISITOS PARA SER DESIGNADO O ELECTO MIEMBRO DEL CONSEJO NACIONAL DE EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPITULO I",
+      "section": "14",
+      "title": "Artículo 14. Los requisitos para ser designado o electo miembro del Consejo Nacional de Educación Superior son:",
+      "content": "a. Todos los miembros del Consejo Nacional de Educación Superior deberán contar con la nacionalidad paraguaya. \n b. Los rectores representantes de universidades públicas y privadas indicados en los incisos d) y e) del Artículo 8°, deberán pertenecer a universidades con al menos 8 (ocho) años de existencia legal. \n c. Los directores generales representantes de institutos superiores públicos y privados indicados en los incisos g) y h) del Artículo 8°, deberán pertenecer a institutos superiores con al menos 10 (diez) años de existencia legal. \n d. Los representantes catedráticos deberán poseer el título académico máximo, inscriptos en el Ministerio de Educación y Cultura, y contar con 10 (diez) años de experiencia en educación superior. \n e. Los representantes de estudiantes deberán: 1. Estar debidamente matriculados y 2. Haber cursado y aprobado por lo menos el 50% (cincuenta por ciento) del total de asignaturas de su carrera de grado. \n Los representantes de estudiantes cesarán automáticamente en sus funciones una vez que obtuvieren el título de grado."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPITULO I",
+      "section": "15",
+      "title": "Artículo 15. El Consejo Nacional de Educación Superior, una vez integrado y con la presencia de la mitad más uno de sus miembros, elegirá entre sus integrantes en elecciones con voto secreto a su Presidente, Vicepresidente y Secretario.",
+      "content": "El Consejo Nacional de Educación Superior se reunirá regularmente al menos una vez por mes y extraordinariamente, todas las veces que sean necesarias. Para sesionar, requerirá la presencia de la mitad más uno de sus miembros y sus decisiones se tomarán por mayoría simple de votos de los miembros presentes. \n \n SECCION VII \n DEL PRESUPUESTO DEL CONSEJO NACIONAL DE EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPITULO I",
+      "section": "16",
+      "title": "Artículo 16. El Consejo Nacional de Educación Superior para cumplir con sus funciones y obligaciones establecidas en esta Ley, contará con una estructura administrativa y presupuesto propio. Los miembros del Consejo Nacional de Educación Superior serán remunerados conforme al trabajo que desempeñen.",
+      "content": "CAPITULO II \n EL CONSEJO DE RECTORES Y DIRECTORES GENERALES, FUNCIONES Y CONFORMACION"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPITULO II",
+      "section": "17",
+      "title": "Artículo 17. El Consejo de Rectores de Universidades tiene la misión de:",
+      "content": "a. Representar a las universidades. \n b. Ser una instancia de diálogo entre las mismas en los temas de interés común. \n c. Colaborar con el Consejo Nacional de Educación Superior en la elaboración de políticas de educación superior, cuando este lo requiera."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPITULO II",
+      "section": "18",
+      "title": "Artículo 18. Son funciones del Consejo de Rectores de Universidades:",
+      "content": "a. Promover y desarrollar acciones tendientes a fortalecer la cooperación entre las instituciones universitarias. \n b. Proponer políticas y planes para el cumplimiento de los fines de la educación universitaria. \n c. Informar sobre los temas que el Consejo Nacional de Educación Superior someta a su consideración. \n d. Contribuir al fortalecimiento de las relaciones entre las universidades y el resto del sistema educativo. \n e. Analizar y expedirse sobre la marcha de la reforma de la educación superior. \n f. Dictar su reglamento de organización interna y funcionamiento. \n g. Promover y desarrollar actividades tendientes a fortalecer el funcionamiento de las universidades."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPITULO II",
+      "section": "20",
+      "title": "Artículo 20. Créase el Consejo de Directores Generales de Institutos Superiores.",
+      "content": "El Consejo de Directores de Institutos Superiores estará conformado por los Directores de los institutos de gestión pública y privada. El número de miembros del Consejo será: 2 (dos) por los institutos públicos y 2 (dos) por los institutos privados, con sus respectivos suplentes. Serán electos por sus pares en votación secreta y durarán 3 (tres) años en sus funciones, pudiendo ser reelectos en forma consecutiva por una sola vez y en forma alternada, indefinidamente."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "CAPITULO II",
+      "section": "21",
+      "title": "Artículo 21. Las funciones del Consejo de Directores Generales de los Institutos Superiores serán las mismas que las del Consejo de Rectores de Universidades. Los institutos superiores dependientes de las Fuerzas Armadas de la Nación y de la Policía Nacional no integrarán el Consejo de Directores.",
+      "content": "TITULO III \n DE LAS INSTITUCIONES DE EDUCACION SUPERIOR \n \n CAPITULO I \n DE LAS UNIVERSIDADES"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPITULO I",
+      "section": "23",
+      "title": "Artículo 23. Las Universidades tendrán los siguientes fines:",
+      "content": "a. El desarrollo de la personalidad humana inspirada en los valores de la ética, de la democracia y la libertad. \n b. La enseñanza y la formación profesional. \n c. La investigación en las diferentes áreas del saber humano. \n d. La formación de una racionalidad reflexiva y crítica y de la imaginación creadora. \n e. El servicio a la colectividad en los ámbitos de su competencia. \n f. El fomento y la difusión de la cultura universal y en particular de la nacional. \n g. La extensión universitaria. \n h. El estudio de la problemática nacional."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "CAPITULO I",
+      "section": "24",
+      "title": "Artículo 24. Para el cumplimiento de sus fines y sobre la base del principio de la libertad de enseñanza y cátedra, las Universidades deberán:",
+      "content": "a. Brindar educación a nivel superior, estimulando el espíritu creativo y crítico de los profesores y estudiantes mediante la investigación científica y tecnológica, el pensamiento lógico y teórico, y el cultivo de las artes y de las letras. \n b. Formar a los profesionales, técnicos e investigadores necesarios para el país, munidos de valores trascendentes para contribuir al bienestar del pueblo. \n c. Poseer y producir bienes y prestar los servicios relacionados con sus fines. \n d. Divulgar trabajos de carácter científico, tecnológico, educativo y artístico. \n e. Formar los recursos humanos necesarios para la docencia y la investigación, y propender al perfeccionamiento y actualización de los graduados. \n \n SECCION I \n DE SU CREACION Y ORGANIZACION"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "CAPITULO I",
+      "section": "26",
+      "title": "Artículo 26. La solicitud de creación de una universidad deberá estar acompañada por los siguientes documentos:",
+      "content": "a. Estatutos que regirán el funcionamiento de la entidad, garantizando una organización y funcionamiento adecuados al mejor desempeño de las funciones educativas que le corresponden. \n b. Los documentos justificativos del dominio y posesión de los inmuebles, edificaciones, equipos, instrumentos, materiales didácticos, y otros requerimientos necesarios en condiciones de seguridad, calidad y cantidad, necesarias para el eficiente funcionamiento de todos los planes y programas administrativos, académicos y de investigación que se describen en el proyecto. \n c. Proyecto educativo institucional, que comprenda: 1) identidad institucional, 2) fines y objetivos del centro, 3) organización, 4) normativa interna, 5) recursos humanos (docentes con habilitación pedagógica, personal técnico, administrativo y de dirección, que se harán cargo de la ejecución de los fines de la institución), 6) recursos materiales (laboratorios, equipamiento e instalaciones), 7) recursos para llevar a cabo actividades académicas: enseñanza (grado y postgrado), investigación, y extensión, según cada caso específico, el cual estará determinado por las carreras a ser implementadas. \n d. La institución educativa tendrá académicos con título de postgrado en un porcentaje a ser definido según los estándares de calidad indicados por la Agencia Nacional de Evaluación y Acreditación de la Educación Superior (ANEAES) para cada carrera. \n e. Constancia de disponibilidad y de compromiso de cada uno de los componentes del cuerpo docente propuesto. \n f. Un proyecto educativo por cada carrera a ser impartida, que contenga: 1) fundamentación, 2) objetivos (generales y específicos), 3) perfil del graduado, 4) requisitos de admisión, 5) planes y programas de estudios, 6) organización y estructura curricular, 7) sistema de evaluación, 8) requisitos de graduación, 9) recursos humanos dedicados a la carrera, 10) gestión de la carrera. \n g. Proyecto económico que demuestre las fuentes de financiamiento, la viabilidad económico-financiera, la sostenibilidad y la utilización de los recursos. \n h. Las inscripciones, certificaciones, licencias y autorizaciones que las diversas normas legales exigen a las inversiones de capital a los proyectos de obras, equipamientos. \n i. El cronograma de realización y desarrollo del proyecto educativo institucional. \n j. Todas aquellas que el Consejo Nacional de Educación Superior estime necesarias para cada caso específico. \n \n SECCION II \n PROCEDIMIENTO PARA EL TRATAMIENTO DE LA APERTURA DE UNIVERSIDADES"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPITULO I",
+      "section": "27",
+      "title": "Artículo 27. El Consejo Nacional de Educación Superior revisará el cumplimiento de los requisitos establecidos y realizará una evaluación técnica de la propuesta, a partir de la solicitud de creación y de los respectivos documentos respaldatorios.",
+      "content": "Las solicitudes de creación que no cumplieren con los requisitos académicos, económicos, administrativos y legales correspondientes serán devueltas a los solicitantes con el dictamen que contenga los motivos del rechazo. Una vez subsanadas las falencias señaladas en el dictamen respectivo, los interesados podrán volver a presentar las solicitudes correspondientes para someterlas a una nueva consideración, una vez transcurridos 6 (seis) meses de la notificación del dictamen de rechazo. \n El Consejo Nacional de Educación Superior dispondrá un plazo máximo de 1 (un) año, a partir de la presentación de los proyectos de creación de Universidades para emitir su dictamen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "CAPITULO I",
+      "section": "31",
+      "title": "Artículo 31. Presentado el informe de evaluación, el Consejo Nacional de Educación Superior resolverá el levantamiento o no del proceso de evaluación. La institución que no reciba dicho levantamiento, tendrá un plazo adicional de 3 (tres) años para mejorar las deficiencias detectadas. Vencido dicho plazo y no enmendadas las deficiencias señaladas, el Consejo Nacional de Educación Superior dispondrá el cierre de la institución y el consiguiente retiro de la habilitación para su funcionamiento.",
+      "content": "Los estudiantes de la universidad clausurada podrán ser admitidos en otras universidades, las cuales les reconocerán todo lo aprobado en la institución de origen, siempre y cuando las asignaturas aprobadas cumplan con los requisitos académicos de la institución receptora. Las universidades clausuradas serán responsables de los daños y perjuicios ocasionados. \n El Consejo Nacional de Educación Superior reconocerá la calidad de Institución de Educación Superior, con todos los derechos y obligaciones que les otorga la ley a aquellas instituciones que hayan cumplido satisfactoriamente los requisitos que establece la Ley."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "CAPITULO I",
+      "section": "32",
+      "title": "Artículo 32. La apertura de una filial, o de una nueva carrera o programas de postgrado deberá ser autorizada por el Consejo Nacional de Educación Superior. Las filiales de las universidades deben cumplir los requisitos fundamentales exigidos a las respectivas sedes centrales, para que se pueda autorizar su funcionamiento.",
+      "content": "SECCION III \n DE LA AUTONOMIA DE LAS UNIVERSIDADES"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "CAPITULO I",
+      "section": "33",
+      "title": "Artículo 33. La autonomía de las universidades implica fundamentalmente lo siguiente:",
+      "content": "a. Ejercer la libertad de la enseñanza y de la cátedra. \n b. Habilitar carreras de pre-grado, grado y programas de postgrado, cumpliendo con los requisitos establecidos en la presente Ley y previa aprobación del Consejo Nacional de Educación Superior. \n c. Formular y desarrollar planes de estudio, de investigación científica y de extensión a la comunidad. \n d. Otorgar títulos de pre-grado, grado y postgrado conforme a las condiciones que se establecen en las disposiciones vigentes. \n e. Establecer el régimen de equivalencia de planes y programas de estudios de otras instituciones. \n f. Establecer el régimen de admisión, permanencia y promoción de los estudiantes. \n g. Elaborar y reformar sus propios estatutos, los cuales deben ser comunicados al Consejo Nacional de Educación Superior. \n h. Elegir y/o designar sus autoridades conforme a sus estatutos. \n i. Establecer o modificar su estructura organizacional y administrativa. \n j. Crear facultades, unidades académicas, sedes y filiales cumpliendo con los requisitos establecidos en la presente Ley y previa aprobación del Consejo Nacional de Educación Superior. \n k. Establecer, de acuerdo con los estatutos, el régimen de acceso, permanencia y promoción de educadores e investigadores del nivel superior, valorando preferentemente la calificación académica, los méritos y competencias de los postulantes. \n l. Seleccionar y nombrar el personal de servicios administrativos; establecer su régimen de trabajo y promoción acorde con las normas vigentes. \n m. Administrar sus bienes y recursos, conforme a sus estatutos y las leyes que regulan la materia. \n n. Mantener relaciones y firmar acuerdos de carácter educativo, científico, investigativo y cultural con instituciones del país y del extranjero. \n ñ. Hacer respetar la inviolabilidad de sus recintos, salvo orden judicial. \n o. Elaborar sus presupuestos y administrar sus bienes y recursos propios en concordancia con las leyes que rigen la materia. \n p. Realizar otros actos conforme a sus fines. \n \n SECCION IV \n DE LA AUTARQUIA DE LAS UNIVERSIDADES PUBLICAS"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "CAPITULO I",
+      "section": "34",
+      "title": "Artículo 34. Las universidades públicas gozarán de autarquía financiera para generar, administrar y disponer de sus fondos, correspondientes al Presupuesto General de la Nación.",
+      "content": "La autarquía financiera de que gozan las universidades públicas no las exime de la rendición de cuentas correspondiente a la Contraloría General de la República. \n \n SECCION V \n DE LOS ORGANOS DE GOBIERNO DE LAS UNIVERSIDADES"
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "CAPITULO I",
+      "section": "37",
+      "title": "Artículo 37. Para ser Rector de una universidad, es necesario poseer:",
+      "content": "a. Nacionalidad paraguaya y los requisitos que establezcan los estatutos de cada universidad. \n b. Ser de reconocida solvencia intelectual, ética, idoneidad y honestidad. \n c. Experiencia docente de un mínimo de 10 (diez) años en universidades. \n En caso que las universidades establezcan la figura del Vicerrector, este deberá reunir los mismos requisitos exigidos para el Rector. \n \n SECCION VI \n DERECHOS Y OBLIGACIONES DE LOS EDUCADORES, INVESTIGADORES Y ESTUDIANTES DE LAS UNIVERSIDADES"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPITULO I",
+      "section": "38",
+      "title": "Artículo 38. Para ejercer la docencia y la investigación en la educación superior universitaria, se deberá contar con:",
+      "content": "a. Título de grado académico registrado en el Ministerio de Educación y Cultura. \n b. Capacitación pedagógica en educación superior. \n c. Notoria capacidad científica, técnica o intelectual. \n d. Los demás requisitos establecidos en los estatutos de la universidad. \n \n DE LA CARRERA DOCENTE Y DEL INVESTIGADOR EN LA EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "CAPITULO I",
+      "section": "39",
+      "title": "Artículo 39. La carrera docente y de investigador en la educación superior estará establecida en los estatutos o cartas orgánicas y reglamentos de las instituciones respectivas. En todos los casos, el acceso al ejercicio de la docencia y de la investigación, se hará por concurso público de oposición de títulos, méritos y aptitudes, en el que se valorará, preferentemente, la producción científica, el grado de actualización de sus conocimientos y competencias y su experiencia profesional. Se garantiza la libertad de cátedra.",
+      "content": "DE LA DEDICACION A LA DOCENCIA"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "CAPITULO I",
+      "section": "40",
+      "title": "Artículo 40. La dedicación a la docencia en la educación superior es una opción del profesional, pudiendo dedicarse a la enseñanza y/o a la investigación, o combinar el ejercicio profesional, o la investigación, con la docencia. La institución contratante podrá nombrarle con el título del escalafón docente establecido en sus estatutos, como profesor a tiempo completo o como profesor contratado.",
+      "content": "DE LOS PROFESORES DE TIEMPO COMPLETO"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "CAPITULO I",
+      "section": "41",
+      "title": "Artículo 41. Para incorporarse como profesor de tiempo completo, el postulante deberá someterse a un concurso público de oposición, en el que se valorará, preferentemente, la producción científica del docente, el grado de actualización de sus conocimientos, su experiencia profesional, su formación y su experiencia como docente universitario. Cada institución realizará la evaluación conforme a sus estatutos.",
+      "content": "DE LOS PROFESORES CONTRATADOS"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "CAPITULO I",
+      "section": "42",
+      "title": "Artículo 42. Los profesionales que quisieran combinar el ejercicio de la docencia superior con el ejercicio profesional podrán hacerlo también, en calidad de profesores contratados. En tal caso, no será necesario someterse a concurso público de oposición para ser contratados.",
+      "content": "En su calidad de profesionales independientes, los profesores podrán ser contratados por diferentes períodos, de acuerdo con la duración de los cursos para los que son contratados. \n \n DEL MINIMO DE PROFESORES DE TIEMPO COMPLETO"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "CAPITULO I",
+      "section": "43",
+      "title": "Artículo 43. Un mínimo de 30% (treinta por ciento) respecto del total del plantel docente de cada una de las instituciones de educación superior, debe ser conformado por profesores de tiempo completo. El proceso podrá realizarse de manera gradual, considerando como plazo máximo para cumplir con el requisito exigido un período de 3 (tres) años a partir de la promulgación de la presente Ley.",
+      "content": "DE LA ESTABILIDAD LABORAL DE LOS DOCENTES E INVESTIGADORES"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "CAPITULO I",
+      "section": "44",
+      "title": "Artículo 44. Los docentes e investigadores de la educación superior tienen derecho a la estabilidad laboral conforme a la legislación vigente, según sean universidades públicas o privadas, y cumplir con los siguientes requisitos:",
+      "content": "a. Mantenerse actualizados sobre los avances científicos y teóricos en su área del saber. \n b. Mantenerse actualizados sobre los avances de las técnicas más modernas de enseñanza de la educación superior; así como de los conocimientos de las evoluciones científicas. \n c. Producir y publicar trabajos de investigación de carácter científico sobre el área de su especialidad, de acuerdo con las reglamentaciones de cada institución. \n Los requisitos mencionados serán evaluados por cada una de las instituciones de educación superior, donde desempeñan su labor los profesores e investigadores, a través de concursos públicos y abiertos por oposición, que periódicamente serán convocados para mantenerse en su categoría o promocionarse en la categoría superior. \n Los profesores e investigadores contratados se regirán por lo establecido en las cláusulas de sus respectivos contratos. \n \n DE LOS DERECHOS DE LOS DOCENTES E INVESTIGADORES"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "CAPITULO I",
+      "section": "45",
+      "title": "Artículo 45. Son derechos de los docentes de las instituciones de educación superior:",
+      "content": "a. Acceder a la carrera académica mediante concurso público de oposición. \n b. Ejercer la cátedra y la investigación bajo la más amplia libertad sin ningún tipo de imposición o restricción religiosa, política o de otra índole. \n c. Acceder a la carrera de docente e investigador y a cargos directivos, que garanticen estabilidad, promoción, movilidad y retiro, basados en el mérito académico, en la calidad de la enseñanza impartida, en la producción investigativa, en el perfeccionamiento permanente, sin admitir discriminación de género ni de ningún otro tipo. \n d. Participar en el gobierno de la institución a la que pertenecen, de acuerdo con las normas legales vigentes. \n e. Actualizarse y perfeccionarse de modo continuo a través de la carrera académica, de los centros o comunidades científicas y en unidades de estudios de investigación y de producción, tanto a nivel nacional como internacional. \n f. Participar en la actividad gremial. \n g. Percibir sus haberes por los días de receso establecidos en el calendario académico, asuetos y suspensión de clases por causas ajenas a su voluntad. \n h. Acceder al permiso con goce de sueldo, por maternidad, 6 (seis) semanas antes y 6 (seis) semanas después del parto. \n i. Acceder a permisos por enfermedad debidamente comprobada, conforme lo establece la legislación laboral vigente. \n j. Acceder al permiso para lactancia. \n k. A acceder al ingreso al sistema de escalafón. \n l. Acceder a permisos especiales con o sin goce de sueldo, para el usufructo de becas, programas de intercambio cultural o funciones educativas específicas. \n \n DE LOS DEBERES DE LOS DOCENTES E INVESTIGADORES"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "CAPITULO I",
+      "section": "46",
+      "title": "Artículo 46. Son deberes de los docentes e investigadores de las instituciones de educación superior:",
+      "content": "a. Observar las normas que regulan el funcionamiento de la institución a la que pertenecen. \n b. Participar en la vida de la institución, cumpliendo con responsabilidad su función docente, de investigación y de servicio. \n c. Ejercer con ética sus funciones de docente y/o investigador. \n d. Actualizarse en su formación profesional y cumplir con las exigencias de perfeccionamiento que exige la carrera académica. \n e. Contribuir a la formación integral del estudiante en su dimensión humana, cultural, ética, social y política. \n f. Respetar a los estudiantes sin discriminación alguna y teniendo en cuenta sus derechos. \n g. Informar a los estudiantes sobre el programa a ser desarrollado, la modalidad de enseñanza, aprendizaje, su metodología, características y las pautas de evaluación. \n h. Evaluar con objetividad el desempeño del estudiante. \n \n DE LOS DERECHOS DE LOS ESTUDIANTES"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "CAPITULO I",
+      "section": "47",
+      "title": "Artículo 47. Los estudiantes de educación superior tienen derecho a:",
+      "content": "a. Acceder a la educación superior, a la movilidad académica horizontal y vertical, permanecer, egresar y titularse sin discriminación de ninguna naturaleza, conforme a sus méritos académicos. \n b. Acceder a una educación superior de calidad que permita iniciar una carrera profesional en igualdad de oportunidades. \n c. Asociarse libremente en centros de estudiantes, elegir a sus representantes y participar en el gobierno y en la vida de la institución, conforme a los estatutos, lo que establece la presente Ley y demás disposiciones legales que rigen la materia. \n d. Obtener becas, créditos y otras formas de apoyo económico y social que garanticen la igualdad de oportunidades y de condiciones, particularmente para el acceso y permanencia en los estudios de grado y postgrado, conforme a las normas que reglamenten la materia. \n e. Recibir la información necesaria para el correcto ejercicio de sus responsabilidades como estudiante. \n f. Recibir información oportuna de su desempeño académico. \n g. Contribuir a la evaluación de los docentes. \n h. Los demás que fijen los estatutos respectivos. \n \n DE LOS DEBERES DE LOS ESTUDIANTES"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "CAPITULO I",
+      "section": "48",
+      "title": "Artículo 48. Son deberes de los estudiantes de educación superior:",
+      "content": "a. Actuar con ética, honestidad y responsabilidad en las actividades académicas y en todos los espacios de la institución. \n b. Respetar los estatutos, reglamentaciones y normas de disciplina de la institución en la que estudian. \n c. Observar las condiciones de convivencia, estudio, investigación y trabajo que estipule la institución a la que pertenecen. \n d. Respetar el disenso, las diferencias individuales, la creatividad personal y colectiva y fomentar el trabajo en equipo. \n e. Los demás deberes establecidos en los respectivos estatutos. \n \n CAPITULO II \n DE LA CREACION, HABILITACION Y CIERRE DE INSTITUTOS SUPERIORES \n \n SECCION I \n DE LOS INSTITUTOS SUPERIORES"
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "CAPITULO II",
+      "section": "54",
+      "title": "Artículo 54. El Consejo Nacional de Educación Superior reglamentará las exigencias administrativas y académicas de las carreras y los programas de los Institutos Superiores.",
+      "content": "Las carreras cuyas prácticas puedan significar daño a la integridad física, mental o al patrimonio de las personas, deberán contar con dictamen de aprobación técnica, tecnológica y profesional de las entidades oficiales que regulan su ejercicio, a los efectos establecidos en el Artículo 9º, Inc. c) de la presente Ley."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "CAPITULO II",
+      "section": "57",
+      "title": "Artículo 57. Los derechos y obligaciones de los educadores, investigadores y estudiantes de los Institutos Superiores, serán establecidos en sus estatutos y en las normas vigentes.",
+      "content": "SECCION II \n INSTITUCIONES DE FORMACION PROFESIONAL DEL TERCER NIVEL"
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "CAPITULO II",
+      "section": "59",
+      "title": "Artículo 59. El Ministerio de Educación y Cultura reglamentará su creación, estructura organizacional, funcionamiento, supervisión y clausura, respetando los principios constitucionales.",
+      "content": "SECCION III \n DE LOS INSTITUTOS SUPERIORES DE LAS FUERZAS ARMADAS Y POLICIALES"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "CAPITULO II",
+      "section": "60",
+      "title": "Artículo 60. Los Institutos Superiores dependientes de las Fuerzas Armadas de la Nación y de la Policía Nacional establecerán su sistema de gobierno conforme a sus propios regímenes institucionales o cartas orgánicas.",
+      "content": "El Consejo Nacional de Educación Superior establecerá las exigencias académicas que no se refieran expresamente a su área específica del saber, así como las pautas de equivalencias de estudios que permitan la movilidad. Para estos efectos, el Consejo estará a lo dispuesto por los Artículos 63, 69 y 70 de la Ley Nº 1115/97 “DEL ESTATUTO DEL PERSONAL MILITAR” y el Artículo 87 de la Ley N° 1264/98 “GENERAL DE EDUCACION” y concordantes. \n \n TITULO IV \n DE LOS CURSOS DE PRE-GRADO, LAS CARRERAS DE GRADO Y LOS PROGRAMAS DE POSTGRADO DE LA EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "TITULO IV",
+      "section": "61",
+      "title": "Artículo 61. La educación superior desarrollará cursos de pre-grado, carreras de grado y programas de postgrado.",
+      "content": "CAPITULO I \n DE LOS CURSOS DE PRE-GRADO, CARRERAS DE GRADO Y PROGRAMAS DE POSTGRADO \n \n SECCION I \n DE LOS CURSOS DE PRE-GRADO"
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "CAPITULO I",
+      "section": "62",
+      "title": "Artículo 62. Los cursos de pre-grado están orientados a:",
+      "content": "a. la preparación para ocupaciones de carácter operativo e instrumental para el ejercicio de una profesión técnica. Otorga el título de Técnico Superior en una especialidad técnica específica. \n b. la formación inicial de profesionales de la educación para el desempeño de la docencia en cada uno de los niveles del sistema educacional en las diversas modalidades de la actividad educativa. Otorga el título de Profesor. \n c. la formación de profesionales de la educación para el desempeño de la función técnica en diversas áreas. Otorga el título de Técnico Docente en un área específica. \n \n SECCION II \n DE LAS CARRERAS DE GRADO"
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "CAPITULO I",
+      "section": "63",
+      "title": "Artículo 63. Las carreras de grado tendrán una duración mínima de 4 (cuatro) años y 2700 (dos mil setecientas) horas cursadas.",
+      "content": "De acuerdo con los estándares internacionales vigentes, las carreras podrán tener una duración de 5 (cinco) a 6 (seis) años. Estas carreras otorgan el título correspondiente a una profesión o a los conocimientos académicos de una disciplina. \n \n SECCION III \n DE LOS PROGRAMAS DE POSTGRADO"
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "CAPITULO I",
+      "section": "64",
+      "title": "Artículo 64. Son programas de postgrado: las capacitaciones, las especializaciones, las maestrías y los doctorados.",
+      "content": "Para acceder a un programa de postgrado, es necesario poseer previamente un título de grado. \n Los programas de postgrado deberán tener una carga horaria mínima en concordancia con las disposiciones y regulaciones vigentes."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "CAPITULO I",
+      "section": "66",
+      "title": "Artículo 66. Los programas de especialización son aquellos que se desarrollan con posterioridad a una carrera de grado y posibilitan el perfeccionamiento profesional o de investigación.",
+      "content": "Los programas de especialización deberán tener una carga horaria mínima en concordancia con las disposiciones y regulaciones vigentes y otorgan el título de Especialista, indicando el área específica de la especialidad."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "CAPITULO I",
+      "section": "67",
+      "title": "Artículo 67. Los programas de maestría amplían los conocimientos, y sus fundamentos tienen a la investigación y a la producción del conocimiento como componente fundamental del desarrollo de sus actividades.",
+      "content": "Los programas de maestría deben tener una carga horaria mínima en concordancia con las disposiciones y regulaciones vigentes, y otorgando el título de Magíster, con indicación del área específica del conocimiento."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "CAPITULO I",
+      "section": "68",
+      "title": "Artículo 68. Los estudios de doctorado tienen por finalidad la capacitación para la realización de trabajos de investigación original. Constituyen un aporte significativo al acerbo del conocimiento en un área específica del saber. Otorgan el grado de Doctor, para lo cual el aspirante debe seguir un plan de estudios y llevar a cabo una investigación original que se presenta bajo la forma de una tesis.",
+      "content": "Los programas de doctorado deben desarrollarse sobre la base de un título Magíster. \n \n SECCION IV \n DE LA EDUCACION SUPERIOR A DISTANCIA O NO PRESENCIAL"
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "CAPITULO I",
+      "section": "70",
+      "title": "Artículo 70. Los programas de educación a distancia o no presencial pueden ofrecerse en instituciones legalmente habilitadas, que dispongan de la infraestructura y equipamientos adecuados y los profesores capacitados específicamente para esta metodología educativa, así como con sus respectivos programas y sistemas de evaluación de cursos y disciplinas, aprobados por las autoridades competentes. El Consejo Nacional de Educación Superior reglamentará todas las exigencias para implementarla.",
+      "content": "CAPITULO II \n DE LOS TITULOS DE LA EDUCACION SUPERIOR \n \n SECCION I \n DE LA DEFINICION DE TITULO"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "CAPITULO II",
+      "section": "71",
+      "title": "Artículo 71. El título es el reconocimiento expreso de carácter académico, que se otorga a una persona al culminar un curso, carrera o programa y por haber completado los requisitos académicos exigidos por una Institución de Educación Superior. El otorgamiento de títulos en la educación superior es de competencia exclusiva de las instituciones de ese nivel, de conformidad con la legislación vigente.",
+      "content": "SECCION II \n DE LAS TITULACIONES DE LA EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "CAPITULO II",
+      "section": "72",
+      "title": "Artículo 72. Las Universidades y los Institutos Superiores son las únicas instituciones que pueden otorgar títulos de grado y postgrado.",
+      "content": "Los títulos otorgados por las Instituciones de Educación Superior deben estar necesariamente registrados en el Ministerio de Educación y Cultura. \n La habilitación para el ejercicio de la profesión, una vez registrados oficialmente, se ajustará a los requisitos establecidos por las instancias competentes. \n \n SECCION III \n DEL RECONOCIMIENTO OFICIAL DE LOS TITULOS"
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "CAPITULO II",
+      "section": "73",
+      "title": "Artículo 73. El reconocimiento oficial de los títulos que expidan las Instituciones de Educación Superior, será otorgado por el Ministerio de Educación y Cultura, mediante el registro del título, previo cumplimiento de las normativas legales vigentes en la materia en el orden administrativo.",
+      "content": "SECCION IV \n DE LA HOMOLOGACION DE LOS TITULOS OBTENIDOS EN EL EXTERIOR"
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "CAPITULO II",
+      "section": "74",
+      "title": "Artículo 74. El Ministerio de Educación y Cultura, en coordinación con el Consejo Nacional de Educación Superior reglamentará decreto y resoluciones, mediante, la homologación de títulos obtenidos en el exterior. El ejercicio profesional de los extranjeros se regirá por los convenios internacionales vigentes y por las leyes de la República del Paraguay.",
+      "content": "SECCION V \n DE LAS INSTITUCIONES COMPETENTES PARA REALIZAR RECONOCIMIENTO DE ESTUDIOS EN EL EXTRANJERO"
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "CAPITULO II",
+      "section": "75",
+      "title": "Artículo 75. El reconocimiento de estudios completos realizados en el extranjero estará a cargo del Consejo Nacional de Educación Superior, que lo reglamentará. Este procedimiento será previo al registro oficial del título en el Ministerio de Educación y Cultura.",
+      "content": "TITULO V \n DEL FINANCIAMIENTO, ESTIMULOS E INTERVENCIONES \n \n CAPITULO I \n DE LOS ASPECTOS DE FINANCIAMIENTO \n \n SECCION I \n SOSTENIMIENTO Y REGIMEN ECONOMICO-FINANCIERO"
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "CAPITULO I",
+      "section": "76",
+      "title": "Artículo 76. Los recursos destinados a la educación superior de carácter público en el Presupuesto General de la Nación, no serán inferiores al 7% (siete por ciento) del total asignado a la Administración Central, excluidos préstamos y donaciones.",
+      "content": "Independientemente a este porcentaje, serán además destinados a la investigación un mínimo de 2% (dos por ciento) del Presupuesto General de la Nación. \n Los fondos aportados por el Estado y los recaudados de fuentes privadas serán distribuidos para proveer recursos para su financiamiento a las universidades y a los institutos superiores públicos, al Consejo Nacional de Educación Superior y a la Agencia Nacional de Evaluación y Acreditación de la Educación Superior (ANEAES). Estas instituciones, no obstante, podrán recaudar y gestionar sus propios fondos."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "CAPITULO I",
+      "section": "77",
+      "title": "Artículo 77. Las universidades privadas podrán recibir fondos aportados por el Estado toda vez que se adecuen a los requisitos de calidad y transparencia administrativa, que serán reglamentados por el Consejo Nacional de Educación Superior.",
+      "content": "Las inversiones que las empresas realicen en la formación y capacitación de sus recursos humanos en Instituciones de Educación Superior con carreras acreditadas, así como las donaciones e inversiones que se destinen a la educación superior serán deducibles de todo tipo de impuestos, tasas y contribuciones creados o por crearse. \n \n SECCION II \n DE LOS ESTIMULOS Y APOYOS A LA EDUCACION SUPERIOR"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "CAPITULO I",
+      "section": "78",
+      "title": "Artículo 78. El Estado establecerá estímulos y apoyos, por medio de sus instituciones, creando líneas de crédito, donaciones, así como becas para alumnos y profesores de la educación superior. No podrán gozar de los mencionados estímulos las instituciones que no cuenten con carreras acreditadas.",
+      "content": "El Estado creará fondos especiales para el desarrollo de la investigación y la formación de postgrados en las Instituciones de Educación Superior con carreras acreditadas."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "CAPITULO I",
+      "section": "81",
+      "title": "Artículo 81. Las inversiones, donaciones y legados que se realicen a favor de las instituciones de educación superior, estarán exentos del pago de todo tipo de tributos creados o por crearse y el monto o valor será totalmente deducible para los otorgantes del pago del impuesto a la renta.",
+      "content": "TITULO VI \n DE LA AGENCIA NACIONAL DE EVALUACION Y ACREDITACION DE LA EDUCACION SUPERIOR \n \n CAPITULO I \n DE LAS ATRIBUCIONES DE LA AGENCIA NACIONAL DE EVALUACION Y ACREDITACION DE LA EDUCACION SUPERIOR (ANEAES)"
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "CAPITULO I",
+      "section": "82",
+      "title": "Artículo 82. La Agencia Nacional de Evaluación y Acreditación de la Educación Superior (ANEAES) es el organismo técnico encargado de evaluar y acreditar la calidad académica de los Institutos de Educación Superior. Posee autonomía académica, administrativa y financiera.",
+      "content": "Debe cumplir con las tareas específicas de verificar y certificar sistemáticamente la calidad de las instituciones de educación superior, sus filiales, programas y las carreras que ofrecen, y elevar el informe al Consejo Nacional de Educación Superior para su tratamiento conforme a esta Ley. \n La Agencia tendrá a su cargo la acreditación de las carreras de las universidades e Institutos Superiores. La acreditación de las carreras es un requisito indispensable para acceder a fondos públicos y becas del Estado, así como para acceder a concursos, licitaciones y prestaciones de servicios al Estado. La acreditación de programas será necesaria para el reconocimiento oficial de las carreras reguladas por el Estado. \n La Agencia se regirá en su organización y funcionamiento por su Ley de creación, sus reglamentos y lo prescripto en esta Ley. \n \n DE LA DIRECCION EJECUTIVA DE LA AGENCIA NACIONAL DE EVALUACION Y ACREDITACION DE LA EDUCACION SUPERIOR (ANEAES)"
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "CAPITULO I",
+      "section": "83",
+      "title": "Artículo 83. La Agencia Nacional de Evaluación y Acreditación de la Educación Superior (ANEAES) contará con una dirección ejecutiva que cumplirá las siguientes funciones:",
+      "content": "a. Coordinar y supervisar el funcionamiento operativo y administrativo de la Agencia, de acuerdo con el reglamento de organización interna aprobado por el Consejo Directivo. \n b. Llevar archivo de la documentación que expida la Agencia y de los informes técnicos y dictámenes sobre proyectos académicos de habilitación de Instituciones de Educación Superior, carreras de grado y postgrado, así como de las acreditaciones institucionales y de programas. \n c. Convocar a reunión del Consejo Directivo, de acuerdo con lo establecido en la Ley de creación de la Agencia Nacional de Evaluación y Acreditación de la Educación Superior (ANEAES). \n d. Brindar asistencia al Presidente y al Vicepresidente del Consejo Directivo para el cumplimiento de los fines establecidos en la Ley de creación de la Agencia. \n e. Las demás funciones que establezca el Consejo Directivo de la Agencia Nacional de Evaluación y Acreditación de la Educación Superior (ANEAES). \n \n CAPITULO II \n DE LOS COMPROMISOS DE DIFUSION DE LA INFORMACION"
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "CAPITULO II",
+      "section": "84",
+      "title": "Artículo 84. Las Instituciones de Educación Superior deberán presentar anualmente o a requerimiento del Consejo Nacional de Educación Superior, en cumplimiento de la exigencia de información y de la transparencia académica y administrativa, la nómina y el cargo de sus autoridades, la nómina de los docentes y del personal administrativo, así como los datos estadísticos sobre las matrículas, los egresados y todo otro dato que permita un actualizado registro del desenvolvimiento y desarrollo de las Instituciones de Educación Superior.",
+      "content": "DE LA INFORMACION DE ACCESO PUBLICO"
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "CAPITULO II",
+      "section": "85",
+      "title": "Artículo 85. Los organismos del Estado, responsables de las políticas de educación, deberán convertir los datos en información y en conocimiento, sea a través de documentos escritos, soporte magnético o digital, o cualquier otro formato, sobre el estado de la educación superior. Quedan igualmente obligadas a hacerlo las organizaciones nacionales o internacionales vinculadas legalmente con estudios referidos a la educación superior.",
+      "content": "DE LA VALIDACION DE LAS PUBLICACIONES"
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "CAPITULO II",
+      "section": "86",
+      "title": "Artículo 86. Las publicaciones de las informaciones exigidas a las Instituciones de Educación Superior deberán ser actualizadas, completas, exactas, claras y responsablemente avaladas por sus autoridades.",
+      "content": "TITULO VII \n DE LA INTERVENCION DE UNIVERSIDADES E INSTITUTOS SUPERIORES \n \n CAPITULO I \n SECCION I \n DE LAS CAUSALES DE INTERVENCION DE UNIVERSIDADES E INSTITUTOS SUPERIORES"
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "CAPITULO I",
+      "section": "87",
+      "title": "Artículo 87. Las universidades y los Institutos Superiores pueden ser intervenidos por las siguientes causas:",
+      "content": "a. El incumplimiento reiterado de las normas establecidas por esta Ley, así como las exigencias para su creación y la autorización de su funcionamiento, y todas aquellas disposiciones que dicte el Consejo Nacional de Educación Superior en el ejercicio de sus atribuciones. \n b. En los casos en que se vean desnaturalizados los fines de las Instituciones de Educación Superior con motivo de violaciones graves o reiteradas de la Ley, siempre que las autoridades de las instituciones respectivas no hayan podido restablecer el normal funcionamiento, en el plazo que fije el Consejo Nacional de Educación Superior. \n c. El incumplimiento de disposiciones legales o administrativas que impidan o imposibiliten la normal dirección o administración, expongan o representen riesgos para las personas en su seguridad, dignidad y los bienes de las mismas legalmente protegidos, siempre que las autoridades de las instituciones respectivas no hayan podido restablecer el normal funcionamiento de la institución en el plazo que fije el Consejo Nacional de Educación Superior. \n \n SECCION II \n DEL PROCEDIMIENTO DE INTERVENCION DE LAS UNIVERSIDADES, INSTITUTOS SUPERIORES E INSTITUTOS DE FORMACION PROFESIONAL DE TERCER NIVEL"
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "CAPITULO I",
+      "section": "90",
+      "title": "Artículo 90. El Consejo Nacional de Educación Superior, previa resolución por mayoría de dos tercios de los miembros presentes, establecerá en su petición las causas que motivan la intervención, el procedimiento a utilizarse, el o las personas propuestas como interventores y su remuneración, la duración o las condiciones de la intervención y los informes o dictámenes que el o los interventores deben producir y el plazo para hacerlo.",
+      "content": "Los interventores serán designados y removidos por el Consejo Nacional de Educación Superior. \n La intervención implica la suspensión automática y temporal de las autoridades de la institución afectada, quienes quedarán suspendidas interinamente por el o los interventores, que asumen con plenas facultades, excepto las de modificar estatutos o reglamentos internos y aquellas que reglamente el Consejo Nacional de Educación Superior en cada caso. \n El plazo de intervención será reglamentado por el Consejo Nacional de Educación Superior, y no podrá prolongarse por más de 6 (seis) meses, renovable únicamente por razones debidamente fundadas, por 3 (tres) meses más, y concluirá con un informe detallado del estado de la institución, con las recomendaciones que correspondan, que debe ser aprobado por el Consejo Nacional de Educación Superior en el plazo de 15 (quince) días desde su formulación. \n \n SECCION III \n DEL LEVANTAMIENTO DE LA INTERVENCION O CLAUSURA DE LAS UNIVERSIDADES E INSTITUTOS SUPERIORES"
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "CAPITULO I",
+      "section": "91",
+      "title": "Artículo 91. La intervención de las universidades e Institutos Superiores podrá ser levantada bajo las condiciones que la autoridad interventora sugiera o las que establezca el Consejo Nacional de Educación Superior.",
+      "content": "Si las exigencias no fueran satisfechas, basadas en las recomendaciones dadas por la intervención o por el Consejo Nacional de Educación Superior, previa resolución dictada por las mayorías establecidas en el Artículo 9º de la presente Ley, se dispondrá la clausura o cierre de las filiales, carreras, universidades o Institutos Superiores."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "CAPITULO I",
+      "section": "92",
+      "title": "Artículo 92. No procederá ningún tipo de recurso contra las decisiones y/o resoluciones referidas a la intervención, sean ellas emanadas del Ministerio de Educación y Cultura o del Consejo Nacional de Educación Superior. Contra la resolución de clausura o cierre de las universidades o Institutos Superiores, solo procederá la acción de inconstitucionalidad.",
+      "content": "TITULO VIII \n DE LAS DISPOSICIONES TRANSITORIAS Y DEROGACIONES \n \n SECCION I \n DISPOSICIONES TRANSITORIAS"
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "TITULO VIII",
+      "section": "96",
+      "title": "Artículo 96. A partir de los 5 (cinco) años de la promulgación de la presente Ley, todas las universidades e Institutos Superiores deberán contar con un mínimo de 10% (diez por ciento) de profesores con título de magíster del plantel docente y 3% (tres por ciento) con título de postgrado de doctor y a partir de los 10 (diez) años de la promulgación de la presente Ley, con un mínimo de 15% (quince por ciento) de profesores con título de magíster y 5% (cinco por ciento) con título de postgrado de doctor; mientras que a partir de los 15 (quince) años de la promulgación de la presente Ley, deberán contar con un mínimo de 20% (veinte por ciento) de profesores con título de magíster y 7% (siete por ciento) con título de postgrado de doctor.",
+      "content": "SECCION II \n DEROGACIONES"
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "TITULO VIII",
+      "section": "98",
+      "title": "Artículo 98. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a nueve días del mes de mayo del año dos mil trece, quedando sancionado el mismo por la Honorable Cámara de Diputados, a veintiséis días del mes de junio del año dos mil trece, de conformidad con lo dispuesto en el Artículo 207 numeral 2) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

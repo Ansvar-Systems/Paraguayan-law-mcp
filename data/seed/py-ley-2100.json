@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-2100",
+  "type": "statute",
+  "title": "Ley Nº 3017 / REGLAMENTA LA UTILIZACIÓN DE URNAS ELECTRÓNICAS, DISPUESTA EN EL ARTÍCULO 351 DEL CÓDIGO ELECTORAL PARAGUAYO.",
+  "title_en": "Ley Nº 3017 / REGLAMENTA LA UTILIZACIÓN DE URNAS ELECTRÓNICAS, DISPUESTA EN EL ARTÍCULO 351 DEL CÓDIGO ELECTORAL PARAGUAYO.",
+  "short_name": "Ley N° 3017",
+  "status": "in_force",
+  "issued_date": "2006-10-05",
+  "in_force_date": "2006-10-11",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2100/ley-n-3017-reglamenta-la-utilizacion-de-urnas-electronicas-dispuesta-en-el-articulo-351-del-codigo-electoral-paraguayo",
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. El Tribunal Superior de Justicia Electoral (TSJE) deberá habilitar un proceso de fiscalización de las urnas electrónicas con los apoderados informáticos de los movimientos internos de los partidos políticos, en sus respectivas elecciones de autoridades, conforme a sus estatutos, y de los partidos y movimientos políticos en elecciones nacionales, quince días antes de la fecha de los comicios de referencia.",
+      "content": "Dicho procedimiento se llevará a cabo sobre un mínimo de una urna asignada a cada distrito de votación, seleccionada al azar. Esta urna será apartada en un lugar adecuado, donde se procederá a realizar una prueba de votación durante cinco horas. El resultado final del escrutinio de la misma se dejará expreso en acta labrada por escribano público.\n Las urnas seleccionadas, una vez terminada la prueba, deberán ser lacradas."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. En dicho proceso, se verificará:",
+      "content": "a) la carga correcta de la urna electrónica de los datos ingresados en la misma;\n b) la coincidencia entre los datos ingresados y los impresos en las actas de cierre de las urnas electrónicas;\n c) si se han cargado efectivamente todas las candidaturas en la urna electrónica;\n d) la certificación del funcionamiento correcto del teclado de las urnas electrónicas;\n e) los procedimientos de reemplazo de las urnas electrónicas por las urnas de contención;\n f) el estado de los lacres de las urnas electrónicas."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Si a través de los procesos de verificación se constate la existencia de pruebas que de manera inequívoca supongan que el código fuente haya sido adulterado para beneficiar a alguna candidatura en especial, los partidos y movimientos políticos perjudicados podrán solicitar:",
+      "content": "a) la suspensión de los comicios, en el caso de que tal verificación se dé en el momento previsto en el Artículo 5° de la presente Ley;\n b) la nulidad total de los comicios, en caso de que derive de los controles establecidos en los Artículos 8° y 10 de la presente Ley;"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a ocho días del mes de junio del año dos mil seis, y por la Honorable Cámara de Senadores, siete días del mes de setiembre del año dos mil seis, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional.\n \n \n \n \n Archivos adjuntos Antecedente \n Antecedente de la Ley Nº 00000003017 \n \n \n \n \n \n- Acápite: Que reglamenta la utilización de Urnas Electrónicas dispuesta en el artículo 351 del Código Electoral Paraguayo\n \n \n \n \n \n \n- Fecha de sanción: 07/09/06\n \n \n \n \n \n \n- Camara: Senadores\n \n \n \n \n \n \n- Presentado por: Varios Diputados\n \n \n \n \n \n \n- Codigo de Expediente: Pp146-06"
+    }
+  ],
+  "definitions": []
+}

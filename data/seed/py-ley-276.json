@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-276",
+  "type": "statute",
+  "title": "Ley Nº 8051 / Por el cual se dicta una nueva ley organica de defensa agricola",
+  "title_en": "Ley Nº 8051 / Por el cual se dicta una nueva ley organica de defensa agricola",
+  "short_name": "Ley N° 8051",
+  "status": "in_force",
+  "issued_date": "1941-07-31",
+  "in_force_date": "1941-07-31",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/276/ley-n-8051-por-el-cual-se-dicta-una-nueva-ley-organica-de-defensa-agricola",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. La Dirección de Defensa Agrícola funcionará bajo la superintendencia del Departamento de Agricultura y tendrá las siguientes atribuciones:",
+      "content": "a) La Defensa de la Agricultura de todos sus enemigos y enfermedades de acuerdo a esta Ley Orgánica y demás disposiciones vigentes debiendo al efecto tomar oportunamente las medidas que fueran necesarias. \n b) El control de la importación y exportación de vegetales, parte de vegetales, productos agrícolas, insecticidas, fungicidas, etc., con el fin de asegurar su sanidad, pureza y buena conservación."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Declárase plagas a los efectos de esta Ley:",
+      "content": "A. Entre las existentes en el país:\n a) La oruga del algodonero (Alabama argillácea)\n b) La larva rosada (Platyedra gossypiella)\n c) Las hormigas ysaú y akeké (Atta spp)\n d) La bacteriosis del banano.\n e) La langosta voladora (Schistocerca paranansis)\n f) Gorgojo del algodonero (Conotrachelus denieri Huss)\n g) Leprosis del naranjo\n h) Verrugosis de los agrios (Elsinoe Fawceti)\n i) Gorgojo del Banano (Cosmopolites sordidus)\n j) Mosaico de la caña \n k) Margarodes de la vid\n l) La basilesis de la piña\n ll) Brusones del arroz (Bacillus oryzae)\nB. Entre las que amenazan invadir al país\n a) El picudo del algodonero (Anthonomus grandis)\n b) El Aspidiotus pernisiosus (Cochinilla de San José)\n c) La Philoxera vastatrix\n d) La bacteriosis de la mandioca (Murcha o marchitez)\n e) La podredumbre de las raicillas del agrio\n f) Cáncer de la papa (Pudrición del cogollo)\n g) La clorosis infecciosa de los citrus\n h) Basiliosis de las palmeras (Pudrición del cogollo)"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Quedan prohibidas la importación y exportación de los vegetales, partes de vegetales, productos agrícolas, insecticidas y fungicidas sin un permiso especial de la Dirección de Defensa Agrícola.",
+      "content": "Art.10º.- Queda prohibido el tráfico interior, en toda la república sin permiso especial de la Dirección de Defensa Agrícola, de semillas de algodón, plantas de piñas, plantas o rizomas de banano u otro vegetal o partes de vegetales que la Defensa Agrícola considere peligroso para la sanidad de nuestra agricultura."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Las empresas de transporte o personas que infringieran las disposiciones del artículo anterior, abonarán una multa de $ 200 a $ 10.000 c/legal.",
+      "content": "Las autoridades aduaneras y policías marítimas, harán observar el cumplimiento de estas disposiciones en las aduanas y las fronteras, en el interior del país estará a cargo de los Inspectores y demás representantes legales de la Dirección de Defensa Agrícola."
+    }
+  ],
+  "definitions": []
+}

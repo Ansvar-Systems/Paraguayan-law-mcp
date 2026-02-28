@@ -1,0 +1,80 @@
+{
+  "id": "py-ley-3193",
+  "type": "statute",
+  "title": "Ley Nº 102 / ESTABLECE NORMAS SOBRE CONTROL Y PREVENCION DEL SINDROME DE INMUNO DEFICIENCIA ADQUIRIDA SIDA",
+  "title_en": "Ley Nº 102 / ESTABLECE NORMAS SOBRE CONTROL Y PREVENCION DEL SINDROME DE INMUNO DEFICIENCIA ADQUIRIDA SIDA",
+  "short_name": "Ley N° 102",
+  "status": "in_force",
+  "issued_date": "1991-12-13",
+  "in_force_date": "1991-12-26",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3193/ley-n-102-establece-normas-sobre-control-y-prevencion-del-sindrome-de-inmuno-deficiencia-adquirida-sida",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Todo personal de salud en los niveles universitarios y de educación especializada, tanto del sector público como privado, debe orientar, educar y ejecutar prestaciones de salud sobre la infección causada por la VIH/SIDA a toda la población sin distinción.",
+      "content": "DEL REGISTRO E INFORMACION DE PORTADORES DEL VIH Y CASOS DE SIDA."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Todo fallecimiento de un portador del VIH y enfermo de SIDA, cualquiera sea la causa de su muerte, deberá ser notificado.",
+      "content": "DEL CONTROL Y PREVENCION EN GRUPOS DE MAYOR RIESGO"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Los Jueces y Tribunales donde se radiquen causas en las que existan reclusos VIH positivos, al expedir su libertad, deben notificar el hecho a las autoridades de Salud Pública.",
+      "content": "DEL CONTROL EN BANCOS DE SANGRE, SERVICIOS DE TRANSFUSION Y OTROS."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Artículo 16. Habrá notificación obligatoria a la autoridad de salud pública competente de todo donante de sangre, hemoderivado, órganos, tejidos y semen cuyos resultados sean positivos a las pruebas de confirmación por la VIH.",
+      "content": "DE LOS LABORATORIOS"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Artículo 17. Los laboratorios de las distintas Regiones Sanitarias dependientes del Ministerio de Salud Pública y Bienestar Social, son los directos responsables de facilitar la realización de las pruebas de detección de anti-cuerpo ante VIH en vigencia.",
+      "content": "Las pruebas de confirmación son responsabilidad de los laboratorios de referencia."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Artículo 19. El control de calidad de los laboratorios regionales, públicos o privados, estará a cargo del laboratorio de referencia nacional y éste, a sus vez será regido según las normas establecidas por la OMS.",
+      "content": "DE LOS HOSPITALES O CENTROS DE ATENCION DE ENFERMOS DE SIDA."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Artículo 21. Queda prohibida la promoción de medicamentos y su utilización en portadores de VIH y enfermos de SIDA, si los mismos no han sido debidamente autorizados por el Ministerio de Salud Pública y Bienestar Social.",
+      "content": "DE LOS VIAJEROS INTERNACIONALES"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Artículo 23. El Ministerio del Interior, mediante la Dirección de Migraciones, será el encargado de hacer cumplir el artículo precedente.",
+      "content": "DE LOS PORTADORES DEL VIH O ENFERMOS DE SIDA"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Artículo 27. EL poder Ejecutivo a través del Ministerio de Salud Pública y Bienestar Social tiene un plazo de noventa días a partir de la presente Ley para reglamentarla.",
+      "content": "EDUCACION SOBRE CONTROL Y PREVENCION DEL SIDA"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Artículo 29. Las Universidades públicas y privadas del país deberán tomar medidas similares a las previstas en el artículo anterior.",
+      "content": "DE LAS DISCRIMINACIONES"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Artículo 31. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la H. Cámara de Senadores a seis días del mes de noviembre del año un mil novecientos noventa y uno y por la H. Cámara de Diputados, sancionándose la Ley, a trece días del mes de diciembre del año un mil novecientos noventa y uno."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "py-ley-2553",
+  "type": "statute",
+  "title": "Ley Nº 941 / REPRIME Y CASTIGA COMO DELITO LA EMISION DE CHEQUES SIN FONDOS",
+  "title_en": "Ley Nº 941 / REPRIME Y CASTIGA COMO DELITO LA EMISION DE CHEQUES SIN FONDOS",
+  "short_name": "Ley N° 941",
+  "status": "in_force",
+  "issued_date": "1964-07-15",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2553/ley-n-941-reprime-y-castiga-como-delito-la-emision-de-cheques-sin-fondos",
+  "provisions": [
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo",
+      "content": "Dada en la sala de sesiones de la Honorable Cámara de Representantes de la Nación, a tres de julio del año un mil novecientos sesenta y cuatro."
+    }
+  ],
+  "definitions": []
+}

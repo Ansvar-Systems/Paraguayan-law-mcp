@@ -1,0 +1,1343 @@
+{
+  "id": "py-ley-2321",
+  "type": "statute",
+  "title": "Ley Nº 879 / CODIGO DE ORGANIZACION JUDICIAL",
+  "title_en": "Ley Nº 879 / CODIGO DE ORGANIZACION JUDICIAL",
+  "short_name": "Ley N° 879",
+  "status": "in_force",
+  "issued_date": "1981-11-19",
+  "in_force_date": "1981-12-02",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2321/ley-n-879-codigo-de-organizacion-judicial",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "chapter": "TITULO I",
+      "section": "2",
+      "title": "Artículo 2. El Poder Judicial será ejercido por:",
+      "content": "la Corte Suprema de Justicia;\n el Tribunal de Cuentas;\n los Tribunales de Apelación;\n los Juzgados de Primera Instancia;\n la Justicia de Paz Letrada;\n los Juzgado de Instrucción en lo Penal; y\n los Jueces Arbitros y Arbitradores."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "TITULO I",
+      "section": "3",
+      "title": "Artículo 3. Son complementarios y Auxiliares de la Justicia:",
+      "content": "el Ministerio Público;\n el Ministerio de la defensa Pública y el Ministerio Pupilar;\n la Policía;\n los Abogados;\n los Procuradores;\n los Notarios y Escribanos Públicos;\n los Rematadores;\n los Peritos en general y Traductores; y\n los Oficiales de Justicia."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "TITULO I",
+      "section": "4",
+      "title": "Artículo 4. Son también Auxiliares de la Justicia las instituciones o personas a quienes la ley los atribuye tal función.",
+      "content": "TITULO II \n DE LA JURISDICCION Y DE LA COMPETENCIA \n \n CAPITULO I \n DE LA JURISDICCIÓN"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPITULO I",
+      "section": "9",
+      "title": "Artículo 9. Los Jueces y Tribunales aplicarán la Constitución, los Tratados Internacionales, los Códigos y otras leyes, los decretos, ordenanzas municipales y reglamentos, en el orden de prelación enunciado.",
+      "content": "No podrán negarse a administrar justicia. En caso de insuficiencia, obscuridad o silencio de la ley, aplicarán las disposiciones de leyes análogas y los principios generales del derecho y tendrán en consideración los precedente judiciales.\n La Ley extranjera competente será aplicada de oficio por los Jueces y Tribunales de la República, sin perjuicio del derecho de las partes de alegar y probar su existencia, contenido y vigencia."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPITULO I",
+      "section": "10",
+      "title": "Artículo 10. Las autoridades prestarán el concurso necesario para el cumplimiento de las diligencia, mandatos y resoluciones judiciales. Siempre que un funcionario judicial o auxiliar de la justicia presente orden escrita de Juez o Tribunal competente para ejecutar un allanamiento, detención, prisión, libertad, desalojo, embargo o secuestro de bienes u otra medida cautelar, los funcionarios o agentes del Poder Ejecutivo les darán inmediato cumplimiento.",
+      "content": "CAPITULO II \n DE LA COMPETENCIA"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPITULO II",
+      "section": "12",
+      "title": "Artículo 12. La competencia en lo criminal se establece por la naturaleza, el lugar y tiempo de comisión de los hechos punibles, el grado, el turno y la conexidad.",
+      "content": "En los procesos por delitos y faltas conexos, el Juez al que corresponda entender en los primeros, conocerá también las faltas.\n \n En los delitos comunes no habrá más fuero que el ordinario, y este prevalecerá sobre los demás en los delitos conexos. En los delitos cometidos en alta mar a bordo de buques o aeronaves nacionales serán competentes los Jueces y Tribunales de la República. Igualmente lo serán en los casos en que el momento de la perpetración del delito el buque se hallare en aguas jurisdiccionales extranjeras, o la aeronave se encontrare en espacio aéreo extranjero, si los Gobiernos afectados no tomaren intervención."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPITULO II",
+      "section": "14",
+      "title": "Artículo 14. En los juicios de cualquier naturaleza en que sea parte el Estado, como actor o demandado, será competente el Juez del lugar en que tenga su domicilio legal el representante del Estado.",
+      "content": "En las acciones contra funcionarios públicos, derivados del ejercicio de sus funciones, será competente el Juez de su domicilio legal."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPITULO II",
+      "section": "15",
+      "title": "Artículo 15. El valor o la cuantía del litigio se determinará con sujeción a las siguientes reglas:",
+      "content": "a) cuando la cantidad objeto de la demanda sea impugnada y forme parte de un crédito mayor, se estará al monto del crédito;\n \n b) si se demandare el saldo de una cantidad mayor ya pagada, se tendrá en cuenta únicamente el valor del saldo;\n c) los frutos, réditos, pérdidas e intereses, costas y demás prestaciones accesorias sólo se acumularán al capital cuando fueren debidos con anterioridad a la demanda;\n \n d) cuando en la demanda se comprendan cantidades u objetos diversos que provengan de una sola o de varias causas, se estará al valor total de ellas;\n \n e) si fueren varios los demandantes o demandados en virtud de un mismo título, el valor total de la cosa demandada determinará la competencia, sea o nó solidaria o indivisible la obligación;\n \n f) tratándose de la posesión de una cosa, se tendrá como valor del litigio el de la cosa; y\n \n g) cuando el valor de la cosa objeto de la demanda no pueda ser determinado, el actor deberá manifestarlo bajo juramento sin perjuicio del derecho del demandado a declinar la jurisdicción."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPITULO II",
+      "section": "16",
+      "title": "Artículo 16. En las acciones reales sobre los inmuebles será competente el Juez del lugar de su situación.",
+      "content": "Si el bien raíz estuviere ubicado en más de una circunscripción judicial, la competencia pertenecerá al Juez de aquella donde se hallare su mayor parte.\n \n Si los inmuebles fueren varios y situados en distintas circunscripciones, será competente el Juez del lugar de situación del inmueble de mayor valor.\n \n Cuando se ejerzan acciones reales sobre muebles, será competente el Juez del lugar donde se hallen, o el del domicilio del demandado, a elección del demandante."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPITULO II",
+      "section": "17",
+      "title": "Artículo 17. En las acciones personales será competente el Juez del lugar convenido para el cumplimiento de la obligación, y a falta de éste, a elección del demandante, el del domicilio del demandado, o el del lugar del contrato, con tal que el demandado se halle en él aunque sea accidentalmente.",
+      "content": "Si hubiere varios coobligados, prevalecerá la competencia del Juez ante quién se instaure la demanda.\n El que no tuviere domicilio conocido podrá ser demandado en el lugar donde se encuentre."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPITULO II",
+      "section": "19",
+      "title": "Artículo 19. Puede demandarse ante el Juez nacional el cumplimiento de los contratos que deban ejecutarse en la República, aunque el demandado no tuviere su domicilio o residencia en ella.",
+      "content": "Si el deudor tuviere su domicilio en la República y el contrato debiera cumplirse fuera de ella, podrá ser demandado ante el Juez de su domicilio."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPITULO II",
+      "section": "20",
+      "title": "Artículo 20. El Juez que discernió la tutela o la curatela será competente para entender en las acciones relativas a la gestión de los tutores o curadores.",
+      "content": "El cambio de domicilio o residencia del tutor o curador, o del menor o incapaz, no altera la competencia."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPITULO II",
+      "section": "23",
+      "title": "Artículo 23. En las acciones promovidas por el trabajador, derivadas del contrato de trabajo o de la ley, será Juez competente, a elección de aquél:",
+      "content": "a) el del lugar de la ejecución del trabajo;\n \n b) el del domicilio del empleador;\n \n c) el del lugar de celebración del contrato; y\n \n d) el del lugar de la residencia del trabajador cuando éste prestare servicio en varios lugares a la vez."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "CAPITULO II",
+      "section": "25",
+      "title": "Artículo 25. Es competente también la justicia de la República en los hechos y actos producidos a bordo de aeronaves paraguayas en vuelo sobre alta mar, o cuando no fuere posible determinar sobre qué territorio volaba la aeronave cuando se ejecutó el acto o se produjo el hecho.",
+      "content": "Si los actos o hechos se hubieran efectuado a bordo de una aeronave paraguaya en vuelo sobre territorio extranjero los Jueces y Tribunales nacionales sólo serán competentes si se hubieran afectado legítimos intereses nacionales.\n \n TITULO III \n DE LOS ORGANISMOS DEL PODER JUDICIAL \n \n CAPITULO I \n DE LA CORTE SUPREMA DE JUSTICIA"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPITULO I",
+      "section": "27",
+      "title": "Artículo 27. La Corte Suprema de Justicia, además de la potestad de juzgar, ejercerá la superintendencia, con poder disciplinario sobre los Tribunales, Juzgados, Auxiliares de la Justicia y las oficinas dependientes del Poder Judicial.",
+      "content": "Ejercerá la facultad de superintendencia a través de los Tribunales de Apelación de las Circunscripciones Judiciales del Interior, sobre los Juzgados y oficinas existentes en dicha jurisdicción."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPITULO I",
+      "section": "28",
+      "title": "Artículo 28. La Corte Suprema de Justicia concederá:",
+      "content": "1.- En única instancia:\n \n a) de las acciones y excepciones para declarar la inconstitucionalidad de las leyes y la inaplicabilidad de las disposiciones contrarias a la Constitución Nacional;\n \n b) del recurso de Habeas Corpus;\n \n c) de la nacionalidad y de su pérdida\n \n d) de los pedidos de exoneración de los Servicio Militar Obligatorio;\n \n e) de las cuestiones de competencia entre los Tribunales y Juzgados inferiores o entre éstos y los Tribunales Militares o los funcionarios del Poder Ejecutivo;\n \n f) del enjuiciamiento y remoción de los Jueces y Magistrados Judiciales de los Miembros del Ministerio Público y de la Defensa Pública, conforme a las disposiciones de éste Código;\n \n g) de la recusación de la inhibición e impugnación de inhibición de los Miembros de la misma Corte Suprema de Justicia, del Tribunal de Cuentas y de los Tribunales de Apelación;\n \n h) de los recursos de reposición y aclaratoria, y de los pedidos de ampliatoria interpuestos contra sus decisiones, e;\n \n i) de las quejas por denegación de recursos o por retardo de justicia impuesta contra el Tribunal de Cuentas y los Tribunales de Apelación.\n \n \n 2.- Entenderá por vía de apelación y nulidad:\n \n a) de las sentencias definitivas dictadas por el Tribunal de Cuentas y de los Tribunales de Apelación que modifiquen o revoquen las de Primera Instancia; conforme a las disposiciones de los Códigos Procesales y a la Leyes respectivas;\n \n b) de las resoluciones originarias de los Tribunales de la Apelación en lo Civil, Comercial y Criminal y de Cuentas, y;\n \n c) de las sentencias de los Tribunales de Apelación que impongan pena de muerte o penitenciaria desde quince a treinta años, las que no causarán ejecutoria sin el pronunciamiento de la Corte Suprema de Justicia. \n Contra estas sentencias se entenderán siempre deducidas a los recursos de apelación y nulidad aunque las partes se consientan."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "CAPITULO I",
+      "section": "29",
+      "title": "Artículo 29. En ejercicio de su potestad de superintendencia le corresponde:",
+      "content": "a) dictar las Acordadas y Reglamentos necesarios para el cumplimiento de las finalidades asignadas por la Constitución Nacional al Poder Judicial y vigilar el fiel cumplimiento de los mismos;\n \n b) prestar o denegar los Acuerdos solicitados por el Poder Ejecutivo para el nombramiento de Magistrados, de conformidad con el Artículo 180, inciso 8°) de la Constitución Nacional;\n \n c) nombrar y promover al personal cuya designación esta a su cargo y removerlo previo sumario administrativo;\n \n d) proponer al Poder Ejecutivo la terna de candidatos para la designación del Síndico General de Quiebras;\n \n e) nombrar y destituir a los Síndicos de Quiebras; \n \n f) nombrar en los juicios de Quiebras y convocación a los funcionarios auxiliares;\n \n g) remitir anualmente al Poder Ejecutivo una Memoria sobre el estado y necesidades del Poder Judicial;\n \n h) determinar el periodo de tiempo que por razones de turno debe corresponder a los Tribunales, Juzgados, Fiscalías y Secretarias;\n \n i) redistribuir los juicios en trámites en caso de creación o supresión de Juzgados y Tribunales en la Capital y Circunscripciones Judiciales en el Interior del país;\n \n j) adoptar las medidas pertinentes para el normal desenvolvimiento de las actividades judiciales durante la feria;\n \n k) confeccionar en el mes de diciembre de cada año, una lista de veinte Abogados inscriptos en la matrícula para intervenir en la defensa de los litigantes amparados en carta de pobreza y que no desean recurrir al Ministerio de Defensa Pública;\n \n l) disponer la inscripción en la matrícula de los profesionales auxiliares de la justicia;\n \n ll) realizar cuando menos cada tres meses con los Magistrados, Agentes Fiscales, representantes de la Defensa Pública y funcionarios del fuero penal, una visita a los establecimientos penales y correccionales, a fin de comprobar su estado y funcionamiento; escuchar directamente a los procesados sus reclamaciones; y hacer conocer a los mismos el estado de sus juicios y ordenar cualquier medida que estime pertinente para subsanar las irregularidades que notare. \n \n En las circunscripciones Judiciales del Interior, esta obligación estará a cargo de los Tribunales, Jueces, Fiscales y demás funcionarios del fuero penal de las mismas.\n m) suministrar informes relativos al Poder Judicial que le solicitaren los Poderes Ejecutivo y Legislativo;\n \n n) establecer el horario de trabajo para los Tribunales, Juzgados y oficinas dependientes del Poder Judicial;\n \n ñ) remitir al Poder Ejecutivo el anteproyecto del Presupuesto del Poder Judicial;\n \n o) proponer al Poder Ejecutivo la creación y supresión de Juzgado y Tribunales y la creación de Circunscripciones Judiciales;\n \n p) requerir a los Juzgados y Tribunales la presentación de informes y estadísticas sobre la labor realizada y los juicios y los procesos en trámite, y establecer la periodicidad con que deben presentarlos;\n \n q) recibir el juramento de los Magistrados, Agentes Fiscales y funcionarios, y;\n \n r) recibir asimismo el juramento de los Abogados, Procuradores y demás auxiliares de la Justicia para su inscripción en la matrícula. \n \n CAPITULO II \n DEL TRIBUNAL DE CUENTAS"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "CAPITULO II",
+      "section": "30",
+      "title": "Artículo 30. El Tribunal de Cuentas se compone de dos salas, integrados por no menos de tres miembros cada una. Compete a la primera entender en los juicios contencioso-administrativos en las condiciones establecidas por la ley de la materia; y a la segunda el control de las cuentas de inversión del Presupuesto General de la Nación, conforme a lo dispuesto en la Constitución.",
+      "content": "CAPITULO III \n DE LOS TRIBUNALES DE APELACIÓN"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "CAPITULO III",
+      "section": "32",
+      "title": "Artículo 32. Los Tribunales de Apelación conocerán, en sus respectivos fueros:",
+      "content": "a) de los recursos concedidos contra las sentencias definitivas y resoluciones recurribles de los Jueces de Primera Instancia, de los Jueces de Paz Letrada y de los Jueces de Instrucción.\n Las decisiones en los recursos contra las resoluciones de los Jueces de Paz Letrada y de los Jueces de Instrucción causarán ejecutoria;\n \n b) de los incidentes que se promuevan durante la substanciación de los juicios, causando su resolución ejecutoria;\n \n c) de los recursos por retardo o denegación de justicia de los Jueces de Primera Instancia, de los Jueces de Paz Letrada y de los Jueces de Instrucción;\n \n d) de las recusaciones e inhibiciones de los mismos Jueces;\n \n e) de las cuestiones de competencia relativas a los Jueces de Primera Instancia, a los Jueces de Paz Letrada y a los Jueces de Instrucción;\n \n f) de los recursos de reposición contra las providencias dictadas por el Presidente y de aclaratoria de las sentencias y autos interlocutorios dictados por el Tribunal; y\n \n g) los Tribunales de Apelación de las Circunscripciones Judiciales del interior del país, tendrán en sus respectivos fueros la superintendencia y potestad disciplinaria sobre los Juzgados y oficinas del Poder Judicial."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "CAPITULO III",
+      "section": "37",
+      "title": "Artículo 37. Todos los Tribunales, para dictar sentencia actuarán con el número total de sus miembros, y sus decisiones deberán fundarse en la opinión coincidente de la mayoría de los mismos, aunque los motivos de dichas opiniones sean distintas.",
+      "content": "CAPITULO IV \n DE LOS JUZGADOS DE PRIMERA INSTANCIA"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPITULO IV",
+      "section": "38",
+      "title": "Artículo 38. Los Juzgados de Primera Instancia en lo Civil y Comercial conocerán:",
+      "content": "a) de todo asunto o juicio cuyas resolución no competa a los Jueces de Paz Letrada, o a los Jueces de Paz del fuero respectivo; y,\n \n b) de los recursos interpuestos contra las resoluciones definitivas de los Jueces de Paz y de los recursos por retardo o denegación de justicia de los mismos, causando ejecutoria su resolución."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "CAPITULO IV",
+      "section": "39",
+      "title": "Artículo 39. Los Juzgados de Primera Instancia en lo Criminal conocerán:",
+      "content": "a) de los juicios penales por delito;\n \n b) de los procesos substanciados y elevados por los Jueces de Instrucción y los Jueces de Paz en lo Criminal:\n \n c) de los recursos interpuestos contra las sentencias definitivas de los Jueces de Paz en lo Criminal dictados en los juicios por faltas. La sentencia pronunciada en estos casos causará ejecutoria; y,\n \n d) de los recursos por retardo o denegación de justicia de los Jueces de Paz de su fuero."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "CAPITULO IV",
+      "section": "40",
+      "title": "Artículo 40. Serán competentes los Juzgados de Primera Instancia en lo laboral para conocer y decidir de :",
+      "content": "a) las cuestiones de carácter judicial y contencioso que suscite la aplicación del Código del Trabajo o a las cláusulas del contrato individual o colectivo de trabajo;\n \n b) los litigios sobre reconocimiento sindical promovidos entre un empleador u organización patronal y los sindicatos de trabajadores o entre éstos exclusivamente, a efecto de celebrar contrato colectivo de trabajo;\n \n c) todo conflicto entre un sindicato y sus afiliados derivado del incumplimiento de los estatutos sociales o del contrato colectivo de condiciones de trabajo;\n \n d) las controversias entre los trabajadores motivadas por el trabajo en equipo; y,\n \n e) en los juicios sobre desalojo de inmueble ocupados por empleados como parte integrante de su retribución o por motivo de la relación laboral .\n Cuando el valor del objeto litigioso no exceda del importe de treinta jornales mínimo legal para actividades diversas no especificadas en la Capital de la República, las resoluciones causarán ejecutoriada."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "CAPITULO IV",
+      "section": "41",
+      "title": "Artículo 41. Serán recurribles las sentencias y resoluciones de los Jueces de Primera Instancia, a excepción de los casos en que por expresa disposición de este Código o de los Procedimientos, sus resoluciones causen ejecutoria.",
+      "content": "CAPITULO V \n DE LA JUSTICIA DE PAZ LETRADA"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "CAPITULO V",
+      "section": "43",
+      "title": "Artículo 43. Los Juzgados de Paz Letrada conocerán, siempre que la cuantía de la demanda no exceda del equivalente a trescientos jornales mínimos legal para actividades diversas no especificadas en la Capital de la República, en los siguientes juicios:",
+      "content": "a) los asuntos civiles y comerciales y las demandas reconvencionales;\n \n b) los juicios sucesorios; y.\n \n c) las demandas por desalojo, rescisión, cumplimiento, cobro de alquileres y demás cuestiones vinculadas al contrato de locación.\n Entenderán en todos los casos de informaciones sumarias de testigos."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "CAPITULO V",
+      "section": "46",
+      "title": "Artículo 46. En las capitales departamentales donde no funcionan Juzgados de Primera Instancia en lo Laboral, la Justicia de Paz Letrada conocerá también en los juicios laborales cuyo monto no exceda del límite de su competencia determinado en el artículo 43 de este Código.",
+      "content": "CAPITULO VI \n DE LOS JUZGADOS DE INSTRUCCION EN LO CRIMINAL"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "CAPITULO VI",
+      "section": "47",
+      "title": "Artículo 47. Los Juzgados de Instrucción en lo Criminal entenderán de los procesos hasta la terminación del estado sumario; salvo los sobreseimientos y artículos de previo y especial pronunciamiento que pongan término a la causa, en los que entenderán los Jueces de Primera Instancia en lo Penal.",
+      "content": "CAPITULO VII \n DE LOS JUECES ARBITROS O ARBITRADORES"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "CAPITULO VII",
+      "section": "49",
+      "title": "Artículo 49. No pueden comprometerse en juicio de árbitros o arbitradores, bajo pena de nulidad:",
+      "content": "a) las cuestiones que versan sobre el estado civil y capacidad de las personas;\n \n b) las referentes a bienes del Estado o delas Municipalidades;\n \n c) las que por cualquier causa requieran la intervención fiscal;\n \n d) las que tengan por objeto la validez o nulidad de las disposiciones de última voluntad; y,\n \n e) en general, todas aquellas respecto de las cuales exista una prohibición especial, o en las que estén interesadas la moral y las buenas costumbres."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "CAPITULO VII",
+      "section": "53",
+      "title": "Artículo 53. Conocerá de los recursos, en única instancia, cuando tengan lugar, el Juez o Tribunal que sea superior inmediato del que hubiere conocido del asunto, si no hubiera sido sometidos a arbitraje.",
+      "content": "Art.- 54.- Los litigantes no pueden constituir en árbitros a los Jueces y Tribunales ante quienes se sustancia el pleito."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "CAPITULO VII",
+      "section": "55",
+      "title": "Artículo 55. Si se hubiese comprometido un negocio pendiente en última instancia, el fallo de los árbitros causará ejecutoria.",
+      "content": "CAPITULO VIII \n DE LA JUSTICIA DE PAZ"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "CAPITULO VIII",
+      "section": "56",
+      "title": "Artículo 56. La Justicia de Paz será ejercida por Jueces de Paz en lo Civil, Comercial y Laboral, y por Jueces de Paz en lo Criminal.",
+      "content": "SECCION I \n DE LOS JUZGADOS DE PAZ EN LO CIVIL, COMERCIAL Y LABORAL"
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "CAPITULO VIII",
+      "section": "57",
+      "title": "Artículo 57. Los Juzgados de Paz en lo Civil, Comercial y Laboral conocerán:",
+      "content": "a) de los asuntos civiles, comerciales o laborales en los cuales el valor del litigio no exceda del equivalente de sesenta jornales mínimo legal para actividades diversas no especificadas en la Capital de la República, con exclusión de los que se refieren al estado civil de las personas, al derecho de familia, convocación y quiebras, y acciones reales y posesorias sobre inmuebles, y sucesiones;\n \n b) de las demandas por desalojo, por rescisión de contratos de locación que sólo se funden en la falta de pago de alquileres y de las reconvencionales, siempre que en todos estos casos no se exceda de la cuantía atribuida a su competencia; y,\n \n c) de las reconvenciones que se encuadren dentro de los límites de su competencia."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "CAPITULO VIII",
+      "section": "58",
+      "title": "Artículo 58. Competerá además a los Juzgados de Paz en lo Civil, Comercial y Laboral:",
+      "content": "a) practicar las diligencias que les fueran encomendadas por los Juzgados y Tribunales;\n \n b) realizar el inventario de los bienes de las personas fallecidas sin parientes conocidos o con herederos ausentes o menores de edad que no tengan representantes legales, y disponer la guarda de los mismos;\n \n c) certificar la existencia de personas y sus domicilios;\n \n d) comunicar a los Juzgados Tutelares los casos de abandono material o moral, malos tratos y orfandad de menores;\n \n e) autenticar firmas; y,\n \n f) ejercer funciones notariales dentro de su jurisdicción, siempre que no existan en ellas Escribanos Públicos con Registro."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "CAPITULO VIII",
+      "section": "59",
+      "title": "Artículo 59. Los Jueces de Paz en lo Civil, Comercial y Laboral conocerán de las faltas e instruirán sumarios en los casos de comisión de delitos cuando en su jurisdicción no hubiere Juez de Paz en lo Criminal o Juez de Instrucción.",
+      "content": "SECCION II \n DE LOS JUZGADOS DE PAZ EN LO CRIMINAL"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "CAPITULO VIII",
+      "section": "60",
+      "title": "Artículo 60. Los Juzgados de Paz en lo Criminal conocerán de las faltas previstas por la ley, siendo sus resoluciones apelables. Instruirán sumario en los casos de delito siempre que no haya Juez de Instrucción o de Primera Instancia en lo Criminal en el distrito asiento del Juzgado.",
+      "content": "Asegurarán las personas de los procesados y podrán disponer el allanamiento de domicilio, librando orden por escrito y practicarán todas las diligencias necesarias para el esclarecimiento de los hechos punibles.\n \n TITULO IV \n DEL MINISTERIO PUBLICO"
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "TITULO IV",
+      "section": "61",
+      "title": "Artículo 61. El Ministerio Público, constituido de conformidad con el Capítulo X de la Constitución Nacional, será ejercido por:",
+      "content": "a) el Fiscal General del Estado;\n \n b) el agente Fiscal de Cuentas;\n \n c) los Agentes Fiscales en lo Civil y Comercial;\n \n d) los Agentes Fiscales del Trabajo;\n \n e) los Agentes Fiscales en lo Criminal; y\n \n f) los Procuradores Fiscales.\n \n DEL FISCAL GENERAL DEL ESTADO"
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "TITULO IV",
+      "section": "63",
+      "title": "Artículo 63. Al Fiscal General de Estado le corresponde:",
+      "content": "a) ejercer, desde la primera instancia hasta su terminación, la representación del Estado de acuerdo con las instrucciones del Poder Ejecutivo, o de oficio en las causas en que aquél fuese demandante o demandado a menos que esa representación estuviese confiada a otros funcionarios en los asuntos de interés fiscal;\n \n b) Intervenir en las causas que fuesen de la competencia originaria de la Corte Suprema de Justicia, así como en las contiendas de competencia, en los casos de Habeas Corpus, juicios de inconstitucionalidad, y de inaplicabilidad de las disposiciones contrarias a la Constitución Nacional, pedidos de extradición formulados por tribunales extranjeros, solicitud de naturalización o de reconocimiento de nacionalidad, procesos sobre pérdida de nacionalidad y pedidos de exención del Servicio Militar Obligatorio;\n \n c) velar por el respeto de los derechos y garantías constitucionales;\n \n d) ejercer la inspección administrativa de los servicios que atañen al Ministerio Fiscal pudiendo dictar resoluciones tendientes al mejoramiento de dichos servicios e informarse de la marcha de los procesos en que intervengan los Agentes y Procuradores Fiscales, impartiéndoles las instrucciones para el estricto cumplimiento de sus deberes;\n \n e) formular denuncias o acusaciones ante la Corte Suprema de Justicia contra los Agentes y Procuradores Fiscales que incurren en las causales de enjuiciamiento;\n \n f) ejercer la acción penal en los casos previstos en las leyes;\n \n g) instaurar las acciones de reivindicación correspondientes de los bienes del Estado que hayan salido indebidamente de su patrimonio; y\n \n h) presentar anualmente al Poder Ejecutivo un informe de su actuación.\n \n DEL AGENTE FISCAL DE CUENTAS"
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "TITULO IV",
+      "section": "64",
+      "title": "Artículo 64. Corresponde al Agente Fiscal de Cuentas intervenir ante la Segunda Sala del Tribunal de Cuentas a los efectos de:",
+      "content": "a) dictaminar sobre la aprobación o rechazo de las cuentas de inversión del Presupuesto General de la Nación y de los Municipios;\n \n b) intervenir en todos los expedientes sobre rendiciones de cuentas que hicieren las dependencias estatales, municipales, entes autónomos o autárquicos, y personas o empresas que administren, recauden o inviertan valores o fondos fiscales, municipales o de beneficencia pública;\n \n c) dictaminar sobre las fianzas que deban prestar los funcionarios públicos, personas o empresas mencionadas en el inciso anterior;\n \n d) recibir denuncias sobre hechos que pudieran ser de carácter delictuoso en el manejo de los fondos públicos, y entablar las acciones que correspondan ante la jurisdicción competente sobre los hechos denunciados o los que llegaren a su conocimiento en el examen y control administrativo de las cuentas; y \n \n e) elevar anualmente al Tribunal de Cuentas, Segunda Sala, una Memoria de la Fiscalía.\n \n DE LOS AGENTES FISCALES EN LO CIVIL Y COMERCIAL"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "TITULO IV",
+      "section": "65",
+      "title": "Artículo 65. Corresponde a los Agentes Fiscales en lo Civil y Comercial intervenir:",
+      "content": "a) en todo asunto en que haya interés fiscal comprometido, a menos que la representación de ese interés estuviese confiada a otro funcionario;\n \n b) en los juicios sobre nulidad de testamentos y de matrimonios, filiación, y en todos los demás relativos al estado civil de las personas;\n \n c) en los juicios sucesorios, quiebras y convocaciones de acreedores, debiendo ejercer la curatela de las herencias vacantes; y \n \n d) en los juicios sobre venias supletorias y en las declaraciones de pobreza."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "TITULO IV",
+      "section": "66",
+      "title": "Artículo 66. Cuando actuaren como curadores de herencias vacantes, deben necesariamente interponer los recursos de reposición, apelación y nulidad en su caso y fundarlos contra toda resolución recaída en incidentes que fueren desfavorables a los derechos de su representación, así como contra la sentencia definitiva recaída en el pleito y que reconozca las pretenciones de la contraparte.",
+      "content": "El incumplimiento de esta obligación les hará incurrir en responsabilidades.\n \n DE LOS AGENTES FISCALES DEL TRABAJO"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "TITULO IV",
+      "section": "67",
+      "title": "Artículo 67. Corresponde a los Agentes Fiscales del Trabajo:",
+      "content": "a) Velar por el cumplimiento de las leyes, reglamentos y demás disposiciones normativas del derecho laboral;\n \n b) intervenir en todas la causas del trabajo y contienda de jurisdicción y competencia;\n \n c) impulsar el procedimiento laboral, realizando las gestiones conforme a los términos de la ley, para que las resoluciones, sentencias y acuerdos, sean dictados dentro de los plazos establecidos; \n \n d) asistir a los acuerdos plenarios que celebren los Tribunales de Apelación del Trabajo con voz pero sin voto;\n \n e) representar y defeoder los intereses fiscales; y\n \n f) recibir denuncia sobre incumplimiento de las leyes del trabajo o de los fallos judiciales, y realizar investigaciones a su respecto, personalmente o por medio de funcionarios autorizados.\n Los Agentes Fiscales del Trabajo en ningún caso podrán asumir la representación y defensa en juicio de los trabajadores y aprendices, sean o no estos menores de edad o incapaces.\n \n DE LOS AGENTES FISCALES EN LO CRIMINAL"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "TITULO IV",
+      "section": "68",
+      "title": "Artículo 68. Corresponde a los Agentes Fiscales en lo Criminal:",
+      "content": "a) promover y proseguir hasta su terminación la acción penal pública;\n \n b) promover la acción penal contra los responsables de la publicación y circulación de escritos, grabados o estampas que fuesen contrarios al orden público, a la moral y a las buenas costumbres;\n \n c) promover las acciones para hacer efectiva la responsabilidad penal y civil emergente de delitos cometidos por funcionarios públicos en el ejercicio de sus funciones, e intervenir en las causas hasta su terminación;\n \n d) vigilar en los procesos el fiel cumplimento de las leyes, deduciendo, en su caso, los recursos que correspondan;\n \n e) promover la acción penal por las publicaciones injuriosas para los Poderes del Estado y sus miembros, así como para los Jefes de Misiones Diplomáticas extranjeras requerimiento de estos últimos; y \n \n f) presentar anualmente al Fiscal General del Estado un informe de su actuación.\n \n DE LOS PROCURADORES FISCALES"
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "TITULO IV",
+      "section": "69",
+      "title": "Artículo 69. Corresponde al Procurador Fiscal desempeñar las funciones de Auxiliar del Fiscal General del Estado, a quien deberá substituir en los juicios y diligencias en que dicho funcionario lo designe expresamente representante suyo.",
+      "content": "TITULO V \n DE LOS AUXILIARES DE LA JUSTICIA \n \n CAPITULO I \n DEL MINISTERIO DE LA DEFENSA PUBLICA"
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "CAPITULO I",
+      "section": "70",
+      "title": "Artículo 70. El Ministerio de la Defensa Pública será desempeñado ante los Juzgados y Tribunales por los Defensores de Pobres y Ausentes, por los Abogados del Trabajo, por los Defensores de Pobres en Fuero Penal y el Ministerio Pupilar.",
+      "content": "DEL DEFENSOR DE POBRES Y AUSENTES Y EL MINISTERIO PUPILAR"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "CAPITULO I",
+      "section": "71",
+      "title": "Artículo 71. El pedido de declaración de pobreza se formulará por el interesado ante el Juez de Paz de su vecindad y se substanciará por los trámites establecidos en el Código de Procedimientos Penales y Comerciales.",
+      "content": "El auto dictado será apelable en relación y al sólo efecto devolutivo."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "CAPITULO I",
+      "section": "73",
+      "title": "Artículo 73. A todo el que solicite en forma la declaración de pobreza para contestar una demanda, se le expedirá certificado de dicha presentación, el cual bastará para que se le defienda como pobre, sin perjuicio de lo que se resuelva posteriormente en el juicio de declaración de pobreza.",
+      "content": "En caso de denegarse dicha declaratoria, el que haya solicitado abonará los gastos causados y cesará inmediatamente la intervención del Defensor, siendo válidas, no obstante, las actuaciones practicadas."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "CAPITULO I",
+      "section": "76",
+      "title": "Artículo 76. Corresponde a los Procuradores de Pobres y Ausentes:",
+      "content": "a) representar a los amparados por fuero de pobreza en los juicios que inicien o sena promovidos contra ellos, debiendo llevar sus escritos la firma del Defensor, salvo los de mera substanciación;\n \n b) representar a los ausentes en los juicios civiles y comerciales; y\n \n c) representar a los ausentes con presunción de fallecimiento.\n \n Los Procuradores de Pobres y Ausentes actuarán siempre bajo la responsabilidad inmediata del Defensor de Pobres y Ausentes."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "CAPITULO I",
+      "section": "77",
+      "title": "Artículo 77. El Defensor y los Procuradores de Pobres y Ausentes deberán necesariamente interponer los recursos de reposición, apelación y nulidad, en su caso, contra toda resolución desfavorable a los derechos de su representante.",
+      "content": "El incumplimiento no justificado de esta obligación les hará pasible de sanción disciplinaria por la Corte Suprema de Justicia."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "CAPITULO I",
+      "section": "78",
+      "title": "Artículo 78. Si se suscitaren controversias entre dos personas amparadas por el fuero de pobreza o ausencia, el Defensor de Pobres y Ausentes patrocinará a una de las partes y el Juez de la causa, de oficio, designará para hacerse cargo de la defensa del otro al Defensor de Pobres en el Fuero Penal que no estuviere de turno.",
+      "content": "DE LA ABOGACIA DEL TRABAJO"
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "CAPITULO I",
+      "section": "79",
+      "title": "Artículo 79. La Abogacía del Trabajo estará desempeñada por un abogado y los procuradores cuyo número establezca la Ley de Presupuesto General de la Nación.",
+      "content": "Son atribuciones y deberes del Abogado y Procuradores del Trabajo:\n a) prestar asistencia gratuita de patrocinio y representación a los trabajadores amparados en el fuero de pobreza;\n \n b) representar a los trabajadores declarados ausentes en los juicios del trabajo;\n \n c) interponer obligatoriamente los recursos contra las resoluciones desfavorables a sus defendidos; y,\n \n d) ejercer, en general las funciones que este Código confiere al Ministerio de la Defensa Pública para actuar en juicio.\n \n DE LOS DEFENSORES EN EL FUERO PENAL"
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "CAPITULO I",
+      "section": "81",
+      "title": "Artículo 81. Los Defensores de Pobres en el Fuero penal visitarán los establecimientos penales por los menos una vez a la semana para:",
+      "content": "a) indagar si los actuales detenidos tienen o no defensores y en caso negativo ponerse a disposición de ellos a fin de prestarles sus servicios;\n \n b) ofrecer, asimismo, sus servicios a los nuevos detenidos cuando éstos carezca de los medios necesarios para solventar su defensa o ignoren que existen Defensores de Pobre en el fuero pena; y,\n \n c) requerir de sus defendidos datos e indicaciones referentes a sus causas, informarles del estado de éstos y recibir las quejas sobre el trato que reciben en el lugar de su reclusión."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "CAPITULO I",
+      "section": "82",
+      "title": "Artículo 82. Los Defensores de Pobres deberán necesariamente interponer los recursos correspondientes contra toda resolución desfavorable a sus defendidos.",
+      "content": "DEL MINISTERIO PUPILAR"
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "CAPITULO I",
+      "section": "85",
+      "title": "Artículo 85. Corresponderá al Defensor General de Menores e Incapaces, para el cumplimiento de los fines enunciados en el artículo 83,las siguientes atribuciones:",
+      "content": "a) intervenir como parte legítima y esencial, salvo lo dispuesto en el artículo siguiente, en todo asunto judicial, de jurisdicción voluntaria o contenciosa, en los que estuviesen interesados la persona o bienes de los incapaces, sin perjuicio del régimen de la tutela o curatela, establecido por la ley civil.\n En los juicios criminales, el cargo de defensor de menor o incapaz equivaldrá al de tutor o curador y su nombramiento se notificará al Defensor General de Menores e Incapaces;\n \n b) ejercer la defensa de los incapaces entablando acciones e interponiendo recursos, directa o conjuntamente con los representantes de los mismos;\n \n c) pedir el nombramiento o remoción de tutores y curadores de los menores e incapaces y tomar medidas para la seguridad de sus bienes;\n \n d) solicitar la intervención judicial para la reclusión en lugares adecuados de los menores de mala conducta, cuyos padres, tutores o encargados lo soliciten, sin que esta reclusión pueda pasar de un mes;\n \n e) formular ante las autoridades judiciales denuncias por malos tratos a menores e incapaces y promover las acciones pertinentes con relación a la gravedad de los abusos;\n \n f) cuidar de los menores huérfanos o abandonados por los padres, tutores o encargados, y tratar de colocarlos convenientemente, de modo que sean educados y se les dé algún oficio o profesión que les proporcione medio de vivir; \n \n g) inspeccionar los establecimientos que tuvieren a su cargo menores u otros incapaces, e imponerse del tratamiento y educación que se les dé, denunciando a las autoridades correspondientes los abusos o defectos que advirtieren; o tomando por sí las medidas que fueren de sus atribuciones;\n \n h) hacer arreglos provisorios extrajudiciales con los padres sobre prestación de alimentos;\n \n i) proceder de propia autoridad y extrajudicialmente en defensa de las personas e intereses puestos bajo su guarda;\n \n j) hacer comparecer a su despacho a los padres, tutores, curadores o encargados de los incapaces y a cualquier persona cuando a su juicio sea necesario para el desempeño de su ministerio, sea para indagar sobre causas de vagancia, o a fin de pedir explicaciones o contestar cargos que, por malos tratamientos a menores e incapaces o por cualquier otra causa sea formulada;\n \n k) dirigirse, en el ejercicio del cargo, a cualquier persona, autoridad o funcionario público, requiriendo informes o solicitando medidas en interés de los menores e incapaces; y\n \n l) velar por el buen desempeño del cargo de guardadores de incapaces, de los tutores o curadores."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "CAPITULO I",
+      "section": "86",
+      "title": "Artículo 86. Corresponde al Procurador de Menores e Incapaces intervenir en los juicios en que estuvieren comprometidos la persona o bienes de los menores e incapaces en los casos en que fuere expresamente designado por el Defensor General de Menores e Incapaces, debiendo ceñir su actuación a las instrucciones del mismo.",
+      "content": "CAPITULO II \n DE LOS ABOGADOS Y PROCURADORES"
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "CAPITULO II",
+      "section": "89",
+      "title": "Artículo 89. Para ejercer la abogacía ante Jueces y Tribunales se requiere:",
+      "content": "a) título de abogado expedido por una Universidad Nacional, o extranjera debidamente revalidado; y\n \n b) mayoría de edad, honorabilidad y buena conducta debidamente justificadas."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "CAPITULO II",
+      "section": "94",
+      "title": "Artículo 94. La Corte Suprema de Justicia casará o anulará la matrícula del abogado o procurador por mala conducta, faltas graves en el ejercicio de la profesión, incapacidad física o mental inhabilitante debidamente comprobada, o por condena judicial que importe inhabilitación para el ejercicio de la profesión o por la existencia de alguna de las incompatibilidades previstas en este Código.",
+      "content": "El procedimiento para la casación de la matrícula será el establecido por la ley para el enjuiciamiento de magistrados judiciales, sin perjuicio de la suspensión del abogado o procurador en el ejercicio de su profesión durante la substanciación, cuando mediaren presunciones graves."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "CAPITULO II",
+      "section": "96",
+      "title": "Artículo 96. Los abogados y procuradores responderán a sus mandantes de los perjuicios que les causaren por falta, descuido, negligencia o infidelidad en el desempeño de su mandato.",
+      "content": "INCOMPATIBILIDADES"
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "CAPITULO II",
+      "section": "97",
+      "title": "Artículo 97. El ejercicio de la profesión de abogado o procurador es incompatible con la calidad de funcionario público dependiente del Poder Ejecutivo o Judicial, o miembro de las Fuerzas Armadas y Policiales en servicio activo.",
+      "content": "Esta prohibición no rige:\n \n a) cuando se trate de asuntos propios o de sus padres, esposas, hijos menores de edad, o personas bajo su tutela o curatela;\n \n b) cuando se ejerciere la docencia; y,\n \n c) para los asesores jurídicos del Poder Ejecutivo y de entidades autónomas o autárquicas, y para los abogados incorporados al Servicio de la Justicia Militar.\n No podrán matricularse como abogado quienes ejercen la profesión de Notario y Escribano Público."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "CAPITULO II",
+      "section": "98",
+      "title": "Artículo 98. Las incompatibilidades previstas en este Código que afecten a los abogados y procuradores, podrán ser denunciadas al magistrado de la causa por las partes, quien después de oír al afectado elevará la denuncia a la Corte Suprema de Justicia a los efectos que hubiere lugar.",
+      "content": "CAPITULO III \n DE LOS ESCRIBANOS DE REGISTRO \n \n SECCION I \n DE LOS REGISTROS"
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "CAPITULO III",
+      "section": "99",
+      "title": "Artículo 99. La creación de los Registros Notariales se hará por ley atendiendo a las necesidades del país.",
+      "content": "Dichos Registros serán numerados por la Corte Suprema de Justicia.\n Los Notarios y Escribanos obtendrán el usufructo de Registros, del Poder Ejecutivo con acuerdo de la Corte Suprema de Justicia."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "CAPITULO III",
+      "section": "100",
+      "title": "Artículo 100. Habrá registros de contratos civiles y comerciales.",
+      "content": "Los registros marítimos y aeronáuticos quedarán comprendidos en los comerciales.\n \n SECCION II \n DE LOS NOTARIOS Y ESCRIBANOS PUBLICOS"
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "CAPITULO III",
+      "section": "102",
+      "title": "Artículo 102. Las condiciones requeridas para desempeñar las funciones de Escribano de Registro son:",
+      "content": "a) ser paraguayo natural o naturalizado;\n \n b) ser mayor de edad;\n \n c) tener título de Notario y Escribano Público expedido por una Universidad Nacional, o por una extranjera con equiparación o reválida por la Universidad Nacional; y,\n \n d) ser de conducta, antecedentes y honradez intachables."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "CAPITULO III",
+      "section": "106",
+      "title": "Artículo 106. Los Adscriptos, por orden de antigüedad, reemplazarán al Titular en caso de impedimento o ausencia transitoria de éste.",
+      "content": "Si no tuviere adscripto el Escribano Titular propondrá al Poder Ejecutivo, por intermedio de la Corte Suprema de Justicia, un suplente que actuará bajo la responsabilidad del Titular. El propuesto será también un Escribano y donde no lo haya será un Juez de paz de la localidad."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "CAPITULO III",
+      "section": "110",
+      "title": "Artículo 110. En caso de muerte o destitución, del Titular, será reemplazado por lo adscripto más antiguo, o por el único que exista.",
+      "content": "El nombrado recibirá la oficina bajo formal inventario, con intervención del funcionario que designe la Corte Suprema de Justicia.\n \n SECCION III \n DE LOS DEBERES Y ATRIBUCIONES DEL NOTARIO Y ESCRIBANO PÚBLICO"
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "CAPITULO III",
+      "section": "111",
+      "title": "Artículo 111. Son deberes y atribuciones del Notario Público:",
+      "content": "a) actuar en el ejercicio de la profesión únicamente por mandato de autoridad pública o a pedido de parte interesada, o su representante.\n \n b) Estudiar los asuntos que se le encomiendan en relación a su naturaleza, fines, capacidad jurídica e identidad de los comparecientes y representaciones invocadas, a los efectos de su formalización en actos jurídicos correspondientes, conforme a la ley;\n \n c) guardar el secreto profesional y exigir la misma conducta a sus colaboradores;\n \n d) dar fe de los actos jurídicos autorizados por el mismo, de los hechos ocurridos en su presencia o constatados por él, dentro de sus facultades; \n \n e) organizar los cuadernos de las escrituras matrices, llevarlos en orden numérico y progresivo, y formar con ellos el registro normal; \n \n f) recibir personalmente las manifestaciones de voluntad de las partes que crean, modifican o extinguen relaciones jurídicas o comprobar hechos y actos no contrarios a las leyes, dando autenticidad a la documentación que resultare. Los Notarios Públicos no podrán excusarse de esta obligación sin motivo legal, bajo pena de responder por los daños causados;\n \n g) ordenar anualmente el protocolo, en orden numérico y progresivo, que contendrá el registro de todos los documentos redactados en los folios originariamente movibles y habilitados;\n \n El protocolo se formará:\n 1. con las escrituras matrices, entendidas por tales las escrituras públicas y las actas protocolares;\n 2. las constancias y diligencias complementarias o de referencia que se consignan a continuación o al margen de las escrituras matrices;\n 3. con los demás documentos que se incorporen por disposición de la ley o a pedido de las partes interesadas; y, \n 4. el índice final.\n \n h) proceder el 31 de diciembre de cada año al cierre de los protocolos a su cargo, inutilizando bajo su firma los folios en blanco, debiendo comunicar de inmediato a la Corte Suprema de Justicia la fecha, el número y el contenido de la última actuación;\n \n i) adoptar un sello en el que se consigue su nombre, título y la especialidad del registro del cual es Titular. Dicho sello no podrá ser modificado sin la autorización de la Corte Suprema de Justicia y un facsímil del mismo quedará depositado en la Secretaría Administrativa de la Corte;\n \n j) recabar por escrito del Registro Público pertinente, certificados en que consten el dominio sobre inmuebles o muebles registrables y sus condiciones actuales de plenitud o restricciones, siempre que las escrituras a otorgarse se refieran a la transmisión o modificación de derechos reales. Dicho certificado quedará agregado a la escritura pública correspondiente una vez formalizada. La omisión de obtener el certificado por el Notario Público, será penada con la destitución del cargo y la responsabilidad civil por el daño causado;\n \n k) expedir, por mandato judicial o a petición de parte, testimonios fehacientes de todas las formalizaciones documentales que hubiere autorizado y consten en el registro a su cargo;\n \n l) proceder a la transcripción y protocolización de documentos en los casos y formas establecidas por las leyes;\n \n m) practicar inventarios de bienes u otras diligencias judiciales o extrajudiciales, siempre que no fueren de la incumbencia exclusiva de otros profesionales o funcionarios públicos, judiciales o administrativos;\n \n n) prestar los servicios profesionales que le son propios, todos los días, sin exceptuar los feriados, cuando le fuesen requeridos. Sólo podrá excusarse de hacerlo, cuando la manifestación de voluntad del compareciente o el hecho de que se trata por su objeto o fin, fuesen contrarios a la ley, a la moral o las buenas costumbres;\n \n ñ) realizar ante los organismos judiciales y administrativos del Estado o Municipios, las gestiones y trámites necesarios para el cumplimiento de las funciones de este Código lo confiere, sin otro requisito que el de acreditar en debida forma la investidura del cargo;\n \n o) elevar trimestralmente a la Corte Suprema de Justicia una relación de las escrituras otorgadas en el trimestre, con expresión de su fecha, nombre de los otorgantes y de los testigos, naturaleza del acto o negocio jurídico; y,\n \n p) residir en la localidad donde funcione la oficina notaria que le corresponde, no pudiendo ausentarse por más de diez días sin permiso de la Corte Suprema de Justicia."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "CAPITULO III",
+      "section": "114",
+      "title": "Artículo 114. Estas disposiciones son aplicables a los Jueces de Paz del interior, autorizados por la ley a extender escrituras públicas.",
+      "content": "SECCION IV \n INCOMPATIBILIDADES Y PROHIBICIONES"
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "CAPITULO III",
+      "section": "115",
+      "title": "Artículo 115. La función notarial es incompatible:",
+      "content": "a) con el ejercicio de una función o empleo de carácter público o privado; y,\n \n b) con el ejercicio del comercio por cuenta propia o ajena, o de cualquier otra profesión."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "CAPITULO III",
+      "section": "117",
+      "title": "Artículo 117. Queda prohibido a los notarios públicos:",
+      "content": "a) actuar en la formalización de actos o negocios jurídicos en que intervenga en cualquier carácter, su cónyuge, parientes consanguíneos hasta el cuarto grado o afines hasta el segundo grado; y,\n \n b) tener personalmente interés en acto que autoricen, así como su cónyuge o parientes mencionados en el inciso anterior.\n \n DE LA ESCRIBANIA Y SU REGISTRO"
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "CAPITULO III",
+      "section": "118",
+      "title": "Artículo 118. Las escrituras y demás actos públicos sólo podrán ser autorizados por los Notarios y Escribanos de Registro.",
+      "content": "En los Distritos donde no haya Escribanos Públicos, serán autorizados por los Jueces de Paz. \n \n En los Distritos donde no haya Escribanos Públicos, serán autorizados por los Jueces de Paz."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "CAPITULO III",
+      "section": "124",
+      "title": "Artículo 124. Siempre que se pidiesen otras copias o fotocopias por haberse perdido la primera, el Escribano deberá darlas; pero si en la escritura, alguna de las partes se hubiese obligado a dar o a hacer alguna cosa, la segunda copia no podrá darse sin autorización del Juez, que será precedida de la citación de las partes interesadas en la escritura, las cuales pueden oponerse a su otorgamiento.",
+      "content": "Si no compareciesen o se hallasen ausentes, el Juez podrá nombrar a un Secretario del Juzgado que verifique la exactitud de la copia."
+    },
+    {
+      "provision_ref": "art134",
+      "chapter": "CAPITULO III",
+      "section": "134",
+      "title": "Artículo 134. La escritura pública debe expresar, sin perjuicio de los dispuesto en el Código Civil, la naturaleza del acto, su objeto, los nombres y apellidos de las personas que la otorgan, si son mayores de edad, su estado civil, domicilio y vecindad, el lugar, día, mes y año en que es firmada, pudiendo serlo cualquier día, aunque fuese feriado. El Escribano debe dar fe de conocer a los otorgantes, o de haber actuado de conformidad con el artículo 140 de este Código y, concluida la escritura, debe leerla a las partes.",
+      "content": "Queda prohibido borrar o raspar el texto de las escrituras. Es nulo todo lo escrito sobre raspaduras o sobre borrados. Se subrayaran las partes de una escritura que se quiera dejar sin efecto, antes de la firma de los otorgantes. Del mismo modo, todo cuanto se desee agregar antes de la firma de los otorgantes se escribirá entre líneas. Al final de la escritura, y antes de la firma de los otorgantes, el Notario transcribirá integrantes de las partes subrayadas, dejando constancia de que quedan sin efecto. Igualmente transcribirá íntegramente los párrafos escritos entre líneas, dejando constancia de que son válidos y forman parte de la escritura.\n Los renglones y sus partes sin utilizar serían anulados mediante líneas."
+    },
+    {
+      "provision_ref": "art135",
+      "chapter": "CAPITULO III",
+      "section": "135",
+      "title": "Artículo 135. Las escrituras públicas, que formalizaren los Notarios en sus protocolos, no requerirán testigos instrumentales del acto, sino en los siguientes casos:",
+      "content": "a) en los testamentos por acto público;\n \n b) cuando los otorgantes no sepan o no puedan firmar;\n \n c) cuando el escribano creyere conveniente exigir testigos, caso en el cual lo hará constar en el respectivo instrumento;\n \n d) cuando las partes lo pidieren, circunstancia que también se hará constar; y,\n \n e) cuando cualquiera de los otorgantes fuere ciego."
+    },
+    {
+      "provision_ref": "art150",
+      "chapter": "CAPITULO III",
+      "section": "150",
+      "title": "Artículo 150. En caso de muerte o incapacidad del Titular, sus adscriptos, si los tuviere y a falta de ellos, los familiares del primero o el empleado principal de la Escribanía, deberán comunicar el hecho dentro de las 48 horas de producido, a la Corte Suprema de Justicia. La omisión del cumplimiento de esta obligación por parte del Adscripto, será considerada falta grave.",
+      "content": "SECCION VI \n DE OTROS DOCUMENTOS NOTARIALES"
+    },
+    {
+      "provision_ref": "art154",
+      "chapter": "CAPITULO III",
+      "section": "154",
+      "title": "Artículo 154. Todo documento que el Escribano autorice deberá llevar su firma y sello.",
+      "content": "SECCION VII \n DE LAS SANCIONES"
+    },
+    {
+      "provision_ref": "art155",
+      "chapter": "CAPITULO III",
+      "section": "155",
+      "title": "Artículo 155. Es Escribano Público será destituido del cargo, sin perjuicio de la responsabilidad penal o civil en los siguientes casos:",
+      "content": "a) por haber sido condenado a más de dos años de penitenciaría por delitos cometidos dentro o fuera del país, salvo que se tratare de accidentes de tránsito;\n \n b) ser fallido no rehabilitado;\n \n c) estar privado de su ciudadanía; y,\n \n d) en las demás situaciones previstas en la ley."
+    },
+    {
+      "provision_ref": "art156",
+      "chapter": "CAPITULO III",
+      "section": "156",
+      "title": "Artículo 156. Será suspendido en el ejercicio de sus funciones:",
+      "content": "a) Cuando se hallare procesado por delitos y se dictare auto de prisión, mientras dure tal medida, excepto que se trate de delitos culposos;\n \n b) cuando fuere condenado a pena de penitenciaría menor de dos años, mientras dure la condena;\n \n c) cuando se ausentare del asiento de su Registro sin autorización; y,\n \n d) por irregularidades constatadas en el modo de llevar el Registro a su cargo."
+    },
+    {
+      "provision_ref": "art160",
+      "chapter": "CAPITULO III",
+      "section": "160",
+      "title": "Artículo 160. El procedimiento para la suspensión y destitución de los Escribanos será establecido en este Código para el enjuiciamiento y remoción de los magistrados.",
+      "content": "CAPITULO IV \n DE LOS REMATADORES"
+    },
+    {
+      "provision_ref": "art165",
+      "chapter": "CAPITULO IV",
+      "section": "165",
+      "title": "Artículo 165. En los casos de anulación de un remate público por causa imputable al rematador, éste devolverá lo recibido en concepto de Comisión en el plazo de tres días de notificada la sentencia respectiva, bajo apercibimiento de cancelársele su inscripción en la matrícula.",
+      "content": "La resolución por la cual se anule un remate deberá establecer si concurre al responsabilidad del rematador."
+    },
+    {
+      "provision_ref": "art168",
+      "chapter": "CAPITULO IV",
+      "section": "168",
+      "title": "Artículo 168. Los rematadores, además de dar cumplimiento a las disposiciones del Código de Comercio y de la Ley Procesal, están obligados a publicar con claridad el nombre del ejecutante y del propietario, número de finca, cuenta corriente catastral o padrón en su caso, la localidad y la dirección y nombre actual de las calles de los inmuebles urbanos a ser subastados; y en los rurales, el pueblo, localidad, paraje o compañía donde estuvieren los bienes.",
+      "content": "El incumplimiento de esta disposición hará pasible de la cancelación de la matrícula a los rematadores, de la pérdida de la comisión que correspondiere y la nulidad del remate."
+    },
+    {
+      "provision_ref": "art169",
+      "chapter": "CAPITULO IV",
+      "section": "169",
+      "title": "Artículo 169. Todo remate judicial deberá efectuarse, bajo pena de nulidad, en horas de la tarde, en la Secretaría del Juzgado en que radiquen los autos, o en lugar establecido para el efecto en los Tribunales. Al mismo asistirá el Secretario, quien certificará el informe del rematador.",
+      "content": "CAPITULO V \n DE LOS OFICIALES DE JUSTICIA"
+    },
+    {
+      "provision_ref": "art170",
+      "chapter": "CAPITULO V",
+      "section": "170",
+      "title": "Artículo 170. Las personas que se inscriban en la matrícula de Oficiales de Justicia habilitada en la Corte Suprema de Justicia, son las que pueden realizar la función que a estos corresponda por las leyes procesales y por este Código.",
+      "content": "Los requisitos de la inscripción serán establecidas por la Corte Suprema de Justicia."
+    },
+    {
+      "provision_ref": "art171",
+      "chapter": "CAPITULO V",
+      "section": "171",
+      "title": "Artículo 171. Las atribuciones y obligaciones de los oficiales de Justicia son:",
+      "content": "a) diligenciar, en la mayor brevedad posible, en el orden que reciban, los mandamientos expedidos por los Jueces, observando estrictamente las disposiciones de las leyes procesales;\n \n b) devolver debidamente diligenciado el mandamiento dentro de los tres días contados desde la fecha en que puso término a la diligencia; de no hacerlo así, será pasible de la sanción que establezca la Corte Suprema de Justicia. En caso de imposibilidad de su diligenciamiento, deberá informar en el mismo plazo las causas que se oponen a su ejecución;\n \n c) depositar en el día en el establecimiento bancario correspondiente las sumas de dinero recibidas y designar personas de responsabilidad como depositarias de los bienes sobre los cuales versa su mandato;\n \n d) comunicar a los Registros Públicos correspondientes dentro del plazo de veinticuatro horas los embargos de bienes registrables para su debida inscripción, exigiendo el correspondiente documento probatorio;\n \n e) retirar por orden judicial los expedientes que se encuentran en poder de las partes o de terceros;\n \n f) ejecutar con puntualidad y exactitud todas las órdenes recibidas de los jueces; y,\n \n g) solicitar, en caso necesario, el auxilio de la fuerza pública y el allanamiento de domicilio para cumplir con los deberes de su cargo."
+    },
+    {
+      "provision_ref": "art172",
+      "chapter": "CAPITULO V",
+      "section": "172",
+      "title": "Artículo 172. Los Oficiales de Justicia no podrán negarse, sin causa justificada, a diligenciar los mandamientos que se les encomiendan y responderán criminal o civilmente por el cumplimiento irregular de sus obligaciones, sin perjuicio de las sanciones que les imponga la Corte Suprema de Justicia.",
+      "content": "CAPITULO VI \n DE LOS TRADUCTORES E INTERPRETES"
+    },
+    {
+      "provision_ref": "art173",
+      "chapter": "CAPITULO VI",
+      "section": "173",
+      "title": "Artículo 173. Actuarán como traductores e intérpretes en los juicios las personas que se inscriban en la matrícula respectiva, habilitada por la Corte Suprema de Justicia la que determinare los requisitos de su inscripción.",
+      "content": "CAPITULO VII \n DE LOS PERITOS"
+    },
+    {
+      "provision_ref": "art174",
+      "chapter": "CAPITULO VII",
+      "section": "174",
+      "title": "Artículo 174. Los peritos llamados a desempeñar sus funciones deberán estar matriculados si la profesión o arte estuviese reglamentada.",
+      "content": "Si no hubiese perito titulado, se nombrará a persona idónea o práctica."
+    },
+    {
+      "provision_ref": "art178",
+      "chapter": "CAPITULO VII",
+      "section": "178",
+      "title": "Artículo 178. Son obligaciones de los peritos:",
+      "content": "a) cumplir su misión con puntualidad y diligencia;\n \n b) ejecutar la operación técnica, el examen o reconocimiento real y directo siendo posible, y con sujeción a los principios y reglas de su ciencia o arte; y,\n \n c) formular su dictamen de palabra o por escrito, según la importancia del asunto, expresando con claridad las razones que les sirven de fundamentos."
+    },
+    {
+      "provision_ref": "art180",
+      "chapter": "CAPITULO VII",
+      "section": "180",
+      "title": "Artículo 180. Los peritos propuestos por los litigantes serán pagados por los mismos, y los nombrados de oficio percibirán honorarios del Estado debiendo en uno y otro caso ser regulados por el Juez, quien podrá asesorarse de la oficina técnica oficial correspondiente y a falta de ésta de un profesional. Si los honorarios estuvieren a cargo del Estado se dará intervención al Fiscal General.",
+      "content": "El Estado quedará exonerado del pago de los honorarios si el vencido en juicio fuese solvente.\n \n TITULO VI \n DE LOS FUNCIONARIOS E INSTITUCIONES AUXILIARES \n DE LA JUSTICIA \n \n CAPITULO I \n DE LA SINDICATURA GENERAL DE QUIEBRAS"
+    },
+    {
+      "provision_ref": "art181",
+      "chapter": "CAPITULO I",
+      "section": "181",
+      "title": "Artículo 181. La Sindicatura General de Quiebras, con asiento en la Capital, será ejercida por un funcionario con el título de Síndico General y por Agentes con el título de Síndicos, y sus deberes y atribuciones son los establecidos en la Ley N° 154/69 “De Quiebras”.",
+      "content": "CAPITULO II \n DEL CUERPO MEDICO FORENSE"
+    },
+    {
+      "provision_ref": "art183",
+      "chapter": "CAPITULO II",
+      "section": "183",
+      "title": "Artículo 183. Son atribuciones del médico forense:",
+      "content": "a) dictaminar por mandato judicial en los casos de enfermedad, impedimento físico o incapacidad de procesados y condenados que requieran tratamiento especial fuera del establecimiento penal;\n \n b) establecer el diagnóstico y pronóstico en los atentados a la vida, a la salud y al pudor de las personas que den lugar a procedimiento judicial;\n \n c) practicar el reconocimiento del cadáver y la autopsia en los casos exigidos por la investigación judicial, describiendo exactamente la operación e informando sobre el origen del fallecimiento y sus causas; y,\n \n d) intervenir en todas las demás cuestiones médico-legales que se plantean en los procesos judiciales y asesorar al Juzgado sobre las diligencias de orden científico conducentes a la investigación del hecho."
+    },
+    {
+      "provision_ref": "art185",
+      "chapter": "CAPITULO II",
+      "section": "185",
+      "title": "Artículo 185. El médico forense de turno debe estar siempre accesible en cualquier momento en que su intervención fuere requerida por la autoridad judicial o por cualquier otra, y no podrá abandonar el lugar de sus funciones sin autorización de la Corte Suprema de Justicia.",
+      "content": "CAPITULO III \n DE LAS SECRETARIAS Y DE LA OFICINA DE NOTIFICACIONES \n \n SECCION I \n DE LOS SECRETARIOS"
+    },
+    {
+      "provision_ref": "art186",
+      "chapter": "CAPITULO III",
+      "section": "186",
+      "title": "Artículo 186. Los Secretarios son los jefes de sus respectivas oficinas y tienen las siguientes obligaciones:",
+      "content": "a) asistir diariamente a su oficina, mantenerla abierta para el servicio público y permanecer en ella durante las horas indicadas en el horario respectivo;\n \n b) recibir los escritos y documentos que presentan los interesados y poner los cargos con designación de fecha, hora y si llevan firma de Abogado en su caso, y otorgar los recibos respectivos siempre que fuesen solicitados;\n \n c) presentar sin demora a los Jueces los escritos, documentos, oficios y demás despachos referentes a la tramitación de los asuntos;\n \n d) organizar y foliar los expedientes a medida que se forman;\n \n e) asistir a las audiencias, acuerdos o informaciones orales, consignando, en su caso, el tiempo de su duración y redactando las actas, declaraciones, informes, notas y oficios;\n \n f) dar cuenta a los Jueces del vencimiento de los plazos que determinan la prosecución de oficio de los asuntos o causas;\n \n g) refrendar las actuaciones, providencias, resoluciones y sentencias expedidas por los Jueces y Tribunales;\n \n h) hacer saber las providencias, resoluciones y sentencias a las partes que acudiesen a la oficina a tomar conocimiento de ellas, anotando en el expediente las notificaciones que hicieren;\n \n i) guardar la debida reserva de las actuaciones cuando lo requiera la naturaleza de las mismas, o sea ordenada por los Jueces o Tribunales,\n \n j) dar conocimiento de los expedientes o procesos archivados en sus oficinas a las personas que, teniendo interés legítimo, lo solicitaren; \n \n k) custodiar el sello de los Juzgados y Tribunales, así como los documentos y expedientes que tuvieren a su cargo, siendo responsables de su pérdida, uso indebido, mutilación o deterioro;\n \n l) tener a su cargo la urna para sorteos y llevar en buen orden los libros que prevengan los reglamentos;\n \n ll) intervenir en el diligenciamiento de las órdenes judiciales referentes a la extracción de dinero u otros valores de los bancos;\n \n n) desempeñar las funciones indicadas en las leyes y acordadas."
+    },
+    {
+      "provision_ref": "art187",
+      "chapter": "CAPITULO III",
+      "section": "187",
+      "title": "Artículo 187. Los Secretarios tienen la obligación de presentar a la Oficina de Estadística los documentos que deben anotarse en la misma.",
+      "content": "Los expedientes o escritos se presentarán en la fecha expresada en los cargos, y las sentencias definitivas o interlocutorias, se presentarán inmediatamente después de firmadas y anotadas.\n \n SECCION II \n DE LA OFICINA DE NOTIFICACIONES Y DE LOS UJIERES"
+    },
+    {
+      "provision_ref": "art188",
+      "chapter": "CAPITULO III",
+      "section": "188",
+      "title": "Artículo 188. Es función de la Oficina de Notificaciones diligenciar las cédulas de notificaciones en el domicilio de las partes. Estará a cargo de un Jefe y de los Ujieres que establezca la ley, cuyas funciones serán reglamentadas por la Corte Suprema de Justicia.",
+      "content": "Los ujieres, al practicar las notificaciones, observarán estrictamente las disposiciones de las leyes procesales y de este Código. Los ujieres serán responsables civil y penalmente de las irregularidades cometidas en el cumplimiento de sus funciones, sin perjuicio de ser sustituidos por la Corte Suprema de Justicia."
+    },
+    {
+      "provision_ref": "art189",
+      "chapter": "CAPITULO III",
+      "section": "189",
+      "title": "Artículo 189. Son atribuciones y funciones de los ujieres:",
+      "content": "a) asistir diariamente a la oficina;\n \n b) recibir de los Secretarios las cédulas para practicar las notificaciones en el domicilio de las partes, dejando constancia de su diligenciamiento en el original de las mismas;\n \n c) devolver, debidamente diligenciados, las cédulas recibidas para practicar las notificaciones;\n \n d) dar cuenta a los Secretarios de los inconvenientes que se les presenten en el desempeño de su cargo o en el cumplimento de las órdenes que reciban;\n \n e) anotar en un libro, con intervención de los Secretarios, las cédulas recibidas o devueltas; y,\n \n f) cumplir las órdenes emanadas de los Jueces y Secretarios.\n \n TITULO VII \n DEL NOMBRAMIENTO, SUSTITUCION, DURACION Y REMOCION DE JUECES, FUNCIONARIOS Y EMPLEADOS JUDICIALES \n \n CAPITULO I \n DEL NOMBRAMIENTO DE JUECES"
+    },
+    {
+      "provision_ref": "art191",
+      "chapter": "CAPITULO I",
+      "section": "191",
+      "title": "Artículo 191. Los requisitos para ser Miembro de la Corte Suprema de Justicia, son los establecidos en la Constitución Nacional. Para las demás magistraturas se requerirá:",
+      "content": "a) para ser Miembro de los Tribunales de Apelación y Tribunal de Cuentas: edad mínima de 30 años, título de abogado otorgado por una Universidad Nacional o el Equivalente de una Universidad extranjera, debidamente revalidado, y haber ejercido la profesión de abogado o una magistratura por el término de cinco años;\n \n b) para ser Juez de Primera Instancia: título de abogado, edad mínima de 25 años y haber ejercido la profesión de abogado o una magistratura por el término de tres años;\n \n c) para ser juez de Paz Letrada, Juez de Instrucción y Miembro del Ministerio de la Defensa Pública: edad mínima de 22 años, y título de abogado; y \n \n d) para ser Juez de Paz: edad mínima de 22 años e idoneidad. Además de estos requisitos, para el nombramiento en la magistratura judicial, será necesario reconocida honorabilidad y nacionalidad paraguaya."
+    },
+    {
+      "provision_ref": "art192",
+      "chapter": "CAPITULO I",
+      "section": "192",
+      "title": "Artículo 192. El pedido de acuerdo constitucional será acompañado, en cada caso, de la documentación que acredite el cumplimiento de los requisitos exigidos por éste Código.",
+      "content": "A la vista de ésta, la Corte Suprema de Justicia, concederá o denegará el acuerdo solicitado."
+    },
+    {
+      "provision_ref": "art193",
+      "chapter": "CAPITULO I",
+      "section": "193",
+      "title": "Artículo 193. No podrán ser nombrados simultáneamente miembros del mismo Tribunal, ni aún para los casos de integración, los parientes consanguíneos o afines en línea recta, y los colaterales dentro del cuarto grado inclusive de consanguinidad o segundo de afinidad.",
+      "content": "Tampoco se permitirá que uno de dichos parientes sea Juez inferior y el otro del Tribunal Superior de la misma jurisdicción."
+    },
+    {
+      "provision_ref": "art195",
+      "chapter": "CAPITULO I",
+      "section": "195",
+      "title": "Artículo 195. Para tomar posesión del cargo los Jueces prestarán juramento ante la Corte Suprema de Justicia, de cumplir con fidelidad sus deberes.",
+      "content": "CAPITULO II \n DE LOS DEBERES Y ATRIBUCIONES DE LOS JUECES"
+    },
+    {
+      "provision_ref": "art196",
+      "chapter": "CAPITULO II",
+      "section": "196",
+      "title": "Artículo 196. Los Jueces deben dar audiencia todos los días hábiles, las serán públicas, salvo que por razones de moralidad o decoro fuere necesario o conveniente la reserva.",
+      "content": "Los Jueces podrán habilitar días feriados y horas inhábiles cuando los asuntos de su competencia así lo requieran."
+    },
+    {
+      "provision_ref": "art197",
+      "chapter": "CAPITULO II",
+      "section": "197",
+      "title": "Artículo 197. Los Jueces y Tribunales elevarán trimestralmente a la Corte Suprema de Justicia un informe en el cual consignarán el número de los juicios y procesos iniciados y finiquitados, y de las resoluciones y sentencias dictadas.",
+      "content": "Los Jueces en lo Criminal deberán expresar en dicha relación el estado de los procesos."
+    },
+    {
+      "provision_ref": "art199",
+      "chapter": "CAPITULO II",
+      "section": "199",
+      "title": "Artículo 199. Los Jueces y Tribunales dictarán sentencia y demás resoluciones dentro de los plazos fijados en la ley. Si no lo hicieren la Corte Suprema de Justicia los emplazará a hacerlo dentro de un plazo perentorio, bajo apercibimiento de ser suspendidos por quince días sin goce de sueldo. La reincidencia en el curso del mismo año será causal de enjuiciamiento.",
+      "content": "CAPITULO III \n DE LA SUSTITUCION DE JUECES, FUNCIONARIOS Y EMPLEADOS"
+    },
+    {
+      "provision_ref": "art200",
+      "chapter": "CAPITULO III",
+      "section": "200",
+      "title": "Artículo 200. En los casos de ausencia, impedimento, recusación o inhibición de los Jueces y funcionarios judiciales, éstos serán sustituidos en primer término por los de igual jerarquía y de la misma competencia, o en su defecto, de otras. La sustitución se hará conforme a las siguientes reglas:",
+      "content": "a) los magistrados de la Corte Suprema de Justicia serán sustituidos por los Miembros de los Tribunales de Apelación y del Tribunal de Cuentas y sucesivamente, por los Jueces de Primera Instancia y los Abogados designados en la forma establecida en el artículo siguiente;\n \n b) Los Miembros de los Tribunales de Apelación y del Tribunal de Cuentas por Jueces de Primera Instancia y los Abogados mencionados;\n \n c) los Jueces de Primera Instancia por los abogados de referencia;\n \n d) el Fiscal General del Estado por los Agentes Fiscales y los mismos abogados. Los Agentes Fiscales por los funcionarios del Ministerio de la Defensa Pública;\n \n e) los funcionarios de la Defensa Pública por los abogados citados que reemplazarán igualmente en último término a los Agentes Fiscales;\n \n f) los Jueces de Paz Letrada en la Capital, serán sustituidas unos por otros y, en su defecto, por los abogados previstos en el artículo siguiente.\n \n Los Jueces de Paz Letrada de las Capitales Departamentales por los Jueces de Instrucción, si los hubiere, y sucesivamente por los abogados mencionados; y,\n \n g) los Jueces de Instrucción en las Capitales Departamentales, por los Jueces de Paz Letrada, o en su defecto, por los abogados mencionados anteriormente. Los demás Jueces de Instrucción por los Jueces de Paz en lo Criminal, y éstos en la forma establecida para la Justicia de Paz."
+    },
+    {
+      "provision_ref": "art201",
+      "chapter": "CAPITULO III",
+      "section": "201",
+      "title": "Artículo 201. La Corte Suprema de Justicia designará anualmente a veinte abogados matriculados en la Capital, con cinco años de ejercicio profesional como mínimo a fin de reemplazar a los Jueces y funcionarios impedidos en los casos previstos en este Código.",
+      "content": "En las circunscripciones judiciales del interior los tribunales de Apelación designarán diez abogados de la matrícula a los mismos efectos.\n La designación se hará por sorteo eliminatorio."
+    },
+    {
+      "provision_ref": "art205",
+      "chapter": "CAPITULO III",
+      "section": "205",
+      "title": "Artículo 205. Las controversias que originen la sustitución de Jueces y funcionarios judiciales de la Capital serán resueltas por la Corte Suprema de Justicia. En el interior, los resolverá el Tribunal de Apelación de la misma circunscripción judicial, siempre que no se trate de contiendas de competencia.",
+      "content": "Las que se produzcan en la sustitución de otros empleados, serán resueltas por el Tribunal o Juez que entienda en el juicio."
+    },
+    {
+      "provision_ref": "art206",
+      "chapter": "CAPITULO III",
+      "section": "206",
+      "title": "Artículo 206. Está prohibida la recusación sin causa, de magistrados y funcionarios judiciales.",
+      "content": "CAPITULO IV \n DEL ENJUICIAMIENTO Y REMOCION DE LOS JUECES Y FUNCIONARIOS JUDICIALES"
+    },
+    {
+      "provision_ref": "art209",
+      "chapter": "CAPITULO IV",
+      "section": "209",
+      "title": "Artículo 209. Son causas de enjuiciamiento:",
+      "content": "a) la comisión de delitos; y,\n \n b) el mal desempeño de sus funciones. Se entenderá por tal, los actos u omisiones que constituyesen grave inmoralidad o fueren lesivos para la dignidad de un funcionario público, o una desviación reiterada del cumplimiento del deber, o parcialidad manifiesta, o la ignorancia de las leyes reveladas por actos reiterados."
+    },
+    {
+      "provision_ref": "art210",
+      "chapter": "CAPITULO IV",
+      "section": "210",
+      "title": "Artículo 210. Si la causa de enjuiciamiento fuere la comisión de delitos, la Corte Suprema de Justicia ordenará que el magistrado o funcionario denunciando sea puesto a disposición de Juez competente, al cual se pasarán los antecedentes del caso.",
+      "content": "Si hubiere presunciones graves de culpabilidad contra el magistrado o el funcionario, éste será suspendido en sus funciones.\n \n La suspensión se decretará siempre que el Juez del Crimen dicte auto de prisión del encausado.\n \n El enjuiciamiento quedará suspendido hasta que recaiga sentencia definitiva en el proceso penal."
+    },
+    {
+      "provision_ref": "art215",
+      "chapter": "CAPITULO IV",
+      "section": "215",
+      "title": "Artículo 215. Si el particular que promoviere la denuncia y se mostrare parte de ella, no ofreciere suficiente arraigo, la Corte Suprema de Justicia podrá exigirle una fianza de persona de reconocida honorabilidad y solvencia o bien una firma real para garantizar las resultas del juicio.",
+      "content": "Si el denunciante no satisficiere esta exigencia, la Corte Suprema de Justicia podrá darle por desistido de la acción.\n La caución podrá ser dispensada, por la Corte Suprema de Justicia, cuando a su juicio concurrieren graves presunciones, o teniendo en consideración la situación económica del denunciante."
+    },
+    {
+      "provision_ref": "art228",
+      "chapter": "CAPITULO IV",
+      "section": "228",
+      "title": "Artículo 228. El magistrado o funcionario removido cargará con el pago de las costes. En caso de absolución serán a cargo del denunciante, si la Corte Suprema no hallare motivos para eximirlo de ellas, para lo cual deberá dar los fundamentos.",
+      "content": "No se impondrán, en ningún caso, las costas al Ministerio Público."
+    },
+    {
+      "provision_ref": "art231",
+      "chapter": "CAPITULO IV",
+      "section": "231",
+      "title": "Artículo 231. En ningún caso los autos serán entregados a las partes.",
+      "content": "CAPITULO V \n SUPERINTENDENCIA Y POTESTAD DISCIPLINARIA"
+    },
+    {
+      "provision_ref": "art232",
+      "chapter": "CAPITULO V",
+      "section": "232",
+      "title": "Artículo 232. La Corte Suprema de Justicia ejerce superintendencia y potestad disciplinaria sobre todos los Tribunales, Juzgados y demás oficinas del Poder Judicial.",
+      "content": "La Superintendencia comprende las siguientes atribuciones:\n \n a) dictar los Reglamentos Internos de la Administración de Justicia, para asegurar el orden, disciplina y buen desempeño de los cargos judiciales;\n \n b) dictar disposiciones para la ordenada tramitación de los juicios y el pronunciamiento de los fallos en los términos de la ley;\n \n c) cumplir y hacer cumplir dichos reglamentos y disposiciones; establecer y aplicar medidas disciplinarias en los casos de infracción;\n \n d) exigir la remisión de memorias demostrativas del movimiento y otros informes a los Juzgados, Tribunales y oficinas de su dependencia;\n \n e) otorgar o denegar licencias a los Miembros de los Tribunales, Jueces, Miembros de la Defensa Pública y empleados subalternos; Notarios y Escribanos Públicos; y\n \n f) determinar los deberes y atribuciones de los funcionarios y empleados subalternos cuyas funciones no estén establecidos en la ley."
+    },
+    {
+      "provision_ref": "art235",
+      "chapter": "CAPITULO V",
+      "section": "235",
+      "title": "Artículo 235. Los Jefes del Ministerio de la Defensa Pública y del Ministerio Pupilar ejercerán la Superintendencia directa sobre los funcionarios dependientes de ellos y velarán por el cumplimiento de sus deberes, examinado las quejas que se promuevan contra éstos por inacción o retardo en el ejercicio de sus funciones.",
+      "content": "Podrán apercibirlos y amonestarlos y solicitarán, cuando fuere necesario, su suspensión temporaria u otras medidas disciplinarias a la Corte Suprema de Justicia."
+    },
+    {
+      "provision_ref": "art236",
+      "chapter": "CAPITULO V",
+      "section": "236",
+      "title": "Artículo 236. Los Tribunales y Juzgados podrán sancionar con apercibimiento, multas o arrestos las faltas que los litigantes, sus abogados o procuradores u otras personas cometan contra su autoridad o decoro en las audiencias, en los escritos, en el diligenciamiento de sus mandatos u órdenes, o en cualquier otra circunstancia con motivo del ejercicio de sus funciones.",
+      "content": "Las multas no podrán exceder de treinta jornales mínimo legal para actividades diversas no especificadas en la Capital de la República ni el arresto de veinte días. Este último podrá ser domiciliario.\n \n Los Jueces de Paz podrán aplicar apercibimientos y multas hasta quince jornales mínimo legal para actividades no especificadas en la Capital de la República.\n \n El importe de las multas será depositado en el Banco Central del Paraguay en una Cuenta especial abierta a la orden de la Corte Suprema de Justicia destinado a mejoras en la administración de la justicia."
+    },
+    {
+      "provision_ref": "art237",
+      "chapter": "CAPITULO V",
+      "section": "237",
+      "title": "Artículo 237. La Policía en la sede del Poder Judicial estará bajo las ordenes de la Corte Suprema de Justicia. Sin perjuicio de ella, cuando los Tribunales y Juzgados funcionaren en otros locales, la Policía de éstos corresponderá al Tribunal o al Juzgado, en su caso.",
+      "content": "CAPITULO VI \n DE LAS PROHIBICIONES RELATIVAS A LOS JUECES Y FUNCIONARIOS"
+    },
+    {
+      "provision_ref": "art238",
+      "chapter": "CAPITULO VI",
+      "section": "238",
+      "title": "Artículo 238. Se prohíbe a los magistrados y funcionarios de la Administración de Justicia, cualquiera sea su jerarquía:",
+      "content": "a) faltar a su despacho o abandonarlo sin causa justificada en los días y horas establecidos por la Corte Suprema de Justicia;\n \n b) abogar o ejercer la representación de terceros en juicio, pudiendo hacerlo en sus propios asuntos o en los de sus padres, esposa, hijos menores y pupilos;\n \n c) recibir dádivas o aceptar promesas de otros beneficios, directa o indirectamente, de las personas que de cualquier manera tengan o puedan tener intervención o interés en los juicios a su cargo;\n \n d) ejercer otra función pública, profesión, comercio o industria, directa o indirectamente, salvo las docencia, cuyo ejercicio será reglado por la Corte Suprema, ni participar en las actividades políticas; y,\n \n d) ejercer otra función pública, profesión, comercio o industria, directa o indirectamente, salvo la docencia, cuyo ejercicio será reglado por la Corte Suprema de Justicia, ni participar en actividades políticas; y\n \n e) dar cualquier clase de información a la prensa o a terceros sobre los juicios criminales, salvo las sentencias; en los demás juicios no podrán darla cuando ellas puedan afectar el honor o la reputación de las personas."
+    },
+    {
+      "provision_ref": "art240",
+      "chapter": "CAPITULO VI",
+      "section": "240",
+      "title": "Artículo 240. Se prohíbe además a los secretarios actuarios y escribanos de registro o adscriptos:",
+      "content": "a) ejercer la abogacía o procuración, salvo los casos previstos en el inciso a) del artículo 97; y \n \n b) ejercer por sí o por terceros actos de comercio y formar parte de la administración de sociedades comerciales."
+    },
+    {
+      "provision_ref": "art241",
+      "chapter": "CAPITULO VI",
+      "section": "241",
+      "title": "Artículo 241. La infracción a las normas establecidas en los artículos precedentes será sancionado con suspensión o destitución.",
+      "content": "Tratándose de Magistrados y Escribanos Públicos se seguirá el procedimiento establecido por éste Código.\n \n TITULO VIII \n DE LAS OFICINAS DEPENDIENTES DEL PODER JUDICIAL \n \n CAPITULO I \n DE LA ESTADÍSTICA JUDICIAL"
+    },
+    {
+      "provision_ref": "art243",
+      "chapter": "CAPITULO I",
+      "section": "243",
+      "title": "Artículo 243. En esta oficina se anotarán:",
+      "content": "a) los juicios que se promuevan ante la Corte Suprema de Justicia, los tribunales y Juzgados;\n \n b) las sentencias interlocutorias y definitivas;\n \n c) los exhortos o cartas rogatorias de los Jueces y Tribunales, y los recibidos del extranjero; y,\n \n d) los juicios que pasan al archivo de los Tribunales."
+    },
+    {
+      "provision_ref": "art244",
+      "chapter": "CAPITULO I",
+      "section": "244",
+      "title": "Artículo 244. En las anotaciones se harían constar:",
+      "content": "a) día, mes y año en que se efectúa la inscripción;\n \n b) nombre y apellido de las partes y de sus apoderados;\n \n c) naturaleza de la diligencia o juicio;\n \n d) naturaleza y lugar de comisión de los delitos y penas impuestas por sentencias definitivas, con indicación de la nacionalidad, origen, domicilio, sexo, edad, estado civil y profesión de los condenados y demás datos indicados en los reglamentos; \n \n e) Juez o Tribunal que dictó la sentencia; y,\n \n f) diligencia pedida en los exhortos."
+    },
+    {
+      "provision_ref": "art245",
+      "chapter": "CAPITULO I",
+      "section": "245",
+      "title": "Artículo 245. Los datos estadísticos se anotarán en Libros de Registro llevados con tal fin. Se destinará un libro para cada tipo de asuntos o datos a que se refieren los incisos del artículo anterior. Se llevará, además, índices de referencia. Las penas impuestas por sentencia definitiva, se anotarán después de quedar ejecutoriadas.",
+      "content": "Los libros de Registro de la Oficina de Estadística sólo pueden ser retirados de la misma mediando orden judicial.\n La Corte Suprema de Justicia dispondrá oportunamente la actualización de los métodos de registro."
+    },
+    {
+      "provision_ref": "art246",
+      "chapter": "CAPITULO I",
+      "section": "246",
+      "title": "Artículo 246. Hecha la anotación en el respectivo libro, el Jefe de la estadística, pondrá al margen izquierdo del escrito o en la primera foja del documento o sentencia, el número de orden que corresponda, su firma y el sello de la oficina. Cuando la inscripción se refiera a un asunto del que se tomó razón a su inicio, el encargado de la estadística pondrá al margen de los respectivos asientos las notas que indiquen la correlación de los mismos, con indicación de páginas y fojas.",
+      "content": "CAPITULO II \n DE LA CONTADURIA DE LOS TRIBUNALES"
+    },
+    {
+      "provision_ref": "art247",
+      "chapter": "CAPITULO II",
+      "section": "247",
+      "title": "Artículo 247. La contaduría de los Tribunales estará a cargo de un Jefe con título de Licenciado en Contabilidad y de los funcionarios que la ley determine, y tendrá las siguientes atribuciones:",
+      "content": "a) llevar cuenta y razón de todos los bienes correspondientes a herencias vacantes, fianzas, así como de los que se hallan a cargo de tutores, curadores, albaceas, síndicos, administradores o depositarios judiciales;\n \n b) llevar asimismo, cuenta y razón de todas las órdenes judiciales relativas a la administración y disposición de dichos bienes;\n \n c) informar en los pedidos de extracción de fondos, entrega de bienes y cancelación de fianzas, y atender las órdenes correspondientes cuando estén conformes a las constancias de la Contaduría; y,\n \n d) dictaminar en las rendiciones de cuentas provenientes de la administración de dichos bienes."
+    },
+    {
+      "provision_ref": "art248",
+      "chapter": "CAPITULO II",
+      "section": "248",
+      "title": "Artículo 248. Ninguna orden de extracción de fondos o entrega de bienes comprendidos en el artículo anterior se hará efectiva sin la intervención y conformidad de la Contaduría.",
+      "content": "CAPITULO III \n DEL ARCHIVO GENERAL DEL PODER JUDICIAL"
+    },
+    {
+      "provision_ref": "art250",
+      "chapter": "CAPITULO III",
+      "section": "250",
+      "title": "Artículo 250. El Archivo se compondrá de:",
+      "content": "a) los registros notariales formados con las escrituras y actas formalizados en el protocolo por los Escribanos de Registro;\n \n b) los expedientes finiquitados en las Secretarías de los Juzgados y Tribunales; y,\n \n c) los expedientes paralizados que los Jueces y Tribunales remitan."
+    },
+    {
+      "provision_ref": "art251",
+      "chapter": "CAPITULO III",
+      "section": "251",
+      "title": "Artículo 251. En los dos primeros meses del año, los Secretarios de los Tribunales y Juzgados, inclusive los de los Jueces de Paz, remitirán los expedientes que deban archivarse.",
+      "content": "Los Escribanos de Registro remitirán en la misma época los protocolos cerrados con excepción de los tres últimos años que quedarán en su poder. Esta excepción no comprende a los Jueces de Paz."
+    },
+    {
+      "provision_ref": "art254",
+      "chapter": "CAPITULO III",
+      "section": "254",
+      "title": "Artículo 254. Los índices de las escrituras expresarán los nombre y apellidos de los otorgantes, fecha de las escrituras, sus objetos, nombre y apellido de los escribanos y oficina.",
+      "content": "Los índices de los expedientes determinarán los nombres y apellidos de las partes, jueces, secretaría y objeto del juicio."
+    },
+    {
+      "provision_ref": "art260",
+      "chapter": "CAPITULO III",
+      "section": "260",
+      "title": "Artículo 260. Los registros y archivos son de propiedad pública.",
+      "content": "TITULO IX \n DE LA DIRECCIÓN GENERAL DE LOS REGISTROS PUBLICOS"
+    },
+    {
+      "provision_ref": "art261",
+      "chapter": "TITULO IX",
+      "section": "261",
+      "title": "Artículo 261. Créase la Dirección General de Registros Públicos, que dependerá directamente de la Corte Suprema de Justicia.",
+      "content": "Esta Dirección será desempeñada por un Director, un Vice Director y los funcionarios que determine la Ley.\n \n Art. N° 262.- Esta Dirección General comprenderá los Registros de:\n \n I) Inmuebles;\n \n II) Buques;\n \n III) Automotores;\n \n IV) Aeronaves;\n \n V) Marcas y Señales de ganado;\n \n VI) Prenda con Registro;\n \n VII) Personas jurídicas y Asociaciones;\n \n VIII) Derechos Patrimoniales en las Relaciones de Familia;\n \n IX) Derechos Intelectuales;\n \n X) Público de Comercio;\n \n XI) Propiedad Industrial;\n \n XIII) Interdicciones; y,\n \n XIV) Quiebras y Convocaciones."
+    },
+    {
+      "provision_ref": "art264",
+      "chapter": "TITULO IX",
+      "section": "264",
+      "title": "Artículo 264. El personal de esta Dirección General gozará del sueldo previsto en el Presupuesto General de la Nación, además el Director, los Jefes de Registros y el funcionario correspondiente tendrán derechos a percibir en conjunto, por cada certificación que expida la oficina, el equivalente al treinta por ciento de un jornal mínimo legal para la Capital de la República, y por cada inscripción o documentos, el cincuenta por ciento del equivalente de un jornal mínimo legal para la Capital de la República, debiendo efectuarse el cobro al entregar al interesado el instrumento respectivo.",
+      "content": "Exceptuándose las certificaciones expedidas a pedido de los Bancos de Fomento y de Desarrollo, Crédito Agrícola de Habilitación, Instituto de Bienestar Rural, por los Ex-Combatientes de la Guerra del Chaco y las inscripciones de escrituras otorgadas por estas personas o instituciones, las cuales serán gratuitas.\n \n CAPITULO I \n DEL REGISTRO DE INMUEBLES"
+    },
+    {
+      "provision_ref": "art265",
+      "chapter": "CAPITULO I",
+      "section": "265",
+      "title": "Artículo 265. El Registro de Inmuebles se dividirá en Secciones y cada Sección comprenderá a las siguientes divisiones: Primera División:",
+      "content": "Propiedad. Segunda División: Hipotecas. Tercera División: Inhibiciones, embargos y otras medidas cautelares. Cuarta División: Certificado. Quinta División: Entradas y Salidas, Archivo y Estadística."
+    },
+    {
+      "provision_ref": "art268",
+      "chapter": "CAPITULO I",
+      "section": "268",
+      "title": "Artículo 268. En cada sección, habrá un Registro de Inhibiciones, Embargos y otras medidas cautelares.",
+      "content": "SECCION I \n DE LOS TITULOS QUE DEBEN INSCRIBIRSE"
+    },
+    {
+      "provision_ref": "art276",
+      "chapter": "CAPITULO I",
+      "section": "276",
+      "title": "Artículo 276. Pasados los términos legales desde la presentación del documento, u ocho días después, si la ley no fija término, el interesado podrá requerir apremio contra el Registro de Inmuebles, del Juez de la causa, en su caso, o del Juez de Paz Letrada, y el Juez lo expedirá siempre que según el informe de la Dirección no resulte justificada la demora.",
+      "content": "SECCION II \n DE LA FORMA Y EFECTOS DE LA INSCRIPCION"
+    },
+    {
+      "provision_ref": "art277",
+      "chapter": "CAPITULO I",
+      "section": "277",
+      "title": "Artículo 277. Podrá solicitar indistintamente la inscripción de los títulos:",
+      "content": "a) el Escribano autorizante;\n \n b) el que transmite el derecho;\n \n c) el que lo adquiere;\n \n d) el que tenga la representación legal o convencional de cualquiera de ellos; y,\n \n e) el que tenga interés en asegurar el derecho que se deba inscribir."
+    },
+    {
+      "provision_ref": "art278",
+      "chapter": "CAPITULO I",
+      "section": "278",
+      "title": "Artículo 278. Toda inscripción deberá contener, bajo pena de nulidad, lo siguiente:",
+      "content": "a) la fecha de la presentación del título o la de los documentos presentados en el Registro, con expresión de la hora;\n \n b) la naturaleza, situación, medida superficial y linderos de los inmuebles objeto de la inscripción;\n \n c) la naturaleza, valor, extensión, condiciones y carga de cualquier especie de derecho que se inscriba;\n \n d) la naturaleza del título o de los documentos que se inscriban y su fecha;\n \n e) el nombre, apellido y domicilio de la persona a cuyo favor se haga la inscripción;\n \n f) el nombre, apellido y domicilio de quien proceda inmediatamente los bienes o derechos que se deba inscribir;\n \n g) la designación de la oficina o archivo en que exista el título original;\n \n h) el nombre y la jurisdicción del Juez o Tribunal que haya expedido la sentencia ejecutoriada u ordenado la inscripción; y,\n \n i) la firma del Jefe de Sección correspondiente."
+    },
+    {
+      "provision_ref": "art279",
+      "chapter": "CAPITULO I",
+      "section": "279",
+      "title": "Artículo 279. Las Escrituras Públicas de actos jurídicos o contratos que deban inscribirse, expresarán, por lo menos, todas las circunstancias que, bajo pena de nulidad, debe contener la inscripción, ya sean relativas a las personas otorgantes, a los bienes o a los derechos inscriptos.",
+      "content": "Si los referidos documentos no pudiesen ser inscriptos por omisión de las circunstancias referidas, el Escribano que las redactó subsanará dichos defectos, a su costa."
+    },
+    {
+      "provision_ref": "art280",
+      "chapter": "CAPITULO I",
+      "section": "280",
+      "title": "Artículo 280. Ningún Escribano podrá extender aunque las partes lo soliciten, escritura alguna que transmita o modifique derechos reales, sin tener a la vista el certificado del Jefe de la Sección correspondiente, en el que conste el dominio del inmueble y sus condiciones actuales, bajo pena de destitución del cargo y sin perjuicio de las responsabilidades civiles.",
+      "content": "Dicho certificado será expedido en el día y será válido por el término de veinte días en la Capital y treinta días en el Interior incluyendo los días inhábiles.\n \n Antes del vencimiento de los plazos establecidos en este artículo no deberá expedirse otros certificados referentes al mismo bien objeto del acto, bajo las mismas sanciones mencionadas para el funcionario que lo haya expedido."
+    },
+    {
+      "provision_ref": "art282",
+      "chapter": "CAPITULO I",
+      "section": "282",
+      "title": "Artículo 282. Si la inscripción fuese de traslación de dominio, expresará si ésta se ha verificado a título gratuito u oneroso, si se ha pagado el precio al contado o se ha estipulado plazo; en el primer caso, si ha estipulado o parte de él; y en el segundo la forma y plazo en que se haya estipulado el pago.",
+      "content": "Iguales circunstancias se expresarán también si la traslación de dominio se verificase por permuta o adjudicación en pago, y si cualquiera de los adquirentes quedase obligado a abonar al otro alguna diferencia en dinero o efectos."
+    },
+    {
+      "provision_ref": "art284",
+      "chapter": "CAPITULO I",
+      "section": "284",
+      "title": "Artículo 284. Las inscripciones de servidumbre se harán constar:",
+      "content": "a) en la inscripción de propiedad del predio sirviente; y,\n \n b) en la inscripción de propiedad del predio dominante."
+    },
+    {
+      "provision_ref": "art288",
+      "chapter": "CAPITULO I",
+      "section": "288",
+      "title": "Artículo 288. Sin perjuicio de lo dispuesto en el Código Civil respecto de las hipotecas, los actos o contratos a que se refiere el presente Código, sólo tendrán efecto contra terceros desde la fecha de su inscripción en el Registro.",
+      "content": "La inscripción en el Registro, de títulos de transmisión de propiedad de inmuebles inhabitados, importa su tradición a los efectos de la adquisición del dominio."
+    },
+    {
+      "provision_ref": "art293",
+      "chapter": "CAPITULO I",
+      "section": "293",
+      "title": "Artículo 293. La inscripción no revalida los actos o contratos inscriptos que sean nulos con arreglo a las leyes.",
+      "content": "SECCION III \n DE LAS ANOTACIONES PREVENTIVAS"
+    },
+    {
+      "provision_ref": "art294",
+      "chapter": "CAPITULO I",
+      "section": "294",
+      "title": "Artículo 294. Podrán pedir anotaciones preventivas de sus respectivos derechos:",
+      "content": "a) el que demandare en juicio la propiedad de bienes inmuebles, o la constitución, declaración, modificación o extinción de cualquier derecho real;\n \n b) el que en juicio ejecutivo obtuviere a su favor mandamiento de embargo que se haya hecho efectivo, de bienes raíces del deudor;\n \n c) el que en cualquier juicio ejecutivo obtuviere sentencia ejecutoriada que afecte derechos reales;\n \n d) el que en juicio ordinario obtuviere providencia que ordene el embargo preventivo, o prohíba la enajenación de bienes raíces;\n \n e) el que presente algún título cuya inscripción no pueda hacerse definitivamente por falta de algún requisito subsanable; y,\n \n f) el que en cualquier caso tuviese derecho a exigir anotación preventiva, de acuerdo con las leyes, o en virtud de resolución judicial."
+    },
+    {
+      "provision_ref": "art295",
+      "chapter": "CAPITULO I",
+      "section": "295",
+      "title": "Artículo 295. Serán faltas subsanables en los títulos presentados a inscripción, para el efecto de anotarlos preventivamente, las que afecten a la validez del mismo título sin producir necesariamente la nulidad de la obligación en él constituida.",
+      "content": "Serán faltas que impidan la anotación, las que necesariamente producen aquella nulidad."
+    },
+    {
+      "provision_ref": "art300",
+      "chapter": "CAPITULO I",
+      "section": "300",
+      "title": "Artículo 300. Las anotaciones preventivas comprenderán las circunstancias que exigen para las inscripciones los artículos 271, 272, 278 y 279.",
+      "content": "Las que deban su origen a providencias de embargos, expresarán además, las causas que le hayan dado lugar y el importe de la obligación, que la hubiere originado."
+    },
+    {
+      "provision_ref": "art301",
+      "chapter": "CAPITULO I",
+      "section": "301",
+      "title": "Artículo 301. En los oficios que ordenen la inhibición de vender o gravar bienes, o embargos dirigidos por las autoridades judiciales al Registro de Inmuebles, siempre que sea posible, se harán constar, además de los datos erigidos para las inscripciones: nombres y apellidos completos, estado civil, domicilio o vecindario, documento de identidad, nacionalidad y profesión de las personas contra quienes se decreta la medida.",
+      "content": "SECCION IV \n DE LA EXTINCION DE LAS INSCRIPCIONES Y ANOTACIONES PREVENTIVAS"
+    },
+    {
+      "provision_ref": "art303",
+      "chapter": "CAPITULO I",
+      "section": "303",
+      "title": "Artículo 303. La cancelación de las inscripciones y anotaciones preventivas podrán ser total o parcial.",
+      "content": "Será total:\n a) cuando se extinga por completo la cosa objeto de la inscripción;\n \n b) cuando se extinga también por completo el derecho inscripto;\n \n c) cuando se declare la nulidad del título en cuya virtud se hizo la inscripción; y,\n \n d) cuando se declare la nulidad de la inscripción por la falta de alguno de sus requisitos esenciales, conforme a lo dispuesto en el artículo 308.\n \n Será parcial:\n a) Cuando se reduzca la cosa objeto de la inscripción o anotación preventiva; y,\n \n b) Cuando se reduzca el derecho inscripto."
+    },
+    {
+      "provision_ref": "art307",
+      "chapter": "CAPITULO I",
+      "section": "307",
+      "title": "Artículo 307. La cancelación de toda inscripción contendrá precisa y necesariamente las circunstancias siguientes:",
+      "content": "a) la clase de documento en cuya virtud se haga la cancelación;\n \n b) la fecha del documento y la de su presentación en el Registro;\n \n c) el nombre del Juez o Tribunal que lo hubiese expedido, o del Escribano ante quien se haya otorgado; y,\n \n d) la forma en que la cancelación se haya hecho."
+    },
+    {
+      "provision_ref": "art308",
+      "chapter": "CAPITULO I",
+      "section": "308",
+      "title": "Artículo 308. Será nula la cancelación:",
+      "content": "a) cuando no dé claramente a conocer la inscripción o anotación a que se refiere;\n \n b) cuando no se exprese el documento en cuya virtud se haga la cancelación, su fecha, los nombres y los domicilios de los otorgantes y del Escribano o Juez en su caso;\n \n c) cuando no se exprese el nombre de la persona a cuya instancia o con cuyo consentimiento se verifique la cancelación;\n \n d) cuando haciéndose la cancelación a nombre de persona distinta se aquella a cuyo favor estuviese hecha la inscripción o anotación, no resultare de la cancelación la representación con que haya obrado dicha persona;\n \n e) cuando en la cancelación parcial no se dé claramente a conocer la parte del inmueble que haya desaparecido o la parte del derecho que se extinga, y la que subsista;\n \n f) cuando no contenga la fecha de la presentación en el Registro, del instrumento en que se haya convenido o dispuesto la cancelación; \n \n g) cuando se declare falso, nulo o ineficaz el título en cuya virtud se hubiese hecho; y \n \n h) cuando se haya verificado por error o fraude.\n \n SECCION V \n DEL MODO DE LLEVAR LOS REGISTROS"
+    },
+    {
+      "provision_ref": "art316",
+      "chapter": "CAPITULO I",
+      "section": "316",
+      "title": "Artículo 316. Los Libros índices estarán divididos en seis columnas, en cada una de las cuales se anotarán:",
+      "content": "En la primera, el nombre y domicilio de los otorgantes.\n En la segunda, la fecha y clase de título en cuya virtud se haya constituido.\n En la tercera, el número en que estuviere anotado el inmueble en el Registro.\n En la cuarta, la fecha en que se haya hecho la inscripción, el tomo y el folio del Registro.\n En la quinta, la situación del inmueble.\n En la sexta, la cancelación cuando se haga."
+    },
+    {
+      "provision_ref": "art318",
+      "chapter": "CAPITULO I",
+      "section": "318",
+      "title": "Artículo 318. Los asientos de que trata el artículo anterior, se extenderán en el orden en que se presenten los títulos, sin dejar claros ni espacios en blanco entre ellos; y expresarán:",
+      "content": "a) el nombre, apellido y domicilio del que se presente el título;\n \n b) la hora de su presentación;\n \n c) la naturaleza del título presentado, su fecha y el nombre del Juez, Tribunal o Escribano que lo suscribe; \n \n d) la naturaleza del derecho que constituya, transmita, modifique o extinga el título que se pretenda inscribir;\n \n e) la naturaleza de la finca o derecho real que sea objeto del título presentado, con expresión de situación;\n \n f) el nombre, apellido y domicilio de la persona a cuyo favor debe hacerse la inscripción; y, \n \n g) la firma del Jefe de Sección y de la persona que presente el título, o de los testigos, si ésta no supiere o no pudiere firmar."
+    },
+    {
+      "provision_ref": "art320",
+      "chapter": "CAPITULO I",
+      "section": "320",
+      "title": "Artículo 320. Al pié de todo título que se inscribe en el Registro de Inmuebles o en el de las Hipotecas, el Jefe de la Sección pondrá una nota, firmada por él, que exprese la especie de inscripción que se haya hecho, su fecha, la Sección de Registro, tomo y folio en que se encuentran, el número de la finca y el de la inscripción realizada. En caso de que a juicio del Jefe de Sección no pueda ser inscripto un título, pondrá al pie del mismo una nota negativa fundada, de la podrá recurrir el interesado ante la Dirección de la oficina correspondiente, y si ésta dispusiera la inscripción, se hará bajo su responsabilidad.",
+      "content": "Si la Dirección lo denegare, el interesado tendrá recurso, sucesivamente, para ante el Director General de Registros y el Tribunal de Apelación en lo Civil, si la decisión de aquel fuese igualmente denegatoria."
+    },
+    {
+      "provision_ref": "art326",
+      "chapter": "CAPITULO I",
+      "section": "326",
+      "title": "Artículo 326. Corresponden a los Jefes de cada Sección:",
+      "content": "a) conservar y llevar los Registros con arreglo a las disposiciones de éste Código; y,\n \n b) formar anualmente un estado de movimiento de la Sección, con arreglo a los datos que suministre el Registro."
+    },
+    {
+      "provision_ref": "art327",
+      "chapter": "CAPITULO I",
+      "section": "327",
+      "title": "Artículo 327. Sin perjuicio de las disposiciones consignadas en el Código Civil para las faltas cometidas por los Oficiales Públicos, los Encargados de Sección responderán de los daños y perjuicios que ocasionen:",
+      "content": "a) por no asentar en el diario, no inscribir o no anotar preventivamente, los títulos que se presenten al Registro;\n \n b) por error o inexactitud cometida en inscripciones, cancelaciones, anotaciones preventivas o notas marginales;\n \n c) por no cancelar sin fundado motivo, alguna inscripción o anotación, u omitir el asiento de alguna nota marginal;\n \n d) por cancelar alguna inscripción, anotación preventiva o nota marginal, sin el título y requisitos que exige éste Código; y,\n \n e) por error, omisión o retardo injustificado por más de tres días en las certificaciones de inscripción o de libre disposición de los inmuebles o derechos reales.\n \n SECCION VI \n DE LA PUBLICIDAD DEL REGISTRO"
+    },
+    {
+      "provision_ref": "art329",
+      "chapter": "CAPITULO I",
+      "section": "329",
+      "title": "Artículo 329. Podrán expedirse certificados:",
+      "content": "a) de los asientos de toda clase que existen en el Registro, relativos a bienes que los interesados señalan;\n \n b) de asientos determinados que los mismos interesados designen;\n \n c) de las inscripciones hipotecarias y cancelaciones hechas a cargo o en provecho de personas individualizadas; y,\n \n d) de no existir asiento de especie alguna o de especie determinada sobre fincas señaladas a cargo de ciertas personas."
+    },
+    {
+      "provision_ref": "art332",
+      "chapter": "CAPITULO I",
+      "section": "332",
+      "title": "Artículo 332. Los mandamientos de los Jueces expresarán con toda claridad:",
+      "content": "a) la especie de certificación que de acuerdo con el artículo 329 se exige;\n \n b) los datos que según la especie de certificación basten para dar a conocer los bienes o personas de que se trate; y,\n \n c) período a que la certificación deber referirse."
+    },
+    {
+      "provision_ref": "art333",
+      "chapter": "CAPITULO I",
+      "section": "333",
+      "title": "Artículo 333. Las certificaciones se darán de los asientos del Registro de los Inmuebles y del de Hipotecas o de uno y otro, según el caso.",
+      "content": "También se darán de los asientos del diario, cuando al expedirlas existiese alguno pendiente de inscripción en otros Registros, que debiera comprenderse en la certificación pedida y cuando se trate de acreditar la libre disposición de alguna finca o la no existencia de algún derecho."
+    },
+    {
+      "provision_ref": "art334",
+      "chapter": "CAPITULO I",
+      "section": "334",
+      "title": "Artículo 334. Cuando se ordenare dar certificación de una inscripción y ésta estuviese cancelada, deberá insertarse a continuación de ella, copia literal del asiento de cancelación.",
+      "content": "CAPITULO II \n DEL REGISTRO DE BUQUES"
+    },
+    {
+      "provision_ref": "art336",
+      "chapter": "CAPITULO II",
+      "section": "336",
+      "title": "Artículo 336. En este registro se anotarán:",
+      "content": "a) la propiedad de los buques, previa inscripción en la Prefectura General de Puertos;\n \n b) la constitución de hipotecas, y su extinción, la locación y toda clase de derechos reales sobre buques; y\n \n c) los embargos judiciales y su levantamiento."
+    },
+    {
+      "provision_ref": "art338",
+      "chapter": "CAPITULO II",
+      "section": "338",
+      "title": "Artículo 338. La hipoteca naval se podrá constituir sobre toda clase de buques que tengan una capacidad mínima de seis toneladas.",
+      "content": "CAPITULO III \n DEL REGISTRO DE AUTOMOTORES"
+    },
+    {
+      "provision_ref": "art339",
+      "chapter": "CAPITULO III",
+      "section": "339",
+      "title": "Artículo 339. Se inscribirán en el Registro de Automotores los documentos de importación y los títulos de dominio y sus modificaciones, así como las restricciones del dominio y extinción de derechos, de toda clase de vehículos automotores, sean destinados al transporte público o privado, de personas y cargas o para fuerza móvil.",
+      "content": "Esta disposición rige igualmente para los automotores de pertenencia del Estado, de las Municipalidades y de los Entes Autárquicos.\n \n CAPITULO IV \n DEL REGISTRO DE AERONAVES"
+    },
+    {
+      "provision_ref": "art340",
+      "chapter": "CAPITULO IV",
+      "section": "340",
+      "title": "Artículo 340. Se inscribirá en el Registro de Aeronaves toda máquina de navegación aérea, previo registro en el Ministerio de Defensa Nacional.",
+      "content": "Las inscripciones en este Registro se harán de conformidad con lo dispuesto en el Código Aeronáutico.\n \n CAPITULO V \n DEL REGISTRO DE MARCAS Y SEÑALES"
+    },
+    {
+      "provision_ref": "art342",
+      "chapter": "CAPITULO V",
+      "section": "342",
+      "title": "Artículo 342. La inscripción en éste Registro se regirá en todo por las disposiciones pertinentes del Código Rural.",
+      "content": "CAPITULO VI \n DEL REGIMEN PRENDARIO"
+    },
+    {
+      "provision_ref": "art344",
+      "chapter": "CAPITULO VI",
+      "section": "344",
+      "title": "Artículo 344. Los contratos de prenda de muebles no comprendidos en la Ley N° 896 de 1943 se registrarán, y la autoridad otorgará el certificado respectivo en cada caso.",
+      "content": "Podrán inscribir los contratos de prenda los vendedores de la cosa o cualquier acreedor prendario.\n \n CAPITULO VII \n DEL REGISTRO DE LAS PERSONAS JURIDICAS Y ASOCIACIONES"
+    },
+    {
+      "provision_ref": "art345",
+      "chapter": "CAPITULO VII",
+      "section": "345",
+      "title": "Artículo 345. Se inscribirán en el Registro de las Personas Jurídicas y Asociaciones:",
+      "content": "a) el acto constitutivo y los estatutos de las personas jurídicas de derecho privado debidamente aprobados en la forma establecida por el Código Civil, y las modificaciones de estos estatutos;\n \n b) los estatutos de las personas jurídicas de derecho privado del extranjero que hayan sido autorizados para funcionar en la República; y,\n \n c) la liquidación de las entidades mencionadas en los incisos anteriores.\n \n Podrán inscribirse también el acto constitutivo y los estatutos de las Asociaciones sin personería jurídica y sus modificaciones.\n \n CAPITULO VIII \n DEL REGISTRO DE LOS DERECHOS PATRIMONIALES EN LAS RELACIONES DE FAMILIA"
+    },
+    {
+      "provision_ref": "art346",
+      "chapter": "CAPITULO VIII",
+      "section": "346",
+      "title": "Artículo 346. En el Registro de Derechos Patrimoniales de orden familiar se inscribirán:",
+      "content": "a) las capitulaciones matrimoniales celebradas por los cónyuges, debiendo archivarse una copia auténtica del instrumento respectivo;\n \n b) los bienes reservados de la mujer;\n \n c) las sentencias de disolución y liquidación de la sociedad conyugal;\n \n d) las sentencias de liquidación de los matrimonios aparentes debidamente reconocidos; y,\n \n e) las resoluciones judiciales que ordenen el registro del bien de familia.\n \n CAPITULO IX \n DEL REGISTRO DE DERECHOS INTELECTUALES"
+    },
+    {
+      "provision_ref": "art347",
+      "chapter": "CAPITULO IX",
+      "section": "347",
+      "title": "Artículo 347. En este Registro se inscribirán todas las obras científicas, artísticas literarias, así como las obras plásticas en pintura, escultura o arquitectura, películas cinematográficas y otras obras de otras obras de conformidad a lo dispuesto con la Ley N° 94 de 1951 de “Derechos Intelectuales”.",
+      "content": "CAPITULO X \n DEL REGISTRO PUBLICO DE COMERCIO"
+    },
+    {
+      "provision_ref": "art348",
+      "chapter": "CAPITULO X",
+      "section": "348",
+      "title": "Artículo 348. En este Registro se inscribirán todos los actos o instrumentos cuya anotación disponga el Código de Comercio y leyes complementarias.",
+      "content": "CAPITULO XI \n DEL REGISTRO DE PODERES"
+    },
+    {
+      "provision_ref": "art350",
+      "chapter": "CAPITULO XI",
+      "section": "350",
+      "title": "Artículo 350. La inscripción contendrá:",
+      "content": "a) número, fecha y hora de inscripción;\n \n b) nombre y apellido del autorizante;\n \n c) nombre y apellido del mandante y mandatario; y,\n \n d) clase de mandato."
+    },
+    {
+      "provision_ref": "art351",
+      "chapter": "CAPITULO XI",
+      "section": "351",
+      "title": "Artículo 351. Se acompañará para la inscripción dos copias auténticas o dos fotocopias autenticadas por el Notario autorizante.",
+      "content": "Una de ellas quedará archivada en el Registro y la otra será devuelta con la constancia de la inscripción."
+    },
+    {
+      "provision_ref": "art352",
+      "chapter": "CAPITULO XI",
+      "section": "352",
+      "title": "Artículo 352. La inscripción es indispensable para que los poderes puedan surtir efecto legal entre mandante y mandatario y con relación a terceros.",
+      "content": "Esta obligación está a cargo de los Escribanos."
+    },
+    {
+      "provision_ref": "art354",
+      "chapter": "CAPITULO XI",
+      "section": "354",
+      "title": "Artículo 354. El Escribano que autorice cualquier acto o contrato en virtud de poderes que debiendo estar inscripto no lo estuviesen, sufrirá por la primera vea la pena de seis meses de suspensión, y de uno a dos años en caso de reincidencia, si perjuicio de su responsabilidad.",
+      "content": "Esas penas serán aplicadas por el Juez en lo Civil de Turno.\n Las resoluciones serán apelables en ambos efectos."
+    },
+    {
+      "provision_ref": "art355",
+      "chapter": "CAPITULO XI",
+      "section": "355",
+      "title": "Artículo 355. De las inscripciones se llevará un doble índice alfabético, que irá formándose al mismo tiempo que aquellas se efectúen.",
+      "content": "Estos índices comenzarán uno, por el apellido de los mandantes, y el otro, por el de los mandatarios, con indicación del folio y número.\n \n CAPITULO XII \n DEL REGISTRO DE LA PROPIEDAD INDUSTRIAL"
+    },
+    {
+      "provision_ref": "art356",
+      "chapter": "CAPITULO XII",
+      "section": "356",
+      "title": "Artículo 356. En éste Registro se inscribirán los Derechos de Propiedad Industrial, sin perjuicio de su Registro Administrativo en la oficina correspondiente que deberá se previo.",
+      "content": "CAPITULO XIII \n DEL REGISTRO DE INTERDICCIONES"
+    },
+    {
+      "provision_ref": "art357",
+      "chapter": "CAPITULO XIII",
+      "section": "357",
+      "title": "Artículo 357. En éste Registro se anotará las resoluciones y sentencias judiciales que decreten la inhibición general para disponer de bienes y las que levanten dichas inhibiciones. Asimismo, se inscribirán las resoluciones que declaren incapaces a las personas, las que dejan sin efecto tal declaración y las que designe curador provisorio o definitivo.",
+      "content": "CAPITULO XIV \n DEL REGISTRO GENERAL DE QUIEBRAS"
+    },
+    {
+      "provision_ref": "art358",
+      "chapter": "CAPITULO XIV",
+      "section": "358",
+      "title": "Artículo 358. En éste Registro se inscribirán todos los actos, resoluciones y sentencias previstos en la Ley de “Quiebras” N° 154 de 1.969, forma y procedimientos determinados por dicha ley.",
+      "content": "CAPITULO XV \n DISPOSICIÓN GENERAL"
+    },
+    {
+      "provision_ref": "art359",
+      "chapter": "CAPITULO XV",
+      "section": "359",
+      "title": "Artículo 359. Las normas relativas al Registro de Inmuebles regirán para los demás registros en cuanto sean aplicables.",
+      "content": "TITULO X \n DE LA VISITA A LOS ESTABLECIMIENTOS PENALES"
+    },
+    {
+      "provision_ref": "art360",
+      "chapter": "TITULO X",
+      "section": "360",
+      "title": "Artículo 360. - La Corte Suprema de Justicia, los miembros del Tribunal de Apelación, Jueces de Primera Instancia y Jueces de Instrucción en lo Criminal, los Fiscales del Crimen, los Defensores de Procesados Pobres y de Menores, visitarán los establecimientos penales y correccionales cada tres meses cuando menos, o cuando lo estimen conveniente.",
+      "content": "La visita reclamaciones tendrá por objeto conocer la situación de los presos, las reclamaciones y quejas que hagan éstos sobre el trato que reciben en el establecimiento y las peticiones que formulen sobre el estado de su proceso."
+    },
+    {
+      "provision_ref": "art361",
+      "chapter": "TITULO X",
+      "section": "361",
+      "title": "Artículo 361. La Corte Suprema de Justicia pondrá en conocimiento del Ministerio de Justicia y Trabajo las faltas y defectos que observare en los establecimientos penales y correccionales, para que sean subsanados.",
+      "content": "TITULO XI \n DE LAS FERIAS JUDICIALES"
+    },
+    {
+      "provision_ref": "art363",
+      "chapter": "TITULO XI",
+      "section": "363",
+      "title": "Artículo 363. La Corte Suprema de Justicia determinará la forma en que debe atenderse durante la feria el despacho de los asuntos urgentes, según las leyes de procedimientos.",
+      "content": "La feria no regirá para los Jueces de Paz y de Instrucción en lo Criminal.\n \n LIBRO II \n DEL PROCEDIMIENTO EN LA JUSTICIA DE PAZ LETRADA \n \n CAPITULO I \n NORMAS GENERALES"
+    },
+    {
+      "provision_ref": "art364",
+      "chapter": "CAPITULO I",
+      "section": "364",
+      "title": "Artículo 364. Los Juzgados de Paz Letrada conocerán, siempre que la cuantía de la demanda no exceda del equivalente a trescientos jornales mínimo legal para actividades diversas no especificadas en la capital de la República, en los siguientes juicios:",
+      "content": "a) los asuntos civiles y comerciales y las demandas reconvencionales;\n \n b) los juicios sucesorios;\n \n c) las demandas por desalojo, rescisión, cumplimento, cobro de alquileres y demás cuestiones vinculadas al contrato de , locación; y,\n \n d) los casos de informaciones sumarias de testigos."
+    },
+    {
+      "provision_ref": "art393",
+      "chapter": "CAPITULO I",
+      "section": "393",
+      "title": "Artículo 393. Las resoluciones y providencias, salvo las excepciones previstas en éste Código, quedarán notificadas en la Secretaría del Juzgado o Tribunal, en los días hábiles de cada semana que se designarán, posteriores a aquel en que se dictasen, o en el siguiente día hábil, si alguno de ellos fuere feriado. Al efecto, el Juzgado o Tribunal fijaría los días de notificaciones en al primera providencia que dictare en el juicio. No se considerará cumplida la notificación si el expediente no se encontrare en Secretaría y se hiciere constar esta circunstancia en el libro que se llevará al efecto.",
+      "content": "Serán notificadas personalmente o por cédula la demanda y la reconvención, la citación de comparendo para el desalojo, la citación de testigos y para absolución de posiciones, la resolución que designa audiencia para recibir la prueba y la sentencia."
+    },
+    {
+      "provision_ref": "art395",
+      "chapter": "CAPITULO I",
+      "section": "395",
+      "title": "Artículo 395. Los plazos que se establecen en este Libro son perentorios e improrrogables.",
+      "content": "Sólo por causa grave, invocada y documentada con anticipación podrá diferirse una audiencia por una vez y por un término no mayor de cinco días. La perención de instancia se regirá por la Ley N° 664 de 1924."
+    },
+    {
+      "provision_ref": "art397",
+      "chapter": "CAPITULO I",
+      "section": "397",
+      "title": "Artículo 397. Sólo serán apelables:",
+      "content": "Las sentencias definitivas en juicio ordinario; la que ordene o deniegue el desalojo; la que rechace la ejecución, o la que mande llevar ésta adelante cuando se hubieren opuesto excepciones y producidas pruebas sobre ellas; el auto que rechace de oficio la demanda por no ajustarse a las formas previstas y el que declare la cuestión de puro derecho; el que declare nulidad de las actuaciones y el que decrete la perención de instancia."
+    },
+    {
+      "provision_ref": "art398",
+      "chapter": "CAPITULO I",
+      "section": "398",
+      "title": "Artículo 398. Si en los casos previstos se denegase la apelación podrá recurrirse en queja dentro de las cuarenta y ocho horas al Tribunal de Apelación. La queja deberá resolverse en igual término, previo requerimiento de autos.",
+      "content": "CAPITULO II \n \n DISPOSICIONES PARA JUICIOS ESPECIALES \n EMBARGO PREVENTIVO"
+    },
+    {
+      "provision_ref": "art400",
+      "chapter": "CAPITULO II",
+      "section": "400",
+      "title": "Artículo 400. Si dentro de tercero día de trabado el embargo preventivo o anotada la inhibición, el actor no preparare la acción ejecutiva o no promoviere el juicio correspondiente quedará sin efecto, debiendo ordenarse, de oficio, su levantamiento.",
+      "content": "JUICIO EJECUTIVO"
+    },
+    {
+      "provision_ref": "art404",
+      "chapter": "CAPITULO II",
+      "section": "404",
+      "title": "Artículo 404. Las únicas excepciones admisibles en el juicio ejecutivo son:",
+      "content": "a) incompetencia de jurisdicción;\n \n b) falta de personería en el demandante, en el demandado o procuradores o apoderados;\n \n c) litis pendencia en otro Juzgado o Tribunal competente;\n \n d) falsedad o inhabilidad del título con que se pide la ejecución, entendiéndose que ésta excepción se refiere únicamente a las formas externas del título;\n \n e) prescripción;\n \n f) pago;\n \n g) compensación de crédito líquido con que resulte de documento que traiga aparejada ejecución;\n \n h) quita, espera o remisión comprobadas por escrito, que se presentará en el acto de oponer la excepción; o\n \n i) novación, transacción o compromiso, acreditados en la misma forma que la anterior."
+    },
+    {
+      "provision_ref": "art406",
+      "chapter": "CAPITULO II",
+      "section": "406",
+      "title": "Artículo 406. Si el título no trae aparejada ejecución por sí mismo, ésta se preparará en la forma autorizada por el Código de procedimientos Civil y el Comercial.",
+      "content": "JUICIO DE DESALOJO"
+    },
+    {
+      "provision_ref": "art411",
+      "chapter": "CAPITULO II",
+      "section": "411",
+      "title": "Artículo 411. Resultando de la demanda o de la contestación que existen sub-inquilinos, se les dará conocimiento de la demanda, sin que esto importe reconocerles personería en el juicio. Además, se les notificará la sentencia de desalojo.",
+      "content": "CAPITULO III \n PROCEDIMIENTO DE SEGUNDA INSTANCIA"
+    },
+    {
+      "provision_ref": "art413",
+      "chapter": "CAPITULO III",
+      "section": "413",
+      "title": "Artículo 413. El Tribunal podrá decretar medidas para mejor proveer que se diligenciarán en el término de tres días. Dictará sentencia, sin otro trámite en un plazo que no excederá en ningún caso de ocho días.",
+      "content": "DISPOSICIONES GENERALES Y TRANSITORIAS"
+    },
+    {
+      "provision_ref": "art418",
+      "chapter": "CAPITULO III",
+      "section": "418",
+      "title": "Artículo 418. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL HONORABLE CONGRESO NACIONAL A LOS DIEZ Y NUEVE DIAS DEL MES DE NOVIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA Y UNO."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "- En única instancia",
+      "definition": "a) de las acciones y excepciones para declarar la inconstitucionalidad de las leyes y la inaplicabilidad de las disposiciones contrarias a la Constitución Nacional; b) del recurso de Habeas Corpus; c) de la nacionalidad y de su pérdida d) de los pedidos de exoneración de los Servicio Militar Obligatorio; e) de las cuestiones de competencia entre los Tribunales y Juzgados inferiores o entre éstos y los Tribunales Militares o los funcionarios del Poder Ejecutivo; f) del enjuiciamiento y remoción de los Jueces y Magistrados Judiciales de los Miembros del Ministerio Público y de la Defensa Pública, conforme a las disposiciones de éste Código; g) de la recusación de la inhibición e impugnación de inhibición de los Miembros de la misma Corte Suprema de Justicia, del Tribunal de Cuentas y de los Tribunales de Apelación; h) de los recursos de reposición y aclaratoria, y de los pedidos de ampliatoria interpuestos contra sus decisiones, e; i) de las quejas por denegación de recursos o por retardo de justicia impuesta contra el Tribunal de Cuentas y los Tribunales de Apelación. 2.- Entenderá por vía de apelación y nulidad: a) de las sentencias definitivas dictadas por el Tribunal de Cuentas y de los Tribunales de Apelación que modifiquen o revoquen las de Primera Instancia; conforme a las disposiciones de los Códigos Procesales y a la Leyes respectivas; b) de las resoluciones originarias de los Tribunales de la Apelación en lo Civil, Comercial y Criminal y de Cuentas, y; c) de las sentencias de los Tribunales de Apelación que impongan pena de muerte o penitenciaria desde quince a treinta años, las que no causarán ejecutoria sin el pronunciamiento de la Corte Suprema de Justicia. Contra estas sentencias se entenderán siempre deducidas a los recursos de apelación y nulidad aunque las partes se consientan",
+      "source_provision": "art28"
+    }
+  ]
+}

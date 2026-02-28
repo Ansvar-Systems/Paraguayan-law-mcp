@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-1051",
+  "type": "statute",
+  "title": "Ley Nº 3519 / DE PROTECCIÓN DE LOS DATOS DE PRUEBA SOLICITADOS POR LA AUTORIDAD SANITARIA PARA LA APROBACIÓN DE PRODUCTOS FITOSANITARIOS.",
+  "title_en": "Ley Nº 3519 / DE PROTECCIÓN DE LOS DATOS DE PRUEBA SOLICITADOS POR LA AUTORIDAD SANITARIA PARA LA APROBACIÓN DE PRODUCTOS FITOSANITARIOS.",
+  "short_name": "Ley N° 3519",
+  "status": "in_force",
+  "issued_date": "2008-06-25",
+  "in_force_date": "2008-07-10",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/1051/ley-n-3519-de-proteccion-de-los-datos-de-prueba-solicitados-por-la-autoridad-sanitaria-para-la-aprobacion-de-productos-fitosanitarios",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. A los fines de la presente Ley, se entiende por:",
+      "content": "a) INFORMACION NO DIVULGADA: Toda clase de información técnica, comercial o de negocios que:\n 1) sea secreta, en el sentido de que no sea, como conjunto o en la configuración y composición precisa de sus elementos, generalmente conocida, ni fácilmente accesible por personas introducidas en los círculos en que normalmente se utiliza el tipo de información en cuestión;\n 2) tenga valor comercial, por ser secreta; y,\n 3) haya sido objeto por parte de la persona física o jurídica que la haya producido o la tenga legítimamente bajo su control, de medidas razonables para mantenerla secreta.\n b) ADQUISICION CONTRARIA A LOS USOS COMERCIALES HONESTOS: Representa conductas ilícitas o antijurídicas de incumplimiento de cláusulas de confidencialidad en contratos, abusos de confianza, violación de secretos, instigación a la infracción y adquisición de información no divulgada, por terceros que hayan sabido que la adquisición implicaba tales prácticas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. La Autoridad Fitosanitaria deberá reglamentar sus funciones en concordancia con lo dispuesto en el Artículo 3°, quedando dispensada de dicha obligación, cuando la Información No Divulgada sea necesaria para proteger la seguridad y sanidad vegetal, animal y humana o el medio ambiente.",
+      "content": "No obstante lo dispuesto en el párrafo anterior, las autoridades competentes podrán utilizar la información y los datos de prueba sin divulgarla, cuando sean requeridos conforme a las reglamentaciones sobre registros de productos fitosanitarios para evaluar otros productos similares admitidos por la legislación vigente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Queda expresamente exceptuada de la confidencialidad para el registro de productos agroquímicos, la siguiente información:",
+      "content": "a) nombre, contenido y origen de principios activos en productos formulados y de las empresas registrantes;\n b) métodos y recomendaciones de transporte, almacenaje, tratamientos de incendio y otros riesgos;\n c) medios de disposición de envases y residuos;\n d) procedimientos de descontaminación;\n e) primeros auxilios y ayuda médica en caso de daño a las personas; \n f) un sumario de los test que establecen la eficacia y los efectos de la sustancia activa o el producto formulado, respecto de las personas, animales, vegetales y el ambiente;\n g) métodos de análisis de residuos; y,\n h) métodos de análisis de las impurezas de relevancia toxicológica o ecotoxicológica (de declaración obligatoria)."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los dieciocho días del mes de marzo del año dos mil ocho, y por la Honorable Cámara de Senadores, a los cinco días del mes de junio del año dos mil ocho, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 207, numeral 1 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

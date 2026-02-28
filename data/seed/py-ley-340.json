@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-340",
+  "type": "statute",
+  "title": "Ley Nº 4224 / CREA CIRCUNSCRIPCIÓN JUDICIAL DEL DEPARTAMENTO BOQUERÓN",
+  "title_en": "Ley Nº 4224 / CREA CIRCUNSCRIPCIÓN JUDICIAL DEL DEPARTAMENTO BOQUERÓN",
+  "short_name": "Ley N° 4224",
+  "status": "in_force",
+  "issued_date": "2010-12-16",
+  "in_force_date": "2010-12-20",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/340/ley-n-4224-crea-circunscripcion-judicial-del-departamento-boqueron",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Esta Circunscripción Judicial se compondrá de:",
+      "content": "a) un Tribunal de Apelación en lo Civil, Comercial, Penal, Laboral, Niñez y Adolescencia;\nb) un Juzgado Penal de Garantías;\nc) un Juzgado de Ejecución;\nd) un Juzgado Penal de Sentencia;\ne) un Juzgado Civil, Comercial y Laboral;\nf) un Juzgado de la Niñez y Adolescencia;\ng) los Juzgados de Primera Instancia y Juzgados de Paz en funcionamiento;\nh) un Juzgado Electoral;\ni) una Fiscalía en lo Civil, Comercial, Laboral, Criminal, Tutelar y Correccional del Menor;\nj) una Fiscalía en lo Electoral;\nk) una Defensoría General de Reos Pobres, Ausentes e Incapaces; y,\nl) las Secretarías, Personal Administrativo y Auxiliar correspondiente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veintiséis días del mes de agosto del año dos mil diez, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a veinticinco días del mes de noviembre del año dos mil diez, de conformidad a lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

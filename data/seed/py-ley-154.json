@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-154",
+  "type": "statute",
+  "title": "Ley Nº 3480 / AMPLIA LA TARIFA SOCIAL DE ENERGIA ELECTRICA",
+  "title_en": "Ley Nº 3480 / AMPLIA LA TARIFA SOCIAL DE ENERGIA ELECTRICA",
+  "short_name": "Ley N° 3480",
+  "status": "in_force",
+  "issued_date": "2008-05-27",
+  "in_force_date": "2008-07-24",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/154/ley-n-3480-amplia-la-tarifa-social-de-energia-electrica",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Se establecen tres (3) rangos de consumo mensual de energía eléctrica para usuarios familiares del grupo de consumo residencial, y a las Juntas de Saneamiento de Agua, dentro de los cuales podrán acceder a la tarifa social:",
+      "content": "a) Los usuarios familiares del grupo de consumo residencial y a las Juntas de Saneamiento de Agua, que utilicen entre 0 (cero) y 100 kWh (kilovatios hora) por mes, quienes tendrán una tarifa igual al 25 % (veinticinco por ciento) de la tarifa residencial normal, inclusive IVA. \nb) Los usuarios familiares del grupo de consumo residencial y a las Juntas de Saneamiento de Agua, que utilicen entre 101 y hasta 200 kWh (kilovatios hora) por mes quienes tendrán una tarifa igual al 50% (cincuenta por ciento) de la tarifa residencial normal, inclusive IVA.\nc) Los usuarios familiares del grupo de consumo residencial y a las Juntas de Saneamiento de Agua, que utilicen entre 201 y hasta 300 kWh (kilovatios hora) por mes quienes tendrán una tarifa igual al 75% (setenta y cinco por ciento) de la tarifa residencial normal, inclusive IVA."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Una vez implantada la tarifa social en los tres (3) rangos establecidos en esta Ley, se aplicará igual criterio para el tratamiento de la deuda que hayan acumulado usuarios del grupo residencial y a las Juntas de Saneamiento de Agua, hasta la fecha. La condonación será realizada por única vez, en el primer mes de plena vigencia de esta Ley, y sólo podrán acceder a tal condonación aquellos nuevos clientes sociales, según los siguientes rangos:",
+      "content": "a) Aquellos usuarios que adeuden a la Administración Nacional de Electricidad (ANDE) un global acumulado que resulte de un consumo igual o inferior a 100 kWh/mes, su deuda tendrá una quita del 75% (setenta y cinco por ciento).\nb) Aquellos usuarios que adeuden a la Administración Nacional de Electricidad (ANDE) un global acumulado que resulte de un consumo comprendido entre 101 y 200 kWh/mes, su deuda tendrá una quita del 50% (cincuenta por ciento).\nc) Aquellos usuarios que adeuden a la Administración Nacional de Electricidad (ANDE) un global acumulado que resulte de un consumo comprendido entre 201 y 300 kWh/mes, su deuda tendrá una quita del 25% (veinticinco por ciento).\nTodos estos rangos residenciales de consumo eléctrico, tendrán exoneración de todo tipo de intereses y el saldo resultante de la deuda será automáticamente financiado por la Administración Nacional de Electricidad (ANDE) al usuario en guaraníes, en un plazo de 48 (cuarenta y ocho) meses y sin intereses, salvo que el usuario solicite pagarlo anticipadamente."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los quince días del mes de noviembre del año dos mil siete, y por la Honorable Cámara de Senadores, a los veintinueve días del mes de abril del año dos mil ocho, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

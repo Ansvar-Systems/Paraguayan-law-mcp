@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-2468",
+  "type": "statute",
+  "title": "Ley Nº 70 / ESTABLECE UN IMPUESTO A DETERMINADAS ENTIDADES ECONOMICAS",
+  "title_en": "Ley Nº 70 / ESTABLECE UN IMPUESTO A DETERMINADAS ENTIDADES ECONOMICAS",
+  "short_name": "Ley N° 70",
+  "status": "in_force",
+  "issued_date": "1968-12-26",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2468/ley-n-70-establece-un-impuesto-a-determinadas-entidades-economicas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Establécese un impuesto anual a cargo de:",
+      "content": "a) las sociedades anónimas;\n b) las sociedades en comandita por acciones;\n c) las sociedades de economía mixta; y\n d) las filiales de sociedades anónimas, en comandita por acciones y de economía mixta, extranjeras, que funcionan en el país en carácter de sucursales, agencias o bajo otra denominación."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. El impuesto establecido por ésta Ley se calculará en ½ % (un medio por ciento) sobre el capital integrado y las reservas acumuladas de las entidades mencionadas en el artículo precedente, de los cuales se deducirán:",
+      "content": "a) el importe de las acciones invertidas en otras entidades sujetas a este impuesto;\n b) la pérdida del ejercicio al que corresponde el impuesto, resultante en el balance comercial de la firma; y\n c) el Impuesto a la renta del ejercicio al que corresponda el pago del impuesto."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL A LOS VEINTE DIAS DEL MES DE DICIEMBRE DEL AÑO MIL NOVENCIENTOS SESENTA Y OCHO."
+    }
+  ],
+  "definitions": []
+}

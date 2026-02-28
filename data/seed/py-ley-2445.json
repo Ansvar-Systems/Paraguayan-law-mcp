@@ -1,0 +1,42 @@
+{
+  "id": "py-ley-2445",
+  "type": "statute",
+  "title": "Ley Nº 302 / EXONERA DEL PAGO DE TRIBUTOS LAS DONACIONES OTORGADAS A FAVOR DEL ESTADO Y DE OTRAS INSTITUCIONES Y MODIFICA EL ARTICULO 184 DE LA LEY No. 1.173/85",
+  "title_en": "Ley Nº 302 / EXONERA DEL PAGO DE TRIBUTOS LAS DONACIONES OTORGADAS A FAVOR DEL ESTADO Y DE OTRAS INSTITUCIONES Y MODIFICA EL ARTICULO 184 DE LA LEY No. 1.173/85",
+  "short_name": "Ley N° 302",
+  "status": "in_force",
+  "issued_date": "1993-12-17",
+  "in_force_date": "1993-12-29",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2445/ley-n-302-exonera-del-pago-de-tributos-las-donaciones-otorgadas-a-favor-del-estado-y-de-otras-instituciones-y-modifica-el-articulo-184-de-la-ley-no-117385",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPITULO II",
+      "section": "2",
+      "title": "Artículo 2. Estarán exentas de todo tributo las donaciones efectuadas por personas físicas o jurídicas, nacionales o extranjeras a favor de:",
+      "content": "a) El Estado Paraguayo;\n b) Las reparticiones de la Administración Pública;\n c) Los Entes Autárquicos, Autónomos y Descentralizados;\n d) Las Sociedades de Economía Mixta;\n e) Las Entidades Binacionales; y,\n f) Los Gobiernos Departamentales y Municipales.\n Las donaciones de los Estados Extranjeros y Organismos Internacionales, y de personas físicas o jurídicas, nacionales o extranjeras, a favor de las entidades religiosas reconocidas por las autoridades competentes, de las entidades de asistencia social, caridad, beneficencia, educación e instrucción científica, literaria, artística, gremial, de cultura física y deportiva, así como de las asociaciones, federaciones, fundaciones, corporaciones y demás entidades con personería jurídica, siempre que no persigan fines de lucro y que las utilidades o excedentes no sean distribuidos directa o indirectamente entre sus asociados o integrantes, gozarán de todos los privilegios previstos en la presente Ley.\n CAPITULO III \n De las Disposiciones Generales"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPITULO III",
+      "section": "5",
+      "title": "Artículo 5. Los bienes introducidos al país al amparo de las exoneraciones contempladas en la presente Ley no podrán ser vendidos ni cedidos su uso a terceros, antes de que hayan transcurrido 5 (cinco) años, contados desde la fecha de la apertura de registro de los bienes en la Aduana.",
+      "content": "Transcurrido el plazo, cualquier acto de disposición sobre dichos bienes, que constituya transferencia de dominio o cesión del uso de los mismos en beneficio de terceros, será autorizado por resolución del Ministerio de Hacienda."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPITULO III",
+      "section": "9",
+      "title": "Artículo 9. Modificase el Artículo 184 de la Ley 1.173 de fecha 23 de diciembre de 1985 \"Código Aduanero\" que quedará redactado como sigue:",
+      "content": "\"Art. 184. Beneficiarios de la Liberación. La liberación de gravamenes aduaneros no procederá sino respecto de mercaderías consignadas desde el exterior directamente a nombre de la entidad o persona beneficiaria, con documentación a nombre de la misma."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPITULO III",
+      "section": "11",
+      "title": "Artículo 11. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el treinta de noviembre del año un mil novecientos noventa y tres y por la Honorable Cámara de Diputados, sancionándose la Ley el diez y siete de diciembre del año un mil novecientos noventa y tres."
+    }
+  ],
+  "definitions": []
+}

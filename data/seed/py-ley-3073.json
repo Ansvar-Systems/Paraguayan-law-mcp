@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-3073",
+  "type": "statute",
+  "title": "Ley Nº 806 / AUTORIZA AL PODER EJECUTIVO A CONSTITUIR UNA ENTIDAD DE ECONOMIA MIXTA, PARA LA EXPLOTACIÓN DE LA REFINERÍA DE PETROLEO.",
+  "title_en": "Ley Nº 806 / AUTORIZA AL PODER EJECUTIVO A CONSTITUIR UNA ENTIDAD DE ECONOMIA MIXTA, PARA LA EXPLOTACIÓN DE LA REFINERÍA DE PETROLEO.",
+  "short_name": "Ley N° 806",
+  "status": "in_force",
+  "issued_date": "1980-08-18",
+  "in_force_date": "1980-09-03",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3073/ley-n-806-autoriza-al-poder-ejecutivo-a-constituir-una-entidad-de-economia-mixta-para-la-explotacion-de-la-refineria-de-petroleo",
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. El capital autorizado de la entidad será de cinco mil millones de guaraníes.",
+      "content": "El capital integrado inicialmente será de mil doscientos millones de guaraníes, realizado en la siguiente forma:\n a) El Estado, con el sesenta por ciento, que cubrirá con parte del valor de las instalaciones, inmuebles y demás componentes del patrimonio a transferírsele por la Refinería Paraguaya S.A. por cese de la concesión establecida por la Ley N° 847/62 .\n b) La Refinería Paraguaya S.A., con el cuarenta por ciento en efectivo."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Los aumentos del capital integrado serán determinados por el Directorio de la entidad con aprobación del Poder Ejecutivo.",
+      "content": "En cada caso de los referidos aumentos, corresponderá al Estado un mínimo del sesenta por ciento y la preferencia para la adquisición de los aportes a ser transferidos.\n Las transferencias de aportes serán autorizadas por el Poder Ejecutivo."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. La Dirección y administración de PETROPAR estará a cargo de un Directorio compuesto de cinco miembros, a saber.",
+      "content": "a) Tres miembros nombrados por el Poder Ejecutivo a propuesta de los Ministerios de Hacienda e Industria y Comercio y del Banco Central del Paraguay.\n b) Dos miembros nombrados por la Refinería Paraguaya S.A. Los miembros titulares del Directorio tendrán sus respectivos suplentes"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Artículo 23. Comuníquese al Poder Ejecutivo.-",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS DIEZ Y OCHO DIAS DEL MES DE AGOSTO DEL AÑO UN MIL NOVECIENTOS OCHENTA"
+    }
+  ],
+  "definitions": []
+}

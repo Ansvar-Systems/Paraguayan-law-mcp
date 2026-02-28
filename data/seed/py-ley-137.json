@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-137",
+  "type": "statute",
+  "title": "Ley Nº 169 / MODIFICA LA LEY DEL 17 DE OCTUBRE DE 1898",
+  "title_en": "Ley Nº 169 / MODIFICA LA LEY DEL 17 DE OCTUBRE DE 1898",
+  "short_name": "Ley N° 169",
+  "status": "in_force",
+  "issued_date": "1915-11-30",
+  "in_force_date": "1915-11-30",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/137/ley-n-169-modifica-la-ley-del-17-de-octubre-de-1898",
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Exceptuanse de la obligación de prestar servicio personal:",
+      "content": "1º Los incapacitados físicamente: \n 2º Los empleados a sueldo de la Nación: \n 3º Los Empleados y peones de las empresas de ferrocarriles y tramways, quedando estas obligadas a extinguir los huevos y larvas de langostas en los terrenos de su propiedad, con la intervención de las comisiones en este trabajo."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. los infractores al artículo 7 serán penados con una multa equivalente al doble de la cuota de redención, la que en defecto de pago, será sustituida por el arresto a razón de dos días de detención por cada día de trabajo. Los infractores al artículo 8 inciso 3 con multa de cien a quinientos pesos fuertes, los infractores al artículo 11 con multa de veinte a cien pesos fuertes.",
+      "content": "En estos dos casos la multa será sustituida por arresto de acuerdo con el Código Rural, debiendo en el caso del artículo 8 inciso 3 hacerse el efectivo en la persona de los Gerentes de las empresas mencionadas."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Artículo 20. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la sala de sesiones de la Honorable Congreso Legislativo a los diez y nueve días del mes de noviembre de mil novecientos quince."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "py-ley-513",
+  "type": "statute",
+  "title": "Ley Nº 4033 / DEL ARANCEL CONSULAR",
+  "title_en": "Ley Nº 4033 / DEL ARANCEL CONSULAR",
+  "short_name": "Ley N° 4033",
+  "status": "in_force",
+  "issued_date": "2010-07-14",
+  "in_force_date": "2010-07-20",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/513/ley-n-4033-del-arancel-consular",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "CAPITULO I",
+      "section": "1",
+      "title": "Artículo 1. Actos y documentos gravados: quedan sujetos al pago de derechos consulares, que se perciben como tasas correspondientes a la intervención y actuación de los consulados nacionales en el exterior:",
+      "content": "a) los documentos públicos o privados, de fuente extranjera, destinados a producir efectos jurídicos en el territorio de la República; y\nb) los documentos públicos o privados otorgados en el territorio de la República, destinados a surtir efectos jurídicos en el exterior."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPITULO I",
+      "section": "4",
+      "title": "Artículo 4. Ordenamiento del Arancel: las actuaciones que dan origen a la percepción de derechos del arancel, se sistematizan en la siguiente forma:",
+      "content": "CAP. I. NAVEGACION\na) Transporte marítimo o fluvial. (1a Sección)\nb) Tripulación. (2a Sección)\nc) Operaciones diversas sobre buques. (3a Sección)\nd) Averías y litigios. (4a Sección)\nCAP. II. AERONAVEGACION\nCAP. III. TRANSPORTE FERROVIARIO\nCAP. IV. TRANSPORTE TERRESTRE\nCAP. V. COMERCIO\na) Operaciones de importación. (1a Sección)\nb) Operaciones varias. (2a Sección)\nCAP. VI. ESTADO CIVIL DE LAS PERSONAS\nCAP. VII. PASAPORTES Y OTROS DOCUMENTOS DE IDENTIDAD\nCAP. VIII. ACTUACIONES NOTARIALES\nCAP. IX. MISCELANEAS\nCAP. X. DERECHOS ARANCELARIOS ESPECIALES\nCAP. XI. ACTOS JURIDICOS\n \n CAPITULO II \n Disposiciones normativas"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPITULO II",
+      "section": "5",
+      "title": "Artículo 5. Aplicación del Arancel: las oficinas consulares no podrán percibir derechos más elevados que los consignados en este arancel.",
+      "content": "En todos los documentos, se anotarán:\n1- El número de orden del registro consular.\n2- La referencia a los párrafos, notas o artículos del arancel que correspondan a los derechos percibidos.\n3- El importe total de los derechos percibidos y su equivalencia en la moneda en que hubiesen sido abonados.\nCuando se trate de actuaciones gratuitas, se hará constar esa circunstancia, con la leyenda \"NO COBRADO\" y la referencia a la disposición legal pertinente."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPITULO II",
+      "section": "6",
+      "title": "Artículo 6. Forma de percepción de los derechos: salvo disposición en contrario en la presente Ley o en las reglamentaciones a dictarse, los funcionarios consulares están obligados a percibir el importe, conforme el Artículo 3° de la presente Ley referente a las estampillas correspondientes, que deberán ser adheridas a los documentos e inutilizadas de inmediato, salvo que el Ministerio de Relaciones Exteriores reglamente la utilización de otros comprobantes.",
+      "content": "En los casos autorizados por esta Ley o excepcionalmente por falta de valores, previa autorización del Ministerio de Relaciones Exteriores, los documentos serán provistos del sello \"A REPONER\", difiriéndose el pago al momento de la certificación de firmas en el Ministerio de Relaciones Exteriores de la República del Paraguay."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPITULO II",
+      "section": "9",
+      "title": "Artículo 9. Buques: a los efectos del presente arancel, entiéndase por “buque” toda clase de embarcación provista o no de propulsión propia.",
+      "content": "Con excepción de los remolcadores, cualquiera sea su tonelaje, las disposiciones del presente arancel no se aplicarán a los buques de menos de 100 (cien) toneladas de registro bruto.\nEl presente arancel libera de toda clase de derechos consulares a los buques de guerra, nacionales o extranjeros y, en general, a los que no se destinen a obtener beneficios pecuniarios de la conducción de pasajeros o mercaderías."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPITULO II",
+      "section": "10",
+      "title": "Artículo 10. Tonelaje de los buques. Cómputo: cuando en este arancel los derechos consulares estén referidos al tonelaje de los buques, se tomará como tonelaje mínimo el de 100 (cien) toneladas de registro bruto, aunque el tonelaje exacto fuese menor.",
+      "content": "En los buques de más de cien toneladas de registro bruto, se tomará como base del cómputo, el múltiplo de 100 (cien) que coincida con el tonelaje exacto o lo exceda inmediatamente.\nEl Ministerio de Relaciones Exteriores podrá autorizar, por resolución fundada, el cómputo del Arancel Consular en base al tonelaje neto del buque para honrar los compromisos internacionales asumidos por la República del Paraguay. \n TITULO II \n TABLA ARANCELARIA"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "TITULO II",
+      "section": "11",
+      "title": "Artículo 11. Derechos Arancelarios: para todas las actuaciones consulares regirán las disposiciones arancelarias que a continuación se expresan.",
+      "content": "(VER PDF) \n DISPOSICIONES ADMINISTRATIVAS Y FINANCIERAS"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "TITULO II",
+      "section": "12",
+      "title": "Artículo 12. Recaudaciones: las recaudaciones provenientes de los derechos consulares serán remitidas al Ministerio de Relaciones Exteriores para ser depositadas en una cuenta habilitada por la Dirección General del Tesoro, en moneda extranjera y serán consideradas como “Recurso Institucional” del Ministerio de Relaciones Exteriores.",
+      "content": "Las mismas serán destinadas exclusivamente para financiar los programas del presupuesto de dicho Ministerio. Los derechos correspondientes al Título II, Capítulo X del presente Arancel “Derechos Arancelarios Especiales”, constituyen recursos correspondientes a las representaciones diplomáticas y consulares, para gastos de operación y mantenimiento dentro de los límites de gastos establecidos por el Ministerio de Relaciones Exteriores."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "TITULO II",
+      "section": "17",
+      "title": "Artículo 17. Fuero de pobreza: los residentes paraguayos en el exterior, cónyuge e hijos menores con fuero de pobreza, comprobado por los respectivos funcionarios consulares, serán eximidos del pago de los derechos correspondientes a las actuaciones necesarias previstas en esta Ley.",
+      "content": "Los funcionarios concederán esta exoneración excepcionalmente en los casos indispensables y con criterio restrictivo."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "TITULO II",
+      "section": "21",
+      "title": "Artículo 21. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a treinta días del mes de marzo del año dos mil diez, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a diecisiete días del mes de junio del año dos mil diez, de conformidad a lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

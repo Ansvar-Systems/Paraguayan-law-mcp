@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-3941",
+  "type": "statute",
+  "title": "Ley Nº 129 / CONCEDE Y AUMENTA PENSION GRACIABLE A VARIAS PERSONAS",
+  "title_en": "Ley Nº 129 / CONCEDE Y AUMENTA PENSION GRACIABLE A VARIAS PERSONAS",
+  "short_name": "Ley N° 129",
+  "status": "in_force",
+  "issued_date": "1991-12-27",
+  "in_force_date": "1992-01-13",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3941/ley-n-129-concede-y-aumenta-pension-graciable-a-varias-personas",
+  "provisions": [
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Artículo 45. Auméntase la pensión graciable concedida a la señora",
+      "content": "ulia Espínola Vda. de Díaz, esposa del ex-combatiente de la Guerra del Chaco y jubilado Sgto. 11 Pedro A. Díaz Villar, a G. 250.000 (Doscientos cincuenta mil guaraníes), mensuales."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Artículo 99. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de de Diputados a seís días del mes de diciembre del año un mil novecientos noventa y uno y por la Honorable Cámara de Senadores, sancionándose la Ley, a veintisiete días del mes de diciembre del año un mil novecientos noventa y uno."
+    }
+  ],
+  "definitions": []
+}

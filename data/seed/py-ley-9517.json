@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-9517",
+  "type": "statute",
+  "title": "Ley Nº 6710 / AUTORIZA LA OPERACIÓN Y HABILITACIÓN EXCEPCIONAL Y TEMPORAL DE VEHÍCULOS ESPECIALES PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO TERRESTRE DE PASAJEROS",
+  "title_en": "Ley Nº 6710 / AUTORIZA LA OPERACIÓN Y HABILITACIÓN EXCEPCIONAL Y TEMPORAL DE VEHÍCULOS ESPECIALES PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO TERRESTRE DE PASAJEROS",
+  "short_name": "Ley N° 6710",
+  "status": "in_force",
+  "issued_date": "2021-03-16",
+  "in_force_date": "2021-03-17",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9517/ley-n-6710-autoriza-la-operacion-y-habilitacion-excepcional-y-temporal-de-vehiculos-especiales-para-la-prestacion-del-servicio-de-transporte-publico-terrestre-de-pasajeros",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Facúltase a las autoridades de aplicación de esta Ley, a otorgar permisos y habilitar vehículos especiales de manera excepcional y temporal, para la prestación de las distintas modalidades de servicios públicos de transporte, obviando los procesos de licitación pública establecidos y cumpliendo con los protocolos de la autoridad competente, en los siguientes casos:",
+      "content": "a) Emergencias sanitarias. \n b) Catástrofes. \n c) Cualquier otra circunstancia extraordinaria o inusual, que ponga en peligro o afecte la prestación normal de cualquiera de las modalidades del transporte público de pasajeros."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. A los efectos de esta Ley, se entenderá por vehículos especiales aquellas unidades de transporte cuyas carrocerías estén montadas sobre chasis específicamente diseñados para el transporte de pasajeros.",
+      "content": "Ómnibus, minibús, minivan, furgonetas que son generalmente empleados para el transporte escolar, y turismo especial interurbano."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Los permisos y habilitaciones otorgados bajo la modalidad establecida en esta Ley serán de carácter excepcional, tendrán una duración máxima e improrrogable de 1 (un) año, pudiendo las autoridades de aplicación limitarlas a un plazo inferior, de acuerdo a cada caso.",
+      "content": "Los interesados en obtener el permiso y/o habilitación temporal y excepcional, deben acreditar ante la Dirección Nacional de Transporte o el Gabinete del Viceministro de Transporte, mediante la presentación de documentos vigentes, cuanto sigue: \n a) Licencia de Conducir, categoría profesional “A” o superiores. \n b) Título de propiedad que acredite la titularidad del dominio del vehículo a su nombre. \n c) Seguro de pasajeros vigente a nombre del titular. \n d) Seguro contra tercero vigente a nombre del titular. \n e) Habilitación del rodado del municipio de origen."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a un día del mes de octubre del año dos mil veinte , quedando sancionado el mismo por la Honorable Cámara de Diputados, a diez días del mes de marzo del año dos mil veintiuno , de conformidad con lo dispuesto en el Artículo 206 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

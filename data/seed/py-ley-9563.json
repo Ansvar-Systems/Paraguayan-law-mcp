@@ -1,0 +1,44 @@
+{
+  "id": "py-ley-9563",
+  "type": "statute",
+  "title": "Ley Nº 6725 / CREA UN FONDO NACIONAL PARA LA COBERTURA DE GASTOS DURANTE LA HOSPITALIZACIÓN EN UNIDADES DE CUIDADOS INTENSIVOS DE PERSONAS CON COVID-19 EN LOS SECTORES PÚBLICOS, PRIVADOS Y PREVISIONALES Y LA ADQUISICIÓN DE MEDICAMENTOS ESENCIALES PARA EL TRATAMIENTO DE TODOS LOS PACIENTES DE COVID-19.",
+  "title_en": "Ley Nº 6725 / CREA UN FONDO NACIONAL PARA LA COBERTURA DE GASTOS DURANTE LA HOSPITALIZACIÓN EN UNIDADES DE CUIDADOS INTENSIVOS DE PERSONAS CON COVID-19 EN LOS SECTORES PÚBLICOS, PRIVADOS Y PREVISIONALES Y LA ADQUISICIÓN DE MEDICAMENTOS ESENCIALES PARA EL TRATAMIENTO DE TODOS LOS PACIENTES DE COVID-19.",
+  "short_name": "Ley N° 6725",
+  "status": "in_force",
+  "issued_date": "2021-04-15",
+  "in_force_date": "2021-04-15",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9563/ley-n-6725-crea-un-fondo-nacional-para-la-cobertura-de-gastos-durante-la-hospitalizacion-en-unidades-de-cuidados-intensivos-de-personas-con-covid-19-en-los-sectores-publicos-privados-y-previsionales-y-la-adquisicion-de-medicamentos-esenciales-para-el-tratamiento-de-todos-los-pacientes-de-covid-19",
+  "provisions": [
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. El Ministerio de Salud Pública y Bienestar Social, establecerá los precios máximos diarios de cobertura en el sector privado aplicables en establecimientos debidamente habilitados por la autoridad competente, los precios máximos de referencia de otros productos y servicios previstos en la presente Ley y reglamentará los mecanismos de pago correspondientes.",
+      "content": "En el caso de que la persona cuente con seguro médico, la cobertura en el ámbito de la presente Ley será la diferencia no cubierta por el mismo."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. El fondo creado por la presente Ley estará financiado hasta 90.000 (noventa mil) salarios mínimos, provenientes de:",
+      "content": "a) Los saldos no ejecutados de la Ley N° 6524/2020 “ QUE DECLARA ESTADO DE EMERGENCIA EN TODO EL TERRITORIO DE LA REPÚBLICA DEL PARAGUAY ANTE LA PANDEMIA DECLARADA POR LA ORGANIZACIÓN MUNDIAL DE LA SALUD A CAUSA DEL COVID-19 O CORONAVIRUS Y SE ESTABLECEN MEDIDAS ADMINISTRATIVAS, FISCALES Y FINANCIERAS” y ampliada por la Ley N° 6702/2020 “ QUE AMPLÍA LA VIGENCIA DE LOS ARTÍCULOS 1°, 6°, 10, 11, 12, 20, 42, 43, 44 Y 45 DE LA LEY N° 6524/2020 ‘ QUE DECLARA ESTADO DE EMERGENCIA EN TODO EL TERRITORIO DE LA REPÚBLICA DEL PARAGUAY ANTE LA PANDEMIA DECLARADA POR LA ORGANIZACIÓN MUNDIAL DE LA SALUD A CAUSA DEL COVID-19 O CORONAVIRUS Y SE ESTABLECEN MEDIDAS ADMINISTRATIVAS, FISCALES Y FINANCIERAS’, Y SUS MODIFICACIONES CORRESPONDIENTES EN LA LEY N° 6600/2020 Y LA LEY N° 6613/2020 , HASTA EL 30 DE JUNIO DE 2021”. \n A dicho efecto podrán ser redireccionados los créditos programados en el Ministerio de Salud Pública y Bienestar Social, a fin de destinarlos a los Objetos de Gastos que sean necesarios para dar cumplimiento a la presente Ley, incluido el Subgrupo de Objeto del Gasto 350, así como reasignar gastos de capital a gastos corrientes. \n b) Se autoriza al Poder Ejecutivo a utilizar los Fondos Socioambientales de la Itaipú Binacional y Entidad Binacional Yacyretá, a efectos de financiar el objeto de la presente Ley. \n c) Donaciones, asignaciones de recursos realizadas por el Ministerio de Hacienda u otras fuentes debidamente autorizadas en el marco legal vigente."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Autorízase al Poder Ejecutivo, a través del Ministerio de Hacienda, a reasignar una porción o el total de los saldos no comprometidos de los contratos de préstamos que hayan sido aprobados por Ley y se encuentran en etapa de ejecución; asimismo, reconocer que los documentos que instrumentan los términos de las adendas se consideran válidos y exigibles desde el momento de su firma por las partes.",
+      "content": "Los recursos reasignados se destinarán a la reposición de los recursos utilizados para financiar el fondo establecido en la presente Ley, a cuyo efecto se autoriza al Poder Ejecutivo, a través del Ministerio de Hacienda a reprogramar y/o ampliar el Presupuesto General de la Nación, hasta por el monto de 90.000 (noventa mil) salarios mínimos."
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. 0.- Adecuación presupuestaria.",
+      "content": "Autorízase al Ministerio de Hacienda, la adecuación de códigos, conceptos y la programación de montos consignados en la presente Ley, de acuerdo al Clasificador Presupuestario vigente, a las técnicas de programación de ingresos, gastos y financiamiento, al solo efecto de la correcta registración, imputación, y/o ejecución presupuestaria en el Ejercicio Fiscal vigente a la fecha de promulgación de la presente Ley."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. Comuníquese al Poder Ejecutivo.",
+      "content": "Arpobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los trece días del mes de abril del año dos mil veintiuno, quedando sancionado el mismo por la Honorable Cámara de Diputados, a los catorce días del mes de abril del año dos mil veintiuno, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "py-ley-252",
+  "type": "statute",
+  "title": "Ley Nº 704 / DERECHOS POLITICOS DE LA MUJER",
+  "title_en": "Ley Nº 704 / DERECHOS POLITICOS DE LA MUJER",
+  "short_name": "Ley N° 704",
+  "status": "in_force",
+  "issued_date": "1961-07-03",
+  "in_force_date": "1961-07-03",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/252/ley-n-704-derechos-politicos-de-la-mujer",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. - Comuníquese al Poder Ejecutivo.",
+      "content": "Dada la sala de Sesiones de la Honorable Cámara de Representantes de la Nación, a treinta de junio del año un mil novecientos sesenta y uno."
+    }
+  ],
+  "definitions": []
+}

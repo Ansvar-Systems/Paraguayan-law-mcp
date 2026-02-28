@@ -1,0 +1,62 @@
+{
+  "id": "py-ley-11435",
+  "type": "statute",
+  "title": "Ley Nº 694 / CREA EL INSTITUTO DE RED ACADEMICA PARAGUAYA DE COMUNICACION DE DATOS (NETPAR)",
+  "title_en": "Ley Nº 694 / CREA EL INSTITUTO DE RED ACADEMICA PARAGUAYA DE COMUNICACION DE DATOS (NETPAR)",
+  "short_name": "Ley N° 694",
+  "status": "in_force",
+  "issued_date": "1995-09-28",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/11435/ley-n-694-crea-el-instituto-de-red-academica-paraguaya-de-comunicacion-de-datos-netpar",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. o.- El NETPAR, como persona jurídica, se regirá por las disposiciones del derecho común en todo aquello que no fuere incompatible con las disposiciones de la presente Ley.",
+      "content": "De sus funciones e integración"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. o.- El NETPAR actuará como estación (nodo) de recepción e intermediación de datos por computadoras, local o internacional y estará constituido por un Consejo Directivo Multisectorial, integrado por un representante titular y un suplente, de cada una de las instituciones que se mencionan seguidamente:",
+      "content": "a) Cámara de Senadores de la Nación;\n b) Cámara de Diputados de la Nación;\n c) Ministerio de Educación y Culto;\n d) Entidad estatal reguladora de las telecomunicaciones; y,\n e) Dos representantes titulares y dos suplentes del Consejo de Universidades."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. o.- El Consejo del NETPAR designará a un Director General, ad-honorem, por elección directa de entre sus miembros, que ejercerá las funciones por el término de tres años, pudiendo ser reelecto. Ningún miembro del Consejo percibirá emolumento alguno por el ejercicio de su cargo.",
+      "content": "Atribuciones del Consejo"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. o.- El Consejo tendrá a su cargo las siguientes atribuciones:",
+      "content": "a) Implementar y poner en marcha la estación o nodo de comunicación y transferencia de datos, conforme a las exigencias tecnológicas impuestas por las normas internacionales sobre el tema, así como la creación de la infraestructura y de otras instalaciones necesarias y la adopción de todas aquellas medidas tendientes al desarrollo adecuado del proyecto;\n b) Gestionar ayuda o asistencia local o internacional mediante convenios que faciliten la instalación del mismo, así como la suscripción de los acuerdos para las interconexiones respectivas;\n c) Asesorar a toda persona física o jurídica que lo solicite en lo concerniente al campo de sus actividades; y,\n d) Establecer normas técnicas de equipos y demás elementos necesarios para la utilización del servicio."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. o.- El Director General ejercerá la representación legal de la entidad y dirigirá las operaciones de la misma, dando cumplimiento a las resoluciones del Consejo. Podrá, además, disponer el nombramiento del personal técnico y administrativo con acuerdo del Consejo y establecer sus funciones y demás deberes. Podrá, asimismo, contratar expertos nacionales y/o extranjeros para programas específicos de la institución requiriendo igual autorización.",
+      "content": "Patrimonio"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Los costos del servicio o los incrementos que se dispongan en el futuro serán establecidos por el Consejo en base a los estudios actuariales pertinentes y previa consulta con las organizaciones que integran la red, de tal manera a facilitar el acceso a las mismas a cuantías razonables, que faciliten su permanente utilización, evitando en lo posible la amortización de costos operacionales obtenidos en donación o cualquier otro que aumente indebidamente los costos del servicio.",
+      "content": "Exenciones tributarias"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. El NETPAR estará exento del pago de los tributos fiscales y gravámenes, que más abajo se enumeran, sus eventuales modificaciones o leyes que las sustituyan cuando se apliquen a los equipos, maquinarias y demás elementos necesarios para la puesta en funcionamiento de la estación de recepción e intermediación:",
+      "content": "1) Ley No. 1.095/84 , Gravamen Aduanero;\n 2) Ley No. 489/74, Servicio de Valoración Aduanera; y,\n 3) Decreto Ley No. 46/72, Arancel Consular."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el veintisiete de junio del año un mil novecientos noventa y cinco y por la Honorable Cámara de Diputados, sancionándose la Ley, el doce de setiembre del año un mil novecientos noventa y cinco."
+    }
+  ],
+  "definitions": []
+}

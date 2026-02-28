@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-4402",
+  "type": "statute",
+  "title": "Ley Nº 5410 / RECONOCE Y CERTIFICA LA DEUDA DEL MINISTERIO DE EDUCACIÓN Y CULTURA CON EL SEGURO SOCIAL OBLIGATORIO ADMINISTRADO POR EL INSTITUTO DE PREVISIÓN SOCIAL, Y AUTORIZA AL PODER EJECUTIVO A EMITIR BONOS DEL TESORO PÚBLICO PARA CANCELAR DICHA DEUDA",
+  "title_en": "Ley Nº 5410 / RECONOCE Y CERTIFICA LA DEUDA DEL MINISTERIO DE EDUCACIÓN Y CULTURA CON EL SEGURO SOCIAL OBLIGATORIO ADMINISTRADO POR EL INSTITUTO DE PREVISIÓN SOCIAL, Y AUTORIZA AL PODER EJECUTIVO A EMITIR BONOS DEL TESORO PÚBLICO PARA CANCELAR DICHA DEUDA",
+  "short_name": "Ley N° 5410",
+  "status": "in_force",
+  "issued_date": "2015-03-23",
+  "in_force_date": "2015-03-24",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4402/ley-n-5410-reconoce-y-certifica-la-deuda-del-ministerio-de-educacion-y-cultura-con-el-seguro-social-obligatorio-administrado-por-el-instituto-de-prevision-social-y-autoriza-al-poder-ejecutivo-a-emitir-bonos-del-tesoro-publico-para-cancelar-dicha-deuda",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. La emisión y colocación de los mencionados bonos podrán realizarse en el mercado local, así como en el internacional, en forma desmaterializada, en Guaraní o en moneda extranjera.",
+      "content": "La adquisición, negociación y renta de los bonos del Tesoro Público estarán exentas de todo tributo."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Los bonos del Tesoro Público podrán ser emitidos directamente por el Ministerio de Hacienda, a través del Banco Central del Paraguay o de un Agente Financiero autorizado por un contrato de servicios, para lo cual el Ministerio de Hacienda queda facultado a suscribirlo.",
+      "content": "Las tasas de interés, plazos, moneda y otras condiciones financieras específicas, serán determinadas por el Ministerio de Hacienda y sustentadas en estudios técnicos.\n El Ministerio de Hacienda pagará los honorarios, gastos de la oferta, de suscripciones, asesoría legal y otros gastos necesarios para la emisión y colocación de los bonos.\n Todos los actos jurídicos preparatorios, servicios de consultoría local o internacional y todos los demás actos y contratos relacionados con el objeto de la emisión y colocación, se consideran incluidos en lo dispuesto por el Artículo 2°, inciso e) de la Ley N° 2051/03 “DE CONTRATACIONES PÚBLICAS”."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Derógase la Ley N° 2181/03 “POR LA QUE SE AUTORIZA AL PODER.",
+      "content": "EJECUTIVO A EMITIR BONOS DEL TESORO NACIONAL”, por valor de U$S 10.000.000 (Dólares de los Estados Unidos de América diez millones) para amortizar la Deuda del Ministerio de Educación y Cultura con el Instituto de Previsión Social."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a cuatro días del mes de diciembre del año dos mil catorce, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a diecinueve días del mes de marzo del año dos mil quince, de conformidad a lo dispuesto en el Artículo 204 de la Constitución Nacional"
+    }
+  ],
+  "definitions": []
+}

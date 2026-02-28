@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-3857",
+  "type": "statute",
+  "title": "Ley Nº 4559 / ESTABLECE LA INSCRIPCION AUTOMATICA EN EL REGISTRO CIVICO PERMANENTE",
+  "title_en": "Ley Nº 4559 / ESTABLECE LA INSCRIPCION AUTOMATICA EN EL REGISTRO CIVICO PERMANENTE",
+  "short_name": "Ley N° 4559",
+  "status": "in_force",
+  "issued_date": "2012-01-16",
+  "in_force_date": "2012-01-17",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3857/ley-n-4559-establece-la-inscripcion-automatica-en-el-registro-civico-permanente",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Establécese que los paraguayos/as que cumplan dieciocho años de edad, que reúnan los requisitos para votar y que cuenten con cédula de identidad civil, serán inscriptos de manera automática en el Registro Cívico Permanente, dependiente de la Dirección del Registro Electoral.",
+      "content": "Este procedimiento se aplicará de forma permanente, en la medida que las personas cumplan la edad requerida."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a once días del mes de agosto del año dos mil once, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a un día del mes de diciembre del año dos mil once, de conformidad a lo dispuesto en el Artículo 211 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "py-ley-788",
+  "type": "statute",
+  "title": "Ley Nº 235 / CREA EL CONSERVATORIO NACIONAL DE MUSICA",
+  "title_en": "Ley Nº 235 / CREA EL CONSERVATORIO NACIONAL DE MUSICA",
+  "short_name": "Ley N° 235",
+  "status": "in_force",
+  "issued_date": "1993-07-19",
+  "in_force_date": "1993-07-19",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/788/ley-n-235-crea-el-conservatorio-nacional-de-musica",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. El Plan de Estudios comprenderá tres secciones que serán y se denominarán:",
+      "content": "- Arte Lírico y Teatral;\n- Instrumental; y,\n- Composición."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. El Consejo Nacional estará constituido por 5 (cinco) Miembros de reconocida solvencia intelectual y en carácter ad honorem, en la siguiente forma:",
+      "content": "- 1 (un) Representante del Ministerio de Educación y Culto;\n- 1 (un) Representante del Ministerio de Relaciones Exteriores;\n- 1 (un) Representante de la Universidad Nacional de Asunción;\n- 1 (un) Representante de la Universidad Católica; y,\n- 1 (un) Representante de la Municipalidad de Asunción.\nEstos Organismos elevarán las propuestas al Poder Ejecutivo que hará las designaciones pertinentes y los miembros asumirán sus funciones en un acto solemne en el local correspondiente, presidido por el Ministro de Educación y Culto."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. El Conservatorio Nacional de Música tendrá los siguientes objetivos y atribuciones:",
+      "content": "a) El fomento de la creación musical y artística en el país;\nb) La conservación y difusión de nuestro arte y folklore;\nc) El envío de misiones artísticas y musicales al interior de la República y al exterior;\nd) Todo lo relativo al otorgamiento de becas o viajes de estudios y perfeccionamiento que se conceden a estudiantes o profesores de las diferentes ramas del arte y de la música en general;\ne) La organización y desarrollo de las orquestas y conjuntos musicales dependientes del Estado;\nf) La relación con las Academias Nacionales creadas por leyes especiales;\ng) La organización de institutos, seminarios, reuniones y conferencias para el fomento de determinados aspectos del arte y la cultura musical;\nh) Todo lo relativo a la enseñanza del Arte Lírico y Teatral, la Composición y del Instrumental y la docencia de las formas superiores de la cultura musical que no formen parte de la enseñanza media, terciaria o universitaria. Para la promoción de profesores en las mencionadas especialidades se cumplirán disposiciones pertinentes de las leyes de la República; e,\ni) Las demás disposiciones que por las leyes o decretos se señalen en la sucesivo."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. El Conservatorio Nacional de Música cubrirá sus gastos y constituirá su patrimonio con los siguientes aportes:",
+      "content": "a) Con las Partidas que le asigne el Presupuesto General de la Nación;\nb) Con los bienes que el Poder Ejecutivo le adscriba;\nc) Con las donaciones y aportes que puedan hacerle, por liberalidad, personas naturales o jurídicas; y,\nd) Con las utilidades, beneficios y rentas que obtengan de sus actividades y de la administración de su patrimonio."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el veinte y nueve de junio del año un mil novecientos noventa y tres y por la Honorable Cámara de Diputados, sancionándose la Ley el treinta de junio del año un mil novecientos noventa y tres."
+    }
+  ],
+  "definitions": []
+}

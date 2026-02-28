@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-3742",
+  "type": "statute",
+  "title": "Ley Nº 381 / AMPLIA EL ARTICULO 1º DE LA LEY Nº 1.340/68",
+  "title_en": "Ley Nº 381 / AMPLIA EL ARTICULO 1º DE LA LEY Nº 1.340/68",
+  "short_name": "Ley N° 381",
+  "status": "in_force",
+  "issued_date": "1972-12-19",
+  "in_force_date": "1972-12-19",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3742/ley-n-381-amplia-el-articulo-1-de-la-ley-n-134068",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. - Amplíase el artículo 1º de la Ley 1.340 de fecha 19 de febrero de 1968, el cual quedará redactado así:",
+      "content": "«El practicaje en aguas jurisdiccionales de la República es obligatorio para todas las embarcaciones con propulsión propia de más de 220 toneladas de arqueo total. Asimismo las embarcaciones con propulsión propia menores de 220 toneladas de arqueo total que remolquen en convoy chatas, gabarras y otros, embarcarán el o los prácticos correspondientes para su navegación, cuando la suma de los tonelajes de arqueo total de los componentes del convoy sobrepase las 440 toneladas de arqueo total, no pudiendo ninguna de las embarcaciones del convoy, aisladamente consideradas, exceder de 220 toneladas de arqueo total»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. - Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS ONCE DÍAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS SETENTA Y DOS"
+    }
+  ],
+  "definitions": []
+}

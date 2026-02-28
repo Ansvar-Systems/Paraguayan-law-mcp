@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-8278",
+  "type": "statute",
+  "title": "Ley Nº 5874 / DECLARA AL PARQUE NACIONAL TINFUNQUÉ COMO ÁREA SILVESTRE PROTEGIDA BAJO LA CATEGORÍA DE MANEJO RESERVA DE RECURSOS MANEJADOS",
+  "title_en": "Ley Nº 5874 / DECLARA AL PARQUE NACIONAL TINFUNQUÉ COMO ÁREA SILVESTRE PROTEGIDA BAJO LA CATEGORÍA DE MANEJO RESERVA DE RECURSOS MANEJADOS",
+  "short_name": "Ley N° 5874",
+  "status": "in_force",
+  "issued_date": "2017-09-06",
+  "in_force_date": "2017-09-19",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/8278/ley-n-5874-declara-al-parque-nacional-tinfunque-como-area-silvestre-protegida-bajo-la-categoria-de-manejo-reserva-de-recursos-manejados",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. El área total afectada será la que se encuentre comprendida entre los siguientes límites: el Río Pilcomayo y el Fortín Tinfunqué, desde el punto llamado Horqueta hasta Salto Palmar.",
+      "content": "La Secretaría del Ambiente (SEAM), delimitará el área de protección, estableciendo un polígono georreferenciado, dentro del plazo de 12 (doce) meses, contados a partir de la entrada en vigencia de la presente Ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. La Secretaría del Ambiente (SEAM), en conjunto con los propietarios afectados darán inicio al Plan de Manejo del Área Silvestre Protegida en un plazo no mayor a 6 (seis) meses, contados a partir de la entrada en vigencia de la presente Ley.",
+      "content": "La Secretaría del Ambiente (SEAM), establecerá en el Plan de Manejo las medidas de preservación y protección dirigidas a garantizar la sustentabilidad del ecosistema comprendido en el Área Silvestre Protegida y de sus zonas de influencia, especialmente de las áreas declaradas “Sitios Ramsar”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Las restricciones de aprovechamiento impuestas por la Secretaría del Ambiente (SEAM ), en cuanto corresponda conforme a la legislación vigente, darán derecho a los propietarios de inmuebles sobre los cuales estuvieran establecidas dichas restricciones a certificar servicios ambientales, conforme a lo dispuesto por la Ley N° 3001/06 “DE VALORACIÓN Y RETRIBUCIÓN DE LOS SERVICIOS AMBIENTALES”.",
+      "content": "Los certificados emitidos a favor de los propietarios tendrán carácter privilegiado, teniendo un margen de preferencia del 35% (treinta y cinco por ciento) con relación al precio presupuestado por los demás oferentes que concurrieran a los procesos de compra de certificados de servicios ambientales realizados por las entidades binacionales y las entidades públicas del Estado. \n La determinación y aplicación del margen de preferencia se regirá conforme a lo dispuesto por la Ley N ° 4558/11 “QUE ESTABLECE MECANISMOS DE APOYO A LA PRODUCCIÓN Y EMPLEO NACIONAL, A TRAVÉS DE LOS PROCESOS DE CONTRATACIONES PÚBLICAS”, en lo que fuera aplicable. \n El incumplimiento de lo dispuesto en el presente artículo, será sancionado conforme al Artículo 8 ° de la Ley N ° 4558/11 “QUE ESTABLECE MECANISMOS DE APOYO A LA PRODUCCIÓN Y EMPLEO NACIONAL, A TRAVÉS DE LOS PROCESOS DE CONTRATACIONES PÚBLICAS”."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veintisiete días del mes de abril del año dos mil diecisiete , quedando sancionado el mismo, por la Honorable Cámara de Diputados, a nueve días del mes de agosto del año dos mil diecisiete , de conformidad a lo dispuesto en el Artículo 207 numeral 2) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

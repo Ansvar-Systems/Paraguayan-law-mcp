@@ -1,0 +1,140 @@
+{
+  "id": "py-ley-10351",
+  "type": "statute",
+  "title": "Ley Nº 1500 / REGLAMENTA LA GARANTÍA CONSTITUCIONAL DEL HÁBEAS CORPUS",
+  "title_en": "Ley Nº 1500 / REGLAMENTA LA GARANTÍA CONSTITUCIONAL DEL HÁBEAS CORPUS",
+  "short_name": "Ley N° 1500",
+  "status": "in_force",
+  "issued_date": "1999-11-05",
+  "in_force_date": "1999-11-08",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/10351/ley-n-1500-reglamenta-la-garantia-constitucional-del-habeas-corpus",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPÍTULO I",
+      "section": "3",
+      "title": "Artículo 3. Competencia. El procedimiento de hábeas corpus se iniciará ante la Sala Penal de la Corte Suprema de Justicia, o ante cualquier juez de primera instancia, según las reglas que determinan su competencia territorial, salvo que el supuesto acto ilegítimo tuviese o pudiese producir sus efectos en todo el territorio de la República o en lugares no determinables de él, en cuyo caso no regirá esa limitación.",
+      "content": "La negativa a intervenir, siendo competente el juez, constituirá causal de enjuiciamiento por mal desempeño del cargo y, en su caso, de remoción.\n Cuando un mismo acto prima facie afectase el derecho de varias personas, entenderá en todas las acciones el juzgado que hubiese prevenido, el cual dispondrá, en su caso, la acumulación de autos."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPÍTULO I",
+      "section": "5",
+      "title": "Artículo 5. Modalidades y acumulación. El procedimiento de hábeas corpus será breve, sumario y gratuito.",
+      "content": "En todos los casos, el órgano jurisdiccional estará facultado para adoptar los recaudos que sean conducentes para que se cumplan eficazmente sus mandatos a fin de que la garantía del hábeas corpus sea de hecho efectiva.\n Se podrán acumular el hábeas corpus preventivo y el genérico. Cabrá también la acumulación alternativa del hábeas corpus reparador y del genérico.\n La errónea calificación del hábeas corpus no provocará su rechazo sino que el órgano jurisdiccional le imprima el trámite que corresponda."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO I",
+      "section": "7",
+      "title": "Artículo 7. Contenido de la presentación inicial. La presentación inicial del hábeas corpus contendrá:",
+      "content": "a) el nombre y el domicilio del peticionante;\n b) el nombre y otros datos personales conocidos de la persona afectada por el acto supuestamente ilegítimo y la mención del sitio donde ésta se encuentra; y,\n c) el objeto de la acción, con la mención del supuesto acto ilegítimo cuya reparación se solicita.\n Si el peticionante ignorase alguno de los datos mencionados, proporcionará al órgano jurisdiccional las referencias suficientes para que éste los recabe por las vías judiciales pertinentes."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPÍTULO I",
+      "section": "11",
+      "title": "Artículo 11. Carácter de los plazos. Habilitación de días y horas. En el procedimiento de hábeas corpus todos los plazos, sean legales o judiciales, serán perentorios e improrrogables y sólo admitirán un día de ampliación en razón de la distancia, cuando el lugar del acto estuviera ubicado a más de cien kilómetros del asiento del órgano jurisdiccional interviniente. Los plazos que se establezcan en horas, se contarán de momento a momento.",
+      "content": "Vencido un plazo, se pasará al estadio procesal que corresponda, sin trámite previo alguno.\n En todos los casos, estarán habilitados los días y horas inhábiles sin necesidad de resolución judicial alguna."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPÍTULO I",
+      "section": "14",
+      "title": "Artículo 14. Recursos. Acción de inconstitucionalidad. En el procedimiento de hábeas corpus:",
+      "content": "a) todos los recursos se interpondrán y fundarán en un mismo escrito; caso contrario se tendrán por no interpuestos.\n b) cabrá el recurso de aclaratoria, el cual será interpuesto hasta el día siguiente de notificada la sentencia definitiva. La interposición del recurso de aclaratoria no interrumpirá los plazos, sean legales o judiciales.\n c) no tendrá efecto suspensivo la acción de inconstitucionalidad que se promueva contra sentencias definitivas que concedan el hábeas corpus.\n d) la sentencia definitiva que dicte la Sala Penal de la Corte Suprema de Justicia será inapelable.\n e) la sentencia definitiva que dicte un juez de primera instancia será apelable sin efecto suspensivo dentro del tercero día de su notificación. El Tribunal que corresponda al fuero de dicho juez de primera instancia, dictará sentencia en el plazo de tres días."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPÍTULO I",
+      "section": "17",
+      "title": "Artículo 17. Pérdida automática de la competencia. Cuando el Juzgado no dicte sentencia en el plazo previsto por esta ley, deberá hacerlo, de pleno derecho y en el mismo plazo, el que le siga en orden de turno, y así sucesivamente, sin trámite alguno.",
+      "content": "Igual principio regirá para la segunda instancia.\n La pérdida de competencia por mora en más de una oportunidad será causal de remoción."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPÍTULO I",
+      "section": "18",
+      "title": "Artículo 18. Juzgamiento de la competencia y de la legalidad del acto. El Juez del hábeas corpus no juzgará solamente la competencia de la autoridad de la cual emana el acto, sino también la legalidad del mismo.",
+      "content": "CAPÍTULO II \n DEL HÁBEAS CORPUS REPARADOR"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPÍTULO II",
+      "section": "20",
+      "title": "Artículo 20. Auto de hábeas corpus. Iniciado el procedimiento de hábeas corpus reparador, el Juez dictará inmediatamente el auto de hábeas corpus, en el cual ordenará para que dentro de las veinticuatro horas:",
+      "content": "a) se presente a la persona privada de su libertad en el lugar que el juez indique; y,\n b) que el agente público o privado sindicado como responsable de ese hecho presente un informe circunstanciado:\n 1) sobre el momento de la privación de la libertad y el lugar, la forma y condiciones en que ella se cumple.\n 2) sobre los motivos legales que invoque para la privación de la libertad.\n 3) en el caso de aprehensión, si ha dado cumplimiento con lo dispuesto en el ultimo párrafo del Artículo 239 del Código Procesal Penal y, en caso afirmativo, quiénes son el juez y el representante del ministerio público comunicados.\n 4) si la privación de la libertad se realizó por orden escrita de autoridad competente, en cuyo caso individualizará a ésta y adjuntará la orden escrita.\n A tales efectos el juez dispondrá las intimaciones que correspondan. Si se ignorara el agente público o privado que privó de su libertad a la persona, la intimación se efectuará al superior jerárquico de aquél."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "CAPÍTULO II",
+      "section": "21",
+      "title": "Artículo 21. Plazo para la presentación de la persona y del informe. La persona privada de su libertad y el informe a que se refiere el apartado b) del artículo 20, serán presentados al juez dentro de las veinticuatro horas de practicada la intimación.",
+      "content": "El incumplimiento de lo estatuido en el artículo 20 y en el presente artículo hará presumir la ilegitimidad de la privación de la libertad."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "CAPÍTULO II",
+      "section": "22",
+      "title": "Artículo 22. Caso de incomparecencia de la persona o que se trate de dificultar su ubicación. Si no se produjera la comparecencia de la persona privada de su libertad dentro del plazo que establece el artículo 21, el juez se constituirá en el sitio de su reclusión, donde hará juicio de mérito sobre ésta. Si no existiesen motivos legales que autoricen esa privación de la libertad, el juzgado dictará sentencia definitiva haciendo lugar al hábeas corpus reparador y disponiendo la inmediata libertad de la persona, dentro del plazo de un día.",
+      "content": "Si durante el procedimiento de hábeas corpus quien tiene la custodia de la persona dificulta su ubicación, la oculta, cambia el sitio de reclusión o transfiere a otro su custodia, será pasible de una pena de penitenciaría de dos a seis meses o de una multa equivalente hasta ciento veinte jornales mínimos para actividades no calificadas en la Capital. Estas penas serán aumentadas al doble si el autor es funcionario público civil o funcionario público militar en actividad o policial en actividad."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "CAPÍTULO II",
+      "section": "25",
+      "title": "Artículo 25. Casos de aprehensión. Si el informe expresase que la persona se halla privada de su libertad en dependencias policiales, en virtud de algunas de las circunstancias establecidas en el artículo 239 del Código Procesal Penal e individualizase al magistrado y al agente fiscal comunicados, el juzgado, previa verificación inmediata de la veracidad del informe, dictará dentro del plazo de un día sentencia definitiva rechazando el hábeas corpus reparador.",
+      "content": "Si el informe no individualizase al magistrado o al agente fiscal comunicados, el juzgado dentro del plazo de un día dictará sentencia definitiva, haciendo lugar al hábeas corpus y ordenando la inmediata libertad de la persona."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "CAPÍTULO II",
+      "section": "26",
+      "title": "Artículo 26. Caso de privación de la libertad por orden escrita de autoridad judicial. Si el informe expresara que la persona se halla privada de su libertad en virtud de orden escrita de autoridad judicial, individualizando a ésta y acompañando esa orden escrita, el juzgado, previa verificación inmediata de la veracidad del informe, dentro del plazo de un día dictará sentencia definitiva rechazando el hábeas corpus reparador, remitirá los antecedentes a quien dispuso su detención y pondrá en conocimiento de todo ello a la Sala Penal de la Corte Suprema de Justicia.",
+      "content": "Si el informe omitiera individualizar esa autoridad judicial o no acompañara la orden escrita respectiva, el juzgado dentro del plazo de un día dictará sentencia definitiva haciendo lugar al hábeas corpus y ordenando la inmediata libertad de la persona."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPÍTULO II",
+      "section": "28",
+      "title": "Artículo 28. Efecto de la Sentencia. La sentencia recaída, firme y ejecutoriada, que concede el hábeas corpus reparador, tendrá por efecto restituir la libertad al afectado y garantizarle contra toda ulterior restricción de libertad por la misma causa.",
+      "content": "CAPÍTULO III \n EL HÁBEAS CORPUS PREVENTIVO"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "CAPÍTULO III",
+      "section": "30",
+      "title": "Artículo 30. Auto ordenando informe acerca de los hechos denunciados. Iniciado el procedimiento de hábeas corpus preventivo, el juez intimará al agente publico o privado sindicado como responsable de tramar la medida ilegal de restricción de la libertad de la persona para que dentro de las veinticuatro horas informe:",
+      "content": "a) si ha dispuesto esa restricción de la libertad de la persona; y,\n b) si ha recibido orden o instrucción para ese efecto, en cuyo caso indicará la persona o entidad de la cual emana esa orden o instrucción, y cuáles son los motivos legales aducidos para su adopción."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "CAPÍTULO III",
+      "section": "31",
+      "title": "Artículo 31. Sentencia. Plazo. El juzgado hará mérito del informe a que se refiere el artículo 30 y de las demás circunstancias del caso y dictará sentencia definitiva dentro del plazo de un día. En el caso en que haga lugar al hábeas corpus preventivo, ordenará la cesación de las restricciones que amenacen ilegalmente la libertad de la persona.",
+      "content": "Si dicho informe no le fuera presentado dentro del plazo que determina el artículo 30, dictará sentencia definitiva dentro del plazo de un día en la que hará lugar al hábeas corpus preventivo y ordenará la cesación de las restricciones que amenacen ilegalmente la libertad de la persona.\n CAPÍTULO IV \n DEL HÁBEAS CORPUS GENÉRICO"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "CAPÍTULO IV",
+      "section": "32",
+      "title": "Artículo 32. Procedencia. Procederá el hábeas corpus genérico para demandar:",
+      "content": "a) la rectificación de circunstancias que, no estando contempladas en el hábeas corpus reparador o en el preventivo, restrinjan ilegalmente la libertad o amenacen la seguridad personal.\n b) el cese de la violencia física, psíquica o moral que agrave las condiciones de personas legalmente privadas de su libertad."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "CAPÍTULO IV",
+      "section": "33",
+      "title": "Artículo 33. Auto ordenando informe acerca de los hechos denunciados. Constitución del juez en el lugar. Iniciada la acción de hábeas corpus genérico:",
+      "content": "a) el juez intimará a la persona o entidad sindicada de cometer los hechos, para que dentro de las veinticuatro horas remita un informe pormenorizado acerca de los mismos.\n b) a pedido de parte o de oficio, se constituirá en el lugar en que se halle la persona cuya libertad se halla restringida, su seguridad amenazada o que se encuentre sometida a violencia física, psíquica o moral, para verificar los hechos relevantes."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "CAPÍTULO IV",
+      "section": "35",
+      "title": "Artículo 35. Comuníquese al Poder Ejecutivo",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores a los veintidós días del mes de julio del año un mil novecientos noventa y nueve y por la Honorable Cámara de Diputados, a los veintiún días del mes de octubre del año un mil novecientos noventa y nueve, quedando sancionado el mismo, de conformidad con lo dispuesto en el artículo 204 de la Constitución Nacional. \n \n \n \n \n Archivos adjuntos Antecedente \n Antecedente de la Ley Nº 00000001500 \n \n \n \n \n \n- Acápite: Que reglamenta la garantía constitucional del Habeas Corpus\n \n \n \n \n \n \n- Fecha de sanción: 21/10/99\n \n \n \n \n \n \n- Camara: Diputados\n \n \n \n \n \n \n- Presentado por: Ministerio de Justicia y Trabajo\n \n \n \n \n \n \n- Codigo de Expediente: Pp103-99"
+    }
+  ],
+  "definitions": []
+}

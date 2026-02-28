@@ -1,0 +1,777 @@
+{
+  "id": "py-ley-10973",
+  "type": "statute",
+  "title": "Ley Nº 6984 / DE MIGRACIONES",
+  "title_en": "Ley Nº 6984 / DE MIGRACIONES",
+  "short_name": "Ley N° 6984",
+  "status": "in_force",
+  "issued_date": "2022-10-17",
+  "in_force_date": "2022-10-18",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/10973/ley-n-6984-de-migraciones",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "TÍTULO I",
+      "section": "1",
+      "title": "Artículo 1. Objeto de la Ley.",
+      "content": "La presente Ley establece el régimen migratorio de la República del Paraguay y los principios y directrices de las políticas públicas para los migrantes; con el fin de contribuir al fortalecimiento del desarrollo social, cultural y económico del país."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "TÍTULO I",
+      "section": "2",
+      "title": "Artículo 2. Ámbito de aplicación.",
+      "content": "La presente Ley es de orden público, de observancia general en toda la República del Paraguay y de cumplimiento obligatorio para las personas extranjeras que ingresen, permanezcan y egresen del territorio paraguayo; así como, en lo que corresponda, a los connacionales que salgan del país, se radiquen en el extranjero y/o retornen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "TÍTULO I",
+      "section": "3",
+      "title": "Artículo 3. Definiciones.",
+      "content": "A los efectos de la presente Ley, se entenderá por:\n 1. Apátrida: Persona no considerada como nacional suyo por ningún Estado, conforme a su legislación.\n 2. Asilo: Protección que concede un Estado a una persona extranjera que abandona su país, de nacionalidad o residencia habitual, por motivos de persecución política o delitos comunes conexos, así como por sus opiniones o creencias. Esta protección no aplica a situaciones personales o por razones económicas y consiste en la no devolución, el permiso para permanecer en el país de asilo, normas relativas al trato humano y una solución duradera.\n 3. Emigración: Es el movimiento que realiza una persona que sale de su país de nacionalidad o residencia habitual, hacia otro país, con el propósito de establecer residencia habitual en el mismo.\n 4. Emigrante: Persona que sale de su país de nacionalidad o residencia habitual a otro país; el cual se convierte en su nuevo país de residencia habitual.\n 5. Extranjero: Persona física que no tiene la nacionalidad del país en cuyo territorio se encuentra.\n 6. Expulsión: Acto de una autoridad con la intención y el efecto de asegurar la salida de su territorio de una o varias personas.\n 7. Inadmisibilidad: Prohibición de ingreso al territorio de la República del Paraguay, por determinación de la autoridad competente.\n 8. Inmigración: Es el acto de ingresar a un país, distinto al de su nacionalidad o residencia habitual, con el fin de fijar residencia habitual en el país de destino.\n 9. Inmigrante: Persona extranjera que ingresa a un país, distinto al de su nacionalidad o residencia habitual, para residir en él de forma temporal o permanente.\n 10. Migración: Movimientos que realizan las personas de un ámbito socioespacial a otro con el fin de establecer su residencia.\n 11. Migración Irregular: Movimiento que realizan una o más personas, al margen de las reglas, procedimientos y normas que rigen en forma ordenada la entrada o salida del país de origen, de tránsito o de destino.\n 12. Migración Ordenada: Movimiento que realizan una o más personas; que se ajusta a las leyes y regulaciones que rigen la salida del país de origen, el viaje, el tránsito, el ingreso y permanencia en el país de destino, y el retorno a su país de origen; y que se realiza en un contexto que preserva la dignidad humana y el bienestar de las personas migrantes.\n 13. Migrante: Designa a toda persona que se traslada fuera de su lugar de residencia habitual, sea dentro del mismo país o a través de una frontera internacional; de manera temporal o permanente y por diversas razones. Es un término genérico que se refiere en forma indistinta a personas inmigrantes o emigrantes.\n 14. Movilidad territorial: Es el desplazamiento que realizan las personas dentro del territorio o país de residencia habitual; o a través de las fronteras internacionales, sin la intención de cambiar de residencia.\n 15. Retornados: Connacionales que retornan al país luego de haber residido en el extranjero.\n 16. Repatriación: Regreso espontáneo o asistido por las autoridades al país de origen.\n 17. Residencia: Autorización que otorga el Estado a un extranjero para residir en el territorio nacional de forma temporal o permanente.\n 18. Refugiado: Persona que, debido a fundados temores de ser perseguida por motivos de raza, religión, nacionalidad, pertenencia a determinado grupo social u opiniones políticas, se encuentre fuera del país de su nacionalidad y no pueda o, a causa de dichos temores, no quiera acogerse a la protección de tal país.\n 19. Remesa: Transferencias monetarias de carácter privado que los migrantes realizan, ya sea a través de las fronteras o dentro de un mismo país, a personas con las que mantienen un vínculo.\n 20. Trata de personas: La captación, el transporte, el traslado, la acogida o la recepción de personas, recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al fraude, al engaño, al abuso de poder o a una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios, con fines de explotación.\n 21. Tráfico de migrantes: Facilitación de la entrada irregular de una persona en un Estado de la cual dicha persona no es nacional ni residente permanente con el fin de obtener, directa o indirectamente, un beneficio financiero u otro beneficio de orden material."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "TÍTULO I",
+      "section": "4",
+      "title": "Artículo 4. Principios generales.",
+      "content": "A los efectos de la interpretación y la aplicación de la presente Ley deben considerarse los siguientes principios generales:\n 1. Principio de Universalidad: La Ley reconoce la universalidad de los derechos humanos y velará por su cumplimiento para con los migrantes, dado que son derechos inherentes a todos los seres humanos sin distinción alguna de nacionalidad o país de origen.\n 2. Principio de Igualdad: Todas las personas nacen libres e iguales en dignidad y derechos. Conforme con la Declaración Universal de Derechos Humanos, a todas ellas se le reconoce el derecho a la vida, a la libertad y a la seguridad personal, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o ideológica, origen nacional o social, posición económica, nacimiento, condición migratoria o cualquier otra.\n 3. Principio de No Discriminación: Ninguna persona podrá ser disminuida en sus derechos por cuestiones de edad, sexo, etnia, raza, idioma, religión u otras razones como su menor habilidad intelectual o mental, su deficiente estado de salud, su discapacidad física u otra cualquiera que represente una desventaja para su vida social; ni ser objeto de trato despectivo y, por el contrario, cualquier trato diferente que se le preste deberá ser en beneficio a su mayor dignidad.\n 4. Principio de Equidad de Género: Se reconoce, el derecho al desarrollo personal de las mujeres en completa igualdad con los hombres; especialmente en los movimientos migratorios y en los países de origen y destino.\n 5. Principio de Equidad Social: Todas las personas, grupos y sectores sociales tienen derecho a contar con políticas públicas que tiendan a eliminar las desigualdades sociales, crear las mismas oportunidades para establecer la equidad social, remover los obstáculos que impiden el bienestar general y arbitrar los medios que promuevan la mayor calidad de vida para todos los miembros de la sociedad.\n 6. Principio de Equidad Intergeneracional: La sucesión de generaciones con relación de interdependencia requiere acciones solidarias con respecto a los ascendientes y descendientes, especialmente hacia los niños, niñas y adolescentes; con el objeto de garantizar la sostenibilidad y la equidad en el disfrute de los bienes materiales e inmateriales producidos socialmente.\n 7. Principio de protección integral e interés superior de los derechos de niños, niñas y adolescentes: En todas las decisiones de la autoridad migratoria en las que se encuentren involucrados de manera directa o indirecta niños, niñas y adolescentes, debe prevalecer de forma indefectible el principio del interés superior del niño.\n 8. Principio de Reciprocidad: La Ley garantizará el trato igualitario a los migrantes, reconociéndoles los mismos derechos y obligaciones que se otorgan a los nacionales que residen en los respectivos países de destino.\n 9. Principio de Transparencia: Los procesos, requisitos y políticas aplicables serán de conocimiento público y se fomentará la difusión de información relativa a todos los aspectos de la migración interna e internacional. Los funcionarios y responsables de la aplicación de la presente Ley serán adecuadamente capacitados para prestar sus servicios respetando y aplicando las leyes con trato humanitario.\n 10. Principio de Reunificación Familiar: La Ley garantiza el derecho a la reunificación familiar de los migrantes con sus padres, cónyuges, hijos solteros menores y/o hijos mayores con capacidades diferentes.\n 11. Principio de Respeto a la Diversidad Cultural: De conformidad con el precepto constitucional que consagra el carácter pluricultural y bilingüe del Paraguay, se reconoce como patrimonio nacional a las diversas culturas y lenguas que conviven en el territorio paraguayo, en particular a los pueblos indígenas representados por sus diversas etnias y lenguas.\n 12. Principio de Respeto a los Derechos Laborales: Se garantiza el trabajo digno y la remuneración justa independientemente de su condición migratoria. La Ley garantiza el fiel cumplimiento de las normas laborales por parte de los empleadores, sin tomar en consideración el estatus regular o no del inmigrante.\n 13. Principio de Integración Social: La Ley fomentará la inclusión en el desarrollo del país de todas las personas y todos los grupos sociales y étnicos.\n 14. Principio de Congruencia: Los Estados deben garantizar la vigencia de los derechos que reclaman para sus connacionales en el exterior, en la admisión, ingreso, permanencia o tránsito de extranjeros en su territorio.\n 15. Principio de Legalidad: Toda actuación llevada a cabo por la Dirección Nacional de Migraciones, deberá estar sustentada y ajustada a las prescripciones de la Constitución Nacional, de los tratados y acuerdos ratificados por el Paraguay, las leyes y los Decretos reglamentarios.\n 16. Principio de Racionalidad: La conducta de la Dirección Nacional de Migraciones deberá responder a criterios racionales, sostenibles y justificables teniendo en cuenta la finalidad de la normativa legal.\n 17. Principio de Eficacia: Todo acto realizado por la Dirección Nacional de Migraciones debe estar orientado a lograr prestaciones satisfactorias, servicios de calidad al migrante, contribuir al cumplimiento de las metas y objetivos funcionales de la administración, y servir a las finalidades que el ordenamiento legal persigue.\n 18. Principio de Interés General: En todas las actuaciones de la Dirección Nacional de Migraciones deberá primar la supremacía del interés general sobre el interés particular.\n 19. Principio de la No Devolución: Ninguna persona refugiada será devuelta a un país donde enfrente graves amenazas a su vida o su libertad.\n 20. Principio de la no criminalización de la migración.\n 21. Principio del acceso igualitario y libre del migrante a los servicios, programas y beneficios sociales, educación, trabajo, morada, servicios bancarios y seguridad social.\n 22. Principio de la cooperación internacional con los Estados de origen, de tránsito y de destino de los movimientos migratorios a fin de garantizar la efectiva protección de los derechos humanos del migrante.\n 23. Principio de la protección de los paraguayos en el exterior.\n TÍTULO II \n DE LOS DERECHOS Y OBLIGACIONES DE LOS INMIGRANTES \n CAPÍTULO I \n DERECHOS DE LOS INMIGRANTES"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPÍTULO I",
+      "section": "5",
+      "title": "Artículo 5. Acceso igualitario.",
+      "content": "El Estado asegurará el acceso igualitario de los inmigrantes y sus familias a derechos tales como: trabajo, seguridad social, salud, educación, justicia, cultura y recreación, entre otros."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPÍTULO I",
+      "section": "6",
+      "title": "Artículo 6. Derecho a la educación.",
+      "content": "La irregularidad migratoria no podrá considerarse en ningún caso como causal para la no inscripción de un inmigrante como alumno en una institución educativa pública o privada, ya sea de nivel básico o medio."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO I",
+      "section": "7",
+      "title": "Artículo 7. Derecho al trabajo.",
+      "content": "El inmigrante con residencia autorizada por la Dirección Nacional de Migraciones no podrá ser discriminado por su condición de tal para el desempeño de un trabajo lícito. Tampoco será afectado en sus derechos adquiridos por los trabajos ya realizados en condición de inmigrante irregular. El empleador está obligado a informar a la Dirección Nacional de Migraciones cuando emplee a un inmigrante y deberá cumplir con las obligaciones emergentes de la legislación laboral, cualquiera sea la condición migratoria del inmigrante."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPÍTULO I",
+      "section": "8",
+      "title": "Artículo 8. Derecho a la atención sanitaria y a la salud.",
+      "content": "El acceso a los beneficios de la salud y la atención sanitaria, no podrán ser negados a ningún extranjero como consecuencia de su situación migratoria irregular, debiendo brindársele la misma atención sin discriminación alguna."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPÍTULO I",
+      "section": "9",
+      "title": "Artículo 9. Derecho a ser informado.",
+      "content": "La Dirección Nacional de Migraciones pondrá a disposición del inmigrante la información necesaria respecto de sus derechos y obligaciones consagrados en las leyes vigentes y sobre los mecanismos de regularización migratoria a quienes se encuentren en situación irregular, facilitándoles los trámites pertinentes para su regularización. Los funcionarios de instituciones educativas, de salud, de seguridad social y del trabajo están obligados a proveer información y orientación adecuadas al extranjero que se encuentre en situación irregular que lo ayuden a regularizar su situación migratoria. El desconocimiento de las leyes nacionales por parte del extranjero no lo exime de su cumplimiento, salvo que esté expresamente prevista en la Ley."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPÍTULO I",
+      "section": "10",
+      "title": "Artículo 10. Derecho a la reunificación familiar.",
+      "content": "La Dirección Nacional de Migraciones deberá facilitar los mecanismos de reunificación de las familias de inmigrantes tomando especiales recaudos para facilitar el ingreso de los niños, niñas, adolescentes, mujeres y personas adultas mayores que compongan el círculo familiar. Del mismo modo, y en coordinación con los organismos correspondientes promoverá programas sociales de acompañamiento psicológico a las familias fragmentadas a causa de la migración, brindando asistencia especialmente a hijos menores."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPÍTULO I",
+      "section": "11",
+      "title": "Artículo 11. Derecho a la protección de la niñez y adolescencia migrante.",
+      "content": "La Dirección Nacional de Migraciones en coordinación con los organismos pertinentes, apoyará programas de atención a menores no acompañados de familiares que crucen en situación de vulnerabilidad los puestos fronterizos de control, brindándoles resguardo, atención psicológica, médica y legal con la finalidad de reintegrarlos a su familia, aplicando como principio transversal el interés superior del niño y atendiendo al principio de no devolución. La decisión de inadmisión o expulsión de niñas, niños y adolescentes migrantes, acompañados o no de sus padres, debe estar fundada en el interés superior del niño dentro del marco de un debido proceso legal que evidencie tal medida. Se establecerán medidas de protección especial y particular a niñas, niños y adolescentes víctimas de trata, explotación, abusos, violencia, entre otros."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPÍTULO I",
+      "section": "12",
+      "title": "Artículo 12. Derecho a la identidad.",
+      "content": "Se garantizará el derecho inalienable de niñas y niños a obtener una identidad personal y una nacionalidad inmediatamente después de su nacimiento, sin juzgar la condición migratoria de sus progenitores. De igual manera, se protegerá el derecho del niño y niña a preservar su identidad."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPÍTULO I",
+      "section": "13",
+      "title": "Artículo 13. Derecho al ingreso de bienes al país.",
+      "content": "Los inmigrantes extranjeros que sean admitidos como residentes podrán ingresar al país sus bienes personales, los de su familia, enseres del hogar y un medio de transporte familiar, cuyos aranceles de importación deberán ser establecidos por la Dirección Nacional de Aduanas."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPÍTULO I",
+      "section": "14",
+      "title": "Artículo 14. Derecho a transferir remesas.",
+      "content": "Los trabajadores migratorios tendrán derecho a transferir a su Estado de origen o a cualquier otro Estado, los recursos monetarios necesarios para el sustento de sus familiares. Estas transferencias se harán con arreglo a los procedimientos establecidos en la legislación del Estado interesado y de conformidad con los acuerdos internacionales aplicables. El Estado, a través de las autoridades competentes, deberá adoptar las medidas apropiadas para facilitar dichas transferencias."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPÍTULO I",
+      "section": "15",
+      "title": "Artículo 15. Derecho al voto.",
+      "content": "Los extranjeros con radicación definitiva tendrán derecho al voto en las Elecciones Municipales; conforme con lo establecido en el Código Electoral.\n CAPÍTULO II \n OBLIGACIONES DE LOS INMIGRANTES"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPÍTULO II",
+      "section": "16",
+      "title": "Artículo 16. Obligaciones.",
+      "content": "Los inmigrantes deberán cumplir con las obligaciones enunciadas en la presente Ley y su correspondiente reglamentación, y todas aquellas que forman parte del ordenamiento jurídico positivo nacional."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPÍTULO II",
+      "section": "17",
+      "title": "Artículo 17. Regularización migratoria.",
+      "content": "Los extranjeros que se encuentren en situación irregular en materia de documentación migratoria y residencia, deberán recurrir inmediatamente a la Dirección Nacional de Migraciones para regularizar su estatus migratorio."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPÍTULO II",
+      "section": "18",
+      "title": "Artículo 18. Régimen impositivo.",
+      "content": "Los extranjeros residentes en el país que realicen trabajos remunerados o lucrativos de cualquier índole, estarán sujetos al cumplimiento de las normas de orden impositivo vigentes en el país debiendo abonar los tributos aplicables.\n TÍTULO III \n DE LA INMIGRACIÓN ORDENADA \n CAPÍTULO I \n DE LA INMIGRACIÓN"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPÍTULO I",
+      "section": "19",
+      "title": "Artículo 19. Promoción de la inmigración.",
+      "content": "La Dirección Nacional de Migraciones en coordinación con las Oficinas Consulares del país, dará prioridad a los acuerdos de inmigración ordenada de personas y grupos humanos en el marco de los tratados, acuerdos y convenios internacionales y regionales ratificados por la República del Paraguay.\n Con ese fin deberá proveer de información de fácil acceso a los extranjeros que tengan la intención de fijar residencia en nuestro país, orientándoles sobre la documentación indispensable para el viaje y la gestión de residencia legal en el país, las condiciones de vida, oportunidades y condiciones laborales y salariales, servicios sociales y otras cuestiones de interés para el inmigrante."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPÍTULO I",
+      "section": "20",
+      "title": "Artículo 20. Regulación.",
+      "content": "La inmigración ordenada será reglamentada por el Poder Ejecutivo para cada caso en particular, con intervención de la Dirección Nacional de Migraciones priorizando para el efecto la firma de convenios bilaterales.\n Se deberá establecer el número de inmigrantes, la actividad que los mismos desarrollarán en el país y la zona del territorio nacional donde fijarán residencia."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "CAPÍTULO I",
+      "section": "21",
+      "title": "Artículo 21. Distribución territorial de las corrientes de inmigración.",
+      "content": "En los convenios bilaterales sobre inmigración ordenada, la Dirección Nacional de Migraciones establecerá la localización de las corrientes de inmigrantes en aquellas zonas del país donde los gobiernos locales, de conformidad con la Ley Orgánica Municipal, lleven adelante programas de ordenamiento y desarrollo territorial que ofrezcan condiciones favorables para que la población inmigrada despliegue las actividades que faciliten el desarrollo de su existencia."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "CAPÍTULO I",
+      "section": "22",
+      "title": "Artículo 22. Inmigración desde países en situación de crisis.",
+      "content": "Cuando la inmigración ordenada se realice en beneficio de personas y grupos provenientes de países que se encuentran en situación de crisis por guerra interna, discriminación étnica, política, religiosa o por causa de desastres naturales, la Dirección Nacional de Migraciones coordinará con la Comisión Nacional de Refugiados la facilitación, por razones humanitarias, de los trámites de ingreso en el territorio nacional.\n Para el traslado organizado al país de estos grupos de inmigrantes, la Dirección Nacional de Migraciones podrá solicitar, de común acuerdo con la Comisión Nacional de Refugiados la mediación de organismos internacionales reconocidos por el Estado paraguayo.\n CAPÍTULO II \n DEL INGRESO Y EGRESO DE LAS PERSONAS EXTRANJERAS"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPÍTULO II",
+      "section": "23",
+      "title": "Artículo 23. Régimen general.",
+      "content": "La admisión, el ingreso, la permanencia y el egreso de extranjeros al territorio nacional se rigen por las disposiciones de la Constitución Nacional, los tratados, convenios y acuerdos internacionales aprobados y ratificados por la República del Paraguay, la legislación nacional y sus reglamentaciones."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "CAPÍTULO II",
+      "section": "24",
+      "title": "Artículo 24. Régimen especial.",
+      "content": "Quedarán comprendidos en un régimen especial:\n 1. Los funcionarios diplomáticos y consulares y sus familiares acreditados en la República del Paraguay y aquellos que ingresen en misión oficial, mientras duren sus funciones, o aquellos que atraviesen el territorio nacional de forma transitoria.\n 2. Los representantes e integrantes de organismos internacionales y sus familiares, reconocidos por la República del Paraguay, y quienes revistiendo la misma investidura lleguen al país en misión oficial.\n 3. Los funcionarios administrativos y técnicos en misión de servicios que pertenezcan a una u otra de las categorías anteriores y sus familiares.\n En todos los casos citados precedentemente, la Dirección Nacional de Migraciones deberá obrar conforme lo disponen los tratados, convenios y acuerdos internacionales aprobados y ratificados por la República del Paraguay en materia diplomática y consular y conforme a las demás leyes generales o especiales vigentes en la materia. Los funcionarios diplomáticos y consulares, los representantes e integrantes de organismos internacionales, los funcionarios administrativos y técnicos en misión de servicios y sus familiares, podrán optar por solicitar su radicación en el país."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "CAPÍTULO II",
+      "section": "25",
+      "title": "Artículo 25. Requisitos.",
+      "content": "Toda persona que ingresa o egresa del territorio nacional deberá presentarse en el puesto de control habilitado con el respectivo documento de identidad vigente o pasaporte con visa consular para los países que lo requieran, y demás documentos que validen su ingreso al territorio nacional.\n CAPÍTULO III \n DE LOS CONNACIONALES QUE EMIGRAN"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "CAPÍTULO III",
+      "section": "26",
+      "title": "Artículo 26. Asistencia a las personas que optan por emigrar.",
+      "content": "La Dirección Nacional de Migraciones en coordinación con el Ministerio de Relaciones Exteriores, deberán brindar orientación y asistencia a las personas que opten por emigrar y requieran información sobre:\n 1. Requisitos para egresar del país y para el tránsito por países de paso.\n 2. Documentación exigida en el país de destino, condiciones de residencia, vida y trabajo, legislación aplicable a migrantes y otros datos para una migración segura."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPÍTULO III",
+      "section": "27",
+      "title": "Artículo 27. Registro de emigrantes.",
+      "content": "La Dirección Nacional de Migraciones mantendrá un registro permanente de personas que emigran como parte de programas planificados de emigración, de manera a posibilitar su ulterior asistencia en los países donde fijen residencia. La información personal registrada en la base de datos será de carácter reservado y de uso estadístico."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPÍTULO III",
+      "section": "28",
+      "title": "Artículo 28. Coordinación interinstitucional.",
+      "content": "La Dirección Nacional de Migraciones, en coordinación con los Ministerios de Trabajo, Empleo y Seguridad Social; Industria y Comercio; y Relaciones Exteriores, debe cooperar en la realización de estudios sobre obstáculos y oportunidades laborales; condiciones de vida y trabajo en los países de destino de la emigración paraguaya; así como en la divulgación a través de mecanismos de información disponibles a nivel nacional y por medio de las organizaciones de emigrantes residentes en el exterior."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "CAPÍTULO III",
+      "section": "29",
+      "title": "Artículo 29. Estudios sobre la inmigración y la emigración.",
+      "content": "La Dirección Nacional de Migraciones a través de la firma de convenios con instituciones académicas nacionales y/o extranjeras; en coordinación con otros organismos del Estado o entidades privadas, promoverá la realización de estudios e investigaciones sobre los flujos migratorios, con el fin de mejorar el conocimiento sobre la emigración paraguaya y las condiciones de vida de los connacionales en el exterior y contribuir al fortalecimiento del sistema estadístico nacional."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "CAPÍTULO III",
+      "section": "30",
+      "title": "Artículo 30. Reunificación familiar.",
+      "content": "La Dirección Nacional de Migraciones apoyará la reunificación familiar de connacionales residentes en el extranjero que lo soliciten, tomando especiales recaudos para garantizar, de manera conjunta con la Secretaría de Desarrollo para Repatriados y Refugiados Connacionales, la seguridad del viaje y las condiciones de residencia de los niños, niñas, adolescentes, mujeres y personas adultas mayores que compongan el círculo familiar."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "CAPÍTULO III",
+      "section": "31",
+      "title": "Artículo 31. Colaboración interinstitucional.",
+      "content": "La Dirección Nacional de Migraciones colaborará con la Secretaría de Desarrollo para Repatriados y Refugiados Connacionales a los efectos de facilitar el regreso, ingreso y reinserción de paraguayos que retornan o se repatrian desde el extranjero.\n CAPÍTULO IV \n DE LAS COMUNIDADES DE CONNACIONALES RESIDENTES EN EL EXTRANJERO"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "CAPÍTULO IV",
+      "section": "32",
+      "title": "Artículo 32. Apoyo a comunidades de residentes en el extranjero.",
+      "content": "La Dirección Nacional de Migraciones en colaboración con la Dirección de Atención a las Comunidades Paraguayas en el Extranjero del Ministerio de Relaciones Exteriores, y las Oficinas Consulares, realizará evaluaciones sobre las condiciones de residencia y de vida de los connacionales en el extranjero, velando porque se cumplan las obligaciones y derechos emergentes de tratados, convenios y acuerdos internacionales ratificados en materia migratoria."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "CAPÍTULO IV",
+      "section": "33",
+      "title": "Artículo 33. Protección de los derechos de los connacionales que emigran.",
+      "content": "La Dirección Nacional de Migraciones cooperará con el Ministerio de Relaciones Exteriores en la firma de acuerdos bilaterales sobre derechos de las personas emigrantes, particularmente en lo relativo a condiciones laborales y salariales, educación, salud, vivienda, seguridad social y jubilaciones, aplicando en todos los casos el principio de reciprocidad."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "CAPÍTULO IV",
+      "section": "34",
+      "title": "Artículo 34. Participación cívica y electoral.",
+      "content": "La Dirección Nacional de Migraciones coordinará con el Ministerio de Relaciones Exteriores y el Tribunal Superior de Justicia Electoral, el uso de la información estadística disponible sobre los principales países de destinos de los emigrantes paraguayos, para la mejor implementación de las medidas conducentes a asegurar la más amplia participación cívica y electoral de las personas de nacionalidad paraguaya residentes en el extranjero, en cumplimiento del Artículo 120 de la Constitución Nacional.\n CAPÍTULO V \n DE LOS PUESTOS DE CONTROL DEL INGRESO Y EGRESO"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "CAPÍTULO V",
+      "section": "35",
+      "title": "Artículo 35. Puestos de control migratorio.",
+      "content": "El ingreso y egreso al territorio de la República del Paraguay, de personas extranjeras o nacionales, sólo podrá realizarse por los puestos de control migratorio habilitados."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "CAPÍTULO V",
+      "section": "36",
+      "title": "Artículo 36. Control de documentación.",
+      "content": "La Dirección Nacional de Migraciones verificará la documentación en el momento de la entrada y salida del territorio de la República del Paraguay, el carácter de su ingreso y el plazo de permanencia."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "CAPÍTULO V",
+      "section": "37",
+      "title": "Artículo 37. Ingreso irregular.",
+      "content": "El ingreso de un extranjero al territorio nacional será considerado irregular en los siguientes casos:\n 1. Cuando ingresa por lugar no habilitado a tal efecto; sin la documentación requerida o eludiendo el control migratorio de entrada.\n 2. Cuando ingresa utilizando documentación de contenido falso o no auténtico.\n 3. Cuando ingresa luego de haber sido expulsado y hallándose vigente la prohibición de ingreso dispuesta por la autoridad competente.\n 4. Cuando ingresa incumpliendo las formalidades previstas en las leyes y reglamentaciones vigentes.\n CAPÍTULO VI \n DE LA ADMISIÓN DE PERSONAS EXTRANJERAS"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPÍTULO VI",
+      "section": "38",
+      "title": "Artículo 38. Categorías de la admisión.",
+      "content": "La admisión es el permiso otorgado por la Dirección Nacional de Migraciones para el ingreso y permanencia en el territorio nacional de personas extranjeras. La admisión podrá ser: Estadía Transitoria o Residente."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "CAPÍTULO VI",
+      "section": "39",
+      "title": "Artículo 39. Inadmisibilidad.",
+      "content": "No podrán ser admitidos al territorio nacional, los extranjeros que se encuentren comprendidos en alguno de los siguientes supuestos:\n 1. Cuando no presente la documentación requerida o utilice documentación no auténtica o de contenido falso.\n 2. Cuando haya sido expulsado y se halle vigente la prohibición de ingreso dispuesto por la autoridad competente.\n 3. Cuando sea sujeto de una orden de captura internacional por la comisión de hechos punibles en el extranjero.\n 4. Cuando sea sujeto de una alerta emitida por la Dirección Nacional de Migraciones u otra autoridad competente.\n 5. Cuando no cumpla con las formalidades previstas en las leyes y reglamentaciones.\n CAPÍTULO VII \n DE LA ESTADÍA TRANSITORIA"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "CAPÍTULO VII",
+      "section": "40",
+      "title": "Artículo 40. Subcategorías de la Estadía Transitoria.",
+      "content": "Se considera Estadía Transitoria la del extranjero que ingresa al país para permanecer por un tiempo limitado y sin ánimo de fijar residencia en el mismo. Se considerarán las siguientes subcategorías de Estadía Transitoria:\n 1. Turista.\n 2. Pasajero en tránsito.\n 3. Tránsito vecinal fronterizo.\n 4. Las personas para iniciar o continuar tratamiento médico.\n 5. Casos especiales establecidos por la Dirección Nacional de Migraciones."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "CAPÍTULO VII",
+      "section": "41",
+      "title": "Artículo 41. Requisitos de la Estadía Transitoria.",
+      "content": "Para ser admitido de forma transitoria al territorio nacional, el extranjero deberá cumplir con los siguientes requisitos:\n 1. Presentación del pasaporte o documento de identidad vigente.\n 2. Disponer de visa de ingreso, proveída por el Ministerio de Relaciones Exteriores, en los casos que se requiera.\n 3. Cumplir con las demás formalidades establecidas en las reglamentaciones."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "CAPÍTULO VII",
+      "section": "42",
+      "title": "Artículo 42. Plazo de permanencia transitoria.",
+      "content": "Los extranjeros admitidos en alguna de las categorías previstas en el presente Capítulo, podrán permanecer en el territorio nacional por un período determinado de acuerdo al carácter de su ingreso y por un plazo máximo de hasta 90 (noventa) días corridos, prorrogables por una sola vez a pedido del interesado, por un plazo no mayor al otorgado con anterioridad a criterio de la Dirección Nacional de Migraciones.\n Cumplido el plazo de permanencia autorizado por la Dirección Nacional de Migraciones, el extranjero deberá abandonar el territorio nacional o solicitar su residencia en el país. En caso contrario se le aplicarán las multas y demás sanciones previstas en la presente Ley y su reglamentación."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "CAPÍTULO VII",
+      "section": "43",
+      "title": "Artículo 43. Solicitud de prórroga.",
+      "content": "Los plazos otorgados por la Dirección Nacional de Migraciones, para la permanencia transitoria del extranjero en el territorio nacional son perentorios. De producirse la solicitud de prórroga o el cambio de categoría, deberá ser efectivizada antes del vencimiento del plazo de permanencia otorgado. En caso contrario se le aplicarán las multas y demás sanciones previstas en la presente Ley y su reglamentación.\n TÍTULO IV \n DE LA PERMANENCIA \n CAPÍTULO I \n DE LA RESIDENCIA"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "CAPÍTULO I",
+      "section": "44",
+      "title": "Artículo 44. Subcategorías de la residencia.",
+      "content": "La residencia es la autorización que otorga la Dirección Nacional de Migraciones, a un extranjero para radicarse en el país en carácter de residentes. Las personas admitidas como inmigrantes podrán serlo en categorías de Residencia Espontánea u Ocasional, Residencia Temporal o Residencia Permanente."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "CAPÍTULO I",
+      "section": "45",
+      "title": "Artículo 45. Residencia Espontánea u Ocasional.",
+      "content": "La Residencia Espontánea u Ocasional es la autorización que otorga la Dirección Nacional de Migraciones, a aquellos extranjeros que ingresan al país, con ánimo de desarrollar actividades ocasionales lícitas bajo las condiciones que establezcan la presente Ley y su reglamentación.\n Será otorgado por un plazo de hasta 90 (noventa) días prorrogables por el mismo período en el año, el cual no será requisito previo para la Residencia Temporal."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "CAPÍTULO I",
+      "section": "46",
+      "title": "Artículo 46. Residencia Temporal.",
+      "content": "Es la autorización que otorga la Dirección Nacional de Migraciones por un plazo determinado a los extranjeros que ingresen al país con ánimo de establecerse para desarrollar una actividad lícita, bajo las condiciones que establezca la presente Ley y su reglamentación.\n Será otorgada por un plazo de hasta 2 (dos) años, prorrogables por igual período y será requisito previo al otorgamiento de la Residencia Permanente.\n Los interesados en solicitar la Residencia Temporal en la República del Paraguay podrán presentar la documentación requerida ante las dependencias del Ministerio de Relaciones Exteriores, que podrá otorgar la visa consular para solicitantes de residencia, siendo potestad de la Dirección Nacional de Migraciones la concesión o no de la residencia solicitada.\n Quedan exceptuados del cumplimiento de la residencia temporal como trámite previo a la obtención de la residencia permanente, aquellos extranjeros que puedan demostrar fehacientemente la realización de inversiones en la República del Paraguay, conforme a la Ley Nº 4986/2013 “QUE CREA EL SISTEMA UNIFICADO DE ATENCIÓN EMPRESARIAL PARA LA APERTURA Y CIERRE DE EMPRESAS (SUACE)”. Esta excepción será reglamentada por la autoridad de aplicación."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "CAPÍTULO I",
+      "section": "47",
+      "title": "Artículo 47. Residencia Permanente.",
+      "content": "Es la autorización otorgada por la Dirección Nacional de Migraciones para residir indefinidamente en el territorio nacional, al extranjero que manifieste su intención o ánimo de establecerse definitivamente en el país, reuniendo las condiciones legales para su admisión por parte de la Dirección Nacional de Migraciones en tal carácter y luego de haber cumplido el plazo de Residencia Temporal."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "CAPÍTULO I",
+      "section": "48",
+      "title": "Artículo 48. Del acceso a la Residencia Permanente de familiares extranjeros de connacionales.",
+      "content": "A través del connacional repatriado accederán directamente a la Residencia Permanente: su cónyuge, hijos y nietos extranjeros, estos últimos hasta los dieciocho años. Así mismo, podrá hacerlo el cónyuge del hijo del connacional.\n CAPÍTULO II \n DE LOS REQUISITOS PARA LA RESIDENCIA"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "CAPÍTULO II",
+      "section": "49",
+      "title": "Artículo 49. Requisitos para obtener la Residencia Espontánea u Ocasional.",
+      "content": "A fin de obtener la Residencia Espontánea u Ocasional, el extranjero que desee residir en el país, deberá presentar las siguientes documentaciones:\n 1. Pasaporte o documento de identidad vigente.\n 2. Visa consular y su verificación por el Ministerio de Relaciones Exteriores, en los casos que se requieran.\n 3. Constancia de ingreso al país.\n 4. Declaración Jurada ante la Dirección Nacional de Migraciones de su profesión, actividad u oficio que desarrollará en el país y del domicilio temporal fijado en el territorio nacional.\n 5. Pago del arancel correspondiente.\n 6. Los demás requisitos fijados por la presente Ley y sus reglamentaciones."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "CAPÍTULO II",
+      "section": "50",
+      "title": "Artículo 50. Requisitos para obtener la Residencia Temporal.",
+      "content": "A fin de obtener la Residencia Temporal el extranjero que desee residir en el país deberá presentar las siguientes documentaciones:\n 1. Pasaporte o documento de identidad vigente.\n 2. Visa consular y su verificación por el Ministerio de Relaciones Exteriores, en los casos que se requieran.\n 3. Constancia de ingreso al país.\n 4. Certificado de nacimiento.\n 5. Certificado de estado civil.\n 6. Certificado de Antecedentes Penales o Policiales vigentes a nivel Nacional o Federal del país de origen o del país de residencia en los últimos 3 (tres) años, a partir de los catorce años de edad.\n 7. Certificado de antecedentes expedido por la Interpol, a partir de los catorce años de edad.\n 8. Certificado de Antecedentes para Extranjeros, expedido por el Departamento de Informática de la Policía Nacional, a partir de los catorce años de edad.\n 9. Declaración Jurada ante la Dirección Nacional de Migraciones de compromiso de cumplimiento y respeto a la Constitución Nacional, las leyes y demás disposiciones normativas que rigen en el territorio nacional.\n 10. Declaración Jurada ante la Dirección Nacional de Migraciones de su profesión, actividad u oficio que desarrollará en el país y del domicilio fijado en el territorio nacional.\n 11. Pago del arancel correspondiente a la subcategoría que corresponda.\n 12. Los demás requisitos fijados por la presente Ley y sus reglamentaciones.\n Todos los documentos de origen extranjero deben estar vigentes y debidamente legalizados o apostillados. Los documentos en idioma extranjero deberán estar traducidos al español por un Traductor Público matriculado en la República del Paraguay o por Traductor Público extranjero habilitado por la autoridad competente del país donde presta su servicio; en este último supuesto la versión traducida del documento de origen extranjero deberá estar apostillado o legalizado por las vías correspondientes.\n La Dirección Nacional de Migraciones podrá, mediante resolución fundada, eximir parcialmente de las documentaciones enunciadas en el presente artículo para admisión temporal. Asimismo, podrá denegar la Residencia Temporal a quienes hayan sido procesados o condenados por hechos punibles de carácter doloso cometidos en el país o fuera de él, que merezcan según las leyes de la República del Paraguay la aplicación de penas privativas de libertad mayores a 2 (dos) años y a quienes registren una conducta reiterante en la comisión de hechos punibles.\n Quienes se encuentren gestionando la Residencia Temporal, tendrán el estatus de residente precario mientras dure el trámite de la Residencia Temporal ante la Dirección Nacional de Migraciones. La duración de la residencia precaria será determinada por la Dirección Nacional de Migraciones de acuerdo a cada situación particular."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "CAPÍTULO II",
+      "section": "51",
+      "title": "Artículo 51. Requisitos para la solicitud de prórroga de la Residencia Temporal.",
+      "content": "Se deberá presentar las siguientes documentaciones:\n 1. Pasaporte o documento de identidad vigente.\n 2. Cédula de Identidad paraguaya vigente.\n 3. Carnet de Residencia Temporal anterior o denuncia de su sustracción o extravío.\n 4. Documentos que acrediten fehacientemente algún cambio en su estado civil, profesión, oficio u ocupación, nombres o apellidos.\n 5. Certificado de Antecedentes expedido por el Departamento de Identificaciones de la Policía Nacional, a partir de los catorce años de edad.\n 6. Certificado de Antecedentes para Extranjeros, expedido por el Departamento de Informática de la Policía Nacional, a partir de los catorce años de edad.\n 7. Certificado de Antecedentes Judiciales, a partir de los catorce años de edad.\n 8. Certificado de Antecedentes expedido por la Interpol, a partir de los catorce años de edad.\n 9. Pago del arancel correspondiente.\n 10. Los demás requisitos fijados por la presente Ley y sus reglamentaciones."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "CAPÍTULO II",
+      "section": "52",
+      "title": "Artículo 52. Requisitos para obtener la Residencia Permanente.",
+      "content": "A fin de obtener la Residencia Permanente, todo extranjero deberá presentar las siguientes documentaciones:\n 1. Pasaporte o documento de identidad vigente.\n 2. Carnet de Residencia Temporal.\n 3. Cédula de Identidad paraguaya.\n 4. Documentos que acrediten fehacientemente algún cambio en su estado civil, profesión, oficio u ocupación, nombres o apellidos.\n 5. Certificado de Antecedentes, expedido por el Departamento de Identificaciones de la Policía Nacional, a partir de los catorce años de edad.\n 6. Certificado de Antecedentes para Extranjeros, expedido por el Departamento de Informática de la Policía Nacional, a partir de los catorce años de edad.\n 7. Certificado de Antecedentes Judiciales, a partir de los catorce años de edad.\n 8. Certificado de Antecedentes expedido por la Interpol, a partir de los catorce años de edad.\n 9. En caso de ser inversionista y/o capitalista, constancia de constitución de la empresa o documentos que acrediten fehacientemente la inversión dentro del país, o depósito bancario de la suma y/o proyecto de inversión a ser aprobado por los organismos competentes.\n 10. Los demás requisitos fijados por la presente Ley y sus reglamentaciones.\n 11. Pago del arancel correspondiente.\n Todos los documentos de origen extranjero deben estar vigentes y debidamente legalizados o apostillados. Los documentos en idioma extranjero deberán estar traducidos al español por un Traductor Público matriculado en la República del Paraguay o por Traductor Público extranjero habilitado por la autoridad competente del país donde presta su servicio, en este último supuesto la versión traducida del documento de origen extranjero deberá estar apostillado o legalizado por las vías correspondientes.\n Asimismo, podrá denegar la Residencia Permanente a quienes hayan sido procesados o condenados por hechos punibles de carácter doloso cometidos en el país o fuera de él, que merezcan según las leyes de la República del Paraguay la aplicación de penas privativas de libertad mayores a 2 (dos) años y a quienes registren una conducta reiterante en la comisión de hechos punibles."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "CAPÍTULO II",
+      "section": "53",
+      "title": "Artículo 53. Requisitos para acceder a la residencia permanente de familiares extranjeros de connacionales:",
+      "content": "1) Certificado de Repatriación.\n 2) Cédula de Identidad.\n 3) Certificado de nacimiento del país de origen.\n 4) Documento de Identidad del país de origen.\n 5) Antecedentes penales del país de origen, certificado de antecedentes policiales a extranjeros, e informe de Interpol, para los mayores de catorce años.\n 6) Documento de Identidad del paraguayo y certificado de matrimonio, para cónyuge de connacional.\n 7) Certificado de nacimiento de uno de los padres que acredite su condición de paraguayo natural, o carta de naturalización en caso de los naturalizados, para los hijos del connacional.\n 8) Certificado de nacimiento del progenitor y certificado de nacimiento del connacional, para los nietos del connacional.\n 9) Certificado de matrimonio, certificado de nacimiento del país de origen del cónyuge, y certificado de nacimiento del connacional, para cónyuge de hijo del connacional.\n Los documentos extranjeros establecidos en el presente artículo, serán acompañados por copias debidamente autenticadas por Escribanía Pública, a fin de que los originales permanezcan en poder de sus titulares."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "CAPÍTULO II",
+      "section": "54",
+      "title": "Artículo 54. Pérdida de la Residencia Permanente por ausencia injustificada.",
+      "content": "Los admitidos con Residencia Permanente perderán esta calidad si se ausentaren del territorio nacional por más de 3 (tres) años sin justificar su ausencia ante la Dirección Nacional de Migraciones. Ese plazo podrá ser prolongado por resolución de la Dirección Nacional de Migraciones en los casos determinados por la reglamentación. Los que por ausencia injustificada perdieran su calidad de residentes permanentes, podrán recuperarla debiendo acreditar nuevamente el cumplimiento de los requisitos legales establecidos en la presente Ley."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "CAPÍTULO II",
+      "section": "55",
+      "title": "Artículo 55. Causales de cancelación de la residencia.",
+      "content": "La cancelación de la residencia significa la pérdida de la categoría migratoria otorgada y con ella la expiración del derecho a permanecer en el país. La Dirección Nacional de Migraciones, podrá cancelar la residencia que hubiese otorgado, cualquiera sea su antigüedad, categoría o causa de la admisión y disponer la expulsión del extranjero, por medio de resolución fundada, en los siguientes casos:\n 1. Presentación de documentación no auténtica o de contenido falso, realización de un hecho o acto simulado, fraude o vicio en el consentimiento con la finalidad de obtener un beneficio migratorio o la residencia de cualquier clase.\n 2. Ausencia injustificada del país por más de 3 (tres) años corridos para el caso de un residente permanente o por más de 1 (un) año si se tratara de un residente temporal, salvo casos en que mediara autorización de la Dirección Nacional de Migraciones.\n 3. Petición de cancelación de la residencia formulada por el extranjero residente.\n 4. Cuando no se cumplan las disposiciones de la presente Ley y sus reglamentaciones.\n Cuando la Dirección Nacional de Migraciones haya dispuesto la cancelación de la residencia, el extranjero deberá abandonar el territorio nacional en el plazo fijado, bajo apercibimiento de ordenar su expulsión en las condiciones expuestas en la presente Ley.\n TÍTULO V \n DE LA DOCUMENTACIÓN Y REGULARIZACIÓN DE PERMANENCIA DE PERSONAS EXTRANJERAS QUE INGRESAN AL TERRITORIO NACIONAL \n CAPÍTULO I \n DE LOS CARNETS DE RESIDENCIA"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "CAPÍTULO I",
+      "section": "56",
+      "title": "Artículo 56. Carnet de Residencia Espontánea u Ocasional.",
+      "content": "La Dirección Nacional de Migraciones otorgará un carnet de Residencia Espontánea u Ocasional para aquellos extranjeros cuyas labores estacionales u ocasionales, como integrantes de espectáculos públicos, o como invitados por entes públicos o privados en razón de su arte y/o profesión, obliguen a permanecer en el país, por no más de 90 (noventa) días."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "CAPÍTULO I",
+      "section": "57",
+      "title": "Artículo 57. Carnet de Residencia Precaria.",
+      "content": "La Dirección Nacional de Migraciones otorgará un carnet de Residencia Precaria al extranjero que haya solicitado ser admitido como residente temporal hasta tanto concluya el trámite correspondiente a la obtención de su Residencia Temporal. El mismo será otorgado por una única vez y tendrá validez de 90 (noventa) días corridos.\n El carnet de Residencia Precaria habilitará a sus titulares, durante su período de vigencia, a permanecer, salir y reingresar al territorio nacional, trabajar y estudiar. La extensión y duración de la Residencia Precaria no genera derecho a una resolución favorable respecto a la admisión solicitada.\n La Dirección Nacional de Migraciones revocará el carnet de Residencia Precaria cuando se desnaturalicen los motivos que se tuvieron en cuenta para su otorgamiento."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "CAPÍTULO I",
+      "section": "58",
+      "title": "Artículo 58. Carnet de Residencia Temporal.",
+      "content": "Completado el trámite para la obtención del estatus de residente temporal, la Dirección Nacional de Migraciones expedirá al extranjero un carnet de residencia en tal carácter, cuya validez será por el período de la residencia otorgada. Expirado el mismo y obtenida una prórroga, se deberá gestionar y obtener un nuevo carnet en iguales condiciones."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "CAPÍTULO I",
+      "section": "59",
+      "title": "Artículo 59. Carnet de Residencia Permanente.",
+      "content": "Completado el trámite para la obtención del estatus de residente permanente, la Dirección Nacional de Migraciones expedirá al extranjero un carnet de residencia en tal carácter, que deberá ser renovado cada 10 (diez) años a los efectos de solicitar la renovación de la Cédula de Identidad paraguaya. La Dirección Nacional de Migraciones determinará los requisitos que deberán ser presentados para la renovación del carnet de Residente Permanente."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "CAPÍTULO I",
+      "section": "60",
+      "title": "Artículo 60. Reposición de los carnets de residencia.",
+      "content": "Se procederá a la reposición del carnet de residencia, en casos de deterioro, extravío, sustracción, actualización de datos personales u otras circunstancias debidamente justificadas, siempre que la validez estipulada de dicho documento se encuentre aún vigente."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "CAPÍTULO I",
+      "section": "61",
+      "title": "Artículo 61. Requisitos para la reposición de carnet de residencia.",
+      "content": "A los efectos de reponer los carnets de residencia se deberá presentar la siguiente documentación:\n 1. Formulario de solicitud y comprobante de pago del arancel correspondiente.\n 2. Carnet de residencia vigente o denuncia de sustracción o extravío del mismo.\n 3. Cédula de Identidad paraguaya si posee o denuncia de sustracción o extravío de la misma.\n 4. Pasaporte o documento de identidad de origen.\n CAPÍTULO II \n DE LA CÉDULA DE IDENTIDAD POLICIAL"
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "CAPÍTULO II",
+      "section": "62",
+      "title": "Artículo 62. Cédula de Identidad paraguaya para extranjeros.",
+      "content": "La Policía Nacional debe proveer Cédula de Identidad paraguaya a los extranjeros con Residencia Temporal y Residencia Permanente. El estatus de residente permanente exime al extranjero de la obligación de exhibir su carnet de residencia debiendo identificarse exclusivamente con la Cédula de Identidad paraguaya."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "CAPÍTULO II",
+      "section": "63",
+      "title": "Artículo 63. Plazo de validez.",
+      "content": "El plazo de validez de la Cédula de Identidad expedida a los extranjeros con residencia temporal deberá ser el mismo que el otorgado por la Dirección Nacional de Migraciones para la residencia y será renovada conforme a las prórrogas otorgadas por la misma autoridad."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "CAPÍTULO II",
+      "section": "64",
+      "title": "Artículo 64. Documento de Identidad para refugiados y asilados.",
+      "content": "Los solicitantes de refugio y asilo, con Residencia Temporal o Permanente, podrán obtener su Cédula de Identidad paraguaya una vez que la autoridad competente los haya reconocido en tal carácter.\n CAPÍTULO III \n DE LA REGULARIZACIÓN DE PERMANENCIA Y EXPULSIÓN DE EXTRANJEROS"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "CAPÍTULO III",
+      "section": "65",
+      "title": "Artículo 65. Regularización de permanencia.",
+      "content": "Una vez comprobada la irregularidad de la permanencia de un extranjero en el territorio nacional, la Dirección Nacional de Migraciones atendiendo a las circunstancias personales y particulares del caso, podrá intimarlo a que regularice su situación, bajo apercibimiento de ordenar su expulsión."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "CAPÍTULO III",
+      "section": "66",
+      "title": "Artículo 66. Expulsión.",
+      "content": "La expulsión es la decisión de la autoridad administrativa o jurisdiccional competente, por la cual se dispone la salida de un extranjero del territorio nacional.\n La expulsión conlleva la prohibición de volver a entrar al país por un plazo que no podrá ser inferior a 5 (cinco) años. El plazo máximo de vigencia de la prohibición de entrada será determinado por la Dirección Nacional de Migraciones en cada caso particular, considerando la importancia del hecho que la motivó. Dicha prohibición sólo podrá ser dispensada por la Dirección Nacional de Migraciones."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "CAPÍTULO III",
+      "section": "67",
+      "title": "Artículo 67. Causales de expulsión.",
+      "content": "La expulsión de un extranjero podrá ser ordenada por la autoridad competente en los siguientes casos:\n 1. Cuando hubiese ingresado en forma irregular en los supuestos previstos en la presente Ley.\n 2. Cuando hubiese permanecido en el territorio nacional una vez vencido el plazo de intimación para regularizar su permanencia, conforme a lo previsto en la presente Ley.\n 3. Cuando haya tenido participación en la comisión de crímenes o de hechos punibles vinculados a la trata de personas, terrorismo, financiamiento de terrorismo, tráfico y comercialización ilícita de estupefacientes, tráfico y comercialización de armas, lavado de dinero y otros hechos que a criterio de la autoridad judicial se consideren.\n 4. Cuando haya tenido participación en actos que constituyan genocidio, crímenes de lesa humanidad o cualquier acto violatorio de Derechos Humanos establecidos en los tratados internacionales ratificados por nuestro país y en los demás casos previstos por la Ley.\n 5. Cuando realicen actos que atenten contra la soberanía, la seguridad interna o incitaren o realizaren hechos o actos que fuesen prohibidos por las leyes y la Constitución Nacional."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "CAPÍTULO III",
+      "section": "68",
+      "title": "Artículo 68. Medidas cautelares.",
+      "content": "Cuando la expulsión haya sido resuelta y a los efectos de asegurar su ejecución o cuando una persona sujeta a una expulsión no esté identificada, la Dirección Nacional de Migraciones podrá solicitar al Juzgado Penal de Garantías la aplicación de medidas cautelares restrictivas a la libertad ambulatoria conforme a lo dispuesto en el Código Procesal Penal."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "CAPÍTULO III",
+      "section": "69",
+      "title": "Artículo 69. De las excepciones a la expulsión.",
+      "content": "La Dirección Nacional de Migraciones podrá no disponer de la expulsión de un extranjero, si se acreditase alguna de las causales siguientes:\n 1. Matrimonio con paraguayo o paraguaya.\n 2. Padre o madre de hijos paraguayos nacidos en el país.\n 3. Residencia Permanente en el país por un período superior a 10 (diez) años.\n La Dirección Nacional de Migraciones evaluará cada caso en particular.\n \n TÍTULO VI \n DE LAS EMPRESAS DE TRANSPORTE INTERNACIONAL \n CAPÍTULO ÚNICO \n DE LAS OBLIGACIONES, REGISTRO Y RESPONSABILIDADES"
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "TÍTULO VI",
+      "section": "70",
+      "title": "Artículo 70. Registro de prestadores del servicio de transporte.",
+      "content": "Las empresas de transporte internacional, sus agentes o representantes, deberán registrarse en la Dirección Nacional de Migraciones especificando el nombre, la naturaleza de los medios de transporte que utilizan en sus líneas, los puntos habituales de escala, embarque y desembarque y demás requisitos que al respecto establezca la reglamentación de la presente Ley. La Dirección Nacional de Migraciones coordinará con las demás entidades públicas que regulan los diversos sistemas de transporte terrestre, aéreo y fluvial, para la implementación del registro de prestadores de servicios de transporte."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "TÍTULO VI",
+      "section": "71",
+      "title": "Artículo 71. Responsabilidad de las empresas.",
+      "content": "Las empresas que prestan servicio de transporte internacional, sus agentes, el comandante, capitán, armador, conductor, propietario, sus representantes legales o encargados, serán responsables por el transporte y custodia de pasajeros y tripulantes, hasta que hubiesen pasado la inspección de control migratorio y sean admitidos en la República del Paraguay, o una vez verificada la documentación al egresar del país."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "TÍTULO VI",
+      "section": "72",
+      "title": "Artículo 72. Obligaciones.",
+      "content": "Las empresas que prestan servicio de transporte internacional, sus agentes, el comandante, capitán, armador, conductor, propietario, sus representantes legales o encargados deberán:\n 1. Permitir a las autoridades de la Dirección Nacional de Migraciones el despacho y la inspección del medio de transporte aéreo, marítimo o terrestre con que ingresan o se dispongan salir del país.\n 2. Presentar la lista de tripulantes, pasajeros y demás documentos en el momento en que lo requiera la Dirección Nacional de Migraciones y permitir la inspección y verificación de las documentaciones de los mismos.\n 3. No vender pasajes a nacionales ni extranjeros, ni transportarlos sin la presentación de la documentación requerida a tales efectos, con la visa que correspondiere en su caso.\n 4. No permitir el desembarco de pasajeros en una escala técnica, salvo que se encuentren expresamente autorizados por la Dirección Nacional de Migraciones.\n 5. Abonar los gastos que demanden las habilitaciones que por servicio de inspección o de control deban efectuarse, fuera de las horas y días hábiles o del asiento habitual de la autoridad que deba prestarlo.\n 6. No permitir el desembarco de pasajeros en una escala técnica, salvo que se encuentren expresamente autorizados por la Dirección Nacional de Migraciones."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "TÍTULO VI",
+      "section": "73",
+      "title": "Artículo 73. Documentación requerida a tripulantes y personal.",
+      "content": "Los tripulantes y el personal que integra la dotación de un medio de transporte internacional que llegue o salga del país, deberán estar provistos de la documentación hábil para acreditar su identidad y su condición de tripulante o de pertenecer a la dotación del transporte."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "TÍTULO VI",
+      "section": "74",
+      "title": "Artículo 74. Deber de reconducción.",
+      "content": "Al inadmitir la autoridad migratoria a un pasajero extranjero al momento de efectuarse el control migratorio de ingreso al país, la empresa de transporte internacional, sus agentes, el comandante, capitán, armador, conductor, propietario, sus representantes legales o encargados quedarán obligados solidariamente a reconducirlos a su costa al país de origen o procedencia o fuera del territorio de la República del Paraguay, en el medio de transporte en que llegó. En caso de imposibilidad, la empresa es responsable de su reconducción por otro medio, dentro del plazo perentorio que se le fije, quedando a su cargo los gastos que ello ocasionare. Esta obligación se limita a una plaza cuando el medio de transporte no exceda de 200 (doscientas) plazas y a 2 (dos) plazas cuando supere dicha cantidad."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "TÍTULO VI",
+      "section": "75",
+      "title": "Artículo 75. Autorización de desembarco.",
+      "content": "La Dirección Nacional de Migraciones previa solicitud de autorización, permitirá a las empresas de transporte internacional o a las agencias de turismo, sus agentes o representantes, el desembarco de los pasajeros en excursión, de los buques, aeronaves u otros medios de transporte que hagan escala en puertos o aeropuertos, en cruceros de turismo o por razones de emergencia. La autorización de este tipo de desembarco será reglamentada por la Dirección Nacional de Migraciones.\n TÍTULO VII \n DE LA AUTORIDAD DE APLICACIÓN \n CAPÍTULO I \n DE LA DIRECCIÓN NACIONAL DE MIGRACIONES"
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "CAPÍTULO I",
+      "section": "76",
+      "title": "Artículo 76. Autoridad de aplicación.",
+      "content": "Créase la Dirección Nacional de Migraciones dependiente del Poder Ejecutivo, en sustitución de la Dirección General de Migraciones como institución encargada de la aplicación y ejecución administrativa y misional del régimen integral de migraciones de la República del Paraguay. La misma es una institución autónoma y autárquica, con personería jurídica de derecho público. Se relaciona con el Poder Ejecutivo a través del Ministerio del Interior."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "CAPÍTULO I",
+      "section": "77",
+      "title": "Artículo 77. Domicilio.",
+      "content": "La Dirección Nacional de Migraciones constituye su domicilio legal en la ciudad de Asunción, pudiendo establecer oficinas regionales, en el interior del país. Toda acción judicial en la que sea parte la Dirección Nacional de Migraciones deberá iniciarse ante los Juzgados y Tribunales de la Circunscripción Judicial de la Capital."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "CAPÍTULO I",
+      "section": "78",
+      "title": "Artículo 78. Facultad reglamentaria.",
+      "content": "Se le confiere expresa facultad reglamentaria para la regulación específica de todas aquellas cuestiones accesorias y/o complementarias al régimen legal previsto en la presente norma, que demanden o requieran tratamiento normativo particular."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "CAPÍTULO I",
+      "section": "79",
+      "title": "Artículo 79. Atribuciones.",
+      "content": "Para el cabal ejercicio de sus funciones, la Dirección Nacional de Migraciones tendrá las siguientes atribuciones:\n 1. Ejecutar la Política Nacional de Migraciones.\n 2. Formular y evaluar planes, programas y estudios en materia de migraciones y de forma coherente con éstos, coordinar y orientar la formulación, evaluación y propuesta de solución de los mismos.\n 3. Reglamentar cuestiones específicas y complementarias a la normativa migratoria.\n 4. Coordinar con los demás organismos estatales la ejecución de la política migratoria.\n 5. Celebrar convenios sobre asistencia técnica, investigación, cooperación, capacitación especializada y prestación de servicios de carácter migratorio con organismos nacionales e internacionales, así como con instituciones académicas públicas o privadas y otras entidades del Estado.\n 6. Representar al país ante organismos internacionales y participar en eventos relacionados con la actividad migratoria.\n 7. Controlar y fiscalizar el ingreso, permanencia y egreso de personas del territorio nacional, en cumplimiento de las normas legales y reglamentarias vigentes.\n 8. Inadmitir el ingreso de personas extranjeras en el momento de ingresar al país, de acuerdo a las situaciones previstas en la presente Ley.\n 9. Exigir permiso de viaje a menores de edad de nacionalidad paraguaya o extranjera, con domicilio o residencia habitual en el país.\n 10. Registrar las entradas y salidas de las personas del territorio nacional y efectuar las estadísticas correspondientes.\n 11. Controlar de oficio o por denuncia la permanencia de las personas extranjeras en relación a su situación migratoria en el país.\n 12. Otorgar y cancelar el permiso de Residencia Temporal y Permanente, así como la autorización de prórroga para residentes temporales.\n 13. Otorgar la prórroga de permanencia a quienes hubieren ingresado al país para una estadía transitoria.\n 14. Habilitar y cerrar cuando fuere necesario, los lugares de entrada y salida al país para nacionales y extranjeros.\n 15. Declarar irregular el ingreso o permanencia de extranjeros cuando no pudieran probar su situación migratoria en el país.\n 16. Cancelar la permanencia de extranjeros en los casos señalados por la presente Ley.\n 17. Regularizar la situación migratoria de los migrantes irregulares cuando así corresponda.\n 18. Disponer la expulsión de extranjeros de acuerdo con sus competencias establecidas en la Ley.\n 19. Inspeccionar los medios de transporte internacional para verificar el cumplimiento de las normas vigentes relacionadas con la entrada y salida del país de nacionales extranjeros o tripulantes, documentando las infracciones pertinentes.\n 20. Inspeccionar los lugares de alojamiento y trabajo de extranjeros y de instituciones educativas a fin de registrar posibles infracciones relacionadas con la categoría migratoria de los extranjeros.\n 21. Aplicar las sanciones que correspondan a los infractores de las normas migratorias previstas en la Ley y cobrar las multas que correspondan.\n 22. Percibir los aranceles que por diversos conceptos deben abonar los extranjeros y que se determinarán en la reglamentación de la presente Ley.\n 23. La Dirección Nacional de Migraciones podrá solicitar al Poder Ejecutivo la regularización documentaria de extranjeros en situación migratoria irregular, amparada en la figura de una Amnistía Migratoria como medida excepcional autorizada vía Decreto.\n 24. Cooperar con la Mesa Interinstitucional de Lucha contra la Trata de Personas en el Paraguay y demás instituciones involucradas en la prevención y lucha contra los hechos punibles de trata de personas, tráfico de migrantes y otros hechos punibles transfronterizos.\n 25. Brindar la asistencia necesaria a aquellas víctimas de los hechos punibles mencionados en el numeral anterior, en cooperación con el Ministerio Público en lo que respecta a la presentación de denuncias y otros aspectos complementarios.\n 26. Ejercer las demás atribuciones que le confiere la presente Ley y su reglamentación.\n CAPÍTULO II \n DEL DIRECTOR NACIONAL Y LA ESTRUCTURA ORGÁNICA DE LA DIRECCIÓN NACIONAL DE MIGRACIONES"
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "CAPÍTULO II",
+      "section": "80",
+      "title": "Artículo 80. Designación.",
+      "content": "El Director Nacional de la Dirección Nacional de Migraciones, será designado por el Presidente de la República. En tal carácter será el responsable directo de la gestión técnica, financiera y administrativa de la entidad. En caso de ausencia temporal, el Director Nacional designará en carácter de Encargado de Despacho a un Director General. En caso de acefalía, y hasta tanto el Presidente de la República nombre al nuevo Director Nacional, el Director General de Extranjeros ejercerá interinamente las funciones de Director Nacional."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "CAPÍTULO II",
+      "section": "81",
+      "title": "Artículo 81. Perfil y requisitos.",
+      "content": "La Dirección Nacional de Migraciones contará con un Director Nacional, el cual será su máxima autoridad y ejercerá la representación legal de la entidad.\n El Director Nacional deberá ser de nacionalidad paraguaya, profesional universitario, haber cumplido treinta años de edad, gozar de reconocida honorabilidad, no registrar antecedentes judiciales y policiales y contar con probada idoneidad.\n El Director Nacional responderá personalmente por las consecuencias de su gestión administrativa y financiera; y de toda decisión adoptada en contravención a las disposiciones legales y reglamentarias."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "CAPÍTULO II",
+      "section": "82",
+      "title": "Artículo 82. Funciones del Director Nacional.",
+      "content": "Son funciones del Director Nacional:\n 1. Ejercer la dirección, coordinación y control de las actividades de la Dirección Nacional de Migraciones y ejercer su representación a nivel nacional e internacional.\n 2. Ejercer la representación legal de la Dirección Nacional de Migraciones. Podrá igualmente otorgar poderes generales y especiales para actuaciones judiciales y administrativas.\n 3. Velar por el buen funcionamiento de la Dirección Nacional de Migraciones.\n 4. Aprobar el Reglamento Interno, el manual operativo y la composición de las estructuras y unidades operativas subordinadas de la Dirección Nacional de Migraciones, así como las modificaciones que sean necesarias para su mejor funcionamiento.\n 5. Aprobar el proyecto del presupuesto y el plan de actividades de la entidad.\n 6. Aceptar donaciones, legados y recursos provenientes de cooperación técnica nacional e internacional, conforme a las disposiciones legales pertinentes para la consecución de los fines de la Dirección Nacional de Migraciones.\n 7. Designar, trasladar, comisionar y remover a los funcionarios de la entidad, de conformidad con lo establecido en la legislación respectiva.\n 8. Designar y remover a los Directores Generales.\n 9. Designar al Encargado del Despacho en caso de ausencia temporal del mismo.\n 10. Administrar los fondos previstos en el Presupuesto General de la Nación, y demás recursos establecidos en la presente Ley, ejerciendo la función de ordenador de gastos.\n 11. Eximir del cumplimiento de ciertos requisitos exigidos para el otorgamiento de las distintas categorías de residencias, mediante resolución fundada en circunstancias excepcionales.\n 12. Revocar de oficio o a petición de parte, las resoluciones en caso de error o cuando hechos nuevos o no conocidos al momento de dictarlas, justifiquen la decisión.\n 13. Las demás que fuesen establecidas por leyes especiales o aquellas necesarias para el correcto funcionamiento de la Dirección Nacional de Migraciones."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "CAPÍTULO II",
+      "section": "83",
+      "title": "Artículo 83. Incompatibilidades.",
+      "content": "La función de Director Nacional es incompatible con el ejercicio de otra actividad o cargo público o privado, con o sin remuneración, salvo el de la docencia e investigación a tiempo parcial."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "CAPÍTULO II",
+      "section": "84",
+      "title": "Artículo 84. De la organización.",
+      "content": "La Dirección Nacional de Migraciones deberá contar, cuanto menos con las siguientes Direcciones Generales y Direcciones:\n Direcciones Generales \n 1. Dirección General de Extranjeros.\n 2. Dirección General de Movimiento Migratorio.\n 3. Dirección General de Administración y Finanzas.\n 4. Dirección General de Asuntos Internacionales.\n Direcciones \n 1. Dirección de Gabinete.\n 2. Dirección de Asesoría Jurídica.\n 3. Dirección de Gestión de Talento Humano.\n 4. Dirección de Auditoría.\n 5. Dirección de Tecnología de la Información y Comunicación.\n La reglamentación determinará la estructura organizacional y administrativa con dependencias de rango inferior, a solicitud del Director Nacional, de acuerdo a las necesidades institucionales y de conformidad con la disponibilidad presupuestaria.\n TÍTULO VIII \n GESTIÓN Y TRÁMITES POR MEDIOS ELECTRÓNICOS \n CAPÍTULO ÚNICO \n UTILIZACIÓN Y REGLAMENTACIÓN"
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "TÍTULO VIII",
+      "section": "85",
+      "title": "Artículo 85. Utilización de medios electrónicos.",
+      "content": "La sustanciación de actuaciones en vía administrativa, así como los actos administrativos que se dicten en aplicación del régimen de migraciones, podrán realizarse por medios informáticos y telemáticos, de conformidad a las normas legales y reglamentarias de gobierno electrónico de carácter general que se dicten en el país.\n Sin perjuicio, la Dirección Nacional de Migraciones podrá utilizar los medios electrónicos disponibles para la agilización y facilitación en la realización de las funciones técnicas propias asignadas y de los pagos de aranceles y multas respectivas por medio de transferencias bancarias.\n La utilización de los medios electrónicos deberá ser reglamentada por la Dirección Nacional de Migraciones y aplicarse conforme lo establece la legislación en la materia."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "TÍTULO VIII",
+      "section": "86",
+      "title": "Artículo 86. Confidencialidad de la información migratoria.",
+      "content": "En resguardo de la inviolabilidad de la intimidad personal y familiar y el respeto de la vida privada de las personas, consagrados constitucionalmente, la Dirección Nacional de Migraciones preservará la confidencialidad de la información relativa a las personas migrantes registrada en sus documentos y bases de datos. La misma solamente podrá ser revelada por orden judicial para casos específicamente previstos en la Ley, y siempre que fuesen indispensables para el esclarecimiento de los asuntos de competencia de las correspondientes autoridades.\n TÍTULO IX \n DE LAS SANCIONES \n CAPÍTULO I \n SANCIONES AL EXTRANJERO"
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "CAPÍTULO I",
+      "section": "87",
+      "title": "Artículo 87. De las infracciones y sanciones al extranjero.",
+      "content": "Será pasible de multa aquel extranjero, que al momento de presentarse al puesto de control migratorio incurriere en las siguientes infracciones:\n 1. De hasta 6 (seis) jornales, cuando se comprobare que haya sobrepasado el plazo de estadía transitoria para el cual fue autorizado.\n 2. De 6 (seis) jornales, si se comprobare que no cuenta con su registro de ingreso al país.\n CAPÍTULO II \n SANCIONES A EMPRESAS DE TRANSPORTE INTERNACIONAL"
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "CAPÍTULO II",
+      "section": "88",
+      "title": "Artículo 88. De las infracciones y sanciones a empresas de transporte internacional.",
+      "content": "Serán pasibles de multa, a las resultas de una previa comprobación de los hechos a través de un sumario administrativo; aquellas empresas de transporte internacional, que incurrieren en las siguientes infracciones:\n 1. De hasta 100 (cien) jornales, cuando se comprobare que no cuenta con el registro correspondiente.\n 2. De hasta 150 (ciento cincuenta) jornales, cuando se comprobare que obstaculiza o impide la inspección del medio de transporte internacional.\n 3. Entre 50 (cincuenta) y 150 (ciento cincuenta) jornales, cuando se comprobare que existe omisión o declaración falsa de datos en la presentación de la lista de pasajeros de transporte internacional.\n 4. De hasta 100 (cien) jornales por cada pasajero en infracción, cuando se comprobare la venta de pasajes y prestación del servicio de transporte a personas que no cuenten con la documentación requerida.\n 5. Entre 20 (veinte) y 100 (cien) jornales por cada pasajero en infracción, cuando se comprobare el desembarco de pasajeros en escala técnica sin autorización de la Dirección Nacional de Migraciones.\n 6. Entre 10 (diez) y 100 (cien) jornales por cada pasajero o tripulante en infracción, si se comprobare la falta de documentación requerida a tripulantes y pasajeros del medio de transporte internacional.\n 7. De 150 (ciento cincuenta) jornales, si se comprobare la oposición por parte de la empresa de transporte internacional a realizar la reconducción de pasajeros que fueran rechazados por la Dirección Nacional de Migraciones.\n 8. De 150 (ciento cincuenta) jornales por cada trabajador irregular, cuando se comprobare la contratación de extranjeros que no cuenten con el carnet de residencia.\n El trámite del sumario administrativo, respetará el debido proceso y los principios de contradicción, oralidad, publicidad, transparencia, inmediatez y concentración.\n CAPÍTULO III \n DE LAS MULTAS"
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "CAPÍTULO III",
+      "section": "89",
+      "title": "Artículo 89. Órgano competente.",
+      "content": "Las sanciones de multas a las infracciones serán impuestas por la Dirección Nacional de Migraciones."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "CAPÍTULO III",
+      "section": "90",
+      "title": "Artículo 90. Reincidencia.",
+      "content": "La reincidencia será considerada un agravante de la sanción y elevará el monto de la multa hasta un 50% (cincuenta por ciento) más."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "CAPÍTULO III",
+      "section": "91",
+      "title": "Artículo 91. Prohibición de salida de transportes.",
+      "content": "El incumplimiento de las disposiciones previstas en la presente Ley, será sancionado por la Dirección Nacional de Migraciones con una multa de hasta 150 (ciento cincuenta) jornales. En caso de reincidencia la multa podrá ser duplicada.\n La Dirección Nacional de Migraciones en conjunto con la Policía Nacional, podrán impedir la salida del territorio nacional del medio de transporte correspondiente, hasta tanto la empresa responsable regularice y dé cumplimiento a las obligaciones pendientes que resulten pertinentes."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "CAPÍTULO III",
+      "section": "92",
+      "title": "Artículo 92. Graduación de las sanciones.",
+      "content": "La Dirección Nacional de Migraciones impondrá las sanciones considerando:\n 1. Los daños o perjuicios que se hubieran producido o puedan producirse.\n 2. La gravedad de la infracción.\n 3. La reincidencia del infractor."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "CAPÍTULO III",
+      "section": "93",
+      "title": "Artículo 93. Pago de multas.",
+      "content": "El monto de las multas deberá ser pagado a la Dirección Nacional de Migraciones de acuerdo a los mecanismos que ella establezca y en un plazo de 30 (treinta) días corridos, contados desde la notificación por cédula."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "CAPÍTULO III",
+      "section": "94",
+      "title": "Artículo 94. Falta de pago de multas.",
+      "content": "Si la multa no fuera pagada y hubiera resolución firme, la Dirección Nacional de Migraciones podrá demandar judicialmente al infractor por medio de juicio ejecutivo ante el Juzgado competente en lo Civil y Comercial de la Capital, acompañando copia de la resolución que aplicó la sanción o de la sentencia ejecutoriada en su caso, la que tendrá por sí sola fuerza ejecutiva."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "CAPÍTULO III",
+      "section": "95",
+      "title": "Artículo 95. Prescripción.",
+      "content": "La acción de cobro de una multa prescribe en el plazo de 2 (dos) años contados a partir del momento en que se hace exigible."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "CAPÍTULO III",
+      "section": "96",
+      "title": "Artículo 96. Destino de las multas.",
+      "content": "El monto cobrado en concepto de multas, será distribuido de la siguiente forma:\n a) El 60% (sesenta por ciento), del monto cobrado, será depositado en el Banco Central del Paraguay a nombre del Ministerio de Hacienda y constituirán recursos del Tesoro Público.\n b) El 40% (cuarenta por ciento), del monto cobrado, se constituirá en ingresos propios de la Dirección Nacional de Migraciones e incluido en su presupuesto institucional, conforme a la reglamentación.\n TÍTULO X \n PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS \n CAPÍTULO ÚNICO \n DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS"
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "TÍTULO X",
+      "section": "97",
+      "title": "Artículo 97. De los recursos y procedimientos administrativos.",
+      "content": "El régimen que establece recursos y procedimientos administrativos, será el establecido en la Ley Nº 6715/2021 “DE PROCEDIMIENTOS ADMINISTRATIVOS”.\n TÍTULO XI \n DEL PRESUPUESTO DE INGRESOS Y GASTOS \n CAPÍTULO ÚNICO"
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "TÍTULO XI",
+      "section": "98",
+      "title": "Artículo 98. De los recursos financieros.",
+      "content": "Son recursos financieros de la Dirección Nacional de Migraciones los siguientes:\n 1. Montos asignados en el Presupuesto General de la Nación para cada ejercicio fiscal.\n 2. Recaudaciones provenientes de aranceles y multas.\n 3. Donaciones, legados y otras contribuciones de personas naturales y jurídicas, nacionales y extranjeras.\n 4. Transferencias de fondos de otras entidades públicas o privadas, así como las provenientes de la suscripción de convenios y/o cooperaciones internacionales.\n 5. Rentas de bienes patrimoniales.\n 6. Los que se obtengan de fuentes de financiamiento nacional o internacional de acuerdo a las normas legales vigentes.\n 7. Otros recursos que se le asignen por Ley."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "TÍTULO XI",
+      "section": "99",
+      "title": "Artículo 99. Aranceles.",
+      "content": "Las personas extranjeras deberán abonar el arancel correspondiente por las solicitudes de Residencia Precaria, Temporal o Permanente, por cambio de información, prórroga de permanencia, cambio de categoría migratoria, expedición de certificados y documentos que exija la Dirección Nacional de Migraciones en cumplimiento de la presente Ley y de su reglamentación."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "TÍTULO XI",
+      "section": "100",
+      "title": "Artículo 100. Del valor de los aranceles.",
+      "content": "Las sumas que deberán abonar los extranjeros en concepto de aranceles mencionados en el artículo anterior son las siguientes:\n 1. Residencia Permanente: 15 (quince) jornales.\n 2. Residencia Temporaria: 10 (diez) jornales.\n 3. Residencia Espontánea u Ocasional: 8 (ocho) jornales.\n 4. Residencia Precaria: 5 (cinco) jornales.\n 5. Prórroga de residencia temporaria: 11 (once) jornales.\n 6. Prórroga de permanencia: 5 (cinco) jornales.\n 7. Reposición de carnet de residente: 5 (cinco) jornales.\n 8. Renovación de carnet de residente permanente: 4 (cuatro) jornales.\n 9. Cambio de categoría: 10 (diez) jornales.\n 10. Cambio de información: 2 (dos) jornales.\n 11. Expedición de certificados y otros documentos: 2 (dos) jornales.\n 12. Habilitación de horario para inspección de empresa de transporte: 5 (cinco) jornales."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "TÍTULO XI",
+      "section": "101",
+      "title": "Artículo 101. Exoneración de pagos de aranceles al connacional repatriado.",
+      "content": "1. El pago de aranceles percibidos por la Dirección Nacional de Migraciones para los siguientes: cónyuge, hijos y nietos extranjeros del connacional, estos últimos hasta los dieciocho años. Asimismo, el cónyuge del hijo del connacional.\n 2. El pago de aranceles correspondientes a todas aquellas actuaciones consulares y administrativas percibidas por las distintas instituciones del Estado, necesarias para la repatriación de connacionales y sus familiares nacidos en el extranjero.\n TÍTULO XII \n DE LAS DISPOSICIONES TRANSITORIAS Y FINALES \n CAPÍTULO ÚNICO"
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "TÍTULO XII",
+      "section": "102",
+      "title": "Artículo 102. Asistencia sanitaria en situaciones de alerta.",
+      "content": "En caso de registrarse situaciones de alerta sanitaria declaradas por el Ministerio de Salud Pública y Bienestar Social ante la aparición de pandemias, epidemias o enfermedades graves de propagación masiva, las autoridades de dicho ministerio solicitarán la cooperación de la Dirección Nacional de Migraciones para que los funcionarios sanitarios puedan ejercer el control médico y la prestación de salud que requieran las personas, nacionales y extranjeras, que ingresen al territorio paraguayo, de acuerdo con las medidas de vigilancia y respuestas sanitarias previstas por el citado Ministerio o el Reglamento Sanitario Internacional de la Organización Mundial de la Salud."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "TÍTULO XII",
+      "section": "103",
+      "title": "Artículo 103. De la constitución y denominación de la Dirección Nacional de Migraciones.",
+      "content": "A partir de la vigencia de la presente Ley, la Dirección General de Migraciones dependiente del Ministerio del Interior se denominará y pasará a constituirse en la Dirección Nacional de Migraciones se relacionará con el Poder Ejecutivo a través del Ministerio del Interior.\n Los funcionarios, bienes y recursos financieros de la Dirección General de Migraciones pasarán a integrar la Dirección Nacional de Migraciones en las mismas condiciones legales establecidas en la Ley Nº 1626/2000 “DE LA FUNCIÓN PÚBLICA” y la Ley Nº 1535/1999 “DE ADMINISTRACIÓN FINANCIERA DEL ESTADO”."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "TÍTULO XII",
+      "section": "104",
+      "title": "Artículo 104. De los funcionarios de la Dirección Nacional de Migraciones.",
+      "content": "Se regirán por la Ley Nº 1626/2000 “DE LA FUNCIÓN PÚBLICA” y la Ley Nº 1535/1999 “DE ADMINISTRACIÓN FINANCIERA DEL ESTADO”, sus modificatorias y normas complementarias."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "TÍTULO XII",
+      "section": "105",
+      "title": "Artículo 105. Director Nacional.",
+      "content": "La máxima autoridad de la Dirección Nacional de Migraciones en ejercicio en el momento de la entrada en vigencia de la presente Ley, pasará a desempeñarse como Director Nacional interino de la Dirección Nacional de Migraciones hasta la designación del titular por parte del Poder Ejecutivo.\n El Director Nacional interino o designado de la Dirección Nacional de Migraciones queda facultado a estructurar el Cuadro de Asignación de Personal y a reformular el Proyecto de Presupuesto correspondiente al Ejercicio Fiscal vigente, en el marco de las disposiciones legales vigentes y en concordancia con la organización establecida en la presente Ley."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "TÍTULO XII",
+      "section": "106",
+      "title": "Artículo 106. Situación de los funcionarios y contratados.",
+      "content": "Los funcionarios que formen parte del anexo del personal de la actual Dirección General de Migraciones pasarán a formar parte del plantel de funcionarios de la Dirección Nacional de Migraciones manteniendo todos los derechos adquiridos, especialmente la antigüedad y la categoría salarial. El personal contratado que se encuentre prestando servicios en la Dirección General de Migraciones continuará prestando dichos servicios en los mismos términos y condiciones contractuales."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "TÍTULO XII",
+      "section": "107",
+      "title": "Artículo 107. Derogación.",
+      "content": "Derógase la Ley Nº 978/1996 “DE MIGRACIONES”."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "TÍTULO XII",
+      "section": "108",
+      "title": "Artículo 108. De la reglamentación.",
+      "content": "El Poder Ejecutivo reglamentará la presente Ley en un plazo no mayor de 180 (ciento ochenta) días a partir de su publicación."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "TÍTULO XII",
+      "section": "109",
+      "title": "Artículo 109. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los veintiocho días del mes de julio del año dos mil veintidós , quedando sancionado el mismo, por la Honorable Cámara de Diputados, a los seis días del mes de setiembre del año dos mil veintidós , de conformidad a lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

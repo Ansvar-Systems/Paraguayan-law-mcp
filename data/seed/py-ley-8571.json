@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-8571",
+  "type": "statute",
+  "title": "Ley Nº 6048 / APRUEBA EL FONDO DE PROMOCIÓN DE TURISMO DEL MERCOSUR",
+  "title_en": "Ley Nº 6048 / APRUEBA EL FONDO DE PROMOCIÓN DE TURISMO DEL MERCOSUR",
+  "short_name": "Ley N° 6048",
+  "status": "in_force",
+  "issued_date": "2018-04-20",
+  "in_force_date": "2018-04-30",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/8571/ley-n-6048-aprueba-el-fondo-de-promocion-de-turismo-del-mercosur",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Apruébase, el “Fondo de Promoción de Turismo del Mercosur” , aprobado en ocasión de la XXXVIII Reunión del Consejo del Mercado Común del MERCOSUR, realizada en la ciudad de Montevideo, el 7 de diciembre de 2009 y cuyo texto es como sigue:",
+      "content": "“MERCOSUR/CMC/DEC. Nº 24/09 \n FONDO DE PROMOCIÓN DE TURISMO DEL MERCOSUR \n VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº 09/91 y 08/04 del Consejo del Mercado Común y la Resolución 12/91 del Grupo Mercado Común. \n CONSIDERANDO: \n La importancia del turismo como medio de reforzar la integración cultural entre los países y el desarrollo económico . \n Que, es conveniente dar continuidad a los resultados exitosos en la materia, tales como los alcanzados por el Proyecto de Promoción Conjunta de Turismo del MERCOSUR en Japón, desarrollado en asociación con la Agencia Japonesa de Cooperación Internacional (JICA), así como tener la posibilidad de implementar otras iniciativas similares que se presenten en el futuro. \n Que, a tal fin resulta necesario crear un instrumento de gestión financiera que sirva de apoyo a los trabajos que viene ejecutando la Reunión Especializada de Turismo (RET) en la materia. \n EL CONSEJO DEL MERCADO COMÚN \n DECIDE:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. El Fondo de Promoción de Turismo del MERCOSUR (FPTur) es un instrumento de gestión financiera que estará constituido por las contribuciones ordinarias de los Estados Partes y por la renta financiera generada por el propio Fondo. Las entidades nacionales responsables por los aportes a este Fondo son:",
+      "content": "Argentina: Ministerio de Industria y Turismo - Secretaría de Turismo Instituto Nacional de Promoción Turística (INPROTUR). \n Brasil: Ministério do Turismo - Instituto Brasileiro de Turismo (EMBRATUR) \n Paraguay: Secretaría Nacional de Turismo (SENATUR). \n Uruguay: Ministerio de Turismo y Deporte. \n Podrán también integrar el Fondo las contribuciones voluntarias de los Estados Partes, de terceros países, de organismos y otras entidades, una vez que sean aprobadas por el Grupo Mercado Común (GMC), a propuesta de la Reunión Especializada de Turismo (RET)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. En relación a los montos del Fondo destinados específicamente a actividades de promoción conjunta de turismo en Japón, los aportes de los Estados Partes se integrarán de acuerdo a los siguientes porcentajes determinados en base a estadísticas de ingreso de turistas japoneses en cada Estado Parte:",
+      "content": "Argentina: 20% (veinte por ciento) \n Brasil: 65% (sesenta y cinco por ciento) \n Paraguay: 7,5% (siete coma cinco por ciento) \n Uruguay: 7,5% (siete coma cinco por ciento) \n En caso de alteración sustancial en los números de ingreso de turistas japoneses en cada país, los porcentajes de contribución de cada Estado Parte podrán ser recalculados por el Grupo Mercado Común (GMC), a propuesta de la Reunión Especializada de Turismo (RET)."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. Esta Decisión deberá ser incorporada al ordenamiento jurídico de los Estados Partes.",
+      "content": "XXXVlll CMC - Montevideo, 07/XII/09.”"
+    }
+  ],
+  "definitions": []
+}

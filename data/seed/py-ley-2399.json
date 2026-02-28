@@ -1,0 +1,530 @@
+{
+  "id": "py-ley-2399",
+  "type": "statute",
+  "title": "Ley Nº 836 / CÓDIGO SANITARIO",
+  "title_en": "Ley Nº 836 / CÓDIGO SANITARIO",
+  "short_name": "Ley N° 836",
+  "status": "in_force",
+  "issued_date": "1980-12-04",
+  "in_force_date": "1980-12-15",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario",
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Los planes, programas y actividades de salud y bienestar social, a cargo de las instituciones públicas y privadas, serán aprobados y controlados por el Ministerio que debe orientarlos de acuerdo con la política de salud y bienestar social de la Nación.",
+      "content": "LIBRO I \n DE LA SALUD"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Salud Pública es el estado de salud de la población de determinada área geográfica, en función a sus factores condicionantes.",
+      "content": "TITULO PRELIMINAR \n DE LAS ACCIONES PARA LA SALUD"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "TITULO PRELIMINAR",
+      "section": "10",
+      "title": "Artículo 10. El cuidado de la salud comprende :",
+      "content": "a) En relación a las personas las acciones integrales y coordinados de promoción, protección, recuperación y rehabilitación del estado de bienestar físico, mental y social ;\n b) En relación al medio, el control de los factores condicionantes de la salud de las personas"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "TITULO PRELIMINAR",
+      "section": "13",
+      "title": "Artículo 13. - En casos de epidemias o catástrofes, el Poder Ejecutivo está facultado a declarar en estado de emergencia sanitaria la totalidad o parte afectada del territorio nacional, determinando su carácter y estableciendo las medidas procedentes, pudiendo exigir acciones específicas extraordinarias a las instituciones públicas y privadas, así como a la población en general.",
+      "content": "TITULO I \n DE LA SALUD DE LAS PERSONAS \n CAPITULO I \n DE LA SALUD FAMILIAR"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPITULO I",
+      "section": "14",
+      "title": "Artículo 14. La salud del grupo familiar es derecho irrenunciable que se reconoce a todos los habitantes del país.",
+      "content": "El Estado promoverá y realizará las acciones necesarias en favor de la salud familiar.\n Sección I \n De la salud de las personas por nacer"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPITULO I",
+      "section": "17",
+      "title": "Artículo 17. El aborto en su calificación y sanción quedará sujeto a las disposiciones de la legislación penal común.",
+      "content": "Sección II \n De la reproducción humana"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPITULO I",
+      "section": "20",
+      "title": "Artículo 20. Los programas de protección familiar deben obedecer a las estrategias del sector salud, en coincidencia con los planes y exigencias del desarrollo económico y social, de acuerdo con los valores y expectativas de la Nación.",
+      "content": "Sección III \n De la salud de los progenitores y del hijo"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPITULO I",
+      "section": "23",
+      "title": "Artículo 23. Es responsabilidad de los establecimientos que presten atención obstétrica y pediátrica la identificación, el cuidado, la seguridad y la custodia del recién nacido mientras dure la internación de la madre o del lactante.",
+      "content": "CAPITULO II \n DE LA ATENCION MEDICA Y ODONTOLOGIA"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "CAPITULO II",
+      "section": "24",
+      "title": "Artículo 24. Ninguna persona podrá recibir atención médica u odontológica sin su expreso consentimiento y en caso de impedimento el de la persona autorizada. Se exceptúan de esta prohibición las atenciones e urgencia y las previstas en el Artículo 13.",
+      "content": "CAPITULO III \n DE LAS ENFERMEDADES TRANSMISIBLES"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPITULO III",
+      "section": "38",
+      "title": "Artículo 38. El control de las enfermedades transmisibles, se realizará conforme a los tratados, convenios, acuerdos internacionales vigentes, y el presente Código y su reglamentación.",
+      "content": "CAPITULO IV \n DE LAS ENFERMEDADES ENDEMICAS"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "CAPITULO IV",
+      "section": "39",
+      "title": "Artículo 39. El Ministerio programará el control a la erradicación de las enfermedades endémicas.",
+      "content": "CAPITULO V \n DE LAS ENFERMEDADES CRÓNICAS NO TRANSMISIBLES"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "CAPITULO V",
+      "section": "41",
+      "title": "Artículo 41. El Ministerio y las Universidades, separados o conjuntamente, procederán a la creación de establecimientos especializados en la investigación de las enfermedades crónicas no transmisibles, con fines de diagnóstico, tratamiento y docencia. Podrán crear establecimientos con idéntica finalidad las instituciones públicas y privadas, previa aprobación del Viceministerio.",
+      "content": "CAPITULO VI \n DE LOS DAÑOS POR ACCIDENTES"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "CAPITULO VI",
+      "section": "42",
+      "title": "Artículo 42. El Ministerio dictará medidas y realizará actividades en coordinación con instituciones públicas y privadas competentes en la materia, para evitar o reducir las lesiones por accidentes.",
+      "content": "CAPITULO VII \n DE LA SALUD MENTAL"
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "CAPITULO VII",
+      "section": "54",
+      "title": "Artículo 54. El Ministerio es la única institución competente para verificar el consumo de las substancias mencionadas en el Artículo 52.",
+      "content": "CAPITULO IX \n DE LA REHABILITACION"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "CAPITULO IX",
+      "section": "56",
+      "title": "Artículo 56. El Ministerio promoverá la formación y capacitación de profesionales, técnicos y auxiliares que se requiera, en materia de rehabilitación.",
+      "content": "CAPITULO X \n DEL CONTROL DE LA SALUD DE LAS PERSONAS"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "CAPITULO X",
+      "section": "65",
+      "title": "Artículo 65. Las personas que deseen obtener licencia para conducir vehículos, terrestres, fluviales o aéreos, están obligadas al control médico, en las dependencias del Ministerio habilitadas a ese efecto, para la certificación correspondiente de su estado de salud.",
+      "content": "TITULO II \n DE LA SALUD Y EL MEDIO \n CAPITULO I \n DEL SANEAMIENTO AMBIENTAL - DE LA CONTAMINACION Y POLUCION"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "CAPITULO I",
+      "section": "68",
+      "title": "Artículo 68. El Ministerio promoverá programas encaminados a la prevención y control de la contaminación y de polución ambiental y dispondrá medidas para su preservación, debiendo realizar controles periódicos del medio para detectar cualquier elemento que cause o pueda causar deterioro de la atmósfera, el suelo, las aguas y los alimentos.",
+      "content": "CAPITULO II \n DEL AGUA PARA CONSUMO HUMANO Y DE RECREO"
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "CAPITULO II",
+      "section": "76",
+      "title": "Artículo 76. Toda área destinada a nuevos asentamientos humanos deberá disponer de condiciones naturales capaces de abastecer de agua potable a la población.",
+      "content": "CAPITULO III \n DE LOS ALCANTARILLADOS Y DE LOS DESECHOS INDUSTRIALES"
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "CAPITULO III",
+      "section": "85",
+      "title": "Artículo 85. El Ministerio podrá obligar al propietario de inmuebles a que construya obras de drenaje, con el objeto de prevenir la formación de focos insalubres o de infección y de sanear los que hubieren en los predios de su propiedad, pudiendo disponer su ejecución, con derecho de reembolso de los gastos efectuados, en caso negativo.",
+      "content": "CAPITULO IV \n DE LA SALUD OCUPACIONAL Y DEL MEDIO LABORAL"
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "CAPITULO IV",
+      "section": "89",
+      "title": "Artículo 89. El Ministerio podrá cancelar la autorización otorgada a los establecimientos industriales, comerciales, o de salud, cuyo funcionamiento representen riesgo para la salud.",
+      "content": "CAPITULO V \n DE LA HIGIENE EN LA VIA PUBLICA"
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "CAPITULO V",
+      "section": "93",
+      "title": "Artículo 93. Queda prohibido fijar, exhibir carteles, hacer inscripciones murales, proyecciones cinematográficas o fotográficas en la vía pública, que atenten contra la salud.",
+      "content": "CAPITULO VI \n DE LOS EDIFICIOS, DE LAS VIVIENDAS Y DE LAS URBANIZACIONES"
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "CAPITULO VI",
+      "section": "99",
+      "title": "Artículo 99. El Ministerio promocionará o ejecutará o controlará la construcción de viviendas en poblaciones de menor concentración.",
+      "content": "CAPITULO VII \n DE LOS ESTABLECIMIENTOS ABIERTOS AL PUBLICO"
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "CAPITULO VII",
+      "section": "102",
+      "title": "Artículo 102. Quienes trabajan en establecimientos abiertos al público deben poseer certificado de salud expedido por el Ministerio.",
+      "content": "CAPITULO VIII \n DE LOS CAMPAMENTOS, DE LAS FINCAS RURALES Y DE LAS PEREGRINACIONES"
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "CAPITULO VIII",
+      "section": "105",
+      "title": "Artículo 105. En las peregrinaciones el Ministerio arbitrará las medidas sanitarias en coordinación con otros componentes del sector.",
+      "content": "CAPITULO IX \n DE LOS ASENTAMIENTOS HUMANOS"
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "CAPITULO IX",
+      "section": "106",
+      "title": "Artículo 106. El Ministerio participará en todo proyecto de nuevos asentamientos humanos determinando sus condiciones de salubridad.",
+      "content": "CAPITULO X \n DE LOS INSECTOS, ROEDORES Y OTROS VECTORES DE ENFERMEDADES"
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "CAPITULO X",
+      "section": "110",
+      "title": "Artículo 110. Para mantener viveros o criaderos de animales, con fines de investigación en salud, se deberá contar con la autorización del Ministerio y observar las normas establecidas por el mismo.",
+      "content": "CAPITULO IX \n DE LA DEFENSA EN LOS PARQUES NACIONALES"
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "CAPITULO IX",
+      "section": "113",
+      "title": "Artículo 113. El Ministerio intervendrá, de inmediato, cuando en los parques nacionales se verifique la existencia de factores que puedan resultar dañinos a la salud.",
+      "content": "CAPITULO XII \n DE LA DISPOSICION DE CADAVERES Y DE LOS CEMENTERIOS"
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "CAPITULO XII",
+      "section": "122",
+      "title": "Artículo 122. Los servicios hospitalarios, de asistencia social y de internación de seres humanos, deben comunicar al Ministerio en un término de 12 horas, la defunción de toda persona internada cuyo cadáver no haya sido reclamado dentro de las 12 horas del fallecimiento.",
+      "content": "CAPITULO XVI \n DE LA PUBLICIDAD DE LOS SERVICIOS Y PRODUCTOS \n RELACIONADOS CON LA SALUD"
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "CAPITULO XVI",
+      "section": "133",
+      "title": "Artículo 133. La difusión de noticias sobre la aparición en el país de casos de enfermedades objeto de reglamentación internacional deberá ser autorizada por el Ministerio.",
+      "content": "TITULO III \n DE LAS ACCIONES DE APOYO PARA LA SALUD \n CAPITULO I \n DE LA INVESTIGACION PARA LA SALUD"
+    },
+    {
+      "provision_ref": "art139",
+      "chapter": "CAPITULO I",
+      "section": "139",
+      "title": "Artículo 139. Podrán efectuarse investigaciones en ciencias de la salud con subvenciones o donaciones de países u organismos extranjeros, previa autorización del Ministerio.",
+      "content": "CAPITULO II \n DE LA SALUD Y EL DESARROLLO ECONOMICO Y SOCIAL"
+    },
+    {
+      "provision_ref": "art142",
+      "chapter": "CAPITULO II",
+      "section": "142",
+      "title": "Artículo 142. El Ministerio promoverá, apoyará y realizará programas de adiestramiento de profesionales, técnicos, auxiliares y voluntarios de la comunidad en salud y bienestar social para las áreas de desarrollo regional, dando especial atención a la adopción de nuevas tecnologías y sus implicaciones.",
+      "content": "CAPITULO III \n DE LAS ESTADÍSTICAS VITALES Y SANITARIAS"
+    },
+    {
+      "provision_ref": "art146",
+      "chapter": "CAPITULO III",
+      "section": "146",
+      "title": "Artículo 146. Todo nacimiento o defunción deberá ser certificado por el profesional actuante, consignando los datos necesarios para las estadísticas sanitarias, documento que será presentado al centro sanitario más próximo y al Registro del Estado Civil de las Personas., para lo que hubiere lugar.",
+      "content": "A falta de un profesional autorizado, el hecho será atestiguado por dos personas hábiles."
+    },
+    {
+      "provision_ref": "art147",
+      "chapter": "CAPITULO III",
+      "section": "147",
+      "title": "Artículo 147. El Ministerio proporcionará, periódicamente, a la Dirección General de Estadísticas y Censos datos de estadísticas vitales, sanitarias y cualquier otra información que ésta requiera en la materia.",
+      "content": "CAPITULO IV \n DE LA EDUCACION PARA LA SALUD"
+    },
+    {
+      "provision_ref": "art149",
+      "chapter": "CAPITULO IV",
+      "section": "149",
+      "title": "Artículo 149. Los programas de educación par la salud desarrollados por instituciones, sean públicas o privadas, deberán ser previamente aprobados por el Ministerio.",
+      "content": "LIBRO II \n DE LOS ALIMENTOS \n TITULO Y \n DISPOSICIONES GENERALES"
+    },
+    {
+      "provision_ref": "art157",
+      "chapter": "TITULO Y",
+      "section": "157",
+      "title": "Artículo 157. Sólo podrán elaborar, proveer, distribuir y expender alimentos aptos para el consumo. Queda prohibida la producción, venta o donación de aquellos que éstas alterados, deteriorados, contaminados o adulterados.",
+      "content": "TITULO II \n DE LOS ALIMENTOS Y SU HIGIENE"
+    },
+    {
+      "provision_ref": "art158",
+      "chapter": "TITULO II",
+      "section": "158",
+      "title": "Artículo 158. La personas dedicadas a manipular alimentos y bebidas se someterán a los controles médicos periódicos reglamentados y observarán el cumplimiento estricto de las medidas higiénicas para evitar la contaminación de los productos.",
+      "content": "CAPITULO I \n DEL CONTROL DE LOS ALIMENTOS"
+    },
+    {
+      "provision_ref": "art160",
+      "chapter": "CAPITULO I",
+      "section": "160",
+      "title": "Artículo 160. Los propietarios de establecimientos de alimentos, así como los que se dedican a su transporte o comercialización, están obligados a facilitar a los funcionarios competentes del Ministerio, la extracción de muestras para ser sometidos a examen bromatológico y de aptitudes sanitarias, pudiendo dichos funcionarios ordenar su retención, ciando representes riesgos para la salud de las personas.",
+      "content": "CAPITULO II \n DE LA PREPARACIÓN CULINARIA"
+    },
+    {
+      "provision_ref": "art161",
+      "chapter": "CAPITULO II",
+      "section": "161",
+      "title": "Artículo 161. Las preparaciones culinarias de los establecimientos que produzcan, distribuyan o vendan alimentos preparados para consumo, deben ajustarse a las condiciones higiénico - sanitarias que establezca el reglamento pertinente.",
+      "content": "CAPITULO III \n DE LOS ESTABLECIMIENTOS DE ALIMENTOS"
+    },
+    {
+      "provision_ref": "art166",
+      "chapter": "CAPITULO III",
+      "section": "166",
+      "title": "Artículo 166. Los propietarios y representantes de establecimientos de alimentos, están obligados a permitir el acceso a los funcionarios competentes del Ministerio para realizar las inspecciones que consideren necesarias/",
+      "content": "CAPITULO IV \n DE LA CONSERVACIÓN, ALMACENAMIENTO Y TRANSPORTE DE ALIMENTOS"
+    },
+    {
+      "provision_ref": "art174",
+      "chapter": "CAPITULO IV",
+      "section": "174",
+      "title": "Artículo 174. Queda a cargo del Poder Ejecutivo autorizar y controlar la producción, importación, exportación y distribución de alimentos irradiados.",
+      "content": "CAPITULO V \n DE LA COMERCIALIZACIÓN DE ALIMENTOS Y BEBIDAS"
+    },
+    {
+      "provision_ref": "art176",
+      "chapter": "CAPITULO V",
+      "section": "176",
+      "title": "Artículo 176. El Ministerio de Industria y Comercio procederá a la inscripción de alimentos elaborados o bebidas para el consumo, de producción nacional o extranjera, cuando ellos hayan sido registrados por el Ministerio.",
+      "content": "TITULO III \n DE OTRAS SUSTANCIAS RELACIONADAS CON LOS ALIMENTOS Y BEBIDAS \n CAPITULO Y \n DE LAS SUSTANCIAS ESTIMULANTES EN LOS ALIMENTOS Y BEBIDAS"
+    },
+    {
+      "provision_ref": "art177",
+      "chapter": "CAPITULO Y",
+      "section": "177",
+      "title": "Artículo 177. La industrialización, manipulación, denominación, tipo y características de las sustancias y productos estimulantes deben ajustarse a cuanto disponga la reglamentación pertinente. Los establecimientos que los elaboren deben registrarse en el Ministerio. El que llevará su control.",
+      "content": "CAPITULO II \n DE LOS ADITIVOS ALIMENTARIOS"
+    },
+    {
+      "provision_ref": "art179",
+      "chapter": "CAPITULO II",
+      "section": "179",
+      "title": "Artículo 179. El Ministerio habilitará un registro de los aditivos alimentarios y controlará que sean de composición y pureza conocidas y carentes de toxicidad.",
+      "content": "CAPITULO III \n DE LOS COADYUVANTES ALIMENTARIOS"
+    },
+    {
+      "provision_ref": "art183",
+      "chapter": "CAPITULO III",
+      "section": "183",
+      "title": "Artículo 183. No se utilizará en la alimentación humana sal común procedente de procesos químicos, recuperación de salazones o de usos industriales.",
+      "content": "CAPITULO IV \n DE LOS ALIMENTOS DIETETICOS"
+    },
+    {
+      "provision_ref": "art185",
+      "chapter": "CAPITULO IV",
+      "section": "185",
+      "title": "Artículo 185. La elaboración industrial de alimentos dietéticos requiere la aprobación previa del Ministerio, el que determinará la",
+      "content": "necesidad de la dirección técnica de un profesional registrado y habilitado por el mismo."
+    },
+    {
+      "provision_ref": "art187",
+      "chapter": "CAPITULO IV",
+      "section": "187",
+      "title": "Artículo 187. Para importar o exportar alimentos dietéticos es requisito previo contar con la autorización del Ministerio.",
+      "content": "LIBRO III \n DE CUANTO AFECTA A LA SALUD DE LAS PERSONAS \n TITULO Y \n DEL USO DE SUBSTANCIAS ESTUPEFACIENTES Y OTRAS DROGAS PELIGROSAS Y DE LA FARMACODEPENDENCIA"
+    },
+    {
+      "provision_ref": "art189",
+      "chapter": "TITULO Y",
+      "section": "189",
+      "title": "Artículo 189. Para la acción de represión de tráfico ilícito de estupefacientes y otras drogas peligrosas, el Ministerio colaborará con los organismos competentes suministrando las referencias necesarias para el efecto y arbitrará los medios para la recuperación de los farmacodependientes en establecimientos especializados.",
+      "content": "CAPITULO II \n DE LAS SUSTANCIAS TOXICAS O PELIGROSAS"
+    },
+    {
+      "provision_ref": "art201",
+      "chapter": "CAPITULO II",
+      "section": "201",
+      "title": "Artículo 201. Se prohíbe la producción, importación y venta de objetos y utensilios de uso familiar o colectivo que contengan las sustancias de que trata el Artículo anterior.",
+      "content": "Artícul o 202.- Toda publicidad del tabaco no debe inducir a su consumo, debiendo referirse solamente a su calidad y origen. Se prohíbe usar su publicidad figuras o personajes representativos de niños o adolescentes, o asociarlos con actividades deportivas, de trabajo, de estudio o del hogar."
+    },
+    {
+      "provision_ref": "art206",
+      "chapter": "CAPITULO II",
+      "section": "206",
+      "title": "Artículo 206. Se prohíbe la venta y consumo de bebidas alcohólicas en locales públicos a menores de edad.",
+      "content": "TITULO II \n DE LAS ZOONOSIS"
+    },
+    {
+      "provision_ref": "art210",
+      "chapter": "TITULO II",
+      "section": "210",
+      "title": "Artículo 210. Todo poseedor de animales enfermos de zoonosis, está obligado a someterlos a observación, aislamiento y cuidado, en la forma que determine el Ministerio. Los animales enfermos podrán ser decomisados y sacrificados, cuando representen riesgos para la salud.",
+      "content": "LIBRO IV \n DE LOS RECURSOS PARA LA SALUD \n TITULO I \n DE LOS RECURSOS HUMANOS"
+    },
+    {
+      "provision_ref": "art213",
+      "chapter": "TITULO I",
+      "section": "213",
+      "title": "Artículo 213. El Ministerio fomentará la participación activa de la comunidad en al formación y capacitación del personal de salud.",
+      "content": "CAPITULO Y \n DE LAS PROFESIONES EN CIENCIAS DE LA SALUD"
+    },
+    {
+      "provision_ref": "art228",
+      "chapter": "CAPITULO Y",
+      "section": "228",
+      "title": "Artículo 228. El poder Ejecutivo establecerá el escalafón y lo reglamentará.",
+      "content": "CAPITULO III \n DE LA FORMACION Y CAPACITACION DE RECURSOS HUMANOS EN CIENCIAS DE LA SALUD \n SECCION I \n DISPOSICIONES GENERALES"
+    },
+    {
+      "provision_ref": "art231",
+      "chapter": "CAPITULO III",
+      "section": "231",
+      "title": "Artículo 231. Se requiere la previa autorización del Ministerio para la formación o adiestramiento de técnicos y auxiliares en ciencias de la salud, con excepción de las Universidades del país.",
+      "content": "SECCION II \n DE LA PASANTIA EN CIENCIAS DE LA SALUD"
+    },
+    {
+      "provision_ref": "art233",
+      "chapter": "CAPITULO III",
+      "section": "233",
+      "title": "Artículo 233. Los pasantes, profesionales, técnicos o auxiliares en ciencias de la salud estarán sujetos a las disposiciones que rijan para el funcionario público.",
+      "content": "SECCION III \n DE LA CAPACITACION Y ADIESTRAMIENTO DE EMPIRICOS EN SALUD"
+    },
+    {
+      "provision_ref": "art235",
+      "chapter": "CAPITULO III",
+      "section": "235",
+      "title": "Artículo 235. - El Ministerio podrá cancelar la habilitación de cualquier trabajador empírico cuando no cumpla las disposiciones reglamentarias o su trabajo lo considere suficiente o riesgoso.",
+      "content": "SECCION IV \n DE LA PARTICIPACION COMUNTARIA PARA LA SALUD"
+    },
+    {
+      "provision_ref": "art238",
+      "chapter": "CAPITULO III",
+      "section": "238",
+      "title": "Artículo 238. Las autoridades públicas y privadas deben cooperar y participar en los programas de salud comunitario ejecutados o autorizados por el Ministerio.",
+      "content": "TITULO II \n DE LOS RECURSOS FISICOS Y TERAPEUTICOS \n CAPITULO I \n DE LOS ESTABLECIMIENTOS DE SALUD"
+    },
+    {
+      "provision_ref": "art258",
+      "chapter": "CAPITULO I",
+      "section": "258",
+      "title": "Artículo 258. Los establecimientos que elaboren productos veterinarios o fitosanitarios se registrarán previamente en el Ministerio.",
+      "content": "CAPITULO II \n DE LOS ESTABLECIMIENTOS DE BELLEZA Y DE ACTIVIDADES AFINES"
+    },
+    {
+      "provision_ref": "art260",
+      "chapter": "CAPITULO II",
+      "section": "260",
+      "title": "Artículo 260. Queda prohibido utilizar en los establecimientos de belleza y de actividades afines, sustancias, productos o aparatos que no hayan sido registrados previamente en el Ministerio.",
+      "content": "CAPITULO III \n DE LOS RECURSOS TERAPEUTICOS \n SECCION I \n DE LOS MEDICAMENTOS"
+    },
+    {
+      "provision_ref": "art272",
+      "chapter": "CAPITULO III",
+      "section": "272",
+      "title": "Artículo 272. La importación, exportación y producción de muestras gratis que contengan estupefacientes y otras drogas peligrosas, requieren la autorización previa del Ministerio.",
+      "content": "SECCION II \n DE LOS APARATOS, INSTRUMENTALES, EQUIPOS Y DISPOSISITIVOS MEDICOS, ODONTOLOGICOS Y LABORATORIALES"
+    },
+    {
+      "provision_ref": "art274",
+      "chapter": "CAPITULO III",
+      "section": "274",
+      "title": "Artículo 274. Los establecimientos que se dediquen a fabricar, importar, exportar o reparar aparatos, instrumentales, equipos y dispositivos médicos, odontológicos y laboratoriales, deben registrarse previamente en el Ministerio, el que ejercerá el control correspondiente.",
+      "content": "SECCION III \n DE LAS DISPOSICION DE ORGANOS Y TEJIDOS HUMANOS"
+    },
+    {
+      "provision_ref": "art279",
+      "chapter": "CAPITULO III",
+      "section": "279",
+      "title": "Artículo 279. Se prohíbe la ablación para transplante de órganos, tejidos o sus partes de personas afectadas por las incapacidades previstas en la Ley , de las gestantes y de las personas privadas de su libertad.",
+      "content": "SECCION IV \n DE LOS PRODUCTOS DE PERFUMERIA, BELLEZA, TOCADOR Y ARTICULOS HIGIENICOS DE USO DOMESTICO"
+    },
+    {
+      "provision_ref": "art280",
+      "chapter": "CAPITULO III",
+      "section": "280",
+      "title": "Artículo 280. Para elaborar industrialmente e importar productos de perfumería, belleza, tocador y artículos higiénicos de uso doméstico, deben registrarse previamente en el Ministerio, el que ejercerá el control.",
+      "content": "LIBRO V \n DEL BIENESTAR SOCIAL"
+    },
+    {
+      "provision_ref": "art282",
+      "chapter": "CAPITULO III",
+      "section": "282",
+      "title": "Artículo 282. El Ministerio llevará el registro de las entidades de bien social, públicas o privadas, autorizará su funcionamiento y controlará sus actividades.",
+      "content": "TITULO I \n DEL FOMENTO DEL BIENESTAR SOCIAL"
+    },
+    {
+      "provision_ref": "art284",
+      "chapter": "TITULO I",
+      "section": "284",
+      "title": "Artículo 284. El Ministerio facilitará la participación activa de las comunidades en los planes, programas y actividades de bienestar social.",
+      "content": "TITULO II \n DEL BIENESTAR FAMILIAR, DEL MENOR Y EL ANCIANO"
+    },
+    {
+      "provision_ref": "art288",
+      "chapter": "TITULO II",
+      "section": "288",
+      "title": "Artículo 288. El Ministerio programará y ejecutará acciones relativas a la salud y el bienestar de los ancianos a fin de proporcionarles un sistema de vida adecuado a sus necesidades.",
+      "content": "LIBRO VI \n DE LAS RELACIONES INTERNACIONALES EN MATERIA DE SALUD \n TITULO I \n DISPOSICIONES GENERALES"
+    },
+    {
+      "provision_ref": "art290",
+      "chapter": "TITULO I",
+      "section": "290",
+      "title": "Artículo 290. Las representaciones oficiales a congresos, seminarios y reuniones científicas de alcance internacional relativas a la salud, serán designadas por el Poder Ejecutivo a propuesta del Ministerio.",
+      "content": "TITULO II \n DE LA SALUD EN MATERIA DE MIGRACION"
+    },
+    {
+      "provision_ref": "art292",
+      "chapter": "TITULO II",
+      "section": "292",
+      "title": "Artículo 292. Los extranjeros, para su admisión permanente en el país, deben contar con los documentos sanitarios del país de origen, los que estipulen este Código y demás leyes. A este efecto el órgano de ejecucióo de la política migratoria nacional dará intervención previa al Ministerio.",
+      "content": "TITULO III \n DE LA SANIDAD FLUVIAL, AEREA Y TERRESTRE"
+    },
+    {
+      "provision_ref": "art298",
+      "chapter": "TITULO III",
+      "section": "298",
+      "title": "Artículo 298. El Poder Ejecutivo puede implantar las medidas preventivas y de restricción de tránsito necesarias, adoptando medidas sanitarias tendientes a prevenir y controlar la diseminación de enfermedades y la contaminación de zonas adyacentes, de acuerdo a las normas del derecho internacional.",
+      "content": "LIBRO VII \n DE LAS INFRACCIONES, SANCIONES, PROCEDIMIENTOS, PRESCRIPCIONES Y PERENCIONES \n TITULO I \n DE LAS INFRACCIONES"
+    },
+    {
+      "provision_ref": "art301",
+      "chapter": "TITULO I",
+      "section": "301",
+      "title": "Artículo 301. Las personas jurídicas estarán sujetas a las disposiciones legales que gobiernan la materia, y a las que determinaron su creación.",
+      "content": "TITULO II \n DE LAS SANCIONES"
+    },
+    {
+      "provision_ref": "art308",
+      "chapter": "TITULO II",
+      "section": "308",
+      "title": "Artículo 308. Cuando un establecimiento se hallare en infracción a las normas previstas, en este Código, el Ministerio podrá sancionar, disponiendo la clausura, parcial o total, temporal o definitiva de dicho establecimiento. La clausura temporal no podrá exceder de un tiempo máximo de 40 días.",
+      "content": "TITULO III \n DE LAS CAUSAS AGRAVANTES Y CAUSAS ATENUANTES"
+    },
+    {
+      "provision_ref": "art314",
+      "chapter": "TITULO III",
+      "section": "314",
+      "title": "Artículo 314. Se consideran causas atenuantes o eximentes las que tienden a disminuir o eximir de responsabilidad al infractor, las que podrán ser : la confesión, la buena fe, la falta de antecedentes, el caso fortuito y el de fuerza mayor.",
+      "content": "TITULO IV \n DEL PROCEDIMIENTO"
+    },
+    {
+      "provision_ref": "art320",
+      "chapter": "TITULO IV",
+      "section": "320",
+      "title": "Artículo 320. A los efectos del cobro judicial de las multas impuestas, constituirá suficiente título ejecutivo el testimonio auténtico de la resolución ejecutoriada que la haya impuesto. En el trámite del juicio ejecutivo no se admitirán otras excepciones que la del pago comprobado por documento auténtico, o la de prescripción.",
+      "content": "TITULO V \n DE LA PRESCRIPCION Y DE LA PERENCION"
+    },
+    {
+      "provision_ref": "art323",
+      "chapter": "TITULO V",
+      "section": "323",
+      "title": "Artículo 323. Los sumarios administrativos que no hayan sido impulsados por el Ministerio o por el infractor en un plazo de 3 meses, contado a partir de la última actuación, harán perimir la instancia administrativa.",
+      "content": "DISPOSICIONES FINALES"
+    },
+    {
+      "provision_ref": "art328",
+      "chapter": "TITULO V",
+      "section": "328",
+      "title": "Artículo 328. - Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones del Congreso Nacional a los cuatro días del mes de diciembre del año un mil novecientos ochenta."
+    }
+  ],
+  "definitions": []
+}

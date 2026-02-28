@@ -1,0 +1,70 @@
+{
+  "id": "py-ley-11739",
+  "type": "statute",
+  "title": "Ley Nº 378 / EXPROPIACION PARA LA CONSTRUCCION DE CAMINOS DE CIRCUNVALACION Y ACCESOS SUR Y NORTE A ASUNCION",
+  "title_en": "Ley Nº 378 / EXPROPIACION PARA LA CONSTRUCCION DE CAMINOS DE CIRCUNVALACION Y ACCESOS SUR Y NORTE A ASUNCION",
+  "short_name": "Ley N° 378",
+  "status": "in_force",
+  "issued_date": "1994-07-08",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/11739/ley-n-378-expropiacion-para-la-construccion-de-caminos-de-circunvalacion-y-accesos-sur-y-norte-a-asuncion",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "chapter": "TITULO I",
+      "section": "2",
+      "title": "Artículo 2. - Facúltase al Ministerio de Obras Públicas y Comunicaciones para adquirir los inmuebles afectados por la expropiación con arreglo a las disposiciones de la Constitución Nacional y la presente Ley.",
+      "content": "TITULO II \n DEL PROCEDIMIENTO"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "TITULO II",
+      "section": "3",
+      "title": "Artículo 3. El Ministerio de Obras Públicas y Comunicaciones procederá a la formación de un expediente por cada inmueble afectado por la expropiación, que contendrá los siguientes antecedentes:",
+      "content": "a)La determinación de sus deslindes y medidas; \n b)Las mejoras existentes; \n c)La individualización del área afectada por la expropiación; y, \n d)Los antecedentes del ocupante, poseedor o propietario."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "TITULO II",
+      "section": "8",
+      "title": "Artículo 8. Transcurrido el término sin que la persona afectada por la expropiación se presente ante el Ministerio de Obras Públicas y Comunicaciones a los efectos previstos en esta Ley, se certificará la conclusión del procedimiento administrativo y procederá el inicio del trámite judicial.",
+      "content": "TITULO III \n DEL PROCEDIMIENTO JUDICIAL"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "TITULO III",
+      "section": "17",
+      "title": "Artículo 17. El perito designado deberá aceptar el cargo, bajo juramento de ley y señalar el día y hora en que practicará su diligencia. A dicho acto, podrán concurrir las partes con sus respectivos peritos.",
+      "content": "Concluido este trámite, el perito deberá elevar al juzgado dentro del término de 10 (diez) días, un informe circunstanciado, con indicación de los criterios tenidos en cuenta para establecer el justiprecio de su tasación, con copia para las partes."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "TITULO III",
+      "section": "24",
+      "title": "Artículo 24. En todos los casos en que la presente Ley no fija plazos, se aplicarán los que prevé el Código Procesal Civil.",
+      "content": "TITULO IV \n DE LAS COSTAS"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "TITULO IV",
+      "section": "25",
+      "title": "Artículo 25. Las costas se regirán por lo establecido en el Código Procesal Civil.",
+      "content": "TITULO V \n DISPOSICIONES GENERALES"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "TITULO V",
+      "section": "26",
+      "title": "Artículo 26. Desde la fecha de promulgación de esta Ley se suspenderá el pago de los impuestos, tasas y contribuciones que graven los bienes a expropiar, cuando la expropiación fuere total; si la expropiación fuere parcial, se deducirá la parte proporcional de tales gravámenes.",
+      "content": "El Ministerio de Obras Públicas y Comunicaciones remitirá copia de la resolución a la Sub-Secretaría de Tributación y al Municipio correspondiente."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "TITULO V",
+      "section": "31",
+      "title": "Artículo 31. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el once de mayo del año un mil novecientos noventa y cuatro y por la Honorable Cámara de Diputados, sancionándose la Ley, el dieciséis de junio del año un mil novecientos noventa y cuatro."
+    }
+  ],
+  "definitions": []
+}

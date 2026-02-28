@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-1181",
+  "type": "statute",
+  "title": "Ley Nº 4996 / CREA EL PROGRAMA NACIONAL DE DROGAS ANTINEOPLÁSICAS (PRONAD).",
+  "title_en": "Ley Nº 4996 / CREA EL PROGRAMA NACIONAL DE DROGAS ANTINEOPLÁSICAS (PRONAD).",
+  "short_name": "Ley N° 4996",
+  "status": "in_force",
+  "issued_date": "2013-07-29",
+  "in_force_date": "2013-08-02",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/1181/ley-n-4996-crea-el-programa-nacional-de-drogas-antineoplasicas-pronad",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Se incluirá anualmente en el Presupuesto General de la Nación en una partida especial, los recursos necesarios y suficientes para el Programa creado por el artículo 1º de la presente ley.",
+      "content": "Los fondos asignados en el Presupuesto General de la Nación serán financiados con Recursos de la Tesorería General (Fuente de Financiamiento 10) y no podrán ser utilizados para fines distintos a los previstos en esta ley, ni podrán ser objeto de disminución o afectación bajo ningún concepto.\n Igualmente serán incluidas todas las donaciones al Estado que se efectúe para tales fines."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. El Poder Ejecutivo, a través del Ministerio de Salud Pública y Bienestar Social, en un plazo máximo de noventa días de la promulgación de la presente ley, dictará el respectivo reglamento de funcionamiento, administración, normas y procedimientos.",
+      "content": "Una vez reglamentada la presente ley, serán incluidos en el Presupuesto General de la Nación los recursos necesarios para dar cumplimiento a la misma en el año presupuestario correspondiente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los veinticinco días del mes de marzo del año dos mil trece, y por la Honorable Cámara de Senadores, a los veintisiete días del mes de junio del año dos mil trece, quedando sancionado el mismo, de conformidad con lo dispuesto en el artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

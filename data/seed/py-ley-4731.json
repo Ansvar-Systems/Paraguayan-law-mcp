@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-4731",
+  "type": "statute",
+  "title": "Ley Nº 5062 / CREA EL SERVICIO DE ATENCION A LA SALUD DEL PERSONAL DE LA POLICIA NACIONAL",
+  "title_en": "Ley Nº 5062 / CREA EL SERVICIO DE ATENCION A LA SALUD DEL PERSONAL DE LA POLICIA NACIONAL",
+  "short_name": "Ley N° 5062",
+  "status": "in_force",
+  "issued_date": "2013-09-26",
+  "in_force_date": "2013-10-03",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4731/ley-n-5062-crea-el-servicio-de-atencion-a-la-salud-del-personal-de-la-policia-nacional",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. El servicio de atención a la salud será financiado con los recursos asignados en el Presupuesto General de la Nación y el aporte del personal policial en actividad.",
+      "content": "En el Presupuesto General de la Nación se incluirán los Recursos necesarios para el pago de los Servicios Personales, gastos de funcionamientos, insumos e inversiones para el cumplimiento de los objetivos establecidos en la presente Ley.\n El aporte mensual del personal policial en actividad será establecido en el Artículo 9° de la Ley N° 4493/11 “QUE ESTABLECE LOS MONTOS DE LA ESCALA DEL SUELDO BASICO MENSUAL Y OTRAS REMUNERACIONES DE LOS INTEGRANTES DE LAS FUERZAS PUBLICAS”, no pudiendo aplicarse otros descuentos para el mismo fin o fines similares."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Con las partidas presupuestarias asignadas y el aporte del personal, se constituirá un Fondo de Salud que será destinado para la provisión gratuita de medicamentos, estudios laboratoriales, prótesis, servicio externo especializado y tratamiento de enfermedades complejas.",
+      "content": "El aporte del personal será descontado del salario respectivo y depositado en una cuenta habilitada para el efecto en el Banco Nacional de Fomento, a nombre y disposición de la Policía Nacional."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veintisiete días del mes de mayo del año dos mil trece, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a diez días del mes de setiembre del año dos mil trece, de conformidad a lo dispuesto en el Artículo 206 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

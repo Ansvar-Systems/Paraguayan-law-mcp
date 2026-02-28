@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-2540",
+  "type": "statute",
+  "title": "Ley Nº 223 / CREA LA ESCRIBANIA MAYOR DE GOBIERNO",
+  "title_en": "Ley Nº 223 / CREA LA ESCRIBANIA MAYOR DE GOBIERNO",
+  "short_name": "Ley N° 223",
+  "status": "in_force",
+  "issued_date": "1993-06-25",
+  "in_force_date": "1993-07-06",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2540/ley-n-223-crea-la-escribania-mayor-de-gobierno",
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Son funciones del Escribano Mayor de Gobierno:",
+      "content": "a) Autorizar contratos en que el Poder Ejecutivo sea parte;\n b) Autorizar los actos protocolares del Poder Ejecutivo;\n c) Labrar actas de los actos extraprotocolares de interés del Poder Ejecutivo;\n d) Organizar el archivo, la custodia y conservación de los protocolos y documentos de la Escribanía Mayor de Gobierno; y,\n e) Guardar y conservar testimonios de los títulos de propiedad de los bienes del Estado."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. El Registro Notarial de la Escribanía Mayor de Gobierno estará formado con cuadernillos rubricados por el Vice-Ministro de Justicia y contará con:",
+      "content": "a) Un protocolo de actos y contratos de escrituras públicas;\n b) Un protocolo de actos oficiales en el que se labren los actos de posesión, sus delegaciones, sus reasunciones y los juramentos de los funcionarios obligados por la Constitución o por la Ley; y,\n c) Un protocolo de actas notariales."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el veinte y un de junio del año un mil novecientos noventa y tres y por la Honorable Cámara de Diputados, sancionándose la Ley de conformidad al Artículo 161 de la Constitución Nacional de 1967, concordante con el Artículo 3o., Título V, de la Constitución Nacional de 1992, el veinte y ocho de junio del año un mil novecientos noventa y tres."
+    }
+  ],
+  "definitions": []
+}

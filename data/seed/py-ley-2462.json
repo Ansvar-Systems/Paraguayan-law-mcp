@@ -1,0 +1,50 @@
+{
+  "id": "py-ley-2462",
+  "type": "statute",
+  "title": "Ley Nº 209 / DEFENSA DE LA PAZ PUBLICA Y LIBERTAD DE LAS PERSONAS",
+  "title_en": "Ley Nº 209 / DEFENSA DE LA PAZ PUBLICA Y LIBERTAD DE LAS PERSONAS",
+  "short_name": "Ley N° 209",
+  "status": "in_force",
+  "issued_date": "1970-09-18",
+  "in_force_date": "1970-09-18",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2462/ley-n-209-defensa-de-la-paz-publica-y-libertad-de-las-personas",
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Los que forman parte de una asociación ilícita de tres o más personas destinada a cometer delitos, serán sancionados por el sólo hecho de ser miembros del mismo, con tres a seis años de penitenciaría.",
+      "content": "El Jefe o promotor de la asociación ilícita será sancionado con penitenciaría de cuatro a ocho años; en igual pena incurrirán los miembros de la misma si ésta se constituye en banda armada."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Los que cometieren calumnia o difamación contra el Presidente de la República, Ministros del Poder Ejecutivo, Miembros del Poder Legislativo o Miembros de la Corte Suprema de Justicia, serán sancionados con tres a seis años de penitenciaría.",
+      "content": "En los delitos de ultraje o injuria cometidos contra las personas indicadas precedentemente, la pena será de uno a tres años de penitenciaría.\n La acción penal de estos delitos podrá ser promovida por el Ministerio Público a requerimiento oficial de los ofendidos. El Fiscal en lo criminal podrá actuar en todos los trámites procesales e inclusive representar al ofendido en las audiencias de conciliación."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Serán sancionados con uno a cinco años de penitenciaría:",
+      "content": "1. los que formaren parte como asociados o afilados de cualquier partido comunista u organización que se proponga destruir por la violencia el régimen democráticos republicano de la Nación;\n 2. los que a sabiendas proporcionaren cualquier ayuda económica o material para realizar las actividades indicadas en el inciso primero de este artículo;\n 3. los que a sabiendas arrendaren o proporcionaren locales destinados a efectuar las reuniones y actividades previstas en el inciso primero de este artículo;\n 4. los que con el mismo objeto mantuvieren relaciones o recibieren instrucciones, dádivas o auxilios de cualquier clase que fueren, de gobiernos, organizaciones o personas extranjeras, y los que entregaren, distribuyeren instrucciones por cualquier medio;\n 5. los que con el mismo objeto introduzcan, impriman, mantengan depósitos, distribuyan o mantengan en depósitos, distribuyan o vendan, folletos, revistas, láminas , periódicos, películas cinematográficas o televisivas, de la doctrina o sistema a que se refiere en inciso primero de este artículo."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. La pena establecida en el artículo anterior será de tres a cinco años de penitenciaria:",
+      "content": "1. si el delito se comete empelando violencia, intimidación, maltratos o en la persona menor de edad;\n 2. si se hubiere cometido el hecho bajo un nombre falso, titulo falso u orden falsa de autoridad;\n 3. si la detención excediere de ocho días;\n 4. si se cometiere por un oficial público o por otra persona legítimamente encargada de un servicio de orden público;\n 5. si la detención se perpetró para lucrar con los servicios del detenido;\n 6. si se cometiere contra un funcionario público, o persona legítimamente encargada de un servicio público, o contra un testigo, árbitro, perito o intérprete, para impedirle el ejercicio de sus funciones, o por causas de las mismas."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Artículo 16. El que provocare tumultos será sancionado con un mes a tres años de penitenciaria.",
+      "content": "El que por cualquier medio infundiere intimidación pública o hiciere estallar bombas o materias explosivas que amenazare con desórdenes de peligro común será sancionado con dos a cuatro años de penitenciaria.\n Las penas previstas en este artículo serán aplicadas sin perjuicio de las que correspondan por delitos resultantes de estos hechos, previstos en el Código Penal."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Artículo 20. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS DIEZ DIAS DEL MES DE SETIEMBRE DEL AÑO UN MIL NOVECIENTOS SETENTA."
+    }
+  ],
+  "definitions": []
+}

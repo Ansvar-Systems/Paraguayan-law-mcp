@@ -1,0 +1,623 @@
+{
+  "id": "py-ley-11690",
+  "type": "statute",
+  "title": "Ley Nº 847 / DE ESTATUTO DEL PERSONAL MILITAR.",
+  "title_en": "Ley Nº 847 / DE ESTATUTO DEL PERSONAL MILITAR.",
+  "short_name": "Ley N° 847",
+  "status": "in_force",
+  "issued_date": "1980-12-19",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/11690/ley-n-847-de-estatuto-del-personal-militar",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "TÍTULO I",
+      "section": "1",
+      "title": "Artículo 1. El presente Estatuto establece para el personal militar de las Fuerzas de la Nación; la situación, obligaciones, deberes, responsabilidades, derechos y prerrogativas.",
+      "content": "Título II \n Generalidades \n Capítulo I \n Las Fuerzas Armadas de la Nación y el personal militar"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Capítulo I",
+      "section": "2",
+      "title": "Artículo 2. Las Fuerzas Armadas de la Nación están constituidas por los componentes permanentes del Ejército, la Armada y la Aeronáutica y sus respectivas Reservas.",
+      "content": "A ellas están confiadas la custodia y la defensa de la soberanía y la integridad territorial de la República."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Capítulo I",
+      "section": "4",
+      "title": "Artículo 4. La disciplina es la base de la organización militar, y ella se apoya en altos sentimientos de honor, de obediencia y acatamiento a los deberes.",
+      "content": "El respeto a la jerarquía e interés en el servicio deben mantenerse en todas las alternativas de la vida militar."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Capítulo I",
+      "section": "6",
+      "title": "Artículo 6. El personal militar de las FF.AA. de la Nación estará compuesto por:",
+      "content": "El personal militar del Cuadro Permanente y el personal militar del Cuadro de la Reserva. \n a) El personal militar del Cuadro Permanente estará compuesto de aquel personal que, voluntariamente o en razón de la Ley del Servicio Militar Obligatorio y habiendo cumplido las disposiciones legales, se incorpora a prestar servicios en forma activa y por el tiempo máximo de servicio que la Ley le autoriza. \n b) El personal militar del Cuadro de la Reserva estará compuesto de aquél personal que sirve al propósito de completar, cuando así se disponga, el efectivo del Cuadro Permanente de las FF.AA."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Capítulo I",
+      "section": "8",
+      "title": "Artículo 8. Se considera como reserva de las FF.AA. de las FF.AA. de la Nación:",
+      "content": "a. En forma individual: \n 1) El personal militar en inactividad. \n 2) El personal que habiendo recibido instrucción militar en unidades o centros especiales de adiestramiento y/o reclutamiento, conserve su aptitud para el servicio militar y no está incorporado al servicio activo. \n 3) El personal, que sin haber recibido instrucción en unidades o centros especiales de adiestramiento y/o reclutamiento, sea destinado a dicho cuadro de conformidad a las Leyes de la República. \n 4) Los egresados del Colegio de Policía. \n b. En forma colectiva: \n 1) La Policía. \n 2) Los Cuadros de Bomberos. \n 3) La Marina Mercante, la Aviación Civil y las empresas directamente relacionadas con la seguridad nacional, son también consideradas, a los efectos de la movilización y el empleo subsiguiente, como reserva de las FF.AA. de la Nación. \n 4) El personal componente de la Marina Mercante, de la Aviación Civil y de las empresas directamente relacionadas con la seguridad nacional, así como los demás ciudadanos en condiciones de convocación o movilización para el servicio activo, solo serán considerados como personal militar cuando sean convocados o movilizados para el servicio en las FF.AA. de la Nación."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Capítulo I",
+      "section": "9",
+      "title": "Artículo 9. El Cuadro del Personal Militar de la Reserva de las FF.AA. de la Nación estará organizado de la siguiente forma:",
+      "content": "a. La reserva en apresto. \n b. La reserva pasiva."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Capítulo I",
+      "section": "12",
+      "title": "Artículo 12. El personal militar podrá encontrarse en una de las siguientes situaciones:",
+      "content": "a: En actividad \n 1) El personal militar profesional de carrera; \n 2) Los incorporados a las FF.AA. de la Nación para prestar el servicio militar, durante los plazos previstos en la Ley del Servicio Militar Obligatorio o durante las prórrogas de aquellos plazos; \n 3) Los componentes de la reserva de las FF.AA. de la Nación cuando ellos sean convocados o movilizados; \n 4) Los alumnos de institutos de formación del personal militar; \n 5) En tiempo de guerra, todo ciudadano paraguayo movilizado. \n b. En inactividad: \n 1) En situación de retiro temporal, cuando se encuentre retirado del servicio activo o por pertenecer a este cuadro en virtud de la Ley del Servicio Militar Obligatorio, aunque sujeto a prestar servicio activo, mediante la convocación o movilización. \n 2) En situación de retiro absoluto, cuando habiendo pasado por una de las situaciones anteriores, está dispensado de la prestación del servicio militar."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Capítulo I",
+      "section": "16",
+      "title": "Artículo 16. El Comandante en Jefe de las FF.AA. de la Nación, podrá en caso necesario, proponer la incorporación al Cuadro Permanente de las FF.AA. de la Nación, del Personal Militar del Cuadro de la Reserva, a fin de completar el efectivo autorizado.",
+      "content": "Título III \n Ingreso, Situaciones y Separaciones \n Capítulo I \n Ingreso en las Fuerzas Armadas de la Nación"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Capítulo I",
+      "section": "17",
+      "title": "Artículo 17. El ingreso en las FF.AA. de la Nación es permitido a todos los paraguayos naturales o por naturalización que no ejerzan o hayan ejercido actividades que atenten contra la seguridad nacional, mediante la incorporación, reclutamiento, convocación o movilización, de acuerdo a las condiciones prescriptas en los reglamentos pertinentes:",
+      "content": "a) Cuando hubiere necesidad y por razones de servicio en las FF.AA. de la Nación, el paraguayo poseedor de reconocida capacidad técnico-profesional o cultural científica podrá, voluntariamente y a propuesta del Comandante en Jefe de las FF.AA. de la Nación, ser contratado para desempeñarse como miembro de las FF.AA. de la Nación. \n b. El ingreso de la mujer paraguaya en las FF.AA. de la Nación, se efectuará en las condiciones legales que lo admita. \n c. El ingreso del personal extranjero en las FF.AA. de la Nación, se hará conforme a la reglamentación pertinente."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Capítulo I",
+      "section": "18",
+      "title": "Artículo 18. Para personal militar de la categoría de Oficial del Cuadro Permanente de las FF.AA. de la Nación se incorporará:",
+      "content": "a. A los egresados del Colegio Militar o institutos similares del exterior, conforme lo dispone esta ley y los reglamentos; éstos constituirán los oficiales de carrera. \n b) A los egresados de institutos de formación de oficiales de reserva siendo convocados hayan contraído compromiso de prestar servicio activo según los términos de la reglamentación de esta ley, éstos constituirán los Oficiales de la Reserva Incorporada. \n c. A los que mediante cursos o concursos de admisión que a tal fin se establezca en la reglamentación de esta ley, sean destinados a desempeñar funciones de servicios e incorporados al Cuadro Permanente como oficiales profesionales de carrera, de reserva o técnico, según sea el compromiso de tiempo de servicio que hayan contraído. \n d. Como fuente complementaria de las señaladas en los incisos anteriores; \n A los que mediante el ascenso a oficial, del personal de suboficiales satisfagan las exigencias requeridas por la reglamentación de esta ley, pasan a la reserva incorporada."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Capítulo I",
+      "section": "21",
+      "title": "Artículo 21. Para personal militar de la categoría de suboficiales del Cuadro Permanente de las FF.AA. de la Nación se incorporará:",
+      "content": "a. A los egresados de escuelas e institutos de formación de suboficiales o mediante cursos o concursos de admisión destinados a tal fin. \n b. Como fuente complementaria de la señalada en el inciso a) al personal de conscriptos que fueren graduados como clases que satisfagan los requisitos de la reglamentación de esta ley."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Capítulo I",
+      "section": "26",
+      "title": "Artículo 26. El personal militar de la categoría de oficiales de la reserva incorporada al de Cuadro Permanente, estará constituido por:",
+      "content": "a. Oficiales provenientes del Cuadro de la Reserva. \n b. El personal egresado de los institutos de formación de Oficiales de Reserva, cuando sea convocado y satisfaga todos los requisitos reglamentarios. \n c. En caso de movilización, el personal con la jerarquía de suboficial principal que reúne las condiciones y aptitudes requeridas, conforme a los reglamentos, para su ascenso al grado de subteniente o guardiamarina. \n d. En caso de movilización, el personal con la jerarquía de cadete, separado del Colegio Militar a su pedido o por razones disciplinarias que no conlleven la expulsión y siempre que mantengan las aptitudes requeridas para ser ascendido al rango de oficial."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Capítulo I",
+      "section": "28",
+      "title": "Artículo 28. El personal militar de la categoría de suboficiales de la reserva, estará constituido por:",
+      "content": "a. Egresados de institutos de formación de suboficiales que no hayan sido incorporados al Cuadro Permanente por falta de vacancia. \n b. Los egresados del C.I.M.E.F.O.R. en esa categoría. \n c. Los ex-cadetes de institutos de formación de oficiales y suboficiales que hayan sido separados de la institución a su pedido o por razones disciplinarias que no conlleven la expulsión, y siempre que mantengan las aptitudes reglamentarias para ser ascendidos."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Capítulo I",
+      "section": "31",
+      "title": "Artículo 31. La movilización se regulará por leyes específicas.",
+      "content": "Capítulo II \n El Estado Militar"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Capítulo II",
+      "section": "34",
+      "title": "Artículo 34. El estado militar se pierde por Baja.",
+      "content": "Capítulo III \n Cargos y Funciones Militares"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Capítulo III",
+      "section": "35",
+      "title": "Artículo 35. Cargo militar es aquél empleo que sólo puede ejercido por militares en Servicio Activo.",
+      "content": "a. El Cargo Militar a que se refiere este artículo estará especificado en las tablas de organización de las Fuerzas Armadas, o previsto en otras disposiciones legales. \n b. A cada cargo militar corresponde un conjunto de atribuciones, deberes y responsabilidades que se constituyen en obligaciones del respectivo titular. \n c. Las obligaciones inherentes al cargo militar deber ser compatibles con el grado jerárquico correspondiente y definido en el ordenamiento legal correspondiente."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Capítulo III",
+      "section": "36",
+      "title": "Artículo 36. Los cargos militares serán desempeñados por el personal que reúna las condiciones de grado y competencia exigidas por la ley y los reglamentos.",
+      "content": "La posesión del cargo militar se hace en virtud de nombramiento, designación o determinación de la autoridad competente."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Capítulo III",
+      "section": "38",
+      "title": "Artículo 38. Se consideran también vacantes los cargos militares cuyos titulares:",
+      "content": "a. Hayan fallecido. \n b. Hayan sido considerados desaparecidos. \n c. Hayan sido capturados prisioneros. \n d. Hayan sido declarados desertores."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Capítulo III",
+      "section": "41",
+      "title": "Artículo 41. El Personal Militar de las Fuerzas Armadas, se clasificará en la siguiente forma:",
+      "content": "-Personal Militar de las Armas Combatientes. \n -Personal Militar de los Servicios. \n Estas clasificaciones podrán ser subdivididas a su vez en funciones especiales. \n Capítulo IV \n El ejercicio del mando y la subordinación"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Capítulo IV",
+      "section": "52",
+      "title": "Artículo 52. El cargo de comandante o director se ejerce en carácter de:",
+      "content": "a. Titular: Personal militar nombrado de conformidad a lo establecido por leyes y reglamentos vigentes para cada grado y cargo. \n b. Interino: Personal militar nombrado supliendo a otro en el ejercicio de sus funciones por ausencia temporal o absoluta o cuando la jerarquía del personal militar nombrado no corresponda al cargo que se va a desempeñar. Para tal efecto se requiere el nombramiento por autoridad competente. \n c. Accidental: Personal militar designado por ausencia de corta duración o interino, sin que para ello medie nombramiento por la autoridad competente. Ese comando o dirección será ejercido transitoriamente por el oficial que sigue en antigüedad en la cadena de comando al titular o interino."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "Capítulo IV",
+      "section": "57",
+      "title": "Artículo 57. Todo militar es responsable por las decisiones que tomare o dejare de tomar.",
+      "content": "Capítulo V \n Superioridad militar y precedencia"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Capítulo V",
+      "section": "58",
+      "title": "Artículo 58. La superioridad militar es la ascendencia que tiene un militar respecto a otro por razones de cargo, de grado o antigüedad.",
+      "content": "a. La superioridad por el cargo es la que resulta de la dependencia orgánica directiva y en virtud de la cual, un militar tiene superioridad sobre otro, por la función que desempeña dentro de un mismo organismo militar o unidad militar. \n b. La superioridad jerárquica es la que tiene un militar con respecto a otro por la razón de poseer un grado más elevado. La sucesión de los grados es la establecida en el \"Anexo Dos\" de esta ley y cuyas denominaciones son privativas de las FF.AA. de la Nación. \n c. La superioridad por antigüedad es la que tiene un militar sobre otro del mismo grado. En igualdad de grado los oficiales profesionales de carrera serán más antiguos que los oficiales de la reserva incorporada. La antigüedad del personal del Cuadro Permanente se establecerá según los apartados del presente inciso: \n 1) Por la fecha de ascenso al grado, y, a igualdad de fecha por el orden de prelación establecido en el decreto o la ley respectiva. \n Para el militar reincorporado después de pasar a la inactividad, la antigüedad se establecerá de la siguiente manera: \n a) El que se reincorpora dentro de un año de su permanencia en inactividad, pasará a ocupar el último lugar de la promoción del año inmediatamente posterior a la suya. \n El tiempo de los servicios anteriores le serán computados a los efectos del ascenso, haber de retiro o pensión, no así el tiempo pasado en inactividad. \n b) El que se reincorpora después de un año de inactividad pero sin pasar de dos años en esa situación, pasará a ocupar el último lugar de la promoción dos años posteriores a la suya. \n El tiempo de los servicios anteriores le serán computados a los efectos del ascenso, haber de retiro o pensión, no así el tiempo pasado en inactividad. \n c) El que se incorpora después de haber permanecido por más de dos años en inactividad, pasará a ocupar el último lugar en el escalafón de su grado en la Reserva Incorporada. \n El tiempo en inactividad no será válido a los efectos del tiempo de servicios para ascenso, haber de retiro o pensión. Sus servicios anteriores se computarán solo a los efectos del haber de retiro o pensión. \n 2) La antigüedad en los primeros grados de la escala jerárquica en cada categoría, será determinada por la fecha de incorporación a dicha categoría, a igualdad de ésta, por el orden de prelación establecido en el decreto o la ley del ascenso respectivo. La antigüedad de los subtenientes y guardiamarinas egresados de institutos de formación de oficiales del extranjero, será establecida de conformidad a lo prescripto en el Reglamento Interno del Colegio Militar \"Mariscal Francisco Solano López\"."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Capítulo V",
+      "section": "60",
+      "title": "Artículo 60. - El orden de precedencia en el mando del personal militar de la FF.AA., es el siguiente:",
+      "content": "a. Personal del Cuadro Permanente Combatiente. \n b. Personal del Cuadro Permanente de la Reserva Combatiente. \n c. Personal del Cuadro Permanente de los Servicios. \n d. Personal del Cuadro de la Reserva de los Servicios."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Capítulo V",
+      "section": "61",
+      "title": "Artículo 61. El orden de precedencia entre el personal militar en inactividad se determinará como sigue:",
+      "content": "a. Será más antiguo el que hubiere permanecido más tiempo simple de servicios en actividad en el grado. \n b. A igualdad de tiempo simple de servicios en actividad en el grado, la antigüedad se establecerá por la que se tenía en tal situación."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Capítulo V",
+      "section": "62",
+      "title": "Artículo 62. En igualdad de grado el personal militar en servicio activo tendrá precedencia sobre el personal en inactividad.",
+      "content": "Capítulo VI \n Clasificaciones y Registros"
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "Capítulo VI",
+      "section": "64",
+      "title": "Artículo 64. De acuerdo con las funciones específicas que debe desempeñar el personal militar será clasificado en personal destinado a desempeñar funciones de mando y el destinado a prestar funciones de servicios, considerando que:",
+      "content": "a. El mando de fuerzas, unidades de combate de apoyo de combate, institutos militares y reparticiones especiales de las Fuerzas Armadas será ejercido exclusivamente por el personal especialmente incorporado y adiestrado para tal fin, y siempre que tenga aptitudes para ello. \n b. El personal incorporado y adiestrado para el cumplimiento de funciones de servicios, desempeñará solo cargos y tareas, ocupaciones y actividades a fines a su especialidad."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "Capítulo VI",
+      "section": "66",
+      "title": "Artículo 66. Las Fuerzas Armadas confeccionarán los registros de su personal, que serán de carácter general e individual, de acuerdo con lo que al respecto determine la reglamentación de esta ley.",
+      "content": "Capítulo VII \n Baja, retiro, exclusión y reincorporación"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "Capítulo VII",
+      "section": "67",
+      "title": "Artículo 67. La baja para el personal militar se produce por las siguientes causales:",
+      "content": "a. Por la condena emanada de la Justicia Militar que conlleva, como pena principal o accesoria esta sanción, o por condena en el fuero penal ordinario, a pena mayor de tres años de penitenciaria, por la comisión de delitos dolosos. \n b. Por pérdida de la ciudadanía paraguaya. \n c. Por fallecimiento."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Capítulo VII",
+      "section": "68",
+      "title": "Artículo 68. El personal militar podrá solicitar su pase a retiro, este pedido será procedente, excepto en los siguientes casos:",
+      "content": "a. Cuando el solicitante no haya cumplido su compromiso de servicio. \n b. En estado de guerra. \n c. En estado de emergencia nacional. \n d. En estado de sitio, en cuyo caso, el Comandante en Jefe decidirá su aceptación. \n e. Cuando el solicitante se encuentre cumpliendo condena o sanción disciplinaria. \n f. Cuando esté procesado"
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Capítulo VII",
+      "section": "69",
+      "title": "Artículo 69. Exclusión es la acción por la cual un militar en actividad, voluntariamente se separa de una categoría específica para ingresar en otra, también en actividad. La exclusión de la categoría actual se producirá por las siguientes causas:",
+      "content": "a. Cuando un militar comprendido en la categoría de oficiales especialistas o de sub-oficial que habiendo completado los cursos universitarios, es nombrado Oficial de Carrera. \n b. Cuando un militar comprendido en la categoría de suboficial es admitido como alumno de un instituto de formación de oficiales. \n c. Cuando un alumno de un instituto de formación de oficiales de reserva es incorporado como alumno del Colegio Militar \"Mariscal Francisco Solano López\"."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "Capítulo VII",
+      "section": "71",
+      "title": "Artículo 71. La baja, retiro o la reincorporación del personal militar, será dispuesta por el Poder Ejecutivo.",
+      "content": "Título IV \n Deberes y derechos militares \n Capítulo I \n Deberes militares"
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "Capítulo I",
+      "section": "72",
+      "title": "Artículo 72. Los deberes militares conforman un conjunto de vínculos normativos que ligan al militar con la patria para la defensa y seguridad de sus bienes e intereses declarados inviolables, y ellos comprenden:",
+      "content": "a. La decisión de sujetarse con abnegación a todos los sacrificios, hasta el de la propia vida, cuando lo exija el servicio; \n b. La sujeción a la jurisdicción militar y disciplinaria; \n c. La veneración de los símbolos nacionales; \n d. La aceptación del grado, distinciones o títulos concedidos por autoridad competente de acuerdo a las disposiciones vigentes; \n e. La lealtad para con la institución y sus superiores; \n f. La dedicación exclusiva a sus funciones profesionales. Para actividades ajenas a sus funciones militares se requiere autorización previa del Comandante en Jefe de las FF.AA. de la Nación. \n g. El máximo celo en la administración de los recursos humanos y materiales que les fueren confiados; \n h. El cumplimiento de las órdenes del superior, la rigurosa observancia de los reglamentos en interés del servicio; \n i. La obligación de tratar a los subordinados con corrección, interés, rectitud y consideración; \n j. La dignificación del cargo que ejerce, manteniendo el principio de autoridad y la obediencia a las leyes y las órdenes de la superioridad; \n k. Velar por el honor, la dignidad y el respeto a las FF.AA. de la Nación. \n Capítulo II \n Virtudes militares"
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "Capítulo II",
+      "section": "73",
+      "title": "Artículo 73. Son manifestaciones esenciales de las virtudes militares:",
+      "content": "a. La firme voluntad de cumplir con patriotismo los deberes militares comprometidos bajo la fe del conjunto; \n b. El celo por las instituciones e intereses de la patria y la veneración de las tradiciones de gloria y de los valores morales e históricos; \n c. La fe en la elevada misión de las Fuerzas Armadas; \n d. El espíritu de cuerpo, propio de la organización castrense; \n e. La devoción a la profesión de las armas y la entereza de su ejercicio; y \n f. El permanente esfuerzo por el perfeccionamiento técnico profesional. \n Capítulo III \n De la ética militar"
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "Capítulo III",
+      "section": "74",
+      "title": "Artículo 74. La conciencia del deber, el pundonor militar y el decoro, imponen a cada uno de los integrantes de las Fuerzas Armadas, una conducta moral y profesional irreprochables que implica la observancia de los siguientes preceptos:",
+      "content": "a. Amar la verdad, la justicia y la responsabilidad como fundamentos de la dignidad personal. \n b. Ejercer con autoridad, eficiencia y probidad las funciones que le correspondieren en virtud del cargo y grado. \n c. No eludir las responsabilidades que le corresponden y salvaguardar la de los subordinados que obraron en cumplimiento de sus órdenes. \n d. Ser justo e imparcial en la calificación y apreciación de los méritos de los subordinados. \n e. Dedicar todos sus esfuerzos en bien del servicio. \n f. Velar por el perfeccionamiento de sus cualidades morales y elevar el nivel de sus conocimientos y de su competencia profesional. \n g. Ser discreto en su conducta y en su lenguaje. \n h. Abstenerse de expresar fuera del ámbito castrense los asuntos reservados y confidenciales relativos a la Seguridad Nacional. \n i. Respetar la dignidad de la persona humana. \n j. Respetar a las autoridades civiles. \n k. Cumplir con sus deberes ciudadanos. \n l. Observar las normas de la buena educación. \n m. Conducirse correctamente tanto dentro del servicio como fuera de él, observando los principios de la disciplina, el respecto y el decoro militar."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "Capítulo III",
+      "section": "78",
+      "title": "Artículo 78. - Promover y desarrollar constantemente el sentimiento de camaradería y espíritu de cooperación en las filas de las FF.AA.",
+      "content": "Capítulo IV \n Violación de los deberes"
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "Capítulo IV",
+      "section": "81",
+      "title": "Artículo 81. Son competentes para determinar la separación del cargo:",
+      "content": "a. El Presidente de la República. \n b. El Comandante en Jefe de las Fuerzas Armadas de la Nación. \n c. Los Comandantes de unidades y directores, de conformidad con la legislación pertinente."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "Capítulo IV",
+      "section": "84",
+      "title": "Artículo 84. Los reglamentos de las FF.AA. de la Nación definirán y clasificarán las trasgresiones disciplinarias y establecerán las normas relativas a la aplicación de las sanciones.",
+      "content": "Capítulo V \n Derechos de los militares"
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "Capítulo V",
+      "section": "85",
+      "title": "Artículo 85. Son derechos esenciales del personal en actividad:",
+      "content": "a. La posesión del grado conferido por el Estado en los términos de la ley. \n El grado es vitalicio y solo podrá privarse de él en los casos y del modo que determinen la ley. \n b. La asignación del cargo correspondiente al grado, de acuerdo con el ordenamiento establecido. \n c. El uso del uniforme, insignias y distintivos propios del grado y función, de conformidad a disposiciones vigentes. \n d. Los honores militares correspondientes al grado y cargo. \n e. La percepción de los haberes que correspondan. \n f. El retiro con la asignación del haber respectivo para sí y la pensión militar para sus deudos. \n g. El juzgamiento por tribunales militares por la comisión de delitos militares. \n h. El cumplimiento de la prisión preventiva en institución militar cuyo Comandante sea de jerarquía igual o superior a la del encausado. \n i. Ser detenido solamente por autoridad militar, salvo que sea sorprendido en flagrante delito, en cuyo caso podrá ser aprehendido por autoridad policial, la que deberá entregarlo de inmediato a la unidad militar más cercana. \n j. El ejercicio del voto, salvo aquellos que estén exceptuados por la Constitución. \n k. Portar y emplear armas bajo las siguientes condiciones: \n 1) Oficiales: En cumplimiento de la misión que las leyes le asignan; para su defensa personal y el mantenimiento de su autoridad, en las condiciones y con las limitaciones previstas en los reglamentos. \n 2) Suboficiales: Solamente en actos de servicio y cuando el cumplimiento de la misión lo exija; llevarlas en otras circunstancias será admitido mediante autorización escrita del Comando al que pertenece. \n 3) Alumnos de institutos militares de formación y conscriptos: No podrán portarlas a menos que actúen en cumplimiento de una misión de servicio que lo justifique y está ordenado por la autoridad competente. \n l. El goce de treinta días de vacaciones anuales. \n m. Los permisos extraordinarios a ser regulados por el Comandante en Jefe y en las siguientes circunstancias: \n 1) Para casos especiales; \n 2) Para atender asuntos particulares; \n 3) Para el tratamiento de la salud de los miembros de su familia; y \n 4) Para el tratamiento de su propia salud. \n n. En caso de fallecimiento de un militar en actividad, el Ministerio de Defensa Nacional sufragará los gastos del sepelio, además de asignarle una urna en el columbario militar, conforme a la reglamentación respectiva."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "Capítulo V",
+      "section": "86",
+      "title": "Artículo 86. Rigen para el militar en inactividad las siguientes disposiciones:",
+      "content": "a. Está sujeto a la jurisdicción militar y disciplinaria. \n b. El ejercicio de funciones en el servicio militar activo es voluntario, y solamente obligatorio en los casos de movilización. \n c. No tiene facultad disciplinaria, excepto cuando sea llamado a desempeñar funciones en el servicio militar activo. \n d. Puede desempeñar función pública o privada. \n Capítulo VI \n Uniformes"
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "Capítulo VI",
+      "section": "93",
+      "title": "Artículo 93. Si el Ministro de Defensa Nacional fuere un militar en inactividad, podrá usar el uniforme que le corresponde como si estuviere en actividad.",
+      "content": "Capítulo VII \n Del cuidado integral de la salud"
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "Capítulo VII",
+      "section": "96",
+      "title": "Artículo 96. El cuidado integral de la salud se extenderá también a los aspirantes a oficiales y suboficiales e individuos de tropa, con goce de pensión de invalidez.",
+      "content": "Capítulo VIII \n Recompensas al mérito y permisos especiales"
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "Capítulo VIII",
+      "section": "97",
+      "title": "Artículo 97. Las recompensas constituyen reconocimientos por servicios destacados cumplidos por los militares.",
+      "content": "a. Son recompensas militares; \n 1) Condecoraciones, por servicios distinguidos en la guerra o en la paz; \n 2) Medalla de las Armas y los Servicios; \n 3) Menciones, citaciones y permisos especiales; \n b. Las recompensas serán concedidas de acuerdo con las normas establecidas en la reglamentación de este Estatuto."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "Capítulo VIII",
+      "section": "99",
+      "title": "Artículo 99. Los permisos especiales pueden ser concedidos a los militares:",
+      "content": "a. como galardón; \n b. para descuento en vacaciones; y \n c. por prescripción médica. \n Párrafo único. Los permisos especiales serán concedidos con la remuneración integra y computados como tiempo de servicio efectivo prestado. \n Título V \n Personal militar en actividad \n Capítulo V \n Situación de revista"
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "Capítulo V",
+      "section": "101",
+      "title": "Artículo 101. El personal militar en actividad se halla en:",
+      "content": "a. Servicio activo; \n 1) Prestando servicio efectivo en las Fuerzas Armadas. \n 2) Con permiso por enfermedad o lesiones originadas en acto de servicio, hasta el término de dos años. \n 3) Con permiso por enfermedad no contraída en actos de servicios, hasta el término de seis meses, concedido por el Comandante en Jefe de las Fuerzas Armadas. Este permiso se concederá siempre que el beneficiario haya cumplido un mínimo de quince años de servicios, y por una sola vez en la carrera. \n 4) Con permiso extraordinario hasta el término de tres meses, concedidos por el Comandante en Jefe de las Fuerzas Armadas. Este permiso se concederá siempre que el beneficiario haya cumplido un mínimo de quince años de servicios y por una sola vez en la carrera. \n b. Comisionado, cuando está: \n 1) Nombrado para desempeñar un cargo militar o de naturaleza militar, en el país o en el exterior, no previsto en los cuadros de organización de las Fuerzas Armadas. \n 2) A disposición de otro ministerio o dependencia del Poder Ejecutivo, para desempeñar una función de naturaleza civil. \n c. Disponibilidad, cuando se encuentra: \n 1) Procesado por la justicia militar o por el fuero ordinario si se ha dictado auto de prisión. \n 2) Por haber sido condenado a pena privativa de libertad que exceda de seis meses, y que atente contra la dignidad de la carrera militar. \n 3) Declarado oficialmente prisionero o desaparecido, en tiempo de guerra. \n d. Excedente, cuando se encuentra: \n 1) Repuesto al servicio activo luego de ser levantada su disponibilidad y el cuadro de efectivos de su grado se encuentra completo. \n 2) Repuesto al servicio activo luego de conclusión su comisión y cuadro de efectivos de su grado se encuentra completo. \n 3) Promovido por mérito excepcional de valor militar sin existir vacancia en dicho grado. \n 4) A disposición del Comando en Jefe de las FF.AA. de la Nación, por razones de servicio, mientras permanezcan en esa situación. \n 5) Como Oficial General, relevado del cargo de Comandante o Director de Servicio, sin ocupar cargo alguno. Esta situación en ningún caso podrá exceder de un año."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "Capítulo V",
+      "section": "105",
+      "title": "Artículo 105. El tiempo de permanencia en disponibilidad no será computado para ascenso ni retiro, salvo caso que el procesado sea absuelto o sobreseído en la causa que motivara su enjuiciamiento.",
+      "content": "Capítulo II \n Ascensos"
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "Capítulo II",
+      "section": "107",
+      "title": "Artículo 107. El ascenso de y a oficiales, lo concede el Poder Ejecutivo a solicitud del Comandante en Jefe de las Fuerzas Armadas de la Nación.",
+      "content": "Los ascensos a oficiales generales, oficiales almirantes, coroneles y capitanes de navío, se regirán por las disposiciones de la Constitución Nacional."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "Capítulo II",
+      "section": "112",
+      "title": "Artículo 112. El ascenso en tiempo de paz, a y de oficiales generales se concederá para los cargos privativos de conformidad a la ley respectiva:",
+      "content": "a. Al grado de General de Ejército para el desempeño del cargo de Comandante en Jefe de las Fuerzas Armadas. \n b. Al grado de General Técnico y de los servicios, serán nombrados solo para los cargos de directores de los servicios respectivos."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "Capítulo II",
+      "section": "113",
+      "title": "Artículo 113. Los grados máximos que el personal podrá alcanzar por ascenso serán los siguientes:",
+      "content": "a. Categoría de oficiales: \n 1) Cuadro de oficiales profesionales de carrera: \n a) Combatientes: General de División o Vicealmirante, excepto en el caso contemplado en el Artículo 112º, Inciso a. \n b) De los servicios: Coronel, excepto en el caso contemplado en el Art. 112 inc. B. \n 2) Cuadro de la reserva incorporada: \n a) Combatientes y de los servicios, coronel o capitán de navío. \n b. Categoría de aspirantes a oficiales: \n Conforme a reglamento interno. \n c. Categoría suboficiales: Suboficial principal. \n d. Categoría empleados militares: \n Conforme a la reglamentación respectiva. \n e. Categoría de tropa: Sargento 2º."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "Capítulo II",
+      "section": "115",
+      "title": "Artículo 115. Además del tiempo mínimo de servicio en el grado establecido en los Anexos 3 y 4 para el ascenso, es necesario que el militar posea:",
+      "content": "a. Condiciones morales intachables. \n b. Aptitud física comprobada. \n c. Haber aprobado los exámenes para el ascenso o curso para cada grado, conforme a los términos de la reglamentación de esta ley."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "Capítulo II",
+      "section": "117",
+      "title": "Artículo 117. No podrá ascender el personal militar que se encuentre en las siguientes situaciones:",
+      "content": "a. Procesado por la justicia militar o por el fuero penal ordinario si se ha dictado auto de prisión. \n b. El prisionero de guerra y el considerado como desaparecido hasta que se aclare su situación legal."
+    },
+    {
+      "provision_ref": "art120",
+      "chapter": "Capítulo II",
+      "section": "120",
+      "title": "Artículo 120. En tiempo de paz los oficiales de la reserva en apresto podrán ascender hasta el grado de capitán y será requisito para este ascenso, un período de instrucción, una pasantía de duración reglamentada, aprobar el examen respectivo y tener en el grado el cincuenta por ciento más que el tiempo exigido en el Reglamento al personal militar del cuadro permanente.",
+      "content": "Capítulo III \n Haberes"
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "Capítulo III",
+      "section": "121",
+      "title": "Artículo 121. El personal militar en actividad gozará de los haberes que para el caso determina esta ley y su reglamentación, debiendo, ésta última adecuarse a lo que anualmente fije la Ley de Presupuesto General de la Nación. Los haberes están constituidos de:",
+      "content": "a. Sueldos. \n b. Compensaciones: \n 1) Gastos de representación. \n 2) Viáticos. \n El personal militar destinado a cumplir servicios en el extranjero percibirá los haberes que le corresponda más un suplemento multiplicado por el \"coeficiente de conversión de destino\" según lo determine la legislación de esta ley."
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "Capítulo III",
+      "section": "123",
+      "title": "Artículo 123. Podrán percibir los haberes correspondientes al grado inmediato superior, conforme lo dispone el Tribunal de Calificación de Servicios:",
+      "content": "a. El personal militar, que cumpla el tiempo mínimo en el grado para ascenso, y reúna todos los requisitos para el mismo, y que por falta de vacancia en el grado superior no es ascendido. \n b. El personal militar, que reúne los requisitos exigidos en el inciso anterior y que por pertenecer al cuadro de los servicios o de la reserva incorporada, no puede ser promovido al grado inmediato superior."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "Capítulo III",
+      "section": "124",
+      "title": "Artículo 124. Compensaciones: El militar que por razones de servicio efectúa gastos extraordinarios, será reembolsado en la forma y condiciones que determine la reglamentación de esta ley.",
+      "content": "Las compensaciones son: \n a. Gastos de representación: Establecidos para los diferentes grados y cargos. \n b. Gastos de traslado: Para aquellos que por recibir nuevos destinos deben cambiar de residencia. \n c. Viáticos: Para aquellos que deben cumplir una comisión transitoria dentro del territorio de la República o fuera de él."
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "Capítulo III",
+      "section": "126",
+      "title": "Artículo 126. Liquidación de haberes. El militar en actividad percibirá sus haberes por los conceptos y porcentajes que a continuación se expresan, según sean su situación de revista:",
+      "content": "a. El militar en servicio activo percibirá en concepto de haber mensual la totalidad de los haberes previstos en los Artículos 122º y 123º que para cada caso particular corresponda. \n b. El militar comisionado percibirá el haber mensual que por su grado y situación le corresponda como estando en servicio activo, al que se agregará un complemento hasta alcanzar las retribuciones asignadas por la Ley de acuerdo al cargo que desempeña. \n c. El militar en disponibilidad, percibirá el setenta y cinco por ciento de su sueldo mensual mientras dure esta situación. El veinticinco por ciento restante deberá ser depositado en una cuenta especial con cargo a la Suprema Corte de Justicia Militar, y le será devuelto al afectado si es liberado de toda responsabilidad penal; en caso negativo, el haber retenido se dispondrá conforme a la reglamentación respectiva. \n Capítulo IV \n Cómputo de servicios"
+    },
+    {
+      "provision_ref": "art128",
+      "chapter": "Capítulo IV",
+      "section": "128",
+      "title": "Artículo 128. El militar en actividad tendrá derecho a bonificación especial de tiempo de servicio, a los fines del cómputo de servicios para la percepción de Haberes de Retiro exclusivamente, en los siguientes casos:",
+      "content": "a. En caso de movilización o hallarse destinado a operaciones militares efectivas recibirá una bonificación equivalente al ciento por ciento del tiempo pasado en esta situación. \n b. A partir de los quince años de servicios en actividad, se le reconocerá como bonificación, hasta un máximo de cuatro años, el tiempo pasado como: \n 1) Alumno de institutos de formación militar. \n 2) Tiempo de servicio prestado como conscripto. \n c. Tiempo de servicios prestados en la Administración Pública. \n d. Tiempo de servicio prestados en zonas o lugares poco apropiados para recibir, que serán determinados en la reglamentación de esta ley y por los cuales tendrán una bonificación de un tercio del tiempo efectivamente prestado en dichas zonas o lugares."
+    },
+    {
+      "provision_ref": "art132",
+      "chapter": "Capítulo IV",
+      "section": "132",
+      "title": "Artículo 132. Se computará el tiempo pasado como prisionero de guerra si el militar, una vez repatriado y sometido a la investigación pertinente no resulta demostrada su responsabilidad penal en la acción de guerra que motivó su cautiverio, y se declare su falta de culpabilidad sobre la conducta observada en la prisión.",
+      "content": "Capítulo V \n Del casamiento \n Art.. 133º.- El militar en actividad deberá obtener la autorización previa del Comandante en Jefe de las Fuerzas Armadas para contraer matrimonio. El incumplimiento de este requisito trae aparejada la pérdida del estado militar."
+    },
+    {
+      "provision_ref": "art134",
+      "chapter": "Capítulo V",
+      "section": "134",
+      "title": "Artículo 134. Está prohibido el casamiento de conscriptos y alumnos de institutos militares de formación.",
+      "content": "Título VI \n Personal militar en inactividad \n Capítulo I \n Generalidades"
+    },
+    {
+      "provision_ref": "art136",
+      "chapter": "Capítulo I",
+      "section": "136",
+      "title": "Artículo 136. El militar en inactividad podrá estar en:",
+      "content": "a. Retiro. \n b. Licenciado. \n c. Desmovilizado."
+    },
+    {
+      "provision_ref": "art137",
+      "chapter": "Capítulo I",
+      "section": "137",
+      "title": "Artículo 137. El militar en inactividad podrá desempeñar función pública o actividad privada acorde con la dignidad de su jerarquía. El tiempo de servicio prestado en las Fuerzas Armadas se le computará al solo efecto de su jubilación como funcionario.",
+      "content": "Capítulo II \n Retiro"
+    },
+    {
+      "provision_ref": "art138",
+      "chapter": "Capítulo II",
+      "section": "138",
+      "title": "Artículo 138. El retiro es el paso del militar de la situación de actividad a la de inactividad, sin perder su estado militar.",
+      "content": "El retiro podrá ser: \n a. Temporal: Que es la situación del militar que pasa a inactividad, manteniendo sus aptitudes para el servicio activo; y \n b. Absoluto: Que es la situación del militar que pasa a inactividad por límite de edad o quedar impedido física, mental o moralmente para el servicio activo."
+    },
+    {
+      "provision_ref": "art139",
+      "chapter": "Capítulo II",
+      "section": "139",
+      "title": "Artículo 139. El paso de un militar a retiro podrá ser:",
+      "content": "a. A pedido. \n b. De oficio."
+    },
+    {
+      "provision_ref": "art140",
+      "chapter": "Capítulo II",
+      "section": "140",
+      "title": "Artículo 140. El retiro será otorgado siempre, cuando el militar lo solicite, salvo en caso de guerra o inminente amenaza a la seguridad nacional, en las siguientes condiciones:",
+      "content": "a. Con haber de retiro: Al militar que haya cumplido un mínimo de quince años de servicio en actividad, o compruebe estar impedido para el servicio activo por causa de enfermedad, herida o accidente ocurrido en acto de servicio. \n b. Sin haber de retiro: \n 1) Sin restitución al Estado; cuando haya completado más de siete años de servicio en actividad. \n 2) Con restitución de los gastos hechos por el Estado en su formación en el país, al militar que no haya cumplido siete años de servicio continuado en actividad."
+    },
+    {
+      "provision_ref": "art143",
+      "chapter": "Capítulo II",
+      "section": "143",
+      "title": "Artículo 143. El retiro de oficio se otorga al militar:",
+      "content": "a. Que haya cumplido treinta y cinco años de servicio en actividad, salvo que éste ejerza el cargo de Comandante en Jefe de las Fuerzas Armadas. \n b. Que el Tribunal de Calificación de Servicios haya recomendado su pase a inactividad. \n c. Que haya sido declarado inepto para el servicio activo por la Junta de Reconocimientos Médicos. \n d. Que haya alcanzado la edad límite que para cada grado se establece en el Anexo 5."
+    },
+    {
+      "provision_ref": "art145",
+      "chapter": "Capítulo II",
+      "section": "145",
+      "title": "Artículo 145. El Comandante en Jefe podrá retener en el servicio activo a aquel personal militar que habiendo llegado al limite de edad o de tiempo de servicios, si éstos son considerados necesarios para las Fuerzas Armadas.",
+      "content": "Capítulo III \n Desmovilización y licenciamiento"
+    },
+    {
+      "provision_ref": "art148",
+      "chapter": "Capítulo III",
+      "section": "148",
+      "title": "Artículo 148. El personal conscripto y los alumnos de institutos militares de formación no podrán pasar a retiro; pero podrán percibir un haber de retiro proporcional en caso de disminución en su capacidad física causada por enfermedad o accidente sufrido en el servicio.",
+      "content": "Este haber de retiro será concedido según los términos del Artículo 157º y previo dictamen de la Junta de Reconocimiento Médico de la Dirección del Servicio de Sanidad. \n Capítulo IV \n Haberes de retiro"
+    },
+    {
+      "provision_ref": "art151",
+      "chapter": "Capítulo IV",
+      "section": "151",
+      "title": "Artículo 151. El cálculo de haber de retiro se determina conforme al tiempo de servicios computados, según la siguiente escala:",
+      "content": "Años de servicio \n Porcentaje de haberes \n 15 años 50% \n 16 años 53% \n 17 años 56% \n 18 años 59% \n 19 años 62% \n 20 años 65% \n 21 años 68% \n 22 años 71% \n 23 años 74% \n 24 años 77% \n 25 años 80% \n 26 años 84% \n 27 años 88% \n 28 años 92% \n 29 años 96% \n 30 años 100%"
+    },
+    {
+      "provision_ref": "art157",
+      "chapter": "Capítulo IV",
+      "section": "157",
+      "title": "Artículo 157. El personal de alumnos y conscriptos que como consecuencia de actos de servicio, resultare disminuido en su capacidad para el trabajo en la vida civil, gozará de un haber de retiro conforme a la siguiente escala o tabla:",
+      "content": "a. Si la disminución de capacidad para el trabajo en la vida civil fuere del sesenta por ciento o más. \n 1) Para los alumnos de escuelas de formación de oficiales la totalidad del sueldo y suplementos generales correspondiente al grado más bajo de la jerarquía de oficial. \n 2) Para alumnos de escuelas de sargentos y conscriptos correspondiente al grado más bajo de la jerarquía de suboficial. \n b. Si la disminución de capacidad para el trabajo fuere menor de sesenta por ciento, el haber de retiro prescripto en el inciso anterior, será reducido en la proporción señalada a continuación: \n Incapacidad Por ciento de haber de retiro \n 1% al 9% 30% \n 10% al 19% 50% \n 20% al 29% 60% \n 30% al 39% 70% \n 40% al 49% 80% \n 50% al 59% 90%"
+    },
+    {
+      "provision_ref": "art158",
+      "chapter": "Capítulo IV",
+      "section": "158",
+      "title": "Artículo 158. El derecho a solicitar el haber de retiro es imprescri ptible.",
+      "content": "Capítulo V \n Pensión"
+    },
+    {
+      "provision_ref": "art159",
+      "chapter": "Capítulo V",
+      "section": "159",
+      "title": "Artículo 159. Se entiende por pensión, la suma mensual que reciben los herederos del militar fallecido estando en actividad o en situación de retiro, y cuando el fallecimiento hubiese ocurrido en algunas de las condiciones previstas en el presente capítulo.",
+      "content": "Para tener derecho a pensión, es necesario que el militar haya estado en posesión de su estado militar al ocurrir el fallecimiento."
+    },
+    {
+      "provision_ref": "art161",
+      "chapter": "Capítulo V",
+      "section": "161",
+      "title": "Artículo 161. Los familiares del personal militar y los alumnos y conscriptos mencionados en el Artículo 157º, con derecho a pensión son:",
+      "content": "a. La esposa o esposo, siempre que, en virtud de sentencia emanada de autoridad competente, no estuviere divorciado por su culpa. \n b. Los hijos menores de 22 años de edad, y los mayores incapacitados definitivamente para el trabajo. \n c. Los padres. \n d. Las hijas y hermanas, solteras o viudas, mientras mantengan este estado. \n e. Los hermanos varones menores y los hermanos mayores incapacitados definitivamente para el trabajo. \n En los casos de los deudos indicados en los incisos c, d y e, el haber de pensión se calculará según se establece en las prescripciones de los Artículos 169º y 170º, pero, no obstante ello, la suma a liquidar a dichos beneficiarios no podrá ser nunca superior a la porción indispensable para cubrir su carencia de medios propios de subsistencia, cuya medida y demás modalidades, a éste como a cualquier otro efecto, se determinará en la reglamentación de esta ley."
+    },
+    {
+      "provision_ref": "art163",
+      "chapter": "Capítulo V",
+      "section": "163",
+      "title": "Artículo 163. Los familiares comprendidos en los incisos c, d y e del Artículo 161º, tendrán derecho a concurrir como derecho habientes, solo en el caso en que estuvieren total o parcialmente bajo la mantención del militar fallecido, y la muerte de éste hubiere reducido en un cincuenta por ciento o más, sus medios propios de subsistencia.",
+      "content": "Las exigencias de este artículo no se aplicarán a los deudos del personal comprendido en el Artículo 157º- haberes del personal de conscriptos o alumnos inválidos."
+    },
+    {
+      "provision_ref": "art164",
+      "chapter": "Capítulo V",
+      "section": "164",
+      "title": "Artículo 164. La pensión se concederá a los herederos en el orden excluyente siguiente:",
+      "content": "a. A la viuda o viudo en concurrencia con los hijos; \n b. A los hijos, no existiendo viuda o viudo con derecho a pensión; \n c. A la viuda o viudo no existiendo hijos; \n d. A los padres del causante, si tienen derecho a pensión y cuando no existen viuda ni hijos; \n e. A las hermanas solteras y hermanas menores de edad, cuando no existen viudas, hijos, ni padres del causante."
+    },
+    {
+      "provision_ref": "art166",
+      "chapter": "Capítulo V",
+      "section": "166",
+      "title": "Artículo 166. El derecho a pensión se pierde en los siguientes casos:",
+      "content": "a. Por fallecimiento del o la titular, soltero (a), sin dejar hijos ni padres vivos. \n b. Para los hijos o hermanos varones, el día que cumplan la mayoría de edad, salvo que se encontrasen incapacitados para el trabajo. \n c. Para las hijas o hermanas solteras, el día que contrajeran matrimonio."
+    },
+    {
+      "provision_ref": "art168",
+      "chapter": "Capítulo V",
+      "section": "168",
+      "title": "Artículo 168. La pensión que haya de concederse en virtud de las disposiciones del presente capítulo, se liquidará desde la fecha del fallecimiento de acuerdo a la escala siguiente:",
+      "content": "a. A herederos de militares en situación de actividad o retiro, el total de lo que el causante percibía en el momento de su fallecimiento, salvo caso de ascenso póstumo. \n b. A herederos de militares muertos en situación de disponibilidad el setenta y cinco por ciento del haber de retiro que le hubiese correspondido si en vez de fallecer hubiese pasado a retiro conforme a esta ley, el día de su fallecimiento. \n c. A herederos del personal de alumnos y conscriptos, les corresponderá un haber de pensión equivalente a sesenta por ciento de la suma que percibía el causante."
+    },
+    {
+      "provision_ref": "art169",
+      "chapter": "Capítulo V",
+      "section": "169",
+      "title": "Artículo 169. La distribución del haber de pensión se efectuará con arreglo a las siguientes disposiciones:",
+      "content": "a. En caso de concurrencia de esposa o esposo e hijos legítimos, naturales, reconocidos o adoptivos menores de edad, corresponderá una mitad a la esposa y la otra mitad se dividirá por partes iguales entre los hijos. \n b. En caso de concurrencia de hijos legítimos, naturales reconocidos o adoptivos, la pensión se dividirá por partes iguales entre los mismos. \n c. En caso de concurrir solamente la esposa o esposo, la pensión le corresponderá íntegramente al cónyuge sobreviviente. \n d. En caso de concurrencia del padre y madre con derecho a pensión, la pensión corresponderá íntegramente a éstos por partes iguales. \n e. En caso de concurrencia de hermanas y/o hermanos con derecho a pensión, el haber de pensión les corresponderá íntegramente por partes iguales."
+    },
+    {
+      "provision_ref": "art176",
+      "chapter": "Capítulo V",
+      "section": "176",
+      "title": "Artículo 176. El derecho de solicitar la pensión prescribe a los doce meses.",
+      "content": "Título VII \n De la calificación de servicios \n Capítulo I \n De las calificaciones"
+    },
+    {
+      "provision_ref": "art179",
+      "chapter": "Capítulo I",
+      "section": "179",
+      "title": "Artículo 179. La calificación tiene por finalidad:",
+      "content": "a. Expresar el juicio del superior sobre el subordinado. \n b. Servir de base a los Tribunales de Calificación, para la calificación definitiva."
+    },
+    {
+      "provision_ref": "art180",
+      "chapter": "Capítulo I",
+      "section": "180",
+      "title": "Artículo 180. La calificación del personal militar es requisito indispensable para el ascenso. Ella debe ser la expresión fiel de las cualidades del militar en relación con su capacidad moral e intelectual, así como de sus virtudes o defectos. En consecuencia, el juicio que emitan los superiores deberá ser justo, recto y ecuánime, teniendo presente sólo la eficiencia del servicio y el alto cometido de las Fuerzas Armadas.",
+      "content": "La calificación de servicios para los oficiales de las Fuerzas Armadas se hará de acuerdo con el reglamento correspondiente."
+    },
+    {
+      "provision_ref": "art183",
+      "chapter": "Capítulo I",
+      "section": "183",
+      "title": "Artículo 183. Los conceptos que se emitan deben ser claros y concisos; deben evitar las expresiones equívocas o vagas que signifiquen eludir la responsabilidad de la afirmación.",
+      "content": "La complacencia, como el rigor excesivo, lesionan graves intereses, perjudican a la institución y afectan la moral del calificado y del calificador. \n Capítulo II \n De los tribunales de calificación de servicios"
+    },
+    {
+      "provision_ref": "art185",
+      "chapter": "Capítulo II",
+      "section": "185",
+      "title": "Artículo 185. Los Tribunales de Calificación de Servicios serán:",
+      "content": "a. Para oficiales: \n - Tribunal de Calificación de Servicios de Oficiales. \n Ordinario. \n Especial. \n b. Para Suboficiales: \n - Tribunal de Calificación de Servicios de suboficiales."
+    },
+    {
+      "provision_ref": "art188",
+      "chapter": "Capítulo II",
+      "section": "188",
+      "title": "Artículo 188. La toma de posesión del cargo por un miembro del Tribunal, será realizada en sesión plenaria.",
+      "content": "Antes de ella, el General u Oficial Superior nombrado prestará juramento ante el Comandante en Jefe."
+    },
+    {
+      "provision_ref": "art189",
+      "chapter": "Capítulo II",
+      "section": "189",
+      "title": "Artículo 189. Compete al Tribunal de Calificación de Servicios, dictaminar sobre las condiciones para el ascenso de los señores oficiales. Además le corresponde:",
+      "content": "a. Resolver los reclamos interpuestos por el personal militar contra las calificaciones hechas por sus jefes directos. \n El Tribunal podrá aceptar o rechazar el reclamo, en mérito a los antecedentes que consten en la calificación de lo que afirma el reclamante, y de los que el mismo Tribunal estime necesario considerar. \n Podrá asimismo ordenar la formación de un sumario para verificar los fundamentos del reclamo. Estas resoluciones serán inapelables. \n b. Formar la lista de clasificación, teniendo como base de estudio y decisión, la foja de servicios del personal militar, elevada por el Estado Mayor de las FF.AA. \n A los efectos de la clasificación, el personal militar podrá figurar en las listas siguientes: \n Lista Nº 1 Muy bueno \n Lista Nº 2 Bueno \n Lista Nº 3 Condicional \n Lista Nº 4 Deficiente \n c. Establecer las listas para las recompensas honoríficas y condecoraciones. \n d. Establecer si las causas penales afectan a la honorabilidad de la situación militar del encausado, cuando se trata de la separación o baja. \n e. Expedirse sobre las solicitudes de reincorporación del personal militar que se halle en situación de retiro."
+    },
+    {
+      "provision_ref": "art193",
+      "chapter": "Capítulo II",
+      "section": "193",
+      "title": "Artículo 193. La falta de calificación del personal militar no le ocasionará retraso en el ascenso. En este caso, el Tribunal de Calificación de Servicios, buscará directamente por sus propios medios, los elementos de juicio necesarios para la calificación.",
+      "content": "Título VIII \n De la administración de justicia militar \n Capítulo único"
+    },
+    {
+      "provision_ref": "art195",
+      "chapter": "Título VIII",
+      "section": "195",
+      "title": "Artículo 195. La jurisdicción militar será ejercida por:",
+      "content": "a. La Suprema Corte de Justicia Militar; \n b. Los jueces de primera instancia; \n c. Los jueces de instrucción; \n d. El Ministerio Público; \n e. Los Defensores de Pobres; y \n f. Los secretarios y demás funcionarios auxiliares."
+    },
+    {
+      "provision_ref": "art199",
+      "chapter": "Título VIII",
+      "section": "199",
+      "title": "Artículo 199. En tiempo de guerra, la Justicia Militar será organizada conforme a la ley que prevé ese estado de emergencia nacional.",
+      "content": "Título IX \n Disposiciones finales y transitorias"
+    },
+    {
+      "provision_ref": "art200",
+      "chapter": "Título IX",
+      "section": "200",
+      "title": "Artículo 200. Está vedado a personas y organizaciones, el uso de designaciones que pueden sugerir vinculación con las Fuerzas Armadas.",
+      "content": "Párrafo único. Se exceptúan de las prescripciones de este artículo a las asociaciones, clubes, círculos y otros, que congregan a miembros de las Fuerzas Armadas y que se dedican exclusivamente, a promover intercambio social y asistencial entre éstos y la sociedad civil local."
+    }
+  ],
+  "definitions": []
+}

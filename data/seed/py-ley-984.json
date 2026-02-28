@@ -1,0 +1,50 @@
+{
+  "id": "py-ley-984",
+  "type": "statute",
+  "title": "Ley Nº 369 / DICTA DISPOSICIONES RELATIVAS A JUBILACIONES Y PENSIONES DE FUNCIONARIOS PÚBLICOS",
+  "title_en": "Ley Nº 369 / DICTA DISPOSICIONES RELATIVAS A JUBILACIONES Y PENSIONES DE FUNCIONARIOS PÚBLICOS",
+  "short_name": "Ley N° 369",
+  "status": "in_force",
+  "issued_date": "1956-08-20",
+  "in_force_date": "1956-08-20",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/984/ley-n-369-dicta-disposiciones-relativas-a-jubilaciones-y-pensiones-de-funcionarios-publicos",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Fíjese a partir del 1º de Setiembre de 1956, en la suma de Gs. 500.- (Quinientos guaraníes) mensuales, el haber mínimo de las Jubilaciones y pensiones que corresponden a las siguientes partidas del Anexo Q, del Presupuesto General de la Nación:",
+      "content": "Rubro 7.03 -Item 1:\n 1 . Jubilados\n2. Herederos de jubilados\n3. Pensiones acordadas por el Congreso.\n En todos los casos las asignaciones, por los conceptos expresados, inferiores al haber mínimo señalado, el Ministerio de Hacienda procederá al ajuste hasta dicha cantidad.\n En las Jubilaciones o pensiones que se otorguen en lo sucesivo, siempre que, con aplicación de las disposiciones vigentes, el haber resultare menos de Gs. 500.—mensuales, el Ministerio de Hacienda efectuará el ajuste hasta dicha cantidad."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Se tendrá como base para la determinación de haber jubilatorio el 93 % de sueldo medio de los últimos doce meses liquidados a favor del interesado, en el caso de los Funcionarios Públicos con derecho a jubilación ordinaria, no comprendidos en las disposiciones del Artículo anterior, así como para los Funcionarios Públicos con derecho a Jubilación extraordinaria, a tenor de lo dispuesto en el Art. 253 de la Ley de Organización Administrativa.",
+      "content": "El monto de las Jubilaciones extraordinarias se determinará sobre la expresada base, con relación al tiempo de servicio, según la regla de cálculo contenida en el Art. 241 de la Ley de Organización Administrativa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Las Jubilaciones ordinarias acordadas con arreglo a lo dispuesto en los artículos 1º y 2º de la presente Ley, estarán sujetos, en lo sucesivo a los ajustes anuales, contemplando las variaciones de los sueldos de iguales categorías en las leyes de Presupuesto General de la Nación.",
+      "content": "En materia de jubilaciones extraordinarias, acordadas con arreglo a lo dispuesto en el Art. 2º de la presente Ley, el Ministerio de Hacienda dispondrá ajustes similares con consideración de las posibilidades resultantes de los ingresos de los recursos destinados a fondos jubilatorios."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Las disposiciones de los artículos 2º, 3º y 4º se aplicarán a las jubilaciones ordinarias o extraordinarias, otorgadas con posterioridad a la presente Ley, y a las pensiones que se acuerden en su consecuencia.",
+      "content": "El Poder Ejecutivo, teniendo en consideración la situación de los recursos de la Caja de Jubilaciones y Pensiones administrada por el Ministerio de Hacienda, dispondrá la forma de adecuar los haberes correspondientes a Jubilaciones y Pensiones acordadas con anterioridad a la presente Ley, hasta tanto se constituya la Caja Autónoma de Jubilaciones y Pensiones."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. El Ministerio de Hacienda, por los organismos correspondientes, depositará en el Banco central del Paraguay en la cuenta “Caja de Jubilaciones y Pensiones de Funcionarios y Empleados Públicos”, habilitada a este efecto, el remanente resultante al cierre del ejercicio fiscal de los fondos sw Jubilaciones y pensiones.",
+      "content": "A los efectos de la disposición precedente se dará estricto cumplimiento a los términos del los artículos 247 y 273 de la Ley de Organización Administrativa."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones de la Honorable Cámara de representantes a los treces días del mes de Agosto del año un mil novecientos cincuenta y seis."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,511 @@
+{
+  "id": "py-ley-985",
+  "type": "statute",
+  "title": "Ley Nº 476 / CÓDIGO DE NAVEGACIÓN FLUVIAL Y MARÍTIMO",
+  "title_en": "Ley Nº 476 / CÓDIGO DE NAVEGACIÓN FLUVIAL Y MARÍTIMO",
+  "short_name": "Ley N° 476",
+  "status": "in_force",
+  "issued_date": "1957-10-29",
+  "in_force_date": "1957-10-29",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/985/ley-n-476-codigo-de-navegacion-fluvial-y-maritimo",
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "chapter": "TITULO PRELIMINAR",
+      "section": "5",
+      "title": "Artículo 5. El transporte fluvial y marítimo es un servicio de interés público. En caso de necesidad nacional o de conflicto que pusiere en peligro la eficiencia de dicho servicio, el Poder Ejecutivo podrá declarar la movilización tanto de las embarcaciones como del personal navegante, corriendo a cargo del Estado el pago de las remuneraciones, los gastos e indemnizaciones que corresponda en derecho.",
+      "content": "LIBRO I \n TÍTULO I \n DE LAS EMBARCACIONES"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "TÍTULO I",
+      "section": "10",
+      "title": "Artículo 10. Las embarcaciones nacionales deben estar debidamente matriculadas en el país, y estarán sujetas al cumplimiento de las siguientes disposiciones:",
+      "content": "a) Usar el Pabellón Nacional de conformidad a las ordenanzas vigentes;\n b) Ser comandadas por Capitanes o Patrones de nacionalidad paraguaya;\n c) Tener en su tripulación un número mínimo de personal de nación paraguaya, que determinará la Dirección General de la Marina Mercante, de acuerdo a las leyes respectivas."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "TÍTULO I",
+      "section": "18",
+      "title": "Artículo 18. Las embarcaciones construidas en el extranjero que deseen incorporarse a la matrícula nacional deberán llenar las exigencias establecidas por las compañías clasificadores internacionales tales como el Lloyd´s Register American Bureau of Shipping, Bureau Veritas y otras, en cuanto a la seguridad para el servicio a que estan destinadas.",
+      "content": "TITULO II \n NAVEGACIÓN A REMOLQUE"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "TITULO II",
+      "section": "22",
+      "title": "Artículo 22. En caso de siniestro, cada embarcación será considerada como individualidad independiente a los efectos jurídicos derivados del salvataje o abandono de la unidad afectada y de su carga, salvo los casos en que la embarcación vaya como bodega del Remolcador y forme una sola unidad con el mismo.",
+      "content": "TÍTULO III \n DE LAS DOCUMENTACIONES RELATIVAS A LAS EMBARCACIONES"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "TÍTULO III",
+      "section": "23",
+      "title": "Artículo 23. A los efectos de la documentación que deben llevar obligatoriamente las embarcaciones, quedan, éstas clasificadas en las siguientes categorías:",
+      "content": "a) Embarcaciones cuyos itinerarios sean hasta de ocho horas;\n b) Embarcaciones cuyos itinerarios sean mayores de ocho horas;\n c) Embarcaciones que efectúan servicios al exterior;\n d) Embarcaciones que efectúan tráfico fronterizo."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "TÍTULO III",
+      "section": "24",
+      "title": "Artículo 24. Las embarcaciones de la categoría A, llevarán los siguientes documentos:",
+      "content": "a) Rol y Libro de Rol;\n b) Certificado de Navegabilidad;\n c) Certificado de Seguridad de Máquina."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "TÍTULO III",
+      "section": "25",
+      "title": "Artículo 25. Las embarcaciones de la categoría B, a más de los indicados en el artículo anterior, llevarán los siguientes documentos:",
+      "content": "a) Libreta de Registro de Trabajo para anotación de horas extras;\n b) Diario de Navegación;\n c) Libro de Guardia de Máquina;\n d) Libro de Cargamento o Sobordo;\n e) Manifiesto de Carga."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "TÍTULO III",
+      "section": "26",
+      "title": "Artículo 26. Las embarcaciones de la categoría C, a más de los documentos indicados en los dos anteriores artículos, llevarán los siguientes:",
+      "content": "a) Patente de Sanidad y otros exigidos por las leyes sanitarias;\n b) Lista de Rancho;\n c) Libro de Cuenta y Razón o de Caja;\n d) Cualquier otra documentación exigida por las autoridades de los puertos de destino o que estuviera prevista por las reglamentaciones internacionales."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "TÍTULO III",
+      "section": "30",
+      "title": "Artículo 30. El Libro de Rol de Tripulación deberá estar firmado por el Armador o su agente, o por el Capitán o Patrón, y en él se consignarán los siguientes datos:",
+      "content": "a) Nombre del buque, número de matrícula, su arboladura, tonelaje de arqueo total y neto;\n b) Puerto de destino, con o sin escala, con o sin carga y pasajeros;\n c) Empleo, nombre, número de matrícula y nacionalidad de cada uno de los tripulantes, incluso el Capitán o Patrón.\n d) Número de orden que corresponda a cada tripulante en el cuadro de roles;\n e) Puerto y fecha del despacho."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "TÍTULO III",
+      "section": "37",
+      "title": "Artículo 37. Las disposiciones del Libro 3°, Título 1° del Código de Comercio, referentes a los buques, serán aplicables en cuanto no se opongan a las disposiciones de este Código.",
+      "content": "TÍTULO IV \n DE LOS ARMADORES"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "TÍTULO IV",
+      "section": "39",
+      "title": "Artículo 39. La Prefectura General de Puertos procederá a la inscripción de los Armadores, en un Libro de Matrícula, previa fijación del domicilio en territorio nacional y presentación de los siguientes documentos:",
+      "content": "a) Título de propiedad de la embarcación o documentos de su arrendamiento;\n b) Certificado de Navegabilidad de la embarcación;\n c) Documento de sanidad de la embarcación, expedido por la autoridad competente;\n d) Documentos personales exigidos por las leyes;\n e) Copia de la escritura constitutiva de la Sociedad, si el Armador fuere persona jurídica."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "TÍTULO IV",
+      "section": "40",
+      "title": "Artículo 40. Los Armadores que tuvieren necesidad de suspender la navegación de sus embarcaciones alterando la regularidad del servicio, deberán comunicarlo a la autoridad competente, con una anticipación mínima de quince días, expresando las causas que justifiquen dicha suspensión.",
+      "content": "En caso de que la suspensión no altere la regularidad del servicio podrán hacer la comunicación hasta cuarenta y ocho horas antes."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "TÍTULO IV",
+      "section": "41",
+      "title": "Artículo 41. Son obligaciones de los Armadores:",
+      "content": "a) Mantener en buen estado de conservación sus embarcaciones a los efectos de la seguridad y disponer a bordo de los elementos para los casos de siniestro, de acuerdo a las reglamentaciones respectivas;\n b) Dotar a sus embarcaciones de las comodidades necesarias para los pasajeros y las que correspondan por categoría para la tripulación, proporcionándoles alojamientos higiénicos y confortables, así como alimentación adecuada;\n c) Dotar a las embarcaciones de un botiquín con elementos sanitarios suficiente para brindar a la tripulación y a los pasajeros atención médica de primeros auxilios.\n La Dirección General de la Marina Mercante determinará, de acuerdo con el Ministerio de Salud Pública y Bienestar Social, las exigencias en materia sanitaria.\n d) Pedir el rearqueo de sus embarcaciones cada vez que introduzcan en las mismas una modificación en su eslora, manga, puntal o instalaciones fijas;\n e) Proveer de uniformes y equipos de trabajo y para lluvia a la tripulación conforme a las reglamentaciones pertinentes de la Marina Mercante Nacional;\n f) Indemnizar a la tripulación por la pérdida de sus efectos personales, en caso de naufragio o siniestro, para lo cual cada tripulante, al subir a bordo, entregará un inventario de sus efectos, que será controlado y llevará el visto bueno del Capitán o Patrón, sin cuyo requisito no tendrá derecho a reclamo alguno. El inventario deberá hacerse por duplicado, quedando uno en poder del armador y otro en el del interesado.\n No habrá derecho a indemnización cuando la pérdida se ha producido por culpa, descuido o negligencia del propio interesado."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "TÍTULO IV",
+      "section": "43",
+      "title": "Artículo 43. Los Agentes Marítimos podrán actuar en nombre y representación de los Armadores como representantes legales u oficiosos de los mismos.",
+      "content": "TÍTULO V \n DE LA DOTACIÓN DE UNA EMBARCACIÓN"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "TÍTULO V",
+      "section": "45",
+      "title": "Artículo 45. El personal de la Marina Mercante se clasifica, según las funciones que le competen a bordo, en cuatro clases: -",
+      "content": "a) Personal de cubierta o de puente;\n b) Personal de máquinas;\n c) Personal de servicios auxiliares, generales o de entrepuente;\n d) Aprendices"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "TÍTULO V",
+      "section": "47",
+      "title": "Artículo 47. El personal de cubierta o de puente comprende:",
+      "content": "a) En la categoría de Oficial:\n Capitán;\n Capitán-Práctico;\n Práctico o Piloto;\n Patrón de 1a., de 2a. y de 3a. clases;\n Patrón timonel.\n b) En la categoría de Maestranza:\n Contramaestre;\n c) En la categoría de Subalterno:\n Timoneles y Marineros en general"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "TÍTULO V",
+      "section": "48",
+      "title": "Artículo 48. El personal de máquina comprende:",
+      "content": "a) En la categoría de Oficial:\n Maquinista Naval Superior;\n Maquinistas de 1a., 2a. y 3a. categorías;\n Conductores de 1a., 2a. y 3a. categorías\n b) En la categoría de Subalterno:\n Caldereteros, Foguistas, Limpiadores y demás componentes del personal auxiliar."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "TÍTULO V",
+      "section": "49",
+      "title": "Artículo 49. El personal de servicios auxiliares comprende: a) En la categoría de Oficial:",
+      "content": "Comisarios de 1a., de 2a., y de 3a., clases;\n Médicos, y\n Radio-Operadores.\n b) En la categoría de Maestranza:\n Mayordomos y Cocineros de 1a. y de 2a. clases.\n c) En la categoría de Subalternos:\n Cocinero de 3a. clase;"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "TÍTULO V",
+      "section": "50",
+      "title": "Artículo 50. El personal de Aprendices comprende:",
+      "content": "Aprendices de Conductor, Comisario, Marinero, Mozo y de Cocinero.\n TÍTULO VI \n DE LA TRIPULACIÓN MÍNIMA Y DE SU CONTRATACIÓN"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "TÍTULO VI",
+      "section": "53",
+      "title": "Artículo 53. Declárase libre de exigencias de dotación mínima para las embarcaciones que se sean de mero paseo y para las de hasta 20 toneladas de registro bruto, cuyas máquinas no desarrollan más de 50 HP.",
+      "content": "A los efectos de su tripulación, la Prefectura General de Puertos y Sub-Prefecturas, tendrán en cuenta la idoneidad profesional de la misma, así como el factor seguridad para la navegación."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "TÍTULO VI",
+      "section": "57",
+      "title": "Artículo 57. El propietario de una embarcación, o sus parientes hasta de segundo grado, previa comprobación de esta circunstancia ante la Prefectura General de Puertos, toda vez que tengan sus respectivos títulos de idoneidad y se hallen debidamente matriculados, pueden formar parte de la tripulación de su embarcación, sin necesidad de estar afiliados a gremio alguno.",
+      "content": "TÍTULO VII \n DEL PERSONAL SUPERIOR O DIRECTIVO \n CAPÍTULO I \n DE LOS CAPITANES"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "CAPÍTULO I",
+      "section": "58",
+      "title": "Artículo 58. Para ejercer la profesión de Capitán de la Marina Mercante, se requiere:",
+      "content": "a) Ser ciudadano paraguayo (nativo o naturalizado);\n b) Tener el título habilitante;\n c) Haber cumplido 25 años de edad;\n d) Haber cumplido con la Ley del Servicio Militar Obligatorio;\n e) Poseer los documentos personales exigidos por las leyes;\n f) Poseer certificado expedido por el Servicio Médico de la Armada que compruebe tener salud compatible con el servicio de a bordo y en particular, vista y audición normales."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "CAPÍTULO I",
+      "section": "59",
+      "title": "Artículo 59. Los Capitanes, a más de los deberes y atribuciones que les confieren el Código de Comercio, en Lib. III, Tít. III y la Ley Nº 928 sobre \"Reglamento de Capitanías\", que no resultaren derogados o modificados por la presente Ley, tendrán los siguientes:",
+      "content": "a) Tomar Piloto o Práctico, en aguas extranjeras, en los lugares que los reglamentos o el uso de la prudencia lo exigieran. En caso contrario incurrieren falta pasible de sanción, a más de la responsabilidad por el pago de la multa que se hubiese aplicado a la embarcación;\n b) Alojar y mantener al Práctico como Oficial de a bordo;\n c) Hacer constar en el Rol, que será legalizado por los Consulados en el extranjero, todas las modificaciones que se produzcan por altas y bajas del personal;\n d) Estar sobre cubierta cuando la embarcación a su mando tenga que salir y entrar en puertos, en los canales y pasos peligrosos y en todas las circunstancias en que pueden ser mayores los riesgos;\n e) Instruir sumario en caso de cometerse delitos a bordo, y arrestar a los delincuentes si hubiesen sido individualizados;\n f) Disponer que su embarcación preste servicio de auxilio a cualquier otra que lo solicite, sea nacional o extranjera;\n g) Observar y hacer observar el cumplimiento de los reglamentos de luces y señales, para evitar colisiones;\n h) Permanecer a bordo, en caso de peligro del buque, hasta agotar toda posibilidad de salvarlo, y antes de abandonarlo, oír a los Oficiales de la tripulación, obstando a lo que decida la mayoría, y si tuviere que refugiarse en el bote, procurará llevarse consigo ante todo, los libros y documentación de a bordo y luego los objetos de más valor;\n i) Cumplir y hacer cumplir las obligaciones establecidas por las leyes y reglamentos de navegación, aduanas, sanidad, inmigración y prefectura, tanto en los puertos nacionales como en los del extranjero, so pena de responder personalmente por el pago de las multas a que se hubiese hecho pasible la embarcación por su incumplimiento."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "CAPÍTULO I",
+      "section": "61",
+      "title": "Artículo 61. El Capitán, a la salida o arribo al puerto, deberá entregar a la Prefectura General de Puertos, en formulario escrito, la declaración de Entrada o Salida de la embarcación, en la que se consignara:",
+      "content": "a) El nombre del Capitán;\n b) Matrícula y tonelaje de porte;\n c) Fecha y hora de salida o de entrada;\n d) Número de tripulantes, incluso el Capitán;\n e) Número de pasajeros y clases, conducidos o a conducir al interior o al exterior;\n f) Tonelaje de carga de removido que conduzca;\n g) Tonelaje de carga de exportación o importación y el calado del buque."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "CAPÍTULO I",
+      "section": "67",
+      "title": "Artículo 67. Los Oficiales del Cuerpo Combatiente de la Armada Nacional, desde el grado de Teniente de Navío, en situación de retiro, serán hábiles para ejercer la profesión de Capitán de la Marina Mercante. Los Oficiales de menor graduación podrán también matricularse como tales, previo examen de las asignaturas que figurando en el plan de estudios para el título de Capitán no figuren en el de las Escuelas o Academias Navales cursadas por ellos.",
+      "content": "Capítulo II \n DE LOS PATRONES"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Capítulo II",
+      "section": "68",
+      "title": "Artículo 68. Para ejercer la profesión de Patrón de la Marina Mercante se requiere:",
+      "content": "a) Ser ciudadano paraguayo (nativo o naturalizado);\n b) Tener el título habilitante;\n c) Haber cumplido 22 años de edad;\n d) Haber cumplido con la Ley del Servicio Militar Obligatorio;\n e) Poseer los documentos personales exigidos por las leyes;\n f) Poseer Certificado expedido por el Servicio Médico de la Armada que compruebe tener salud compatible con el servicio de a bordo, y en particular, vista y audición normales."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Capítulo II",
+      "section": "69",
+      "title": "Artículo 69. Establécese cuatro categorías de Patrones:",
+      "content": "a) Patrón de Primera clase;\n b) Patrón de Segunda clase;\n c) Patrón de Tercera clase; y\n d) Patrón Timonel.\n Los Patrones Timoneles podrán conducir embarcaciones de hasta (20) veinte toneladas y remolcadores de hasta (15) quince toneladas cuyos motores no desarrollen más de 50 H.P."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "Capítulo II",
+      "section": "71",
+      "title": "Artículo 71. Los Sub-Oficiales de Cubierta que prestaron servicio en la Armada Nacional, podrán matricularse como Patrones, previo examen de competencia, en las siguientes categorías:",
+      "content": "a) Sub-Oficial mayor principal, como Patrón de 1a.;\n b) Sub-Oficial mayor, como Patrón de 2a.;\n c) Sub-Oficial de 1a., como Patrón de 2a.;\n d) Sub-Oficial de 2a., como Patrón de 3a;\n e) Contramaestre mayor principal, como Patrón Timonel."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "Capítulo II",
+      "section": "72",
+      "title": "Artículo 72. El Patrón de Primera que dejare de navegar durante un año consecutivo perderá la habilitación. Para reanudar sus actividades, deberá presentarse a examen de navegación de la zona y obtener nuevamente permiso de embarque. Los Patrones de Segunda y Tercera y los Patrones Timoneles que permanecieren sin navegar durante dos años consecutivos, perderán igualmente su habilitación, que podrán recuperarla en las mismas condiciones que el Patrón de Primera.",
+      "content": "CAPÍTULO III \n DE LOS PRÁCTICOS O PILOTOS"
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "CAPÍTULO III",
+      "section": "73",
+      "title": "Artículo 73. Para ejercer la profesión de Práctico o Piloto, se requiere:",
+      "content": "a) Ser ciudadano paraguayo (nativo o naturalizado);\n b) Tener título habilitante;\n c) Haber cumplido 22 años de edad;\n d) Haber cumplido con la Ley del Servicio Militar Obligatorio;\n e) Poseer los documentos personales exigidos por las leyes;\n f) Poseer certificado de buena salud expedido por el Servicio Médico de la Armada."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "CAPÍTULO III",
+      "section": "74",
+      "title": "Artículo 74. En la Marina Mercante habrá cuatro zonas de practicajes, que determinará cuatro categorías de Prácticos:",
+      "content": "a) Prácticos del Norte (Asunción - Puerto Caballo);\n b) Prácticos del Sur (Asunción - Confluencia);\n c) Prácticos del Río Paraná (desde Pto. España hasta Confluencia);\n d) Prácticos de Asunción a Río de la Plata."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "CAPÍTULO III",
+      "section": "85",
+      "title": "Artículo 85. La Prefectura General de Puertos no despachará embarcaciones que no tenga el personal de Piloto o Práctico de acuerdo a las prescripciones del presente Código.",
+      "content": "CAPÍTULO IV \n DE LOS MAQUINISTAS NAVALES"
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "CAPÍTULO IV",
+      "section": "86",
+      "title": "Artículo 86. Para ejercer la profesión de Maquinista Naval de la Marina Mercante Nacional se requiere:",
+      "content": "a) Ser ciudadano paraguayo (natural o naturalizado);\n b) Tener el título habilitante;\n c) Haber cumplido 22 años de edad; -\n d) Haber cumplido con la ley del Servicio Militar Obligatorio;\n e) Poseer los documentos personales exigidos por las leyes."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "CAPÍTULO IV",
+      "section": "87",
+      "title": "Artículo 87. Se establece cuatro categorías de Maquinistas Navales:",
+      "content": "a) Maquinista Naval Superior;\n b) Maquinista Naval de 1a.;\n c) Maquinista Naval de 2a; y\n d) Maquinista Naval de 3a."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "CAPÍTULO IV",
+      "section": "88",
+      "title": "Artículo 88. En las tres últimas categorías enunciadas en el artículo anterior existirán los títulos de especialización en:",
+      "content": "a) Máquinas a Vapor;\n b) Máquinas de Combustión interna."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "CAPÍTULO IV",
+      "section": "98",
+      "title": "Artículo 98. Los Oficiales y Ayudantes Navales Maquinistas de la Armada Nacional, en situación de retiro, están equiparados a Maquinistas de la Marina Mercante Nacional de acuerdo a las siguientes categorías:",
+      "content": "a) Teniente de Navío, a Maquinista de 1a.;\n b) Teniente de Fragata y de Corbeta y Ayudantes Navales de 1a. y de 2a. de Máquinas, a Maquinista de 2a.;\n c) Guardiamarina y Ayudantes Navales de Máquinas de 3a. y 4a., a Maquinista de 3a."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "CAPÍTULO IV",
+      "section": "99",
+      "title": "Artículo 99. Las Maquinistas de la Marina Mercante Nacional serán considerados Oficiales de la Reserva de la Marina de Guerra.",
+      "content": "CAPÍTULO V \n DE LOS COMISARIOS"
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "CAPÍTULO V",
+      "section": "100",
+      "title": "Artículo 100. Para ejercer la profesión de Comisario, se requiere:",
+      "content": "a) Ser ciudadano paraguayo (natural o naturalizado);\n b) Tener título habilitante;\n c) Haber cumplido 22 años de edad;\n d) Haber cumplido con la Ley del Servicio Militar Obligatorio;\n c) Tener los documentos personales exigidos por las leyes."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "CAPÍTULO V",
+      "section": "101",
+      "title": "Artículo 101. El Comisario desempeña la función de auxiliar del Capitán en cuanto a la parte administrativa de una embarcación, siendo sus atribuciones y deberes, sin perjuicio de lo establecido en el Libro III, Tít. V del Código de Comercio, los siguientes:",
+      "content": "a) Llevar la documentación del cargamento y otros documentos relativos al servicio administrativo de la embarcación;\n b) Confeccionar las planillas de sueldos y extraordinarios de la tripulación y planillas de pasajes y fletes cobrados a bordo;\n c) Recibir las mercadería conforme a la orden de carga remitida por el armador, las cuales deben quedar debidamente individualizadas mediante etiquetas y referencias, debiendo comunicar al Capitán cualquier irregularidad que observare respecto a las mismas;\n d) Controlar las compras efectuadas a bordo para el uso y consumo de la embarcación;\n e) Confeccionarla Orden de Carga para el control de la agencia, como asimismo, las declaraciones de entrada y salida de la embarcación;\n f) Hacer entrega a destino de las cargas;\n g) Distribuir y acomodar el pasaje a bordo;\n h) Confeccionar la lista de pasajeros embarcados durante la navegación."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "CAPÍTULO V",
+      "section": "108",
+      "title": "Artículo 108. Los Ayudantes Navales de Administración que prestaren servicio en la Armada Nacional serán equiparados a Comisarios de 2a. clase y Sub-Oficiales Mayores Principales y Sub-Oficiales Mayores de Administración, a Comisarios de 3a. clase.",
+      "content": "CAPÍTULO VI \n DE LOS RADIO - OPERADORES"
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "CAPÍTULO VI",
+      "section": "109",
+      "title": "Artículo 109. Para ejercer la profesión de Radio-Operador de la Marina Mercante Nacional se requiere:",
+      "content": "a) Ser ciudadano paraguayo (natural o naturalizado);\n b) Tener el título habilitante;\n c) Haber cumplido 22 años de edad;\n d) Haber cumplido con la Ley del Servicio Militar Obligatorio;\n e) Tener los documentos personales exigidos por las leyes.\n Art.110.- El Radio-Operador tendrá la categoría de Oficial a bordo, y sus funciones estarán determinadas en el rol respectivo.\n Art.111.- El Radio-Operador debe tener conocimiento de todos los convenios internacionales referentes a telecomunicaciones, que sean de interés para el servicio radio-telegráfico de a bordo."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "CAPÍTULO VI",
+      "section": "113",
+      "title": "Artículo 113. El Comisario de abordo podrá ejercer la función de Radio-Operador, sin perjuicio de sus funciones propias.",
+      "content": "CAPÍTULO VII \n DE LOS MÉDICOS Y OTROS OFICIALES DE SERVICIOS AUXILIARES"
+    },
+    {
+      "provision_ref": "art116",
+      "chapter": "CAPÍTULO VII",
+      "section": "116",
+      "title": "Artículo 116. El Médico tendrá a su cargo la dirección de los servicios de sanidad de a bordo, sin perjuicio",
+      "content": "de la debida obediencia a la autoridad del Capitán."
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "CAPÍTULO VII",
+      "section": "118",
+      "title": "Artículo 118. El número, calidad y funciones de otros oficiales que fueren necesarios para completar la tripulación de un barco, como Capellanes, Sobrecargos y otros, serán determinados en cada caso por la Dirección General de la Marina Mercante.",
+      "content": "TÍTULO VIII \n DEL PERSONAL DE MAESTRANZA \n CAPÍTULO I \n DE LOS CONTRAMAESTRES"
+    },
+    {
+      "provision_ref": "art119",
+      "chapter": "CAPÍTULO I",
+      "section": "119",
+      "title": "Artículo 119. Para ejercer la profesión de Contramaestre se requiere:",
+      "content": "a) Ser ciudadano paraguayo (natural o naturalizado);\n b) Tener título habilitante;\n c) Haber cumplido con la Ley del Servicio Militar Obligatorio;\n d) Haber cumplido 22 años de edad;"
+    },
+    {
+      "provision_ref": "art128",
+      "chapter": "CAPÍTULO I",
+      "section": "128",
+      "title": "Artículo 128. Los Sub-Oficiales de cubierta que prestaren servicio en la Armada Nacional serán equiparados a los Contramaestres de la Marina Mercante Nacional.",
+      "content": "CAPÍTULO II \n DE LOS CONDUCTORES"
+    },
+    {
+      "provision_ref": "art129",
+      "chapter": "CAPÍTULO II",
+      "section": "129",
+      "title": "Artículo 129. Para ejercer la profesión de Conductor se requiere:",
+      "content": "a) Ser ciudadano paraguayo (natural o naturalizado);\n b) Haber cumplido 22 años de edad;\n c) Poseer título habilitante;\n d) Haber cumplido con la Ley del Servicio Militar Obligatorio;\n e) Poseer los documentos personales exigidos por las leyes."
+    },
+    {
+      "provision_ref": "art130",
+      "chapter": "CAPÍTULO II",
+      "section": "130",
+      "title": "Artículo 130. Se establecen tres categorías de Conductores:",
+      "content": "a) Conductores de 1a.;\n b) Conductores de 2a.;\n c) Conductores de 3a."
+    },
+    {
+      "provision_ref": "art132",
+      "chapter": "CAPÍTULO II",
+      "section": "132",
+      "title": "Artículo 132. Los Sub-Oficiales Maquinistas que prestaron servicios en la Armada Nacional, serán equiparados a Conductores previo examen de competencia, y de acuerdo a las siguientes categorías:",
+      "content": "a) Sub-Oficial Mayor Principal y Mayor, a Conductor de 1a.;\n b) Sub-Oficial de 1a., a Conductor de 2a.;\n c) Sub-Oficial de 2a., a Conductor de 3a.;\n CAPITULO III \n DE LOS COCINEROS"
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "CAPITULO III",
+      "section": "133",
+      "title": "Artículo 133. Para ejercer la profesión de Cocinero se requiere:",
+      "content": "a) Ser ciudadano paraguayo (natural o naturalizado);\n b) Tener título habilitante;\n c) Haber cumplido con la Ley del Servicio Militar Obligatorio;\n d) Poseer certificado de buena salud expedido por el Servicio Médico de la Armada Nacional"
+    },
+    {
+      "provision_ref": "art135",
+      "chapter": "CAPITULO III",
+      "section": "135",
+      "title": "Artículo 135. El número de cocineros y ayudantes de una embarcación será fijado por la Dirección General de la Marina Mercante, en base a la tripulación y capacidad de pasaje de cada embarcación.",
+      "content": "TÍTULO IX \n DEL PERSONAL SUBALTERNO \n CAPÍTULO I \n DE LOS MARINEROS"
+    },
+    {
+      "provision_ref": "art136",
+      "chapter": "CAPÍTULO I",
+      "section": "136",
+      "title": "Artículo 136. Para ejercer la profesión de Marinero se requiere:",
+      "content": "a) Haber cumplido 18 años de edad;\n b) Si es ciudadano paraguayo haber cumplido con la Ley del Servicio Militar Obligatorio;\n c) Saber nadar y manejar embarcación a remos;\n d) Saber leer y escribir;\n e) Poseer los documentos personales exigidos por las leyes."
+    },
+    {
+      "provision_ref": "art137",
+      "chapter": "CAPÍTULO I",
+      "section": "137",
+      "title": "Artículo 137. El Marinero, desde el momento de su embarque, será considerado personal de cubierta, directamente subordinado al Capitán, Patrón o Contramaestre, y estará sujeto a la reglamentación de trabajo que le compete dentro del rol respectivo.",
+      "content": "CAPÍTULO II \n DEL PERSONAL SUBALTERNO DE MÁQUINAS"
+    },
+    {
+      "provision_ref": "art138",
+      "chapter": "CAPÍTULO II",
+      "section": "138",
+      "title": "Artículo 138. El personal subalterno de máquinas comprenderá:",
+      "content": "a) Caldereteros;\n b) Foguistas, limpiadores y demás auxiliares de máquinas."
+    },
+    {
+      "provision_ref": "art139",
+      "chapter": "CAPÍTULO II",
+      "section": "139",
+      "title": "Artículo 139. Para el ejercicio de cualquiera de las profesiones como personal subalterno de máquinas, se requiere:",
+      "content": "a) Haber cumplido 18 años de edad;\n b) Haber cumplido con la Ley del Servicio Militar Obligatorio si se trata de paraguayo;\n c) Tener idoneidad comprobada mediante los certificados correspondientes;\n d) Poseer los documentos personales exigidos por las leyes."
+    },
+    {
+      "provision_ref": "art141",
+      "chapter": "CAPÍTULO II",
+      "section": "141",
+      "title": "Artículo 141. Los auxiliares de máquinas estarán clasificados como sigue:",
+      "content": "a) Caldereteros;\n b) Foguistas, cuando presten servicios en máquinas a vapor;\n c) Limpiadores, cuando presten servicios en máquinas a combustión interna; y\n d) Engrasadores y carboneros."
+    },
+    {
+      "provision_ref": "art142",
+      "chapter": "CAPÍTULO II",
+      "section": "142",
+      "title": "Artículo 142. El personal subalterno de máquinas es responsable del buen funcionamiento de las máquinas puestas a su cuidado y deberá dar aviso, de inmediato al maquinista o conductor de guardia de cualquier anormalidad que observare y que pudiera poner en peligro la seguridad del personal y del material que se encuentra a bordo.",
+      "content": "CAPÍTULO TERCERO \n DEL PERSONAL SUBALTERNO AUXILIAR"
+    },
+    {
+      "provision_ref": "art143",
+      "chapter": "CAPÍTULO TERCERO",
+      "section": "143",
+      "title": "Artículo 143. En la categoría de personal subalterno auxiliar se hallan comprendidos:",
+      "content": "a) Cocinero de 3a. clase;\n b) Ayudantes cocineros;\n c) Mozos en general."
+    },
+    {
+      "provision_ref": "art144",
+      "chapter": "CAPÍTULO TERCERO",
+      "section": "144",
+      "title": "Artículo 144. Para ejercer cualquiera de las profesiones de personal subalterno auxiliar, se requiere:",
+      "content": "a) Ser ciudadano paraguayo (natural o naturalizado);\n b) Haber cumplido 18 años de edad;\n c) Haber cumplido con la Ley del Servicio Militar Obligatorio;\n d) Tener idoneidad para el cargo, comprobado mediante los certificados correspondientes;\n e) Poseer los documentos personales exigidos por las leyes."
+    },
+    {
+      "provision_ref": "art146",
+      "chapter": "CAPÍTULO TERCERO",
+      "section": "146",
+      "title": "Artículo 146. El número y clase de profesionales auxiliares subalternos que forman parte de la dotación de una embarcación, dependerán de la categoría de la misma y de las funciones que desempeña y serán determinados, en cada caso, por la Dirección.",
+      "content": "TÍTULO DÉCIMO \n DE LOS APRENDICES \n CAPÍTULO ÚNICO"
+    },
+    {
+      "provision_ref": "art147",
+      "chapter": "TÍTULO DÉCIMO",
+      "section": "147",
+      "title": "Artículo 147. Para ingresar como Aprendiz, a bordo, se requiere:",
+      "content": "a) Ser ciudadano paraguayo;\n b) Haber cumplido 16 años;\n c) Tener autorización de los padres o tutores o en su defecto del Defensor General de Menores, siendo menor de 18 años;\n d) Tener los documentos personales exigidos por las leyes;"
+    },
+    {
+      "provision_ref": "art152",
+      "chapter": "TÍTULO DÉCIMO",
+      "section": "152",
+      "title": "Artículo 152. El Aprendiz que ha terminado su aprendizaje podrá optar al título correspondiente de acuerdo a la reglamentación que establece la Dirección General de la Marina Mercante.",
+      "content": "TÍTULO UNDÉCIMO \n DISPOSICIONES GENERALES"
+    },
+    {
+      "provision_ref": "art170",
+      "chapter": "TÍTULO UNDÉCIMO",
+      "section": "170",
+      "title": "Artículo 170. En toda embarcación debe existir, a cargo del Capitán o Patrón ejemplar del Código de Comercio, del presente Código y de las demás leyes y reglamentaciones que atañen a la navegación.",
+      "content": "TÍTULO XII \n DISPOSICIONES TRANSITORIAS"
+    },
+    {
+      "provision_ref": "art174",
+      "chapter": "TÍTULO XII",
+      "section": "174",
+      "title": "Artículo 174. El Poder Ejecutivo dictará las reglamentaciones que fueren necesarias para adoptar las normas internacionales relativas a la seguridad en el mar, a las peculiaridades de la navegación de nuestros ríos interiores.",
+      "content": "LIBRO II \n DE LAS FALTAS Y CONTRAVENCIONES Y DE SUS PENALIDADES \n TÍTULO I \n DISPOSICIONES GENERALES"
+    },
+    {
+      "provision_ref": "art184",
+      "chapter": "TÍTULO I",
+      "section": "184",
+      "title": "Artículo 184. El Capitán o Patrón, hará entrega al tocar el primer puerto en que existan autoridades de Prefectura, de miembros de la tripulación o del pasaje que hubiesen cometido actos criminosos.",
+      "content": "TÍTULO II \n DE LAS PENAS"
+    },
+    {
+      "provision_ref": "art193",
+      "chapter": "TÍTULO II",
+      "section": "193",
+      "title": "Artículo 193. Las multas serán cobradas por el Capitán o Patrón o por la autoridad de Prefectura, mediante la retención del sueldo del inculpado y su importe será abonado en estampillas habilitadas especialmente para el efecto por la Dirección General de la Marina Mercante, para la creación de un FONDO DE SOCORRO para las víctimas de la navegación.",
+      "content": "TÍTULO III \n DE LA GRADACIÓN DE LAS PENAS"
+    },
+    {
+      "provision_ref": "art194",
+      "chapter": "TÍTULO III",
+      "section": "194",
+      "title": "Artículo 194. Los castigos que podrá imponer el Capitán o Patrón por falta u omisión a bordo, son los siguientes:",
+      "content": "a) Para los tripulantes:\n 1. Amonestación pública;\n 2. Multa (importe del salario de 1 a 5 días);\n 3. Arresto (de 1 a 10 días) con pérdida de la mitad del sueldo, de los días de arresto como multa;\n 4. Suspensión y despido.\n b) Para los Oficiales:\n 1. Amonestación;\n 2. Exclusión de la mesa del Capitán de 1 a 15 días;\n 3. Arresto en su camarote hasta 10 días, con pérdida de la mitad del sueldo con multa por los días de arresto;\n 4. Suspensión y despido.\n c) Para los Pasajeros:\n 1. Amonestación;\n 2. Multa hasta una suma equivalente al 10% del pasaje que hubiere abonado;\n 3. Arresto hasta 8 días en un camarote designado por el Capitán."
+    },
+    {
+      "provision_ref": "art195",
+      "chapter": "TÍTULO III",
+      "section": "195",
+      "title": "Artículo 195. La Prefectura General de Puertos impondrá las sanciones a que se han hecho pasibles los Capitanes o Patrones, por faltas cometidas en el ejercicio de sus funciones, debiendo ser dichas sanciones las siguientes:",
+      "content": "a) Amonestación;\n b) Multa (importe del sueldo de 1 a 15 días);\n c) Arresto de 1 a 10 días con pérdida total del sueldo correspondiente a los días de arresto como multa;\n d) Suspensión y destitución.\n TÍTULO IV \n DE LAS FALTAS O CONTRAVENCIONES"
+    },
+    {
+      "provision_ref": "art196",
+      "chapter": "TÍTULO IV",
+      "section": "196",
+      "title": "Artículo 196. Las faltas o contravenciones en que pueden incurrir los miembros de la tripulación de una embarcación, pasibles de sanción por este Código son las siguientes:",
+      "content": "a) Negligencia leve en el cumplimiento de los deberes profesionales;\n b) Desobediencia leve;\n c) Pérdida por negligencia de la libreta u otros documentos que debe llevar a bordo;\n d) Riña o disputa;\n e) Embriaguez;\n f) Falta de respeto al superior;\n g) Ausencia de a bordo sin permiso;\n h) Negligencia grave en el cumplimiento de los deberes profesionales, y cualquier otra infracción o falta que perturbe el orden o el buen servicio de a bordo."
+    },
+    {
+      "provision_ref": "art197",
+      "chapter": "TÍTULO IV",
+      "section": "197",
+      "title": "Artículo 197. Las faltas o contravenciones en que pueden incurrir los pasajeros, pasibles de sanción por este Código, son las siguientes:",
+      "content": "a) Frecuentar lugares de la embarcación que no sean accesibles para los mismos;\n b) Promover ruidos, músicas, cantos y cuantos actos puedan ocasionar molestias a los demás pasajeros en horas destinadas al sueño, según horario establecido por los reglamentos de a bordo;\n c) Promover escándalos o participar en riñas a bordo;\n d) Dedicarse a juegos prohibidos por los reglamentos de a bordo;\n e) Infringir cualquier otro reglamento dictado por el Capitán o Patrón de abordo."
+    },
+    {
+      "provision_ref": "art199",
+      "chapter": "TÍTULO IV",
+      "section": "199",
+      "title": "Artículo 199. Las faltas o contravenciones en que puede incluir el Capitán o Patrón que este Código sanciona, son las siguientes:",
+      "content": "a) Abuso o extralimitación en sus facultades;\n b) Embarcar o desembarcar pasajeros o cargos en lugares no habilitados para ello y no autorizados por las Compañías Armadoras;\n c) El incumplimiento de reglamentos, consignas e instrucciones impartidos por la autoridad de Prefectura;\n d) Incumplimiento de las disposiciones del reglamento sanitario o de inmigración correspondiente;\n e) Transportar cargas, sin tener bodegas para el efecto, en una embarcación de transporte exclusivo de pasajeros;\n f) Embarcar un número mayor de pasajeros que el asignado como capacidad máxima a la embarcación;\n g) Embarcar mayor cantidad de carga que la asignada a la embarcación, de acuerdo a la línea de franco bordo y al certificado de troja establecidos por la Prefectura General de Puertos;\n h) Embarcar pasajeros en estado de ebriedad manifiesta;\n i) Conducir menores de 14 años que no fueren acompañados por personas mayores, sin autorización legal correspondiente;\n j) Cobrar suma mayor de la estipulada por las tarifas de fletes y pasajes;\n k) Permitir reuniones bulliciosas y juegos prohibidos que perturben la tranquilidad del pasaje;\n I) No llevar todos y en debida forma los libros y documentaciones exigidos abordo;\n m) No tomar prácticos en los lugares que los reglamentos y la prudencia exigen;\n n) Enrolar como miembros de la tripulación, individuos no matriculados en la Prefectura General de Puertos;\n ñ) No llevar a bordo elementos de seguridad para casos de siniestros, tales como salvavidas, bote, extinguidores, y otros;\n o) Cualquier otro hecho u omisión que constituya una violación de lo deberes que le incumbe, por razón de su cargo, según leyes y reglamentaciones vigentes."
+    }
+  ],
+  "definitions": []
+}

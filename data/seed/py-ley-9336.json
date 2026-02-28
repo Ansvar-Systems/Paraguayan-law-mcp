@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-9336",
+  "type": "statute",
+  "title": "Ley Nº 6591 / DEL USO DEL BASTÓN PARA PERSONAS CIEGAS Y CON SORDOCEGUERA",
+  "title_en": "Ley Nº 6591 / DEL USO DEL BASTÓN PARA PERSONAS CIEGAS Y CON SORDOCEGUERA",
+  "short_name": "Ley N° 6591",
+  "status": "in_force",
+  "issued_date": "2020-08-11",
+  "in_force_date": "2020-08-12",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9336/ley-n-6591-del-uso-del-baston-para-personas-ciegas-y-con-sordoceguera",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. El bastón tendrá un peso, longitud, empuñadura elástica, rebatibilidad igual a los que usan las personas ciegas y deberá ser:",
+      "content": "a) De color blanco para las personas ciegas; y, \n b) De color blanco y rojo para las personas con sordoceguera."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Comuníquese al Poder Ejecutivo .",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los treinta días del mes de abril del año dos mil veinte, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a los treinta y un días del mes de julio del año dos mil veinte, de conformidad a lo dispuesto en el Artículo 207 numeral 2) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

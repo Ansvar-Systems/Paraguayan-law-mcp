@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-9388",
+  "type": "statute",
+  "title": "Ley Nº 515 / PROHIBE LA EXPORTACION Y TRAFICO DE ROLLOS, TROZOS Y VIGAS DE MADERA",
+  "title_en": "Ley Nº 515 / PROHIBE LA EXPORTACION Y TRAFICO DE ROLLOS, TROZOS Y VIGAS DE MADERA",
+  "short_name": "Ley N° 515",
+  "status": "in_force",
+  "issued_date": "1994-12-09",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9388/ley-n-515-prohibe-la-exportacion-y-trafico-de-rollos-trozos-y-vigas-de-madera",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Queda prohibida la instalación y funcionamiento de industrias procesadoras de maderas en rollos, a una distancia menor de 20 (veinte) kilómetros de la frontera con la República Federativa del Brasil, comprendida desde la desembocadura del río Apa hasta la línea del dique de contención de la Represa de Itaipú.",
+      "content": "Las industrias ubicadas en las zonas de exclusión establecidas en el párrafo anterior, tendrán un plazo de 180 (ciento ochenta) días para su reubicación, a partir de la vigencia de la presente Ley."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Los que violaren las disposiciones del Artículo 1o. serán sancionados con la pena de prisión de 12 (doce) a 36 (treinta y seis) meses, más el decomiso de los rollos, trozos y vigas de maderas, y de los vehículos o elementos utilizados para su transporte.",
+      "content": "Los cómplices y encubridores serán penados en los términos establecidos en los Artículos 98 y 100 del Código Penal. \n Los objetos decomisados mencionados en el Artículo precedente, serán subastados en remate público, a cuyo efecto se aplicarán las normas pertinentes del Código Procesal Civil."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Las autoridades nacionales, departamentales y municipales, serán responsables del estricto cumplimiento de las disposiciones de la presente Ley.",
+      "content": "El funcionario público que por acción u omisión contribuyere a la comisión del delito, será sancionado con la pena de destitución, sin perjuicio de otras penas establecidas."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobada por la Honorable Cámara de Senadores el trece de octubre del año un mil novecientos noventa y cuatro y por la Honorable Cámara de Diputados, sancionándose la Ley el primero de diciembre del año un mil novecientos noventa y cuatro."
+    }
+  ],
+  "definitions": []
+}

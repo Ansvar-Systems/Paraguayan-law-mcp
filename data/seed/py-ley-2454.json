@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-2454",
+  "type": "statute",
+  "title": "Ley Nº 1095 / ESTABLECE EL ARANCEL DE ADUANAS.",
+  "title_en": "Ley Nº 1095 / ESTABLECE EL ARANCEL DE ADUANAS.",
+  "short_name": "Ley N° 1095",
+  "status": "in_force",
+  "issued_date": "1984-12-06",
+  "in_force_date": "1984-12-14",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2454/ley-n-1095-establece-el-arancel-de-aduanas",
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Estarán exentos del pago del gravamen aduanero, a la entrada o salida del territorio nacional, los siguientes:",
+      "content": "a) los equipajes de pasajeros en viajes internacionales;\n b) los bienes exentos conforme a tratados internacionales;\n c) los equipajes y menajes de uso doméstico pertenecientes a los inmigrantes y a paraguayos repatriados, así como los instrumentos de trabajo y máquinas relativas a la actividad que ejercerán en el país;\n d) los bienes destinados a fines culturales, de enseñanza, de investigación o de servicio social realizadas por instituciones benéficas, religiosas, docentes o científicas, no lucrativas;\n e) las muestras sin valor comercial, siempre que se presenten en condiciones de cantidad, peso, volumen u otras formas que demuestren la imposibilidad de su comercialización;\n f) los aparatos, instrumentos y elementos especiales para uso de personas con impedimentos físicos o mentales;\n g) los féretros que contengan cadáveres; y\n h) los bienes muebles adquiridos por herencia."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. El Poder Ejecutivo que facultado para:",
+      "content": "a) establecer y modificar los niveles de gravámenes aduaneros de las mercaderías de importación, cuya determinación se hará dentro del límite dispuesto en el Artículo 2° de esta ley y en consideración a la necesidad, utilidad y finalidad de las mismas;\n b) establecer regímenes y medidas especiales, temporales o no, de importación y exportación por razones de interés nacional;\n c) establecer gravámenes aduaneros protectores sobre determinadas mercaderías, superiores al máximo fijado en el en el Artículo 2° de esta ley, hasta un 70 % (setenta por ciento) de arancel sobre el valor imponible atendiendo a fines económicos y sociales previstos en el Artículo 9°;\n d) adoptar medidas en relación a lo dispuesto en el Artículo 9° de estar ley; y\n e) determinar los bienes y mercaderías a ser exonerados del arancel aduanero conforme al Artículo 11 de esta ley."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Artículo 17. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS SEIS DIAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA Y CUATRO."
+    }
+  ],
+  "definitions": []
+}

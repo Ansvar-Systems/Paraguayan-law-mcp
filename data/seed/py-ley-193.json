@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-193",
+  "type": "statute",
+  "title": "Ley Nº 1135 / REGLAMENTA EL EJERCICIO DE LA PROFESIÓN DE PERITOS MERCANTILES O CONTADORES PÚBLICOS",
+  "title_en": "Ley Nº 1135 / REGLAMENTA EL EJERCICIO DE LA PROFESIÓN DE PERITOS MERCANTILES O CONTADORES PÚBLICOS",
+  "short_name": "Ley N° 1135",
+  "status": "in_force",
+  "issued_date": "1930-05-19",
+  "in_force_date": "1930-05-19",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/193/ley-n-1135-reglamenta-el-ejercicio-de-la-profesion-de-peritos-mercantiles-o-contadores-publicos",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. - Se requiere la intervención de los mismos profesiones matriculados de conformidad con las disposiciones pertinentes de la Ley Orgánica de los Tribunales en los siguientes asuntos cuando revistan carácter judicial.",
+      "content": "a) Informes, balances, inventarios, compulsas de libros, cuentas y documentos comerciales; \nb) Partición de herencias, no habiendo conformidad entre las partes; \nc) Liquidación de Sociedades; \nd) Concurso civil de acreedores, procedimiento de convocación de acreedores y quiebras."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. - Los jueces o tribunales no darán curso a los instrumentos mencionados más arriba, que no lleven firma de tales profesionales.",
+      "content": "Las designaciones de oficio, en todo asunto civil o comercial se harán por desinsaculación en acto público."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. - Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la sala del H. Congreso Legislativo a los nueve días del mes de mayo de mil novecientos treinta."
+    }
+  ],
+  "definitions": []
+}

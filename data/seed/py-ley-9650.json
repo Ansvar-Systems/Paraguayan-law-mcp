@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-9650",
+  "type": "statute",
+  "title": "Ley Nº 6794 / ESTABLECE LA OBLIGATORIEDAD DE PUBLICAR Y ACTUALIZAR EN TIEMPO REAL EL STOCK DE MEDICAMENTOS DEL MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL Y EL INSTITUTO DE PREVISIÓN SOCIAL, ASÍ COMO LA DISPONIBILIDAD Y REGISTRO DE VACUNACIONES CONTRA EL COVID-19",
+  "title_en": "Ley Nº 6794 / ESTABLECE LA OBLIGATORIEDAD DE PUBLICAR Y ACTUALIZAR EN TIEMPO REAL EL STOCK DE MEDICAMENTOS DEL MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL Y EL INSTITUTO DE PREVISIÓN SOCIAL, ASÍ COMO LA DISPONIBILIDAD Y REGISTRO DE VACUNACIONES CONTRA EL COVID-19",
+  "short_name": "Ley N° 6794",
+  "status": "in_force",
+  "issued_date": "2021-08-16",
+  "in_force_date": "2021-08-20",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9650/ley-n-6794-establece-la-obligatoriedad-de-publicar-y-actualizar-en-tiempo-real-el-stock-de-medicamentos-del-ministerio-de-salud-publica-y-bienestar-social-y-el-instituto-de-prevision-social-asi-como-la-disponibilidad-y-registro-de-vacunaciones-contra-el-covid-19",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Esta Ley tiene por objeto:",
+      "content": "a) Establecer la obligatoriedad para el Ministerio de Salud Pública y Bienestar Social y el Instituto de Previsión Social, para publicar en red y actualizar permanentemente en su página web u otra plataforma tecnológica el stock de medicamentos con que se cuenta en dichas instituciones, para el control en tiempo real con acceso a todos los ciudadanos a través de una aplicación de internet. \n b) Establecer la obligatoriedad para el Ministerio de Salud Pública y Bienestar Social, para publicar en red y actualizar permanentemente en su página web u otra plataforma tecnológica la disponibilidad y registro nominal de vacunas contra el COVID-19 en todo el sistema nacional de salud."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. El Ministerio de Salud Pública y Bienestar Social, brindará toda la información actualizada diariamente con respecto a la cantidad de vacunas disponibles contra el COVID-19, la distribución de estas, la cantidad de personas inmunizadas con primera dosis y dosis completa. Esta información deberá estar desagregada por tipo de vacunas, por región sanitaria, por establecimiento, por edad, sexo y otras características que la autoridad de aplicación considere pertinente. Se dispondrá en la plataforma el acceso al registro nominal de las personas inmunizadas contra el COVID-19.",
+      "content": "Las personas que han recibido vacunas en el exterior, deberán informar al Ministerio de Salud Pública y Bienestar Social, en el plazo y forma establecida en la reglamentación."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los seis días del mes de mayo del año dos mil veintiuno, quedando sancionado el mismo por la Honorable Cámara de Diputados, a veintiocho días del mes de julio del año dos mil veintiuno, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

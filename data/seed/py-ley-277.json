@@ -1,0 +1,44 @@
+{
+  "id": "py-ley-277",
+  "type": "statute",
+  "title": "Ley Nº 287 / POR LA CUAL SE CONCEDE A LA MUNICIPALIDAD DE LA CIUDAD DE VILLARRICA LA FACULTAD DE OTORGAR EL DERECHO DE CONSTRUIR Y EXPLOTAR UNA USINA PRODUCTORA DE ENERGÍA ELÉCTRICA.",
+  "title_en": "Ley Nº 287 / POR LA CUAL SE CONCEDE A LA MUNICIPALIDAD DE LA CIUDAD DE VILLARRICA LA FACULTAD DE OTORGAR EL DERECHO DE CONSTRUIR Y EXPLOTAR UNA USINA PRODUCTORA DE ENERGÍA ELÉCTRICA.",
+  "short_name": "Ley N° 287",
+  "status": "in_force",
+  "issued_date": "1955-09-07",
+  "in_force_date": "1955-09-07",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/277/ley-n-287-por-la-cual-se-concede-a-la-municipalidad-de-la-ciudad-de-villarrica-la-facultad-de-otorgar-el-derecho-de-construir-y-explotar-una-usina-productora-de-energia-electrica",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Durante la vigencia de la concesión acordada en el artículo precedente la Concesionaria gozará de las siguientes franquicias:",
+      "content": "a) libre introducción en el país, mediante la liberación de los derechos de importación de todas las máquinas, cables, cordones, artefactos. lubricantes, repuestos y todos los elementos para la instalación y funcionamiento de la usina;\n b) liberación de impuestos fiscales y municipales."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Las tarifas de la Concesionaria cobrará por servicio de energía eléctrica, se establecerán de común acuerdo entre la Municipalidad y la Concesionaria, y entrarán en vigor previa autorización del Poder Ejecutivo, a cuyo efecto se tendrá en cuenta: a) gastos financieros; b) gastos de depreciación y renovación; c) gastos de explotación y d) beneficios.",
+      "content": "La Municipalidad gozará para todos los servicios a su cargo de una tarifa preferencial que se determinará en el contrato respectivo."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. La Concesionaria se obligará a prestar a la Municipalidad el servicio de alumbrado público a una tarifa calculada de conformidad al Art. 8°. Estarán a cargo de la Concesionaria todos los gastos que demanden el servicio del alumbrado público de calles y avenidas, tales como energía eléctrica, reposición de lámparas y atención del servicio.",
+      "content": "Estará a cargo de la Municipalidad la provisión del material necesario para el alumbrado público de plazas, jardines, monumentos y exteriores de edificios públicos."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Artículo 17. Dentro del termino de un año y medio contado desde la fecha de la formalización del contrato de concesión, la Concesionaria suministrará energía eléctrica destinada al alumbrado público y privado que menciona esta concesión, so pena de la caducidad de la misma.",
+      "content": "La Municipalidad de la Ciudad de Villarrica podrá conceder una prórroga que no excederá de los doce meses."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Artículo 18. Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones de la Honorable Cámara de Representantes a los veinte y nueve días del mes de Agosto del año mil novecientos cincuenta y cinco."
+    }
+  ],
+  "definitions": []
+}

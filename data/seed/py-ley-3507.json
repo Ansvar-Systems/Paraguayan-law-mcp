@@ -1,0 +1,37 @@
+{
+  "id": "py-ley-3507",
+  "type": "statute",
+  "title": "Ley Nº 2524 / PROHIBICION EN LA REGION ORIENTAL DE LAS ACTIVIDADES DE TRANSFORMACION Y CONVERSION DE SUPERFICIES CON COBERTURA DE BOSQUES",
+  "title_en": "Ley Nº 2524 / PROHIBICION EN LA REGION ORIENTAL DE LAS ACTIVIDADES DE TRANSFORMACION Y CONVERSION DE SUPERFICIES CON COBERTURA DE BOSQUES",
+  "short_name": "Ley N° 2524",
+  "status": "in_force",
+  "issued_date": "2004-12-13",
+  "in_force_date": "2004-12-16",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3507/ley-n-2524-prohibicion-en-la-region-oriental-de-las-actividades-de-transformacion-y-conversion-de-superficies-con-cobertura-de-bosques",
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. A los efectos de la aplicación de la normativa establecida en la presente Ley se adoptan las siguientes definiciones:",
+      "content": "a) Permisos, licencias y/o autorizaciones: Los documentos jurídicamente válidos, concedidos tanto por la Secretaría del Ambiente, de conformidad a la Ley Nº 1561/2000 “QUE CREA EL SISTEMA NACIONAL DEL AMBIENTE, EL CONSEJO NACIONAL DEL AMBIENTE Y LA SECRETARIA DEL AMBIENTE” y a la Ley Nº 294/93 “EVALUACION DE IMPACTO AMBIENTAL”; como los concedidos por el Servicio Forestal Nacional, de conformidad a la Ley Nº 422/73 “FORESTAL”.\n b) Bosque: Ecosistema nativo o autóctono, intervenido o no, regenerado por sucesión natural u otras técnicas forestales, que ocupa una superficie mínima de dos hectáreas, caracterizadas por la presencia de árboles maduros de diferentes edades, especies y porte variado, con uno o más doseles que cubran más del 50% (cincuenta por ciento) de esa superficie y donde existan más de sesenta árboles por hectárea de quince o más centímetros de diámetro medido a la altura del pecho (DAP)."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a cuatro días del mes de noviembre del año dos mil cuatro, quedando sancionado el mismo, por la Honorable Cámara de Diputados a veinticinco días del mes de noviembre del año dos mil cuatro, de conformidad a lo dispuesto en el Artículo 207, numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Permisos, licencias y/o autorizaciones",
+      "definition": "Los documentos jurídicamente válidos, concedidos tanto por la Secretaría del Ambiente, de conformidad a la Ley Nº 1561/2000 “QUE CREA EL SISTEMA NACIONAL DEL AMBIENTE, EL CONSEJO NACIONAL DEL AMBIENTE Y LA SECRETARIA DEL AMBIENTE” y a la Ley Nº 294/93 “EVALUACION DE IMPACTO AMBIENTAL”; como los concedidos por el Servicio Forestal Nacional, de conformidad a la Ley Nº 422/73 “FORESTAL”",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Bosque",
+      "definition": "Ecosistema nativo o autóctono, intervenido o no, regenerado por sucesión natural u otras técnicas forestales, que ocupa una superficie mínima de dos hectáreas, caracterizadas por la presencia de árboles maduros de diferentes edades, especies y porte variado, con uno o más doseles que cubran más del 50% (cincuenta por ciento) de esa superficie y donde existan más de sesenta árboles por hectárea de quince o más centímetros de diámetro medido a la altura del pecho (DAP)",
+      "source_provision": "art5"
+    }
+  ]
+}

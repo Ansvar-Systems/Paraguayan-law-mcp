@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-105",
+  "type": "statute",
+  "title": "Ley Nº 180 / MODIFICA EL INCISO B DEL ARTÍCULO 73 DEL DECRETO-LEY Nº 16.974 DEL 15 DE FEBRERO DE 1943",
+  "title_en": "Ley Nº 180 / MODIFICA EL INCISO B DEL ARTÍCULO 73 DEL DECRETO-LEY Nº 16.974 DEL 15 DE FEBRERO DE 1943",
+  "short_name": "Ley N° 180",
+  "status": "in_force",
+  "issued_date": "1969-12-19",
+  "in_force_date": "1969-12-19",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/105/ley-n-180-modifica-el-inciso-b-del-articulo-73-del-decreto-ley-n-16974-del-15-de-febrero-de-1943",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Modifícase el inciso b) del artículo 73 del Decreto-Ley N° 16.974 del 15 de febrero de 1943 en la siguiente forma:",
+      "content": "En caso de fallecimiento de los SS.JJ. y OO. de las FF.AA. de la Nación en actividad, la pensión a transmitirse entre los herederos será el total de lo que el causante percibía en el momento de su fallecimiento, salvo caso de ascenso póstumo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Mientras se produzca la declaratoria de herederos, la viuda o, sus descendientes, previo trámite en la Dirección del Personal del Ministerio de Defensa Nacional, percibirán el 50% (cincuenta por ciento) del sueldo del causante al momento de su deceso. El 50% (cincuenta por ciento) remanente será abonado al término del trámite",
+      "content": "sucesorio."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Comuníquese al Poder Ejecutivo.",
+      "content": "Asunción, 19 de diciembre de 1969"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-9614",
+  "type": "statute",
+  "title": "Ley Nº 6768 / REGLAMENTA LA DISTRIBUCIÓN Y PROCLAMACIÓN DE LA LISTA DE SUPLENTES DE LA CÁMARA DE SENADORES POR PARTE DEL TRIBUNAL SUPERIOR DE JUSTICIA ELECTORAL (TSJE).",
+  "title_en": "Ley Nº 6768 / REGLAMENTA LA DISTRIBUCIÓN Y PROCLAMACIÓN DE LA LISTA DE SUPLENTES DE LA CÁMARA DE SENADORES POR PARTE DEL TRIBUNAL SUPERIOR DE JUSTICIA ELECTORAL (TSJE).",
+  "short_name": "Ley N° 6768",
+  "status": "in_force",
+  "issued_date": "2021-07-08",
+  "in_force_date": "2021-07-14",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/9614/ley-n-6768-reglamenta-la-distribucion-y-proclamacion-de-la-lista-de-suplentes-de-la-camara-de-senadores-por-parte-del-tribunal-superior-de-justicia-electoral-tsje",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. El Tribunal Superior de Justicia Electoral (TSJE), aplicará el sistema de proporcionalidad directa para la distribución de los escaños de senadores suplentes, conforme a la cantidad de escaños titulares obtenidos por cada partido, movimiento, concertación o alianza política; proclamando a al menos un senador suplente por cada partido, movimiento, concertación o alianza política que haya obtenido al menos un escaño, de la siguiente manera:",
+      "content": "a) Se lista en una columna los escaños de senadores titulares obtenidos por cada lista. \n b) Se divide cada número de cantidad de escaños de senadores titulares obtenidos por cada lista en cuarenta y cinco, para determinar el porcentaje de proporcionalidad directa. \n c) El porcentaje de proporcionalidad directa obtenido por cada lista se multiplica por treinta, para determinar la cantidad de escaños de senadores suplentes a ser asignados a cada lista. \n \n \n \n \n \n \n \n Escaños \n Titulares \n \n \n Proporcionalidad Directa \n \n \n Escaños Suplentes \n \n \n \n \n Lista A \n \n \n 17 \n \n \n 38% \n \n \n 11 \n \n \n \n \n Lista B \n \n \n 13 \n \n \n 29% \n \n \n 9 \n \n \n \n \n Lista C \n \n \n 6 \n \n \n 13% \n \n \n 4 \n \n \n \n \n Lista D \n \n \n 3 \n \n \n 7% \n \n \n 2 \n \n \n \n \n Lista E \n \n \n 2 \n \n \n 4% \n \n \n 1 \n \n \n \n \n Lista F \n \n \n 2 \n \n \n 4% \n \n \n 1 \n \n \n \n \n Lista G \n \n \n 1 \n \n \n 2% \n \n \n 1 \n \n \n \n \n Lista H \n \n \n 1 \n \n \n 2% \n \n \n 1 \n \n \n \n \n Total \n \n \n 45 \n \n \n 100% \n \n \n 30"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. En caso de renuncia, inhabilidad, muerte o permiso de un senador ya incorporado, lo sustituirá aquel que en la lista respectiva de suplentes de su partido o movimiento político, figure en el orden de prelación.",
+      "content": "Cuando una banca titular es asumida por el suplente de la misma organización política de forma permanente, el Tribunal Superior de Justicia Electoral (TSJE), deberá proclamar, por medio de una nueva resolución, dentro del plazo de tres días de recibida la comunicación, al siguiente candidato suplente de la misma organización política, conforme a la lista oficializada por el Tribunal Superior de Justicia Electoral (TSJE) correspondiente, salvaguardándose así en todo momento la existencia de treinta senadores suplentes. Este mismo procedimiento también se realizará en caso de renuncia, inhabilidad o muerte del senador suplente. \n Una vez agotada la lista de treinta suplentes de la organización política, las bancas se atribuirán a los suplentes de las demás organizaciones políticas más votadas en la proporción correspondiente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los veinticuatro días del mes de marzo del año dos mil veintiuno, y por la Honorable Cámara de Senadores, a los veinticuatro días del mes de junio del año dos mil veintiuno, queda sancionado, de conformidad con lo dispuesto en el artículo 207, numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-3721",
+  "type": "statute",
+  "title": "Ley Nº 885 / CREA EL DISTRITO DE \"CHORÉ\" DEL DEPARTAMENTO SAN PEDRO Y UNA MUNICIPALIDAD DE TERCERA CATEGORÍA",
+  "title_en": "Ley Nº 885 / CREA EL DISTRITO DE \"CHORÉ\" DEL DEPARTAMENTO SAN PEDRO Y UNA MUNICIPALIDAD DE TERCERA CATEGORÍA",
+  "short_name": "Ley N° 885",
+  "status": "in_force",
+  "issued_date": "1981-12-11",
+  "in_force_date": "",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3721/ley-n-885-crea-el-distrito-de-chore-del-departamento-san-pedro-y-una-municipalidad-de-tercera-categoria",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. o. - Créase el Distrito de \"Choré\" del Departamento de San Pedro y a ese efecto desaféctase el mismo del Distrito de San Estanislao, con los siguientes límites:",
+      "content": "AL NORTE: Río Jejuí.\n AL ESTE: El río Capiibary, desde su confluencia con el río Jejuí hasta el límite Norte de la Colonia Felicidad, los límites Este y Sur de dicha Colonia hasta el río Capiibary; el río Capiibary hasta la calle San Jorge. \n AL SUR: La calle San Jorge hasta el arroyo Mboi; el arroyo Mboí hasta una línea horizontal imaginaria que parte desde el arroyo Mboí hasta la naciente del arroyo Yurujheí; \n AL OESTE: El río Yetyty hasta su desembocadura en el río Jejuí."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. o. - Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL HONORABLE CONGRESO NACIONAL A LOS UN DÍA DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA Y UNO."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-3560",
+  "type": "statute",
+  "title": "Ley Nº 4027 / REGULA LA CONCESIÓN Y AUMENTO DE PENSIONES GRACIABLES",
+  "title_en": "Ley Nº 4027 / REGULA LA CONCESIÓN Y AUMENTO DE PENSIONES GRACIABLES",
+  "short_name": "Ley N° 4027",
+  "status": "in_force",
+  "issued_date": "2010-06-24",
+  "in_force_date": "2010-12-23",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3560/ley-n-4027-regula-la-concesion-y-aumento-de-pensiones-graciables",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Las pensiones graciables serán concedidas a las personas que reúnan las siguientes condiciones:",
+      "content": "a) paraguayo natural o naturalizado con residencia mínima continuada en el país de cuarenta años, que se encuentren imposibilitados de generar los ingresos necesarios para una vida digna; \n \nb) haber cumplido sesenta años de edad cuanto menos; \n \nc) haber prestado significativos y perdurables servicios al país;\n \nd) haberse destacado de manera relevante en actividades científicas, artísticas, deportivas o culturales, susceptibles de ser certificadas mediante documentos fehacientes; o,\n \ne) ser ascendiente en primer grado de consanguinidad de conscriptos fallecidos en acto de servicio.\n \nLos descendientes con discapacidad, certificados por el Instituto Nacional de Protección a Personas Excepcionales – INPRO, heredarán automáticamente los beneficios de la pensión graciable, siempre y cuando no perciban beneficios o derechos jubilatorios del Estado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Los proyectos de ley que solicitan pensión graciable deberán estar acompañados de los siguientes recaudos:",
+      "content": "a) la enunciación de los méritos reunidos en las ciencias, artes, la educación, los deportes o los servicios relevantes prestados a la sociedad, debiendo dicha enunciación estar adecuadamente fundada y justificada con los medios que hagan posible su evaluación y probanza;\n \nb) certificado médico visado por el Ministerio de Salud Pública y Bienestar Social para los casos de enfermedad y por el Instituto Nacional de Protección a Personas Excepcionales (INPRO) para los incapacitados físicos;\n \nc) según sea el caso, la documentación que permita comprobar el grado de parentesco de acuerdo a lo establecido en el último párrafo del Artículo 2° de esta Ley;\n \nd) certificado de insolvencia expedido por el Juzgado de Paz de la zona de residencia, de manera a comprobar que no cuenta y no puede procurarse recursos económicos suficientes para llevar una vida digna;\n \ne) certificado del Registro General de la Propiedad de los últimos cinco años, respecto de los bienes u otros derechos reales inscriptos a nombre del beneficiario y su cónyuge, exceptuando la propiedad registrada como bien de familia; y, \n \nf) fotocopia de cédula de identidad civil actualizada.\n \nTodas las fotocopias deberán estar autenticadas por escribanía."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. El beneficio se extinguirá de pleno derecho por las siguientes causas:",
+      "content": "a) por muerte del beneficiario, excepto lo contemplado en el último párrafo del Artículo 2°;\n \nb) por haber desaparecido la causal que motivó el otorgamiento del beneficio o comprobarse dolo de la documentación acompañada; y,\n \nc) por comprobarse fehacientemente el cobro de alguna otra pensión o jubilación del Estado."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los once días del mes de marzo del año dos mil diez, y por la Honorable Cámara de Senadores, a los diez días del mes de junio del año dos mil diez, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 206 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-343",
+  "type": "statute",
+  "title": "Ley Nº 4264 / PASANTIA EDUCATIVA LABORAL",
+  "title_en": "Ley Nº 4264 / PASANTIA EDUCATIVA LABORAL",
+  "short_name": "Ley N° 4264",
+  "status": "in_force",
+  "issued_date": "2011-01-17",
+  "in_force_date": "2011-01-18",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/343/ley-n-4264-pasantia-educativa-laboral",
+  "provisions": [
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Las finalidades que orientan la Pasantía Educativa Laboral son:",
+      "content": "a) Realizar prácticas complementarias a la formación académica, que enriquezca la propuesta curricular de los estudios cursados.\nb) Incorporar saberes, habilidades y actitudes vinculadas a situaciones reales adquiriendo experiencia de valor.\nc) Fortalecer en el alumno la autoconfianza e independencia.\nd) Permitir al alumno la aplicación y evaluación del contenido y desarrollo de la formación ofrecida en aula y laboratorio.\ne) Adquirir conocimientos que contribuyan a mejorar las posibilidades de inserción en el ámbito laboral.\nf) Aumentar el conocimiento y manejo de tecnologías vigentes.\ng) Otorgar herramientas que contribuyan a la correcta elección u orientación profesional futura.\nh) El mejoramiento de la propuesta formativa a partir del vínculo formal entre instituciones educativas públicas y privadas y las empresas privadas e instituciones públicas.\ni) Profundizar la valoración del trabajo como elemento indispensable y dignificante para la vida.\nj) Progresar en el proceso de orientación respecto de los posibles campos específicos de desempeño laboral."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. En el Contrato, debe constar:",
+      "content": "a) Nombre o Razón Social en su caso, de las partes que lo suscriben.\nb) Nombre y Apellido del alumno pasante.\nc) Objetivos pedagógicos de las pasantías en relación con la función a desempeñar dentro de la empresa u organismo público o privado.\nd) Prohibición expresa de realizar tareas distintas a los objetivos pedagógicos preestablecidos para la pasantía.\ne) Características y condiciones de las actividades que integran la pasantía.\nf) Identificación del lugar en que la pasantía se llevará a cabo.\ng) Determinación de la duración de la jornada diaria, la fecha de inicio de la pasantía y la fecha de su culminación.\nh) Nombre y Apellido del tutor o docente guía asignado por la institución educativa.\ni) Régimen de asistencia y licencias por examen, enfermedad y accidente para los pasantes.\nj) Régimen de la propiedad intelectual de las creaciones e innovaciones que resulten de la actividad del pasante."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Artículo 18. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a dieciocho días del mes de noviembre del año dos mil diez, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a dieciséis días del mes de diciembre del año dos mil diez, de conformidad a lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

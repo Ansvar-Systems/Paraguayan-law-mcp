@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-2611",
+  "type": "statute",
+  "title": "Ley Nº 1172 / ESTABLECE LA ESTABILIDAD EN EL TRABAJO DEL DIRIGENTE SINDICAL",
+  "title_en": "Ley Nº 1172 / ESTABLECE LA ESTABILIDAD EN EL TRABAJO DEL DIRIGENTE SINDICAL",
+  "short_name": "Ley N° 1172",
+  "status": "in_force",
+  "issued_date": "1985-12-05",
+  "in_force_date": "1985-12-13",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/2611/ley-n-1172-establece-la-estabilidad-en-el-trabajo-del-dirigente-sindical",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Todo trabajador que estuviese protegido por esta Ley, no podrá ser despedido, trasladado ni suspendido, salvo en el caso que se comprobase fehacientemente la existencia de causas legales, que fundamenten la medida, debiendo procederse conforme a lo establecido en el artículo 96 del Código del Trabajo. Si el empleador omitiere o transgrediere esta norma, el Juez del Trabajo ordenará compulsivamente el reintegro en su puesto de trabajo, en las mismas condiciones que el trabajador prestaba su servicio, dentro del plazo perentorio de 48 horas, en Resolución fundada o como simple medida cautelar.",
+      "content": "En el caso de que el empleador invoque el artículo 98 del Código del Trabajo para oponerse al reintegro, éste sólo será admisible previa Resolución de los Tribunales del Trabajo."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. La estabilidad en el trabajo comprende a los trabajadores que realizan gestiones y trámites para la constitución de un sindicato, por un término no mayor de sesenta días prorrogables por igual tiempo mediante Resolución de la Dirección General del Trabajo, atendiendo a las circunstancias del caso.",
+      "content": "Para que esta garantía sea efectiva, los trabajadores deben comunicar a la Autoridad Administrativa del Trabajo, la nómina de las personas que tienen a su cargo la organización del Sindicato, acompañando con esta comunicación el nombre,apellido, domicilio, lugar de trabajo y documento de identidad.\n La Autoridad Administrativa del Trabajo con estos datos, expedirá, sin más trámite, en un plazo perentorio de tres días, la constancia correspondiente a cada uno de los trabajadores a los efectos de gozar de la garantía consagrada en esta Ley.\n La constancia tendrá validez por 60 días prorrogables.\n Serán beneficiados con esta garantía un máximo de cuatro trabajadores."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Los trabajadores que negocien contratos colectivos o reglamento interno del trabajo donde no existen organizaciones sindicales reconocidos legalmente, y que fueren electos en Asamblea, también gozarán de la estabilidad en el trabajo durante el tiempo que dure las negociaciones, las que no podrán sobrepasar 60 días salvo prórroga por igual lapso dictado por la Dirección General del Trabajo.",
+      "content": "Serán beneficiados con esta garantía hasta cuatro trabajadores."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Comuníquese al Poder Ejecutivo.",
+      "content": "DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL A LOS CINCO DIAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA Y CINCO."
+    }
+  ],
+  "definitions": []
+}

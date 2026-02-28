@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-4508",
+  "type": "statute",
+  "title": "Ley Nº 5526 / ESTABLECE SUBSIDIO DE AYUDA SOCIAL PARA PERSONAS QUE PADECEN ENFERMEDADES CRÓNICAS Y/O ENFERMEDADES DE TRATAMIENTO PROLONGADO",
+  "title_en": "Ley Nº 5526 / ESTABLECE SUBSIDIO DE AYUDA SOCIAL PARA PERSONAS QUE PADECEN ENFERMEDADES CRÓNICAS Y/O ENFERMEDADES DE TRATAMIENTO PROLONGADO",
+  "short_name": "Ley N° 5526",
+  "status": "in_force",
+  "issued_date": "2015-11-19",
+  "in_force_date": "2015-11-24",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4508/ley-n-5526-establece-subsidio-de-ayuda-social-para-personas-que-padecen-enfermedades-cronicas-yo-enfermedades-de-tratamiento-prolongado",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Los beneficiarios del subsidio de ayuda social podrán ser personas:",
+      "content": "a) De nacionalidad paraguaya o naturalizado/a\n b) Que padezcan enfermedades crónicas o que requieran un tratamiento prolongado.\n c) Que reciban el tratamiento correspondiente en un hospital especializado de alcance nacional o en un hospital de alcance departamental dependiente del Ministerio de Salud Pública y Bienestar Social.\n d) Que de manera recurrente, deban incurrir en gastos de traslado a fin de recibir los servicios de salud, los cuales pueden presentar una barrera importante para la continuidad del tratamiento requerido.\n e) Que soliciten el subsidio correspondiente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Los beneficiarios serán seleccionados, considerando los siguientes criterios:",
+      "content": "a) El tipo de enfermedad que padecen y el tipo de servicios requeridos.\n b) La distancia desde el domicilio hasta el hospital donde recibirán el tratamiento correspondiente.\n c) La condición socioeconómica del beneficiario.\n d) Otros criterios que la autoridad de aplicación considere pertinente."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los quince días del mes de julio del año dos mil quince, y por la Honorable Cámara de Senadores, a los cinco días del mes de noviembre del año dos mil quince, queda sancionado, de conformidad con lo dispuesto en el artículo 211 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

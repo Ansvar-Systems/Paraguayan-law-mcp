@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-5153",
+  "type": "statute",
+  "title": "Ley Nº 5636 / PASANTÍA EDUCATIVA LABORAL TÉCNICA SUPERIOR",
+  "title_en": "Ley Nº 5636 / PASANTÍA EDUCATIVA LABORAL TÉCNICA SUPERIOR",
+  "short_name": "Ley N° 5636",
+  "status": "in_force",
+  "issued_date": "2016-07-14",
+  "in_force_date": "2016-07-20",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/5153/ley-n-5636-pasantia-educativa-laboral-tecnica-superior",
+  "provisions": [
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Las finalidades que orientan la Pasantía Educativa Laboral son:",
+      "content": "a) Realizar prácticas complementarias a la formación académica, que enriquezca la propuesta curricular de los estudios cursados.\n b) Incorporar saberes, habilidades y actitudes vinculadas a situaciones reales, adquiriendo experiencia de valor.\n c) Fortalecer en el alumno la autoconfianza e independencia.\n d) Permitir al alumno la aplicación y evaluación del contenido y desarrollo de la formación ofrecida en el aula y en el laboratorio.\n e) Adquirir conocimientos y experiencias que contribuyan a mejorar las posibilidades de inserción en el ámbito laboral.\n f) Incrementar el conocimiento y las destrezas en el manejo de las tecnologías vigentes.\n g) Otorgar herramientas que contribuyan a la correcta elección u orientación profesional futura.\n h) El mejoramiento de la propuesta formativa a partir del vínculo formal entre instituciones educativas púbicas y privadas y las empresas privadas e instituciones públicas.\n i) Profundizar la valoración del trabajo como elemento indispensable y dignificante para la vida."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. La Pasantía Educativa Laboral estará precedida de la firma de un convenio o carta de compromiso entre la institución educativa y las empresas u organizaciones privadas o instituciones públicas, en el cual se establecerán las condiciones citadas en el artículo 10 de la presente ley.",
+      "content": "En el contrato que sea suscrito entre el pasante y la empresa u organización privada o institución pública, se establecerán las condiciones y compromisos entre los mismos."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. En el Contrato, debe constar:",
+      "content": "a) Nombre o Razón Social en su caso, de las partes que lo suscriben.\n b) Nombre y Apellido del alumno pasante.\n c) Objetivos pedagógicos de las pasantías en relación con la función a desempeñar dentro de la empresa u organismo público o privado. \n d) Prohibición expresa de realizar tareas distintas a los objetivos pedagógicos preestablecidos para la Pasantía.\n e) Características y condiciones de las actividades que integran la pasantía.\n f) Identificación del lugar en que la pasantía se llevará a cabo.\n g) Determinación de la duración de la jornada diaria, la fecha de inicio de la pasantía y la fecha de su culminación. \n h) Nombre y Apellido del tutor o docente guía asignado por la institución educativa.\n i) Régimen de asistencia y licencias por examen, enfermedad y accidente para los pasantes.\n j) Régimen de la propiedad intelectual de las creaciones e innovaciones que resulten de la actividad del pasante."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Artículo 16. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los tres días del mes de marzo del año dos mil dieciséis, y por la Honorable Cámara de Senadores, a los dieciséis días del mes de junio del año dos mil dieciséis, queda sancionado, de conformidad con lo dispuesto en el artículo 211 de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

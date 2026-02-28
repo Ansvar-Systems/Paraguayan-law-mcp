@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-3816",
+  "type": "statute",
+  "title": "Ley Nº 4503 / INMOVILIZACION DE FONDOS O ACTIVOS FINANCIEROS",
+  "title_en": "Ley Nº 4503 / INMOVILIZACION DE FONDOS O ACTIVOS FINANCIEROS",
+  "short_name": "Ley N° 4503",
+  "status": "in_force",
+  "issued_date": "2011-10-26",
+  "in_force_date": "2011-10-28",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/3816/ley-n-4503-inmovilizacion-de-fondos-o-activos-financieros",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. OPERACIONES SOSPECHOSAS. Se considerarán como sospechas las transacciones en las que los fondos o activos financieros pudiesen estar vinculados con el financiamiento del terrorismo, de actos de terrorismo o de una asociación terrorista, aun cuando el autor actuare individualmente; en las siguientes circunstancias:",
+      "content": "a) Que los nombres de las personas física o jurídica figuren en la lista publicada bajo el control del Consejo de Seguridad de las Naciones Unidas, dentro de una solicitud específica sobre la persecución del terrorismo; y,\n \n b) Que terceros países soliciten en el marco de la cooperación internacional para la persecución de delitos, la inmovilización de fondos o activos de personas físicas o jurídicas relacionadas con el terrorismo."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. INMOVILIZACION INMEDIATA DE FONDOS. La Secretaría de Prevención de Lavado de Dinero o Bienes ( SEPRELAD ), al recibir la comunicación correspondiente de los sujetos obligados por las leyes citadas en el artículo anterior, acerca de la existencia de fondos o activos de personas físicas o jurídicas individualizadas de conformidad con el Artículo 2° de la presente Ley; solicitará al Juez Penal de Garantías de Turno y al Ministerio Público, dentro de las 12 (doce) horas siguientes, la inmovilización de los mismos.",
+      "content": "El Juez interviniente deberá expedirse sobre la medida, dentro del perentorio plazo de 24 (veinticuatro) horas de que esta le haya sido comunicada y los fondos permanecerán inmovilizados por mandato de esta Ley hasta tanto se produzca la decisión judicial.\n \n En su decisión, el Juez interviniente se limitará a verificar si el afectado fue designado por las Naciones Unidas en la lista correspondiente o requerido por un tercer país en los términos establecidos por la presente Ley. La medida judicial será dictada inaudita parte y de ser confirmada, permanecerá vigente hasta tanto la designación de las Naciones Unidas o la solicitud del país que haya solicitado la cooperación judicial persista o hasta que la medida fuera revocada a petición de parte y dispuesta por la autoridad judicial competente con la participación de la Secretaría de Prevención de Lavado de Dinero o Bienes (SEPRELAD).\n \n A los efectos de la inmovilización inmediata de fondos o activos que dispone esta Ley, la lista de las Naciones Unidas será considerada instrumento público y su contenido deberá ser actualizado permanentemente por el Ministerio de Relaciones Exteriores a través de la Secretaría de Prevención de Lavado de Dinero o Bienes (SEPRELAD)."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veinticinco días del mes de agosto del año dos mil once, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a veinte días del mes de octubre del año dos mil once, de conformidad a lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

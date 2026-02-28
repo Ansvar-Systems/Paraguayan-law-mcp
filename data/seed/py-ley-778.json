@@ -1,0 +1,38 @@
+{
+  "id": "py-ley-778",
+  "type": "statute",
+  "title": "Ley Nº 2553 / APRUEBA EL PROTOCOLO ADICIONAL AL ACUERDO DE COOPERACION EDUCACIONAL, CIENTIFICA, TECNOLOGICA Y CULTURAL ENTRE LA REPUBLICA DEL PARAGUAY Y LA REPUBLICA ORIENTAL DEL URUGUAY",
+  "title_en": "Ley Nº 2553 / APRUEBA EL PROTOCOLO ADICIONAL AL ACUERDO DE COOPERACION EDUCACIONAL, CIENTIFICA, TECNOLOGICA Y CULTURAL ENTRE LA REPUBLICA DEL PARAGUAY Y LA REPUBLICA ORIENTAL DEL URUGUAY",
+  "short_name": "Ley N° 2553",
+  "status": "in_force",
+  "issued_date": "2005-03-23",
+  "in_force_date": "2005-04-01",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/778/ley-n-2553-aprueba-el-protocolo-adicional-al-acuerdo-de-cooperacion-educacional-cientifica-tecnologica-y-cultural-entre-la-republica-del-paraguay-y-la-republica-oriental-del-uruguay",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Enmiéndase el Acuerdo de Cooperación Educacional, Científica, Tecnológica y Cultural entre la Republica del Paraguay y la República Oriental del Uruguay, suscrito en la ciudad de Asunción, el 16 de mayo de 1975, con el agregado de los siguientes Artículos:",
+      "content": "ARTICULO I\nCada Parte se esforzará para que la cooperación cultural establecida en virtud del presente Acuerdo beneficie a todas sus regiones, de tal forma que sus efectos alcancen a la mayor cantidad posible de sus habitantes.\n ARTICULO II\nCada Parte impulsará el desarrollo de actividades y el intercambio en los campos de la investigación histórica y de la compilación de material bibliográfico, audiovisual e informático de esta disciplina.\n ARTICULO III\nCada una de las Partes promoverá la programación de acciones conjuntas entre sus propios entes públicos o privados de difusión cultural e instituciones análogas de la otra tendientes a la concreción de actividades relativas a este Acuerdo. En tal sentido, las Partes fomentarán la firma de Acuerdos específicos de Cooperación entre Organismos e Instituciones culturales oficiales de ambos Estados."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Enmiéndase el Artículo III con el siguiente agregado:",
+      "content": "A fin de estimular el acceso continuo y actualizado a la información cultural disponible, las Partes propiciarán la utilización de Banco de Datos informatizados, Redes y Sitios WEB en Internet creados en ambos países, que contengan:\n1. Calendarios de actividades culturales diversas (festivales, concursos, premios, becas, etc.);\n2. Instituciones y personas responsables de dichas actividades;\n3. Descripción de la infraestructura disponible en ambos Estados."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Enmiéndase el Artículo IV con el siguiente agregado:",
+      "content": "Cada Parte favorecerá la realización de películas bajo el régimen de coproducción y codistribución."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. El presente Protocolo Adicional permanecerá en vigor mientras tenga vigencia el “Acuerdo de Cooperación Educacional, Científica, Tecnológica y Cultural entre la República del Paraguay y la República Oriental del Uruguay”, suscrito en Asunción el 16 de mayo de 1975.",
+      "content": "HECHO en la ciudad de Montevideo, a los 14 días del mes de diciembre de 2003, en dos ejemplares originales, siendo ambos textos igualmente auténticos.\nFdo.: por la República del Paraguay, Leila Rachid de Cowles, Ministra de Relaciones Exteriores. \nFdo.: por la República Oriental del Uruguay, Didier Opertti, Ministro de Relaciones Exteriores y Culto.”"
+    }
+  ],
+  "definitions": []
+}

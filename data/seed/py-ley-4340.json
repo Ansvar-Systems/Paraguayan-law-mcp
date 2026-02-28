@@ -1,0 +1,26 @@
+{
+  "id": "py-ley-4340",
+  "type": "statute",
+  "title": "Ley Nº 1940 / ESTABLECE LAS TASAS DE INTERES POR LA UTILIZACION DE LAS TARJETAS DE CREDITO",
+  "title_en": "Ley Nº 1940 / ESTABLECE LAS TASAS DE INTERES POR LA UTILIZACION DE LAS TARJETAS DE CREDITO",
+  "short_name": "Ley N° 1940",
+  "status": "in_force",
+  "issued_date": "2003-06-23",
+  "in_force_date": "2003-06-25",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/4340/ley-n-1940-establece-las-tasas-de-interes-por-la-utilizacion-de-las-tarjetas-de-credito",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. El interés a partir de la mora, denominado interés moratorio, será la misma tasa pactada originalmente. En ningún caso podrán capitalizarse intereses. Los emisores podrán percibir igualmente un interés punitorio adicional, calculado sobre el capital, cuya tasa no podrá exceder del 30% (treinta por ciento) de la tasa a percibirse en concepto de interés moratorio.",
+      "content": "No procederá la aplicación de intereses moratorios ni punitorios si se hubieran efectuado los pagos mínimos indicados en el resumen, en la fecha correspondiente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Comuníquese al Poder Ejecutivo.",
+      "content": "Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a treinta días del mes de mayo del año dos mil dos, quedando sancionado el mismo por la Honorable Cámara de Diputados, a veinte días del mes de junio del año dos mil dos, de conformidad a lo dispuesto en el Artículo 207, numeral 1) de la Constitución Nacional."
+    }
+  ],
+  "definitions": []
+}

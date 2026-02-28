@@ -1,0 +1,32 @@
+{
+  "id": "py-ley-186",
+  "type": "statute",
+  "title": "Ley Nº 376 / CREA NUEVOS GRADOS Y ESPECIALIDADES EN EL ESCALAFÓN DE LOS AUXILIARES DE ARMAS, BUQUES Y SERVICIOS.",
+  "title_en": "Ley Nº 376 / CREA NUEVOS GRADOS Y ESPECIALIDADES EN EL ESCALAFÓN DE LOS AUXILIARES DE ARMAS, BUQUES Y SERVICIOS.",
+  "short_name": "Ley N° 376",
+  "status": "in_force",
+  "issued_date": "1956-08-27",
+  "in_force_date": "1956-08-27",
+  "url": "https://www.bacn.gov.py/leyes-paraguayas/186/ley-n-376-crea-nuevos-grados-y-especialidades-en-el-escalafon-de-los-auxiliares-de-armas-buques-y-servicios",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Los grados de la jerarquía de los Auxiliares de Armas. Buques y Servicios con los siguientes:",
+      "content": "EJERCITO ARMADA \n Auxiliar Principal Ayudante Naval Principal \n “ Superior “ “ Superior\n “ de 1a “ “ de 1a\n “ de 2a “ “ de 2a\n “ de 3a “ “ de 3a\n “ de 4a “ “ de 4a"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Establécense las siguientes especialidades para los Auxiliares de Armas, Buques y Servicios:",
+      "content": "EJERCITO ARMADA\n Mecánico Armero Mecánico Armero \n “ Aviación “ Aviación\n “ Optico “ Optico \n “ Motorista “ Motorista\n “ Electricista “ Electricista\n “ Tractorista “ Tractorista\n De Transmisiones De Transmisiones\n Idóneo de Sanidad Idóneo de Sanidad\n Director de Banda Director de Banda\n Idóneo de Veterinaria Maquinista\n Topógrafo Hidrógrafo\n Cartógrafo Cartógrafo\n Técnico Rural De Prefectura\n Metereólogo Buzo\n Profesor de Esgrima Profesor de Esgrima\n Profesor de Educación Física Profesor de Educación Física"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. - Comuníquese al Poder Ejecutivo.",
+      "content": "Dada en la Sala de Sesiones de la Honorable Cámara de Representantes a los veinte y tres días del mes de agosto del año mil novecientos cincuenta y seis."
+    }
+  ],
+  "definitions": []
+}
