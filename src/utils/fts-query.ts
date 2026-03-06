@@ -18,19 +18,16 @@ const STEM_SUFFIXES = [
 ];
 
 /**
- * Naive English stemmer: strips a common suffix and returns `stem*`.
- * Returns null if the word is too short (<5 chars) or no suffix matched.
+ * Truncate common English suffixes for stemming fallback.
+ * Returns the bare stem (without wildcard), or null if no stemming possible.
  */
-export function stemWord(word: string): string | null {
+function stemWord(word: string): string | null {
   if (word.length < 5) return null;
 
   const lower = word.toLowerCase();
   for (const suffix of STEM_SUFFIXES) {
-    if (lower.endsWith(suffix)) {
-      const stem = lower.slice(0, -suffix.length);
-      if (stem.length >= 3) {
-        return `${stem}*`;
-      }
+    if (lower.endsWith(suffix) && lower.length - suffix.length >= 3) {
+      return lower.slice(0, -suffix.length);
     }
   }
   return null;
@@ -59,9 +56,10 @@ export function sanitizeFtsInput(input: string): string {
     return input.replace(/[{}[\]^~*:]/g, ' ').replace(/\s+/g, ' ').trim();
   }
 
-  // Standard mode: aggressive strip
+  // Standard mode: aggressive strip — preserve trailing * for FTS5 prefix search
   const cleaned = input
-    .replace(/['"(){}[\]^~*:@#$%&+=<>|\\/.!?,;]/g, ' ')
+    .replace(/['"(){}[\]^~:@#$%&+=<>|\\/.!?,;]/g, ' ')
+    .replace(/\*(?!\s|$)/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 
@@ -115,12 +113,13 @@ export function buildFtsQueryVariants(sanitized: string): string[] {
     variants.push(prefixTerms.join(' AND '));
   }
 
-  // Tier 4: Stemmed prefix (all terms stemmed with wildcards)
-  const stemmed = tokens.map(t => stemWord(t) ?? `${t}*`);
-  const stemmedQuery = stemmed.join(' AND ');
-  // Only add if different from tier 3
-  if (!variants.includes(stemmedQuery)) {
-    variants.push(stemmedQuery);
+  // Tier 4: Stemmed prefix — truncate suffixes + wildcard
+  const stemmedTerms = tokens.map(t => {
+    const stem = stemWord(t);
+    return stem ? `${stem}*` : t;
+  });
+  if (stemmedTerms.some((s, i) => s !== tokens[i])) {
+    variants.push(stemmedTerms.join(' AND '));
   }
 
   // Tier 5: OR query (broadest FTS5 variant)
