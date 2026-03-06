@@ -1,5 +1,5 @@
 /**
- * Response metadata utilities for Paraguay Law MCP.
+ * Response metadata utilities for Paraguayan Law MCP.
  */
 
 import type Database from '@ansvar/mcp-sqlite';
@@ -9,6 +9,8 @@ export interface ResponseMetadata {
   jurisdiction: string;
   disclaimer: string;
   freshness?: string;
+  note?: string;
+  query_strategy?: string;
 }
 
 export interface ToolResponse<T> {
@@ -30,12 +32,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Paraguay Law (bacn.gov.py) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source: 'BACN (bacn.gov.py) — Biblioteca y Archivo Central del Congreso Nacional',
+    jurisdiction: 'PY',
     disclaimer:
-      'This data is sourced from Paraguay Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Paraguay Law portal (bacn.gov.py).',
+      'This data is sourced from BACN under public access principles. ' +
+      'The authoritative versions are in Spanish. ' +
+      'Always verify with the official BACN portal (bacn.gov.py).',
     freshness,
   };
 }
